@@ -29,3 +29,4 @@ const handleChat = () => {
     },600);
 }
 sendChatBtn.addEventListener("click",handleChat);
+

@@ -1,74 +1,77 @@
 /*Import Google font --Poppins*/
-@import url('https://fonts.googleapis.com/css?family=Poppins: wght@400;500; 600&display=swap');
-*{
-margin: 0;
-padding: 0;
-box-sizing: border-box;
-font-family: "Poppins", sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
 }
 body{
-    background:lightseagreen;
+    background: #E3F2FD;
 }
 .chatbot-toggler{
     position: fixed; /*rogzitve van az ablakhoz*/
-    right: 40px;
-    bottom: 35px;
+    right: 35px;
+    bottom: 30px;
     height: 50px;
     width: 50px;
     color: #fff;
     border: none;
     display: flex;
     justify-content: center;
+    align-items: center;
     outline: none;
     cursor: pointer;
     background: #00AB66;
     border-radius: 50%;
 
 }
-.chatbot-toggler span{
-    position:absolute;
-}
-.show-chatboot .chatbot-toggler span:first-child,
-.chatbot-toggler span:last-child{
+body.show-chatbot .chatbot-toggler {
+    transform: rotate(90deg);
+  }
+  .chatbot-toggler span {
+    color: #fff;
+    position: absolute;
+  }
+  .chatbot-toggler span:last-child,
+  body.show-chatbot .chatbot-toggler span:first-child  {
     opacity: 0;
-}
-.show-chatboot .chatbot-toggler span:last-child{
+  }
+  body.show-chatbot .chatbot-toggler span:last-child {
     opacity: 1;
-}
+  }
 .chatbot{
     position: fixed; /*rogzitve van az ablakhoz*/
-    right: 40px;
-    bottom: 100px;
+    right: 35px;
+    bottom: 90px;
     width: 420px;
     transform: scale(0.5);
+    overflow: hidden;
     opacity: 0;
     pointer-events: none;
-    overflow: hidden;
     background: #fff;
     border-radius: 15px;
+    transform-origin: bottom right;
     box-shadow: 0 0 128px 0 rgba(0,0,0,0.1),
                 0 32px 64px -48px rgb(0,0,0,0.5);
 
 }
-.show-chatboot .chatbot{
-    transform: scale(1);
+body.show-chatboot .chatbot{
     opacity: 1;
-    pointer-events: none;
+    transform: scale(1);
+    pointer-events: auto;
 }
 .chatbot header {
     background: #00AB66;
     padding: 16px 0;
     text-align: center;
     position: relative;
-
-}
-.chatbot header h2{
     color:#fff;
-    font-size: 1.4rem;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 }
 .chatbot header span{
     position: absolute;
-    right: 20px;
+    right: 15px;
     top:50%;
     color:#fff;
     cursor: pointer;
@@ -76,13 +79,22 @@ body{
     transform: translateY(-50%);
 
 }
+.chatbot header h2{
+    color:#fff;
+    font-size: 1.4rem;
+}
+
 .chatbot .chatbox{
     height: 510px;
     overflow-y: auto; /*fuggoleges iranyban gorgetheto*/
-    padding: 30px 20px 70px;
+    padding: 30px 20px 100px;
 }
 .chatbot .chat{
     display: flex;
+}
+.chatbot .outgoing{
+    margin: 20px 0;
+    justify-content: flex-end;
 }
 .chatbot .incoming span{
     height: 32px;
@@ -95,11 +107,9 @@ body{
     border-radius: 4px;
     margin: 0 10px 7px 0;
 }
-.chatbot .outgoing{
-    margin: 20px 0;
-    justify-content: flex-end;
-}
+
 .chatbot .chat p {
+    white-space: pre-wrap;
     font-size: 0.95rem;
     color:#fff;
     max-width: 75%;
@@ -120,7 +130,7 @@ body{
     gap:5px; /*elemek kozotti tavolsagot szavalyozza*/
     background: #fff;
     padding: 5px 20px;
-    border-top: 1px solid #ccc;
+    border-top: 1px solid #ddd;
 }
 .chat-input textarea{
     height: 55px;
@@ -129,7 +139,7 @@ body{
     outline: none;
     font-size: 0.95rem;
     resize: none;
-    padding: 16px 15px 16px 0;
+    padding: 16px 15px 15px 0;
 }
 .chat-input span{
     align-self: flex-end;/* Az elem a kontener aljara kerul */
@@ -140,22 +150,30 @@ body{
     cursor: pointer; /*mutato ujjkent valo megjelenitese-> elem kattinthato*/
     visibility: hidden;
 }
-.chat-input textarea:valid ~ span{
-    visibility: visible;
 
-}
-@media(max-width:490px){
-    .chatbot{
-        right: 0;
-        bottom: 0;
-        width: 100%;
-        height: 100%;
-        border-radius: 0;
+.chat-input textarea:valid ~ span {
+    visibility: visible;
+  }
+  @media (max-width: 490px) {
+    .chatbot-toggler {
+      right: 20px;
+      bottom: 20px;
     }
-    .chatbot .chatbox{
-       height: 90%;
+    .chatbot {
+      right: 0;
+      bottom: 0;
+      height: 100%;
+      border-radius: 0;
+      width: 100%;
     }
-    .chatbot header span{
-        display: block;
+    .chatbot .chatbox {
+      height: 90%;
+      padding: 25px 15px 100px;
     }
-}
+    .chatbot .chat-input {
+      padding: 5px 15px;
+    }
+    .chatbot header span {
+      display: block;
+    }
+  }
