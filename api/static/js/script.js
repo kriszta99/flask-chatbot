@@ -48,7 +48,7 @@ chatInput.addEventListener("input", () => {
   chatInput.addEventListener("keydown", (e) => {
     // if enter key is predded without Shift key and the window
     //width is greater then 800px, handle the chat
-    if(e.key === "Enter" && !e.shiftKey && windiw.innerWidth > 800){
+    if(e.key === "Enter" && !e.shiftKey && window.innerWidth > 800){
         e.preventDefault();
         handleChat();
     }
