@@ -11,8 +11,8 @@ body{
 }
 .chatbot-toggler{
     position: fixed; /*rogzitve van az ablakhoz*/
-    right: 35px;
-    bottom: 30px;
+    right: 40px;
+    bottom: 35px;
     height: 50px;
     width: 50px;
     color: #fff;
@@ -24,26 +24,28 @@ body{
     cursor: pointer;
     background: #00AB66;
     border-radius: 50%;
+    transition: all 0.2s ease;
+
 
 }
-body.show-chatbot .chatbot-toggler {
-    transform: rotate(90deg);
-  }
-  .chatbot-toggler span {
-    color: #fff;
+body.show-chatbot .chatbot-toggler{
+    transform: rotate(90deg); /*90 fokkal elforditjuk*/
+}
+.chatbot-toggler span {
+    color:#fff;
     position: absolute;
-  }
-  .chatbot-toggler span:last-child,
-  body.show-chatbot .chatbot-toggler span:first-child  {
-    opacity: 0;
-  }
-  body.show-chatbot .chatbot-toggler span:last-child {
-    opacity: 1;
-  }
+}
+.chatbot-toggler span:last-child,
+body.show-chatbot .chatbot-toggler span:first-child  {
+  opacity: 0;
+}
+body.show-chatbot .chatbot-toggler span:last-child {
+  opacity: 1;
+}
 .chatbot{
     position: fixed; /*rogzitve van az ablakhoz*/
-    right: 35px;
-    bottom: 90px;
+    right: 40px;
+    bottom: 100px;
     width: 420px;
     transform: scale(0.5);
     overflow: hidden;
@@ -54,12 +56,13 @@ body.show-chatbot .chatbot-toggler {
     transform-origin: bottom right;
     box-shadow: 0 0 128px 0 rgba(0,0,0,0.1),
                 0 32px 64px -48px rgb(0,0,0,0.5);
+    transition: all 0.1s ease;
 
 }
-body.show-chatboot .chatbot{
+body.show-chatbot .chatbot{
     opacity: 1;
-    transform: scale(1);
     pointer-events: auto;
+    transform: scale(1);
 }
 .chatbot header {
     background: #00AB66;
@@ -73,14 +76,12 @@ body.show-chatboot .chatbot{
     position: absolute;
     right: 15px;
     top:50%;
-    color:#fff;
     cursor: pointer;
     display: none;
     transform: translateY(-50%);
 
 }
 .chatbot header h2{
-    color:#fff;
     font-size: 1.4rem;
 }
 
@@ -89,8 +90,20 @@ body.show-chatboot .chatbot{
     overflow-y: auto; /*fuggoleges iranyban gorgetheto*/
     padding: 30px 20px 100px;
 }
+.chatbot :where(.chatbox, textarea)::-webkit-scrollbar {
+    width: 6px;
+}
+.chatbot :where(.chatbox, textarea)::-webkit-scrollbar-track {
+    background: #fff;
+    border-radius: 25px;
+}
+.chatbot :where(.chatbox, textarea)::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 25px;
+}
 .chatbot .chat{
     display: flex;
+    list-style: none;
 }
 .chatbot .outgoing{
     margin: 20px 0;
@@ -100,6 +113,7 @@ body.show-chatboot .chatbot{
     height: 32px;
     width: 32px;
     color: #fff;
+    cursor: default;
     align-self: flex-end;
     background: #00AB66;
     text-align: center;
@@ -119,17 +133,17 @@ body.show-chatboot .chatbot{
 }
 .chatbot .incoming p {
     color:#000;
-    background: #f2f2f2;
+    background:#f2f2f2;
     border-radius: 10px 10px 10px 0;
 }
 .chatbot .chat-input{
+    display: flex;
+    gap:5px; /*elemek kozotti tavolsagot szavalyozza*/
     position: absolute; /*a gyermek elem pozicionalasa*/
     bottom: 0;
     width: 100%;
-    display: flex;
-    gap:5px; /*elemek kozotti tavolsagot szavalyozza*/
     background: #fff;
-    padding: 5px 20px;
+    padding: 3px 20px;
     border-top: 1px solid #ddd;
 }
 .chat-input textarea{
@@ -137,18 +151,21 @@ body.show-chatboot .chatbot{
     width: 100%;
     border: none;
     outline: none;
+    max-height: 180px;
     font-size: 0.95rem;
     resize: none;
-    padding: 16px 15px 15px 0;
+    padding: 15px 15px 15px 0;
 }
 .chat-input span{
     align-self: flex-end;/* Az elem a kontener aljara kerul */
     height: 55px;
-    line-height: 55px;
+    display: flex;
     color:#00AB66;
-    font-size: 1.35rem;
+    align-items: center;
     cursor: pointer; /*mutato ujjkent valo megjelenitese-> elem kattinthato*/
     visibility: hidden;
+    font-size: 1.35rem;
+
 }
 
 .chat-input textarea:valid ~ span {
