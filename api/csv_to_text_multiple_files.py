@@ -36,7 +36,7 @@ def process_multiple_csv(csv_files):
 
 
 # Példa használat
-csv_files = ['sapientia_kepzesei.csv']  # A fájlok nevei egy listában
+csv_files = ['sapientia_kepzesei.csv','felveteli_utemezes.csv']  # A fájlok nevei egy listában
 
 # Több CSV fájl feldolgozása
 process_multiple_csv(csv_files)
