@@ -18,7 +18,7 @@ const createChatLi = (message, className) => {
     return chatLi;
 }
 
-const handleChat = () => {
+const handleChat = async () => {
     // get user entered message and remove extra whitespace
     userMessage = chatInput.value.trim();
     if(!userMessage) return;
@@ -30,12 +30,35 @@ const handleChat = () => {
     chatbox.appendChild(createChatLi(userMessage, "outgoing"));
     chatbox.scrollTo(0, chatbox.scrollHeight);
 
-    setTimeout(() => {
+    /*setTimeout(() => {
         // Display "Thinking..." message while waiting for the response
         const incomingChatLi = createChatLi("Thinking...", "incoming");
         chatbox.appendChild(incomingChatLi);
         chatbox.scrollTo(0, chatbox.scrollHeight);
-    },600);
+    },600)
+    */
+    const incomingChatLi = createChatLi("Gondolkodom...", "incoming");
+    chatbox.appendChild(incomingChatLi);
+    chatbox.scrollTo(0, chatbox.scrollHeight);
+    try {
+        const response = await fetch('/', {  // Ide küldjük a kérést
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ question: userMessage })
+        });
+    
+        const data = await response.json();
+        console.log("Válasz:", data.answer);  // Kiírjuk a választ a konzolra (debugging célból)
+    
+        // Most az érkező válasz megjelenítése a chatboxban
+        chatbox.removeChild(incomingChatLi);
+        chatbox.appendChild(createChatLi(data.answer, "incoming"));  // Itt jelenik meg a válasz
+        chatbox.scrollTo(0, chatbox.scrollHeight);
+    
+    } catch (error) {
+        console.error("Hiba történt:", error);
+    }
+    
 
 }
 chatInput.addEventListener("input", () => {
