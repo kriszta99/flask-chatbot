@@ -19,14 +19,14 @@ vector_db = Index(url=UPSTASH_VECTOR_REST_URL, token=UPSTASH_VECTOR_REST_TOKEN)
 
 
 # Kérdés-válasz modell betöltése
-qa_model = pipeline("question-answering", model="distilbert-base-uncased-distilled-squad")
+#qa_model = pipeline("question-answering", model="distilbert-base-uncased-distilled-squad")
 
 # ingyenes előre betanított modellt használunk a vectorokká alakitáshoz 
 embedding_model  = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
 
-#Hasonlóság keresés a vektoradatbázisban beepitett 
-def search_similar_vectors(query_embedding):
+#Lekérdezi egy vektor hozzávetőleges legközelebbi szomszédait.
+def query_nearest_neighbors_of_a_vector(query_embedding):
     #print(query_embedding)
     results = vector_db.query(vector=query_embedding,include_metadata=True)
     #results[0].metadata['text']
@@ -42,11 +42,11 @@ def get_context_text(search_results):
     
     return context
 
-
+"""
 def generate_answer(context, user_query):
     result = qa_model(question=user_query, context=context)
     return result['answer']  
-
+"""
 @app.route('/', methods=['GET', 'POST'])
 def index():
     if request.method == 'POST':
@@ -61,15 +61,14 @@ def index():
         embedding = embedding_model.encode(user_question).tolist()
 
         # 2. Hasonló vektorok keresése az Upstash Vector adatbázisban
-        search_results = search_similar_vectors(embedding)
+        search_results = query_nearest_neighbors_of_a_vector(embedding)
         
         # 3. Talált szövegrészek összefűzése
-
-
         context = get_context_text(search_results)
 
         # 4. Válasz generálása
         #answer = generate_answer(context, user_question)
+
         return jsonify({"answer": context})
 
     # Ha GET kérés érkezik, visszaadjuk az index.html-t
