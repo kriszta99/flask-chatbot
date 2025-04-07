@@ -81,22 +81,22 @@ class AlapMesterKepzesSpider(scrapy.Spider):
                 elif title == "Költség-hozzájárulás összege":
                     ertek = f.css("span.ba::text").get(default="").strip()
                     egyseg = f.css("span.bc::text").get(default="").strip()
-                    koltsegek["költség_hozzájárulás_összege"] = f"{ertek} {egyseg}"
+                    koltsegek["költség hozzájárulás összege"] = f"{ertek} {egyseg}"
                 #Teljes tandíj összege    
                 elif title == "Teljes tandíj összege":
                     ertek = f.css("span.ba::text").get(default="").strip()
                     egyseg = f.css("span.bc::text").get(default="").strip()
-                    koltsegek["Teljes_tandíj_összege"] = f"{ertek} {egyseg}"
+                    koltsegek["Teljes tandíj összege"] = f"{ertek} {egyseg}"
                 #Differenciált költség-hozzájárulás összege
                 elif title == "Differenciált költség-hozzájárulás összege":
                     ertek = f.css("span.ba::text").get(default="").strip()
                     egyseg = f.css("span.bc::text").get(default="").strip()
-                    koltsegek["Differenciált_költség_hozzájárulás_összege"] = f"{ertek} {egyseg}"
+                    koltsegek["Differenciált költség hozzájárulás összege"] = f"{ertek} {egyseg}"
                 #Képzés időtartama
                 elif title == "Képzés időtartama":
                     duration_number = f.css("span.ba::text").get(default="").strip()
                     duration_unit = f.css("span.bc::text").get(default="").strip()
-                    data["Képzés_időtartama"] = f"{duration_number} {duration_unit}".strip()
+                    data["Képzés időtartama"] = f"{duration_number} {duration_unit}".strip()
                 #A felvételi jegy összetétele
                 elif title == "A felvételi jegy összetétele":
                     for item in f.css("div.f"):
@@ -105,18 +105,18 @@ class AlapMesterKepzesSpider(scrapy.Spider):
                         felveteli_osszetevok.append({"szazalek": percentage, "leiras": description})
                 #Beiratkozási időszak
                 elif title == "Beiratkozási időszak":
-                    data["Beiratkozási_időszak"] = f.css("span.ba::text").get(default="").strip()
+                    data["Beiratkozási időszak"] = f.css("span.ba::text").get(default="").strip()
             except Exception as e:
                 logging.error(f"Hiba történt a {title} adatainak feldolgozása közben: {e}")
 
 
-        data["helyek"] = helyek
-        data["költségek"] = koltsegek
-        data["felvetéli_összetevök"] = felveteli_osszetevok
+        data["Helyek"] = helyek
+        data["Költségek"] = koltsegek
+        data["Felvetéli összetevök"] = felveteli_osszetevok
         try:     
             szukseges_iratok = response.css("div.sziratok a::attr(href)").get()
             if szukseges_iratok:
-                data["szükseges_iratok_url"] = szukseges_iratok
+                data["Szükseges iratok url"] = szukseges_iratok
         except Exception as e:
             logging.error(f"Hiba történt a szükséges iratok linkjének kinyerése közben: {e}")
 
@@ -124,7 +124,7 @@ class AlapMesterKepzesSpider(scrapy.Spider):
             ul = response.css("div.news-descr ul")
             p_elem = response.css("div.news-descr > p")
             if p_elem.css("strong::text").get() == "Saját, nemzetköziesített mesteri szak":
-                data["sajat_nemzetközi_mesteri"] = p_elem.css("strong::text").get()
+                data["Saját nemzetközi mesteri"] = p_elem.css("strong::text").get()
             for item in ul.css("li"):
                 key = item.css("strong::text").get(default="").strip(":")
                 value = item.css("::text").getall()
@@ -145,7 +145,7 @@ class AlapMesterKepzesSpider(scrapy.Spider):
         try:
             roman_link = response.css("a.details::attr(href)").get()
             if roman_link:
-                data["Roman nyelvű tanterv link"] = original_link + roman_link
+                data["Roman nyelvű tanterv url"] = original_link + roman_link
         except Exception as e:
             logging.error(f"Hiba történt a roman nyelvű tanterv link kinyerése közben: {e}")
 
@@ -154,8 +154,7 @@ class AlapMesterKepzesSpider(scrapy.Spider):
             tematika_links = response.css("a.details::attr(href)").getall()
             if len(tematika_links) > 1:
                 data["Felvételi tematika"] = original_link + tematika_links[1]
-            else:
-                data["Felvételi tematika"] = "null"
+            
         except Exception as e:
             logging.error(f"Hiba történt a tematika linkek feldolgozása közben: {e}")
 
