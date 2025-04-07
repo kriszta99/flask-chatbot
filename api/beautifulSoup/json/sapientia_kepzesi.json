@@ -1,0 +1,92 @@
+[
+    {
+        "Szak": "Fordító és tolmács szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/alapkepzes/fordito-es-tolmacs-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/fordito-132124.med.png",
+        "Képzés": "Alapképzés"
+    },
+    {
+        "Szak": "Kertészmérnöki szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/alapkepzes/kerteszmernoki-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/kertesz-325670.med.png",
+        "Képzés": "Alapképzés"
+    },
+    {
+        "Szak": "Tájépítészet mérnöki szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/alapkepzes/tajepiteszet-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/tajep-163031.med.png",
+        "Képzés": "Alapképzés"
+    },
+    {
+        "Szak": "Kommunikáció és közkapcsolatok szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/alapkepzes/kommunikacio-es-kozkapcsolatok-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/komm-341858.med.png",
+        "Képzés": "Alapképzés"
+    },
+    {
+        "Szak": "Közegészségügyi szolgáltatások és politikák szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/alapkepzes/kozegeszsegugyi-szolgaltatasok-es-politikak-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/kozeg-322323.med.png",
+        "Képzés": "Alapképzés"
+    },
+    {
+        "Szak": "Informatika szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/alapkepzes/informatika-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/info-864931.med.png",
+        "Képzés": "Alapképzés"
+    },
+    {
+        "Szak": "Automatika és alkalmazott informatika mérnök szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/alapkepzes/automatika-es-alkalmazott-informatika-mernok-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/aut-235976.med.png",
+        "Képzés": "Alapképzés"
+    },
+    {
+        "Szak": "Gépészmérnöki szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/alapkepzes/gepeszmernoki-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/gepesz-109518.med.png",
+        "Képzés": "Alapképzés"
+    },
+    {
+        "Szak": "Infokommunikációs hálózatok és rendszerek (Távközlés) mérnöki szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/alapkepzes/infokommunikacios-halozatok-es-rendszerek-tavkozles-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/tavkozles-4.med.png",
+        "Képzés": "Alapképzés"
+    },
+    {
+        "Szak": "Mechatronika mérnöki szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/alapkepzes/mechatronika-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/mecha-2-797891.med.png",
+        "Képzés": "Alapképzés"
+    },
+    {
+        "Szak": "Számítástechnika mérnöki szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/alapkepzes/szamitastechnika-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/mecha-148797.med.png",
+        "Képzés": "Alapképzés"
+    },
+    {
+        "Szak": "Fejlett mechatronikai rendszerek szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/mesterkepzes/fejlett-mechatronikai-rendszerek-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/FMR-288776.med.png",
+        "Képzés": "Mesterképzés"
+    },
+    {
+        "Szak": "Növényorvos szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/mesterkepzes/novenyorvos-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/novenyorvos-377849.med.png",
+        "Képzés": "Mesterképzés"
+    },
+    {
+        "Szak": "Számítógépes irányítási rendszerek szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szamitogepes-iranyitasi-rendszerek-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/SZIR-354938.med.png",
+        "Képzés": "Mesterképzés"
+    },
+    {
+        "Szak": "Szoftverfejlesztés szak",
+        "Url": "https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szoftverfejlesztes-szak",
+        "Kép": "https://ms.sapientia.ro/content/images/SZF-6.med.png",
+        "Képzés": "Mesterképzés"
+    }
+]
