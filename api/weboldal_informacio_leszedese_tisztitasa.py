@@ -92,7 +92,8 @@ def url_to_markdown(url):
 #url = "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato"
 #url = "https://ms.sapientia.ro/hu/hallgatoknak/vizsgaidopontok"
 #url = "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-dijak_"
-url = "https://ms.sapientia.ro/hu/hallgatoknak/kari-tdk"
+#url = "https://ms.sapientia.ro/hu/hallgatoknak/kari-tdk"
+url = "https://ms.sapientia.ro/hu/felveteli"
 markdown_szoveg = url_to_markdown(url)
 
 print(markdown_szoveg)  # Itt láthatod a Markdown-tartalmat
@@ -104,6 +105,7 @@ tantargyi_adatlapk_linkjei = "Tantárgyi adatlapok"
 tantervek = "Tantervek"
 Adminisztrativ_dijak = "Adminisztratív díjak"
 kariTdk="Kari TDK"
+felveteli = "Felvételi oldal linkei"
 
 szovegek_pipline = f"""
       Feladat:
@@ -123,7 +125,7 @@ szovegek_pipline = f"""
 szoveg_link_pipline = f"""
       Feladat:
           Tisztítsd meg az alábbi markdown szöveget.
-          A fő tartalmat {tantervek} tartsd meg.
+          A fő tartalmat ({felveteli}) tartsd meg.
           A linkek add ilyen formátumban: téma (http://link).
 
           Törlendő részek:
@@ -143,7 +145,7 @@ client = genai.Client(api_key="AIzaSyCLIFWdK7JZX8LnP8liIJ3UMop4Gfa6qPQ")
 response = client.models.generate_content(
     model="gemini-2.0-flash-thinking-exp-01-21",
     contents = [f"""
-          {szovegek_pipline}
+          {szoveg_link_pipline}
           Szöveg:
           {markdown_szoveg}
           """]
@@ -154,7 +156,9 @@ print(response.text)
 #file_path = '/content/markdown_konyvtar.md'
 #file_path = '/content/markdown_oktatas.md'
 #file_path = '/content/markdown_output.md'
-file_path = '/content/markdown_hallgatoknak.md'
+#file_path = '/content/markdown_hallgatoknak.md'
+file_path = '/content/markdown_felveteli.md'
+
 
 
 with open(file_path, 'a') as f:
@@ -389,3 +393,5 @@ zarovizsga_urls = [ "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga",
 
 web_scraping_markdown_to_clean(zarovizsga_urls)
 
+felveteli_urls = [
+                  ]
