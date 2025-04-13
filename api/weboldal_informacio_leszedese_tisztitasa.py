@@ -89,21 +89,26 @@ def url_to_markdown(url):
 #url = "https://ms.sapientia.ro/hu/oktatas/orarend"
 #url = "https://ms.sapientia.ro/hu/oktatas/tantargyi-adatlapok"
 #url = "https://ms.sapientia.ro/hu/oktatas/tantervek"
-url = "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato"
+#url = "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato"
+#url = "https://ms.sapientia.ro/hu/hallgatoknak/vizsgaidopontok"
+#url = "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-dijak_"
+url = "https://ms.sapientia.ro/hu/hallgatoknak/kari-tdk"
 markdown_szoveg = url_to_markdown(url)
 
 print(markdown_szoveg)  # Itt láthatod a Markdown-tartalmat
 
 konyvtar = "könyvtár"
 akkrecitacio = "Akkreditáció"
-idei_ev = "Csak 2024/2025-ös tanév tarsd meg, a többit töröld ki."
+idei_ev = "Csak 2025-ös tanévet tarsd meg."
 tantargyi_adatlapk_linkjei = "Tantárgyi adatlapok"
 tantervek = "Tantervek"
+Adminisztrativ_dijak = "Adminisztratív díjak"
+kariTdk="Kari TDK"
 
 szovegek_pipline = f"""
       Feladat:
           Tisztítsd meg az alábbi markdown szöveget.
-          A fő tartalmat tartsd meg. {idei_ev}
+          A fő tartalmat {kariTdk} és {idei_ev} tartsd meg.
 
           Törlendő részek:
           - navigációs menük
@@ -138,7 +143,7 @@ client = genai.Client(api_key="AIzaSyCLIFWdK7JZX8LnP8liIJ3UMop4Gfa6qPQ")
 response = client.models.generate_content(
     model="gemini-2.0-flash-thinking-exp-01-21",
     contents = [f"""
-          {szoveg_link_pipline}
+          {szovegek_pipline}
           Szöveg:
           {markdown_szoveg}
           """]
@@ -148,7 +153,8 @@ print(response.text)
 
 #file_path = '/content/markdown_konyvtar.md'
 #file_path = '/content/markdown_oktatas.md'
-file_path = '/content/markdown_output.md'
+#file_path = '/content/markdown_output.md'
+file_path = '/content/markdown_hallgatoknak.md'
 
 
 with open(file_path, 'a') as f:
@@ -319,11 +325,11 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           Törlendő részek:
           - navigációs menük
           - menük linkjei
-          - Lábléc
+          - lábléc
           - kapcsolodó linkek
           - jogi információk
           - ismétlődő címek
-          - hirek
+          - hírek
           - képek linkjei
           - ismétlődő nevek
 
@@ -334,7 +340,8 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
       # response objektumnak van-e text attribútuma
       if response and  hasattr(response, 'text'):
           print(response.text)
-          file_path = '/content/markdown_hallgatoknak.md'
+          #file_path = '/content/markdown_hallgatoknak.md'
+          file_path = '/content/markdown_zarovizsga.md'
 
           with open(file_path, 'a') as f:
             f.write(response.text)
@@ -344,7 +351,41 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
 
 web_scraping_markdown_to_clean(hallgatok_urls)
 
-hallgatok_2025_urls = ["https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-dijak_",
-                       "https://ms.sapientia.ro/hu/hallgatoknak/vizsgaidopontok",
-                       "https://ms.sapientia.ro/hu/hallgatoknak/kari-tdk"
-                       ]
+zarovizsga_urls = [ "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/automatika-es-alkalmazott-informatika",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/fordito-es-tolmacs",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/gepeszmernoki",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/infokommunikacios-halozatok-es-rendszerek-tavkozles",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/informatika",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/kerteszmernoki",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/kommunikacio-es-kozkapcsolatok",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/kozegeszsegugyi-szolgaltatasok-es-politikak-",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/mechatronika",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/szamitastechnika",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/tajepiteszet",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/tanarkepzo-intezet-20202021",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/szoftverfejlesztes",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/nyelvvizsga_",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/nyelvvizsga-20242025",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-nyelveszeti-tanszek__/fordito-es-tolmacs-szak",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-tarsadalomtudomanyi-tanszek_/kommunikacio-es-kozkapcsolatok-szak",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-tarsadalomtudomanyi-tanszek_/kozegeszsegugyi-szolgaltatasok-es-politikak-szak",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/gepeszmernoki-tanszek__/gepeszmernoki-szak",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/gepeszmernoki-tanszek__/mechatronika-szak",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/kerteszmernoki-szak",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/tajepiteszet-szak",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/novenyorvos-mesteri-szak",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/matematika-informatika-tanszek__/informatika-szak",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/matematika-informatika-tanszek__/szoftverfejlesztes-mesterszak",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/automatika-es-alkalmazott-informatika-szak",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/infokommunikacios-halozatok-es-rendszerek-szak",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/szamitastechnika-szak",
+                    "https://sapientia.ro/hu/oktatas/tanarkepzes/a-zarovizsga-metodologiaja",
+                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/szabalyzatok-es-iratok"
+                  ]
+
+web_scraping_markdown_to_clean(zarovizsga_urls)
+
