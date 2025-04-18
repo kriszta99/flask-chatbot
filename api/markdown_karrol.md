@@ -773,7 +773,7 @@ OP: 9 CP: 4
 
 Telefon: -+40 365-403036
 
-E-mail: [biblms.sapientia.ro](https://ms.sapientia.ro/el_remover_bibl<i class='fa fa-at'></i>ms.sapientia.ro )
+E-mail: [biblms.sapientia.ro]
 ``````markdown
 # Szolgáltatások
 
@@ -781,7 +781,7 @@ E-mail: [biblms.sapientia.ro](https://ms.sapientia.ro/el_remover_bibl<i class='f
 
 * könyvek kölcsönzése;
 * helyben olvasás a 72 férőhelyes szabadpolcos olvasóteremben, illetve a kollégium tanulószobáiban (120 férőhely);
-* az internetes katalógus ([http://opac3.ms.sapientia.ro/hu\_HU/](http://opac3.ms.sapientia.ro/hu_HU/ )) használata, mely naprakész információkkal szolgál a könyvtári állomány dokumentumairól
+* az internetes katalógus ([http://opac3.ms.sapientia.ro/hu_HU/](http://opac3.ms.sapientia.ro/hu_HU/ )) használata, mely naprakész információkkal szolgál a könyvtári állomány dokumentumairól
 * adatbázis-szolgáltatás (teljes szövegű elektronikus folyóiratok és könyvek elérése az    adatbázisokban);
 * internet-hozzáférés és számítógép-használat önálló tanulási céllal
 * könyvtári tájékoztatás, eligazítás az adatbázisok használatában;
@@ -799,7 +799,7 @@ Az olvasóteremben, tematikus rend szerint, szabadpolcon elhelyezett könyvek eg
 
 ### Kölcsönzés
 
-A kölcsönzés helyszíne szintén az olvasóterem. Kölcsönözni csak személyesen, érvényes könyvtári igazolvánnyal lehet. A keresett mű adatairól, elérhetőségéről az elektronikus katalógusban találunk információt ([http://opac3.ms.sapientia.ro/hu\_HU/](http://opac3.ms.sapientia.ro/hu_HU/ )).
+A kölcsönzés helyszíne szintén az olvasóterem. Kölcsönözni csak személyesen, érvényes könyvtári igazolvánnyal lehet. A keresett mű adatairól, elérhetőségéről az elektronikus katalógusban találunk információt ([http://opac3.ms.sapientia.ro/hu_HU/](http://opac3.ms.sapientia.ro/hu_HU/ )).
 
 A leggyakrabban igényelt könyvek az olvasóteremben kaptak helyet, az olvasó a szabadpolcról önállóan leveheti és a szolgálatos könyvtárostól kikölcsönözheti azokat.
 
@@ -815,7 +815,7 @@ A hallgatók (kivéve a végzősöket) egy alkalommal 3 művet kölcsönözhetne
 
 Tájékoztatás
 
-A könyvtár nyitvatartási idejében tájékoztatást lehet kérni a könyvtár és más könyvtárak állományáról, az állomány használatáról. Az érdeklődők kérdéseire e-mailben is válaszolunk: [biblms.sapientia.ro](https://ms.sapientia.ro/el_remover_bibl<i class='fa fa-at'></i>ms.sapientia.ro ).
+A könyvtár nyitvatartási idejében tájékoztatást lehet kérni a könyvtár és más könyvtárak állományáról, az állomány használatáról. Az érdeklődők kérdéseire e-mailben is válaszolunk: [biblms.sapientia.ro].
 
 ### Elektronikus szolgáltatások
 
@@ -826,7 +826,7 @@ A könyvtárban wifin keresztül saját eszközökkel is csatlakozhatnak az inte
 
 Beiratkozás
 
-Könyvtári tagságra az egyetemi polgárok (hallgatók, oktatók, alkalmazottak) jogosultak, ők online ([http://opac3.ms.sapientia.ro/hu\_HU/](http://opac3.ms.sapientia.ro/hu_HU/ ) - Online regisztráció) vagy személyesen, a könyvtárban iratkozhatnak be.
+Könyvtári tagságra az egyetemi polgárok (hallgatók, oktatók, alkalmazottak) jogosultak, ők online ([http://opac3.ms.sapientia.ro/hu_HU/](http://opac3.ms.sapientia.ro/hu_HU/ ) - Online regisztráció) vagy személyesen, a könyvtárban iratkozhatnak be.
 
 Online regisztráció esetében kérünk szépen minden mezőt kitölteni, annak ellenére, hogy a felület ezt nem teszi kötelezővé! Első lépésként a visszaigazoló e-mailt kell jóváhagyni. A hallgatókat egy következő fordulóban (vonalkód közlése után) kérjük egy igazolvány típusú fénykép feltöltésére, ezzel véglegesítődik a beiratkozás, a nyomtatott igazolványt pedig átvehetik majd az olvasóteremben. (Kölcsönözni csak az igazolvány birtokában lehet.)
 
@@ -843,7 +843,7 @@ Oktatóknak, alkalmazottaknak nem szükséges fényképet hozniuk. Külső szem�
 
 Katalógus
 
-A keresett művel (könyv, folyóirat, elektronikus dokumentum, szakdolgozat) kapcsolatban a könyvtár számítógépes katalógusában találunk információkat. Elektronikus katalógusunk építése folyamatos, elérhető interneten keresztül a következő címen: [http://opac3.ms.sapientia.ro/hu\_HU/](http://opac3.ms.sapientia.ro/hu_HU/ )[.](http://193.16.218.70/monguz/index.jsp )
+A keresett művel (könyv, folyóirat, elektronikus dokumentum, szakdolgozat) kapcsolatban a könyvtár számítógépes katalógusában találunk információkat. Elektronikus katalógusunk építése folyamatos, elérhető interneten keresztül a következő címen: [http://opac3.ms.sapientia.ro/hu_HU/](http://opac3.ms.sapientia.ro/hu_HU/ )[.](http://193.16.218.70/monguz/index.jsp )
 
 **Általános tanácsok a kereséshez**
 

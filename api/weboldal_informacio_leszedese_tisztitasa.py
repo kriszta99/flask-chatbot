@@ -322,9 +322,9 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           contents = [f"""
       Feladat:
           Tisztítsd meg az alábbi markdown szöveget.
-          A fő tartalmat {item_url_name} tartsd meg.
-          Csak a fő tartalomban {item_url_name}-ban lévő linkeket add ilyen formátumban: téma (http://link).
-          Ha nincsenek linkek {item_url_name}-ban akkor csak a szöveget add vissza fő tartalomnak.
+          A fő tartalmat ({item_url_name}) tartsd meg.
+          Csak a fő tartalomban ({item_url_name}-ban) lévő linkeket add ilyen formátumban: téma (http://link).
+          Ha a {item_url_name}-ban nincsenek linkek add vissza a szöveget a fő tartalomban.
 
           Törlendő részek:
           - navigációs menük
@@ -332,10 +332,10 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           - lábléc
           - kapcsolodó linkek
           - jogi információk
-          - ismétlődő címek
+          - ismétlődő cím
           - hírek
           - képek linkjei
-          - ismétlődő nevek
+          - ismétlődő név
 
           Szöveg:
           {markdown_szoveg}
@@ -345,7 +345,8 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
       if response and  hasattr(response, 'text'):
           print(response.text)
           #file_path = '/content/markdown_hallgatoknak.md'
-          file_path = '/content/markdown_zarovizsga.md'
+          #file_path = '/content/markdown_zarovizsga.md'
+          file_path = '/content/markdown_bentlakas.md'
 
           with open(file_path, 'a') as f:
             f.write(response.text)
@@ -393,5 +394,22 @@ zarovizsga_urls = [ "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga",
 
 web_scraping_markdown_to_clean(zarovizsga_urls)
 
-felveteli_urls = [
+felveteli_tudnivalok_urls = [ "https://ms.sapientia.ro/hu/felveteli"
+                              "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-kriteriumok-es-beiskolazasi-szamok-2025",
+                              "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-mappahoz-szukseges-iratok",
+                              "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-tematika",
+                              "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok",
+                              "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/lapozhato-tajekoztato-fuzet",
+                              "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/kulfoldi-oklevellel-rendelkezok-beiratkozasa",
+
                   ]
+
+web_scraping_markdown_to_clean(felveteli_tudnivalok_urls)
+
+bentlakas_urls= [ "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_",
+                 "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakas-jelentkezesi-kriteriumok-es-szukseges-iratok-2024-2025-evre-elso-evesek",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/szabalyzat_",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/araink_",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakassal-kapcsolatos-koltsegek-kifizetese_"]
+
+web_scraping_markdown_to_clean(bentlakas_urls)

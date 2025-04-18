@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1IU_5NogghL_4kSrcnsNZa3xJmJcQLN47
 """
 
-!pip install -q -U google-genai
+#!pip install -q -U google-genai
 
-!pip install requests beautifulsoup4 markdownify
+#!pip install requests beautifulsoup4 markdownify
 
 import requests
 from bs4 import BeautifulSoup
@@ -64,7 +64,7 @@ def url_to_markdown(url):
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/dekani-hivatal_"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/gazdasagi-osztaly_"
-#url = ""https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_"
+#url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/konyvtar__"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/szervezeti-abra"
 #url = "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/kari-vezetok"
