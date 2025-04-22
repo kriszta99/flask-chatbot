@@ -1,5 +1,5 @@
 ```markdown
-Kutatás
+# Kutatás
 
 Kutatóközpontok (https://ms.sapientia.ro/hu/kutatas/kutatokozpontok)
 Kutatócsoportok (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok)
