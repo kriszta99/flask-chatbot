@@ -1,4 +1,12 @@
 ``````markdown
+# Oktatás
+Tanévszerkezet (https://ms.sapientia.ro/hu/oktatas/tanevszerkezet)
+Órarend (https://ms.sapientia.ro/hu/oktatas/orarend)
+Tantárgyi adatlapok (https://ms.sapientia.ro/hu/oktatas/tantargyi-adatlapok)
+Tantervek (https://ms.sapientia.ro/hu/oktatas/tantervek)
+Oktatói versenyvizsgák (https://ms.sapientia.ro/hu/oktatas/oktatoi-versenyvizsgak)
+Tantárgyi leírások (https://ms.sapientia.ro/hu/oktatas/tantargyi-leirasok)
+``````markdown
 # Tanévszerkezet
 
 * **[2024/2025-ös tanév szerkezete](https://ms.sapientia.ro/content/docs/MS/tan%C3%A9vszerkezet%202024-25_.pdf )**
