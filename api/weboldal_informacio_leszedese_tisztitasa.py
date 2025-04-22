@@ -326,9 +326,8 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           Csak a fő tartalomban ({item_url_name}-ban) lévő linkeket add ilyen formátumban: téma (http://link).
           Ha a {item_url_name}-ban nincsenek dokumentumlinkek csak a szöveget tarsd meg.
 
-          Törlendő részek:
-          - navigációs menük
-          - menük linkjei
+          Távolítsd el a következőket:
+          - navigációs menük és linkjeik
           - lábléc
           - kapcsolodó linkek
           - jogi információk
@@ -336,6 +335,8 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           - hírek
           - képek linkjei
           - ismétlődő név
+          - ismétlődő dokumentumlink
+
 
           Szöveg:
           {markdown_szoveg}
@@ -347,7 +348,9 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           #file_path = '/content/markdown_hallgatoknak.md'
           #file_path = '/content/markdown_zarovizsga.md'
           #file_path = '/content/markdown_bentlakas.md'
-          file_path = '/content/markdown_tanarkepzes.md'
+          #file_path = '/content/markdown_tanarkepzes.md'
+          #file_path = '/content/markdown_kutatas.md'
+          file_path = '/content/markdown_nemzetkozi_kapcsolatok.md'
 
           with open(file_path, 'a') as f:
             f.write(response.text)
@@ -434,3 +437,74 @@ append_md_file('markdown_hallgatoknak.md','markdown_bentlakas.md')
 append_md_file('markdown_hallgatoknak.md','markdown_tanarkepzes.md')
 
 append_md_file('markdown_hallgatoknak.md','markdown_zarovizsga.md')
+
+kutatas_urls = ["https://ms.sapientia.ro/hu/kutatas",
+                "https://ms.sapientia.ro/hu/kutatas/kutatokozpontok",
+                "https://ms.sapientia.ro/hu/kutatas/kutatokozpontok/matinfo-matematika-es-informatika-kutatokozpont",
+                "https://ms.sapientia.ro/hu/kutatas/kutatokozpontok/media-es-kommunikacio-kutatokozpont",
+                "https://ms.sapientia.ro/hu/kutatas/kutatokozpontok/acfa-automatizalas-szamitastechnika-es-alkalmazott-fizika-kutatokozpont",
+                "https://ms.sapientia.ro/hu/kutatas/kutatokozpontok/kerteszeti-biologiai-es-alkalmazott-kemiai-kutatokozpont",
+                "https://ms.sapientia.ro/hu/kutatas/kutatokozpontok/ipari-mernok-es-alkalmazott-fizika-kutatokozpont",
+                "https://ms.sapientia.ro/hu/kutatas/kutatokozpontok/damerg-nyelveszeti-kutatokozpont",
+                "https://ms.sapientia.ro/hu/kutatas/kutatokozpontok/eletminoseg-kutatokozpont",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-nyelveszeti-tanszek_/damerg",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-tarsadalomtudomanyok-tanszek/uj-media-kutatocsoport",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-tarsadalomtudomanyok-tanszek/az-egeszsegi-allapot-es-az-eletminoseg-vizsgalata",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/gepeszmernoki-tanszek_/alkalmazott-fizika-es-gepeszeti-tudomanyok-kutatokozpont",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/kerteszmernoki-tanszek_/ppgroup",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/biointelligencia-kutatocsoport",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/cal-sapientia",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/cirg",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/research-group-in-mathematics",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/apembsys",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/cirg_",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/narc",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/pedimco",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/prrg",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/collegium-talentum-20242025",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/horizont-europa-program",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/sapientia-palyazatok/palyazat-kari-oktatoi-minositesi-potlek-megitelesere-a-2025-os-evre",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/uefiscdi-palyazatok",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-szulofoldi-osztondijpalyazat-2025",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-magyarorszagi-osztondijpalyazat-2025-tavasz",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-alkotoi-osztondijpalyazat-2025",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/palyazat-a-magyar-tudomanyos-akademia-bolyai-janos-kutatasi-osztondijanak-elnyeresere-2025-ben",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/palyazatok_",
+                "https://ms.sapientia.ro/hu/kutatas/szakkollegiumok",
+                "https://ms.sapientia.ro/hu/kutatas/szakkollegiumok/kiss-elemer-szakkollegium/torteneti-ismerteto"]
+
+web_scraping_markdown_to_clean(kutatas_urls)
+
+nemzetkozi_kapcsolatok_urls=[
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok",
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/erasmus-hallgatoi-palyazati-felhivas-szakmai-gyakorlat-mobilitas-2025-nyara-es-tanulmanyi-mobilitas-202526-os-tanev",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-kepzesi-celu-mobilitasara-stt-az-unios-tagallamokban-valamint-a-programhoz-tarsult-es-nem-tarsult-harmadik-orszagokban-a-2024-2025-os-tanevben-ka131",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-az-unios-tagallamokban-valamint-a-programhoz-tarsult-es-nem-tarsult-harmadik-orszagokban-megvalosulo-oktatasi-celu-mobilitasra-sta-a-2024-2025-os-tanevben-ka131",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-mobilitas-palyazati-felhivas-oktatok-szamara-kozremukodokent-trainer-valo-reszvetelre-vegyes-intenziv-programokban-bip-a-2024-2025-os-tanevben",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/isten-hozott-az-egyetemunkre",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/udvozlunk-erdelyben",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/roviden-az-egyetemrol",
+              "https://sapientia.ro/hu/az-egyetemrol/oktatasi-helyszinek",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/targylistak",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/jo-tudni",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/jelentkezes",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/partnerintezmenyek",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/nemzetkozi-hallgatoknak",
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok/bip-palyazati-felhivasok",
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok/bip-palyazati-felhivasok/meghivasos-erasmus-hallgatoi-mobilitas-palyazati-felhivas-rovid-vegyes-tanulmanyi-mobilitason-valo-reszvetel-vegyes-intenziv-program-bip-kereteben",
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok",
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/rovid-szakmai-gyakorlatok",
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/bip-mobilitasok-2022-2023",
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-partnerek",
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-projektek",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/dokumentumok-szabalyzatok",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kapcsolat",
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok",
+              ]
+
+web_scraping_markdown_to_clean(nemzetkozi_kapcsolatok_urls)
