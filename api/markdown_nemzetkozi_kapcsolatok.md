@@ -15,7 +15,6 @@ Kapcsolat (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/kapcsolat-nemzetkoz
 ``````markdown
 Erasmus+
 
-Erasmus+
 
 Pályázati felhívások (hallgatók) (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok)
 Pályázati felhívások (oktatók és felsőoktatási munkatársak) (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-oktatok-es-felsooktatasi-munkatarsak)
