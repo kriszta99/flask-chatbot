@@ -324,7 +324,7 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           Tisztítsd meg az alábbi markdown szöveget.
           A fő tartalmat ({item_url_name}) tartsd meg.
           Csak a fő tartalomban ({item_url_name}-ban) lévő linkeket add ilyen formátumban: téma (http://link).
-          Ha a {item_url_name}-ban nincsenek linkek add vissza a szöveget a fő tartalomban.
+          Ha a {item_url_name}-ban nincsenek dokumentumlinkek csak a szöveget tarsd meg.
 
           Törlendő részek:
           - navigációs menük
@@ -346,7 +346,8 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           print(response.text)
           #file_path = '/content/markdown_hallgatoknak.md'
           #file_path = '/content/markdown_zarovizsga.md'
-          file_path = '/content/markdown_bentlakas.md'
+          #file_path = '/content/markdown_bentlakas.md'
+          file_path = '/content/markdown_tanarkepzes.md'
 
           with open(file_path, 'a') as f:
             f.write(response.text)
@@ -413,3 +414,23 @@ bentlakas_urls= [ "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_",
                   "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakassal-kapcsolatos-koltsegek-kifizetese_"]
 
 web_scraping_markdown_to_clean(bentlakas_urls)
+
+tanarkepzes_urls=[
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/rolunk",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/hasznos-informaciok",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/felveteli",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/a-pedagogiai-gyakorlat-megszervezese",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/a-zarovizsga-metodologiaja",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/tudomanyos-kutatasi-tevekenysegek",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/torvenyi-keretek",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/a-tanarkepzo-intezet-vezetosege-es-munkatarsai",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/mentortanaroknak-es-iranyitotanaroknak",
+                  "https://sapientia.ro/hu/kutatas/kutatokozpontok/tanarkepzo-intezet"]
+
+web_scraping_markdown_to_clean(tanarkepzes_urls)
+
+append_md_file('markdown_hallgatoknak.md','markdown_bentlakas.md')
+
+append_md_file('markdown_hallgatoknak.md','markdown_tanarkepzes.md')
+
+append_md_file('markdown_hallgatoknak.md','markdown_zarovizsga.md')

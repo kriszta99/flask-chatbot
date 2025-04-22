@@ -9,7 +9,7 @@ Bentlakással kapcsolatos költségek kifizetése (https://ms.sapientia.ro/hu/ha
 ``````markdown
 Bentlakás jelentkezési kritériumok és szükséges iratok 2024-2025 évre - Első évesek
 
-**A pályázatokat a következő e-mail címre kell elküldeni: [ocsaba@ms.sapientia.ro](https://ms.sapientia.ro/el_remover_ocsaba<i class='fa fa-at'></i>ms.sapientia.ro )**
+**A pályázatokat a következő e-mail címre kell elküldeni: [ocsaba@ms.sapientia.ro]
 
 **Jelentkezni július 31-től augusztus 7-ig lehetséges (pályázni abban az esetben lehetséges, amennyiben a felvételi során visszaigazolták az elnyert helyüket****).**
 
