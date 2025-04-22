@@ -85,6 +85,7 @@ def url_to_markdown(url):
 #url = "https://sapientia.ro/hu/az-egyetemrol/akkreditacio"
 #url = "https://ms.sapientia.ro/hu/a-karrol/alumni"
 #url = "https://ms.sapientia.ro/hu/a-karrol/elerhetosegek"
+#url = "https://ms.sapientia.ro/hu/oktatas"
 #url = "https://ms.sapientia.ro/hu/oktatas/tanevszerkezet"
 #url = "https://ms.sapientia.ro/hu/oktatas/orarend"
 #url = "https://ms.sapientia.ro/hu/oktatas/tantargyi-adatlapok"
@@ -153,6 +154,7 @@ response = client.models.generate_content(
 )
 print(response.text)
 
+#file_path = '/content/markdown_output.md'
 #file_path = '/content/markdown_konyvtar.md'
 #file_path = '/content/markdown_oktatas.md'
 #file_path = '/content/markdown_output.md'
@@ -166,6 +168,21 @@ with open(file_path, 'a') as f:
 
 # Fájl elérési útja
 file_path
+
+tanszek_pipline = """ Feladat:
+          Tisztítsd meg az alábbi markdown szöveget. A fő tartalmat (tanszéken lévő információkat, dolgozókat és szerepkörük) tartsd meg.
+          A linkeket formátumban add vissza: téma (https://link)
+
+          Törlendő részek:
+          - navigációs menük
+          - oldalsó navigációs menük linkjei
+          - Lábléc
+          - kapcsolodó linkek
+          - jogi információk
+          - ismétlődő címek
+          - Hírek
+          - képek linkjei
+          - ismétlődő nevek  """
 
 list_urls = [
              "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/informatika-bizottsag-",
@@ -182,21 +199,6 @@ list_urls = [
              "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/kari-valasztasi-bizottsag",
              "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/kari-hallgatoi-valasztasi-bizottsag"
            ]
-
-tanszek_pipline = """ Feladat:
-          Tisztítsd meg az alábbi markdown szöveget. A fő tartalmat (tanszéken lévő információkat, dolgozókat és szerepkörük) tartsd meg.
-          A linkeket formátumban add vissza: téma (https://link)
-
-          Törlendő részek:
-          - navigációs menük
-          - oldalsó navigációs menük linkjei
-          - Lábléc
-          - kapcsolodó linkek
-          - jogi információk
-          - ismétlődő címek
-          - Hírek
-          - képek linkjei
-          - ismétlődő nevek  """
 
 from google import genai
 
@@ -287,6 +289,8 @@ append_md_file('markdown_output.md','markdown_karieriroda.md')
 
 append_md_file('markdown_output.md','markdown_konyvtar.md')
 
+append_md_file('markdown_karrol.md','markdown_output.md')
+
 hallgatok_urls = ["https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato",
                   "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/altalanos-informaciok-az-egyetemrol",
                   "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/gyakorlati-orak-potlasa",
@@ -350,7 +354,7 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           #file_path = '/content/markdown_bentlakas.md'
           #file_path = '/content/markdown_tanarkepzes.md'
           #file_path = '/content/markdown_kutatas.md'
-          file_path = '/content/markdown_nemzetkozi_kapcsolatok.md'
+          #file_path = '/content/markdown_nemzetkozi_kapcsolatok.md'
 
           with open(file_path, 'a') as f:
             f.write(response.text)
@@ -508,3 +512,35 @@ nemzetkozi_kapcsolatok_urls=[
               ]
 
 web_scraping_markdown_to_clean(nemzetkozi_kapcsolatok_urls)
+
+"""Egy függvény ami egy markdown fájlt beolvassa, és eltávolítja belőle a \n, ``` és --- karaktereket.
+
+"""
+
+def clean_markdown_file(file_path):
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    # Sorvégek, markdown kódblokkok és elválasztók eltávolítása
+    cleaned_content = content.replace('```', '')
+    cleaned_content = cleaned_content.replace('``````markdown', '')
+    cleaned_content = cleaned_content.replace('---', '')
+    cleaned_content = cleaned_content.replace('markdown', '')
+    cleaned_content = cleaned_content.replace('\n\n\n', '\n')
+    cleaned_content = cleaned_content.replace('\n\n', '\n')
+
+    with open(f"{file_path.split('.')[0]}_.md", 'w', encoding='utf-8') as f:
+      f.write(cleaned_content)
+    return f"{file_path.split('.')[0]}_.md"
+
+clean_markdown_file('markdown_hallgatoknak.md')
+
+clean_markdown_file('markdown_karrol.md')
+
+clean_markdown_file('markdown_felveteli.md')
+
+clean_markdown_file('markdown_oktatas.md')
+
+clean_markdown_file('markdown_kutatas.md')
+
+clean_markdown_file('markdown_nemzetkozi_kapcsolatok.md')
