@@ -1,3 +1,4 @@
+
 # Küldetés
 A Sapientia Erdélyi Magyar Tudományegyetem a romániai magyarság önálló egyeteme Európában, melynek célja nemzeti közösségünk oktatásának és tudományos életének elismert szakmai színvonalon való művelése. Felelősek vagyunk a hallgatóknak nyújtott tudásért, oktatóink és munkatársaink jövőjéért, kutatásaink minőségéért és működésünk átláthatóságáért.
 Küldetésünk:
@@ -555,7 +556,7 @@ Az olvasóteremben, tematikus rend szerint, szabadpolcon elhelyezett könyvek eg
 * szakdolgozatok (raktárból felkérhető).
  Az olvasóterem ugyanakkor kellemes környezetet biztosít önálló tanuláshoz is.
 ### Kölcsönzés
-A kölcsönzés helyszíne szintén az olvasóterem. Kölcsönözni csak személyesen, érvényes könyvtári igazolvánnyal lehet. A keresett mű adatairól, elérhetőségéről az elektronikus katalógusban találunk információt ([http://opac3.ms.sapientia.ro/hu_HU/]).
+A kölcsönzés helyszíne szintén az olvasóterem. Kölcsönözni csak személyesen, érvényes könyvtári igazolvánnyal lehet. A keresett mű adatairól, elérhetőségéről az elektronikus katalógusban találunk információt ([http://opac3.ms.sapientia.ro/hu_HU/](http://opac3.ms.sapientia.ro/hu_HU/ )).
 A leggyakrabban igényelt könyvek az olvasóteremben kaptak helyet, az olvasó a szabadpolcról önállóan leveheti és a szolgálatos könyvtárostól kikölcsönözheti azokat.
 Az olvasóteremben elhelyezett és kölcsönzésre szánt könyvek a következő megkülönböztető színcsíkokat kapták:
 * sárga jelzés: 2 hétre kölcsönözhető
@@ -570,7 +571,7 @@ A könyvtár olvasótermébe telepített, internet-hozzáférést biztosító sz
 A könyvtárban wifin keresztül saját eszközökkel is csatlakozhatnak az internetre.
           Beiratkozás
 Beiratkozás
-Könyvtári tagságra az egyetemi polgárok (hallgatók, oktatók, alkalmazottak) jogosultak, ők online ([http://opac3.ms.sapientia.ro/hu_HU/] - Online regisztráció) vagy személyesen, a könyvtárban iratkozhatnak be.
+Könyvtári tagságra az egyetemi polgárok (hallgatók, oktatók, alkalmazottak) jogosultak, ők online ([http://opac3.ms.sapientia.ro/hu_HU/](http://opac3.ms.sapientia.ro/hu_HU/ ) - Online regisztráció) vagy személyesen, a könyvtárban iratkozhatnak be.
 Online regisztráció esetében kérünk szépen minden mezőt kitölteni, annak ellenére, hogy a felület ezt nem teszi kötelezővé! Első lépésként a visszaigazoló e-mailt kell jóváhagyni. A hallgatókat egy következő fordulóban (vonalkód közlése után) kérjük egy igazolvány típusú fénykép feltöltésére, ezzel véglegesítődik a beiratkozás, a nyomtatott igazolványt pedig átvehetik majd az olvasóteremben. (Kölcsönözni csak az igazolvány birtokában lehet.)
 A könyvtárban történő, személyes beiratkozás esetében szükséges dokumentumok:
 * személyazonossági igazolvány
@@ -593,57 +594,8 @@ A keresett művel (könyv, folyóirat, elektronikus dokumentum, szakdolgozat) ka
 * Ezt a keresési módot akkor használjuk, ha nem ismerjük pontosan a keresendő anyag tulajdonságait, csak közelítő információkkal rendelkezünk. Ekkor ugyanis nem pontos egyezést keres a program, hanem a keresési kifejezéshez legközelebb álló rekordtól kezdve listáz ki megadott számú anyagot.
 * A számítógépes katalógus használatához eligazítást ad a **Súgó** menüpont is.
 # Hallgatói Önkormányzat
-Hallgatói Önkormányzat
 **Kedves Hallgatók!**  
-Szeretettel köszönt benneteket a Sapientia Erdélyi Magyar Tudományegyetem Marosvásárhelyi Karának Hallgatói Önkormányzata!
-Egyetemi éveitek során rengeteg alkalommal fogtok elhaladni a HÖK iroda előtt, épp ezért fontos tudnotok, hogy az ajtó mögött mi, a hökösök, mindig szeretettel látunk titeket. Az év minden napján azért vagyunk, hogy nektek segíthessünk, így bármilyen kérdéssel, panasszal nyugodtan fordulhattok hozzánk! (kopogás nélkül!)
-Az Elnökség összetételéről minden évben, az áprilisi elnökválasztások alkalmával dönthettek. Emellett szeretettel várunk minden közösségért tenni vágyó diákot dinamikus csapatunkba, hogy együtt képviseljük az egyetemi diákság érdekeit, és ezzel együtt tegyük emlékezetesebbé az itt töltött éveket!
-Minden felsőoktatási intézmény, így a Sapientia egyetem is rendelkezik Hallgatói Önkormányzattal, melynek tagjai megoldást keresnek a diákok egyetemmel kapcsolatban felmerülő problémáira.
-A HÖK három legfontosabb feladata:
-* Információ továbbítás
-* Érdekképviselet
-* Rendezvényszervezés
-A Hallgatói Önkormányzat folyamatos segítséget nyújt a tanárok és a diákok közti kapcsolattartásban; illetve minden információ a HÖK-ön keresztül jut el a vezetőségtől a hallgatókig. Emellett az egyetem és a kar vezetőségével karöltve, a döntéshozó szervekben (Kari Tanács, Szenátus) képviselik a diákok érdekeit.
-A képviselők részt vesznek a felvételi bizottságok munkájában, a tudományos és szakmai diákkörök szervezésében, a hallgatók egyetemmel kapcsolatos tanulmányi,- ösztöndíj-, támogatási és egyéb ügyeinek intézésében. Segítik a hallgatók hazai és külföldi oktatási, kulturális és tudományos képzési kapcsolatainak építését, az egyetem szellemével összhangban álló egyetemen kívüli tevékenységek folytatását.
-A Hallgatói Önkormányzat szervezeti felépítését (Közgyűlés, Elnök, Alelnökök, Elnökség, Szakos Hallgatói Érdekképviselet, Szaktestületek), valamint ezek pontos működési elveit, megválasztásuknak módját és feladatkörüket a Szervezeti és Működési Szabályzat tartalmazza.  
- Ezen kívül a HÖK felel a diákok jókedvéért is. Évente megszervezzük számotokra:
-* **Az Összerázó hetet**, melynek célja, hogy segítse az elsőéves diákok könnyed beilleszkedését.
-* **A Gólytábort**, ami egy háromnapos csapatépítő tréning.
-* **A Gólyabált**, ahol kiderül, hogy kik a legkreatívabb gólyák.
-* **A Mikulás Kupát**, ami egy sokszínű sportrendezvény.
-* **A Sítábort**, ami a téli sportok kedvelőinek remek kikapcsolódást nyújt.
-* **A Műhelytábort**, ami a HÖK tagjait kovácsolja össze, az eredményes munka érdekében.
-* **A Nyílt napokat**, melynek során ti is megismerhettétek végzősként az egyetemünket.
-* **A Tudományos Diákköri Konferenciát** (TDK), ahol tehetséges diákjaink mutatják be saját dolgozataikat, valamilyen tudományos témában.
-* **Az Állásbörzét**, ahol megannyi cég sorakozik fel, annak érdekében, hogy hallgatóinknak rálátásuk lehessen a különböző munkákra, illetve megragadjanak egy-két lehetőséget.
-* **A Varjútábort**, amit a már elballagott diákoknak szervezünk, hogy együtt tölthessünk egy hétvégét a régi idők emlékére.
-* **A Ballagást**, ami egy négynapos búcsúztató, végzős diákjaink számára.
-Időszakos rendezvényeink:
-* Karácsonyi ajándékozás
-* Sapi Slam
-* Film maraton
-* Klasszikus és néptánc oktatás
-* Nyílt napok
-* Quiz Night
-* Egészségnap
-A HÖK Szervezeti- és működési szabályzata letölthető [innen](https://ms.sapientia.ro/content/docs/MsHOeK%20SzMSz.pdf )
-## Vezetők
-A HÖK-ben a legfontosabb ügyek vezetésére elnököket választanak, ők alkotják az Elnökséget, akiknek a munkáját az elnök irányítja.
-A Sapientia EMTE Marosvásárhelyi Kar Hallgatói Önkormányzatának jelenlegi elnöksége:
-|  |  |  |  |  |
-|  |  |  |  |  |
-| **Feladatkör** | **Név** | **Szak/Évfolyam** | **Telefonszám** | **E-mail** |
-| **Elnök** | Balázs Vajk-István | Számítástechnika III. év | 0758423708 | [balazs.vajk.istvanstudent.ms.sapientia.ro]|
-| **Érdekképviseleti alelnök** | Mihálydeák Máté-Áron | Számítástechnika III. év | 0753111447 | [mihalydeak.matestudent.ms.sapientia.ro](https://ms.sapientia.ro/el_remover_mihalydeak.mate<i class='fa fa-at'></i>student.ms.sapientia.ro ) |
-| **Gazdasági bizottság elnöke** | Horváth Ákos | Informatika III. év | 0743191343 | [horvath.akosstudent.ms.sapientia.ro] |
-| **Kommunikációs bizottság elnöke** | Nagy Alexandra | Fordító és tolmács II. év | 0748669851 | [nagy.alexandrastudent.ms.sapientia.ro] |
-| **Tanulmányi bizottság elnöke** | Hints Orsolya | Kommunikáció és közkapcsolatok II. év | 0756923117 | [hints.orsolyastudent.ms.sapientia.ro] |
-| **Kulturális bizottság elnöke** | Gálfi Attila | Számítástechnika, II. év | 0747769655 | [galfi.attilastudent.ms.sapientia.ro] |
-| **Sportbizottság elnöke** | Portik Richárd | Fordító és tolmács III. év | 0754880519 | [portik.richardstudent.ms.sapientia.ro] |
-| **Arculatfelelős** | Csala Csongor | Számítástechnika II. év | 0744830324 | [csala.csongorstudent.ms.sapientia.ro] |
-| **Iroda felelős** | Ozsváth-Berényi Attila | Automatika és alkalmazott informatika, I. év | 0741949694 | [ozsvath.attilastudent.ms.sapientia.ro] |
-# Hallgatói Önkormányzat
-**Kedves Hallgatók!**  
+  
 Szeretettel köszönt benneteket a Sapientia Erdélyi Magyar Tudományegyetem Marosvásárhelyi Karának Hallgatói Önkormányzata!
 Egyetemi éveitek során rengeteg alkalommal fogtok elhaladni a HÖK iroda előtt, épp ezért fontos tudnotok, hogy az ajtó mögött mi, a hökösök, mindig szeretettel látunk titeket. Az év minden napján azért vagyunk, hogy nektek segíthessünk, így bármilyen kérdéssel, panasszal nyugodtan fordulhattok hozzánk! (kopogás nélkül!)
 Az Elnökség összetételéről minden évben, az áprilisi elnökválasztások alkalmával dönthettek. Emellett szeretettel várunk minden közösségért tenni vágyó diákot dinamikus csapatunkba, hogy együtt képviseljük az egyetemi diákság érdekeit, és ezzel együtt tegyük emlékezetesebbé az itt töltött éveket!
@@ -684,9 +636,9 @@ A Sapientia EMTE Marosvásárhelyi Kar Hallgatói Önkormányzatának jelenlegi 
 |  |  |  |  |  |
 |  |  |  |  |  |
 | **Feladatkör** | **Név** | **Szak/Évfolyam** | **Telefonszám** | **E-mail** |
-| **Elnök** | Balázs Vajk-István | Számítástechnika III. év | 0758423708 | [balazs.vajk.istvan@student.ms.sapientia.ro]|
+| **Elnök** | Balázs Vajk-István | Számítástechnika III. év | 0758423708 | [balazs.vajk.istvan@student.ms.sapientia.ro] |
 | **Érdekképviseleti alelnök** | Mihálydeák Máté-Áron | Számítástechnika III. év | 0753111447 | [mihalydeak.mate@student.ms.sapientia.ro] |
-| **Gazdasági bizottság elnöke** | Horváth Ákos | Informatika III. év | 0743191343 | [horvath.akos@student.ms.sapientia.ro]|
+| **Gazdasági bizottság elnöke** | Horváth Ákos | Informatika III. év | 0743191343 | [horvath.akos@student.ms.sapientia.ro] |
 | **Kommunikációs bizottság elnöke** | Nagy Alexandra | Fordító és tolmács II. év | 0748669851 | [nagy.alexandra@student.ms.sapientia.ro] |
 | **Tanulmányi bizottság elnöke** | Hints Orsolya | Kommunikáció és közkapcsolatok II. év | 0756923117 | [hints.orsolya@student.ms.sapientia.ro] |
 | **Kulturális bizottság elnöke** | Gálfi Attila | Számítástechnika, II. év | 0747769655 | [galfi.attila@student.ms.sapientia.ro] |
