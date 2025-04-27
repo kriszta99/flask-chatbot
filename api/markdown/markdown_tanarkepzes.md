@@ -1,5 +1,5 @@
 ```markdown
-Rólunk
+# Rólunk
 
 A Sapientia EMTE Tanárképző Intézete (románul: Departamentul de Specialitate cu Profil Psihopedagogic – DSPP) azoknak a hallgatóknak a pszichopedagógiai képzését vállalja fel, akik az egyetemi szakjuknak megfelelő szakképzettség megszerzése mellett a tanári pálya gyakorlásához szükséges szaktudást és didaktikai kompetenciákat is el szeretnék sajátítani.
 
@@ -13,7 +13,7 @@ A tanárképzési program II. szintjére mesteri tanulmányaikat folytató hallg
 
 Működési szabályzat (https://sapientia.ro/content/Szabalyzatok/HU/Tan%C3%A1rk%C3%A9pz%C3%A9si_programok_m%C3%B3dszertana.pdf )
 ``````markdown
-Hasznos információk
+# Hasznos információk
 
 **I. szintű pedagógiai modul**
 
@@ -182,7 +182,7 @@ Mentortanároknak és irányítótanároknak (https://sapientia.ro/hu/oktatas/ta
 PedPsi Kutatóközpont (https://sapientia.ro/hu/kutatas/kutatokozpontok/tanarkepzo-intezet)
 Álláshirdetések (https://sapientia.ro/hu/oktatas/tanarkepzes/allashirdetesek)
 ``````markdown
-A pedagógiai gyakorlat megszervezése
+# A pedagógiai gyakorlat megszervezése
 
 **I. és II. szintű képzés**
 
@@ -383,8 +383,6 @@ Szerkesztési útmutató - II. szint (https://sapientia.ro/content/Dokumentumok/
 ``````markdown
 # Tudományos kutatási tevékenységek
 
-Tudományos kutatási tevékenységek
-
 ### I. A tudományos kutatás általános elvei
 
 A Tanárképző Intézet tudományos kutatási terve szervesen illeszkedik a Sapientia EMTE kutatási stratégiájának irányelveihez, és összhangban van az intézet általános küldetésének céljaival.
@@ -418,7 +416,7 @@ A Tanárképző Intézet tudományos kutatási terve szervesen illeszkedik a Sap
 11. A környezeti nevelés pedagógiai lehetőségei az egyetem előtti oktatásban
 12. Az interkulturális nevelés pedagógiai lehetőségei az egyetem előtti oktatásban
 ``````markdown
-Törvényi keretek
+# Törvényi keretek
 
 * Ordin al ministrului educației nr. 5566/2021 (https://sapientia.ro/content/2011-2021/TKI/Cadrul%20legislativ/OM%205566_2021_DSPP_institutii%20acreditate_monitor.pdf)
 * Ordinul 5191/2019 din 18 septembrie 2019 (https://sapientia.ro/content/2011-2021/TKI/OM_5191_2019.pdf)
@@ -468,8 +466,7 @@ Törvényi keretek
 * dr. Toró Tibor egyetemi docens, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Tor%C3%B3%20Tibor.pdf)
 * dr. Zoller Katalin egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Zoller%20Katalin-1.pdf)
 
-Titkár
-
+# Titkár
 Onika Orsolya [onikaorsolya@uni.sapientia.ro]
 
 **Fogadóóra:** hétfő–péntek, 8:00–16:00

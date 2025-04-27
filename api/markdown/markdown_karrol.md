@@ -3,7 +3,7 @@
 
 A Sapientia Erdélyi Magyar Tudományegyetem a romániai magyarság önálló egyeteme Európában, melynek célja nemzeti közösségünk oktatásának és tudományos életének elismert szakmai színvonalon való művelése. Felelősek vagyunk a hallgatóknak nyújtott tudásért, oktatóink és munkatársaink jövőjéért, kutatásaink minőségéért és működésünk átláthatóságáért.
 
-Küldetésünk:
+## Küldetésünk:
 
 * A keresztényi és egyetemes emberi értékek érvényesítése;
 * Versenyképes, minőségi oktatás és kutatás biztosítása, az erdélyi magyar oktatás hagyományainak folytatása;
@@ -58,7 +58,7 @@ Az alagsorban közös mosoda, az épület mellett sportpálya és öltöző áll
 [Adminisztráció](https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_  "Adminisztráció")
 [Könyvtár](https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/konyvtar__  "Könyvtár")
 
-Kapcsolat
+# Kapcsolat
 
 **Marosvásárhelyi Kar**
 
@@ -69,7 +69,7 @@ Tel: +40 265 206 210, fax: +40 265 206 211
  E-mail: [office@ms.sapientia.ro](mailto:office@ms.sapientia.ro)
 ```Marosvásárhelyi Kar - Sapientia Erdélyi Magyar Tudományegyetem
 
-Gazdasági osztály
+# Gazdasági osztály
 
 Babos Annamária gazdasági igazgató (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/gazdasagi-osztaly_/babos-annamaria)
 Nagy Judit gazdasági titkárnő (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/gazdasagi-osztaly_/nagy-judit)
@@ -81,7 +81,8 @@ Dr. Hajdu Szabolcs adjunktus (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkata
 Pisak-Lukáts Ioan-Marius rendszergazda (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/gazdasagi-osztaly_/pisak-lukats-ioan-marius)
 Pál Árpád - beszerző (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/gazdasagi-osztaly_/pal-arpad)
 
-Adminisztráció
+# Adminisztráció
+
 Osváth Csaba adminisztrátor és bentlakás adminisztrátor (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/osvath-csaba)
 Demeter Ferenc épületgépész (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/demeter-ferenc)
 Iszlai Lóránt tűz-és munkavédelmi felelős (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/iszlai-lorant)
@@ -106,7 +107,7 @@ Kis Annamária takarító (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsa
 Orbán Csilla takarító (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/orban-csilla)
 Ravasz Enikő takarító (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/ravasz-eniko)
 
-Dékáni hivatal
+# Dékáni hivatal
 
 Dr. Domokos József docens, dékán, tanulmányi programfelelős (Infokommunikációs hálózatok és rendszerek-Távközlés szak) (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/dekani-hivatal_/dr-domokos-jozsef)
 Dr. habil. Horobeţ Emil docens, dékánhelyettes (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/dekani-hivatal_/dr-habil-horobet-emil)
@@ -131,7 +132,7 @@ Rólunk (https://ms.sapientia.ro/hu/a-karrol/rolunk)
 
 Munkatársak (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak)
 
-Könyvtár
+# Könyvtár
 
 Kuszálik Eszter**könyvtárfelelős** (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/konyvtar__/kuszalik-eszter)
 Jablonovszki Judit**könyvtáros** (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/konyvtar__/jablonovszki-judit)
@@ -143,7 +144,7 @@ Nagy Csilla**könyvtáros** (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatar
 * [Organogram - Marosvásárhelyi Kar](https://ms.sapientia.ro/content/docs/MS/Organigrama%20FSTU%202023.pdf )
 * [A Sapientia EMTE organogramja](https://ms.sapientia.ro/content/2011-2021/Szenatusi_Dontesek/210/Anexa%207%20-%20Organigrama_US_2021_modif.pdf )
 ``````markdown
-Kari vezetők
+# Kari vezetők
 
 [Dr. Domokos József**docens, dékán, tanulmányi programfelelős (Infokommunikációs hálózatok és rendszerek-Távközlés szak)**](https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/kari-vezetok/dr-domokos-jozsef "Dr. Domokos József")
 [Dr. habil. Horobeţ Emil**docens, dékánhelyettes**](https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/kari-vezetok/dr-habil-horobet-emil "Dr. habil. Horobeţ Emil")
@@ -357,7 +358,7 @@ Matematika-Informatika Tanszék (https://ms.sapientia.ro/hu/a-karrol/tanszeke/ma
 Villamosmérnöki Tanszék (https://ms.sapientia.ro/hu/a-karrol/tanszeke/villamosmernoki-tanszek)
 ```
 ```markdown
-Alkalmazott Nyelvészeti Tanszék
+# Alkalmazott Nyelvészeti Tanszék
 
 **Tanszékvezető:**Dr. Fazakas Noémi, egyetemi docens
 
@@ -389,7 +390,7 @@ Barabás Blanka tanársegéd (https://ms.sapientia.ro/hu/a-karrol/tanszeke/alkal
 Máthé Nóra tanársegéd (https://ms.sapientia.ro/hu/a-karrol/tanszeke/alkalmazott-nyelveszeti-tanszek/mathe-nora)
 Szántó Emese tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/tanszeke/alkalmazott-nyelveszeti-tanszek/szanto-emese)
 ``````markdown
-Alkalmazott Társadalomtudományok Tanszék
+# Alkalmazott Társadalomtudományok Tanszék
 
 **Tanszékvezető:**Dr. Fülöp Otília, egyetemi docens
 
@@ -424,7 +425,7 @@ Bartha Izabella-Ildikó tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/t
 Ungár Judit labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszeke/alkalmazott-tarsadalomtudomanyok-tanszek/ungar-judit)
 Veres Mónika tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/tanszeke/alkalmazott-tarsadalomtudomanyok-tanszek/veres-monika)
 ``````markdown
-Gépészmérnöki Tanszék
+# Gépészmérnöki Tanszék
 
 **Tanszékvezető:**Dr. Forgó Zoltán, egyetemi docens
 
@@ -466,7 +467,7 @@ Gál Károly-István labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszek
 Kiss Tünde tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/tanszeke/gepeszmernoki-tanszek/kiss-tunde)
 Bálint Lajos szakmunkás (https://ms.sapientia.ro/hu/a-karrol/tanszeke/gepeszmernoki-tanszek/balint-lajos)
 ``````markdown
-Kertészmérnöki Tanszék
+# Kertészmérnöki Tanszék
 
 **Tanszékvezető**: dr. Benedek Klára, egyetemi adjunktus
 
@@ -511,9 +512,7 @@ Iakab Márton labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszeke/kerte
 Thiesz Tibor labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszeke/kerteszmernoki-tanszek/thiesz-tibor)
 Szabadi Lídia tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/tanszeke/kerteszmernoki-tanszek/szabadi-lidia)
 ``````markdown
-# Marosvásárhelyi Kar - Sapientia Erdélyi Magyar Tudományegyetem
-
-Matematika-Informatika Tanszék
+# Matematika-Informatika Tanszék
 
 **Tanszékvezető:**dr. Kátai Zoltán, egyetemi docens
 
@@ -550,7 +549,7 @@ Győrfi Ágnes labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszeke/mate
 Lukács Ibolya labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszeke/matematika-informatika-tanszek/lukacs-ibolya)
 Csizmadia Erzsébet tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/tanszeke/matematika-informatika-tanszek/csizmadia-erzsebet)
 ``````markdown
-Villamosmérnöki Tanszék
+# Villamosmérnöki Tanszék
 
 **Tanszékvezető:** dr. Bakó László egyetemi docens
 
@@ -593,20 +592,12 @@ Villamosmérnöki Tanszék
 [Nagy Zoltán Gábor**tanszéki mérnök**](https://ms.sapientia.ro/hu/a-karrol/tanszeke/villamosmernoki-tanszek/nagy-zoltan-gabor "Nagy Zoltán Gábor")
 [Szöllösi István**labortechnikus**](https://ms.sapientia.ro/hu/a-karrol/tanszeke/villamosmernoki-tanszek/szollosi-istvan "Szöllösi István")
 [Szatmári-Kőszeghi Asztrid**tanszéki titkár**](https://ms.sapientia.ro/hu/a-karrol/tanszeke/villamosmernoki-tanszek/szatmari-koszeghi-asztrid "Szatmári-Kőszeghi Asztrid")
-
-
-
-
 ```markdown
 # Küldetés
-
-Küldetés
 
 A Karrieriroda stratégiai szerepet tölt be a Marosvásárhelyi Karon tanuló hallgatók felkészítésében, hogy a munkaerőpiacon érvényesülni tudjanak. A digitális átalakulás és a koronavírus-járvány a munkaerőpiac gyökeres átalakulását eredményezi: régi foglalkozások megszűnnek vagy lényegesen átalakulnak, valamint teljesen új munkakörök jönnek létre. A Karrieriroda tájékoztatást, útmutatást és támogatást nyújt a jelenlegi és volt hallgatóknak a munkaerőpiaci elhelyezkedésben, továbbá a sikeres karrierút megtervezésében.
 ``````markdown
 # Tevékenységek
-
-Tevékenységek
 
 * Nyilvános előadások szervezése a munkaerőpiaci kihívásokról állami intézmények, elismert non-profit szervezetek, multinacionális vállalatok vezetőinek, illetve HR szakembereinek meghívásával.
 * Képzések / workshop-ok szervezése a jelenlegi és volt hallgatóknak:
@@ -626,9 +617,7 @@ Tevékenységek
 * Kutatások elvégzése a volt hallgatók karrierútjáról
 * Partnerségi hálózat kialakítása és fenntartása a lehetséges munkaadókkal és gyakornoki programok kezdeményezőivel.
 ``````markdown
-          # Marosvásárhelyi Karrierbörze 2025
-
-Marosvásárhelyi Karrierbörze 2025
+# Marosvásárhelyi Karrierbörze 2025
 
 „A legjobb módja a jövő megjóslásának, ha mi magunk építjük” – mondta egykor Abraham Lincoln. Most itt a lehetőség, hogy te is formáld a jövődet a **Marosvásárhelyi Karrierbörze** rendezvényen! Ne hagyd ki ezt az alkalmat, hogy megtaláld az ideális állást, megismerd a munkaerőpiac legfrissebb trendjeit.
 
@@ -649,8 +638,6 @@ Az eseményen számos iparág képviselői lesznek jelen, többek között az al
 * Ne hagyd ki ezt az egyedülálló lehetőséget!
 ``````markdown
 # Állásajánlatok és szakmai gyakorlat
-
-Marosvásárhely
 
 [A karról](https://ms.sapientia.ro/hu/a-karrol)
 [Karrieriroda](https://ms.sapientia.ro/hu/a-karrol/karrieriroda)
@@ -692,9 +679,8 @@ Kadeno Solutions nyári szakmai gyakorlat**Nyári szakmai gyakorlatot hirdet a K
 ```
 
 ```markdown
-          # Marosvásárhelyi Kar - Sapientia Erdélyi Magyar Tudományegyetem
 
-Könyvtár
+# Könyvtár
 
 [A könyvtárról](https://ms.sapientia.ro/hu/a-karrol/konyvtar/a-konyvtarrol)
 [Szolgáltatások](https://ms.sapientia.ro/hu/a-karrol/konyvtar/szolgaltatasok)
@@ -813,7 +799,7 @@ A kölcsönözhető könyvállomány másik részét a raktárban őrizzük és 
 
 A hallgatók (kivéve a végzősöket) egy alkalommal 3 művet kölcsönözhetnek. A kölcsönzés határidejét kötelező betartani, ellenkező esetben a könyvtár bizonyos időszakra felfüggesztheti az olvasó kölcsönzési jogát. A határidő lejárta előtt viszont hosszabbításra van lehetőség, online, személyesen vagy telefonon / e-mail-ben. Az online katalógusban a Saját könyvtárba való belépéssel ellenőrizhetők az aktuális kölcsönzések és lejárati határidők, illetve lehetőség van előjegyzésre, félretételre, egyszeri hosszabbításra!
 
-Tájékoztatás
+## Tájékoztatás
 
 A könyvtár nyitvatartási idejében tájékoztatást lehet kérni a könyvtár és más könyvtárak állományáról, az állomány használatáról. Az érdeklődők kérdéseire e-mailben is válaszolunk: [biblms.sapientia.ro].
 
@@ -822,9 +808,7 @@ A könyvtár nyitvatartási idejében tájékoztatást lehet kérni a könyvtár
 A könyvtár olvasótermébe telepített, internet-hozzáférést biztosító számítógépek elsősorban a katalógusban való keresést és az adatbázisok használatát szolgálják, de önálló munkavégzésre is alkalmasak. Az adatbázisokból letölthető dokumentumok saját célra lementhetők, e-mail-ben elküldhetők.  
 A könyvtárban wifin keresztül saját eszközökkel is csatlakozhatnak az internetre.
 ``````markdown
-          Beiratkozás
-
-Beiratkozás
+# Beiratkozás
 
 Könyvtári tagságra az egyetemi polgárok (hallgatók, oktatók, alkalmazottak) jogosultak, ők online ([http://opac3.ms.sapientia.ro/hu_HU/](http://opac3.ms.sapientia.ro/hu_HU/ ) - Online regisztráció) vagy személyesen, a könyvtárban iratkozhatnak be.
 
@@ -840,8 +824,6 @@ Oktatóknak, alkalmazottaknak nem szükséges fényképet hozniuk. Külső szem�
 
 ``````markdown
 # Katalógus
-
-Katalógus
 
 A keresett művel (könyv, folyóirat, elektronikus dokumentum, szakdolgozat) kapcsolatban a könyvtár számítógépes katalógusában találunk információkat. Elektronikus katalógusunk építése folyamatos, elérhető interneten keresztül a következő címen: [http://opac3.ms.sapientia.ro/hu_HU/](http://opac3.ms.sapientia.ro/hu_HU/ )[.](http://193.16.218.70/monguz/index.jsp )
 
@@ -937,7 +919,7 @@ A Sapientia EMTE Marosvásárhelyi Kar Hallgatói Önkormányzatának jelenlegi 
 
 A HÖK Szervezeti- és működési szabályzata letölthető [innen](https://ms.sapientia.ro/content/docs/MsHOeK%20SzMSz.pdf).
 ``````markdown
-Akkreditáció
+# Akkreditáció
 
 Az egyetem jogi helyzete (https://sapientia.ro/hu/az-egyetemrol/akkreditacio/az-egyetem-jogi-helyzete)
 Akkreditációs felmérések dokumentumai (https://sapientia.ro/hu/az-egyetemrol/akkreditacio/akkreditacios-felmeresek-dokumentumai)
@@ -953,11 +935,9 @@ Törvénytár (https://sapientia.ro/hu/az-egyetemrol/akkreditacio/torvenytar)
 ``````markdown
 # Alumni
 
-Alumni
-
 A Sapientia Alumni program célja, hogy folyamatos kapcsolatot tartson fenn a Sapientia Erdélyi Magyar Tudományegyetem karain végzett hallgatókkal, hogy segítse pályafutásukat, és a visszajelzések révén hozzájáruljon egy minőségi, egyre inkább piacorientált oktatás fejlesztéséhez. Minden végzős hallgató automatikusan az Alumni tagjává válik.
 
-Szolgáltatások:
+# Szolgáltatások:
 
 * az Alumni adatbázishoz való hozzáférés;
 * évfolyam-találkozók szervezésében nyújtott segítség;

@@ -18,7 +18,7 @@ Ipari Mérnök és Alkalmazott Fizika Kutatóközpont (https://ms.sapientia.ro/h
 DAMERG Nyelvészeti Kutatóközpont (https://ms.sapientia.ro/hu/kutatas/kutatokozpontok/damerg-nyelveszeti-kutatokozpont)
 Életminőség Kutatóközpont (https://ms.sapientia.ro/hu/kutatas/kutatokozpontok/eletminoseg-kutatokozpont)
 ``````markdown
-MATINFO Matematika és Informatika Kutatóközpont
+# MATINFO Matematika és Informatika Kutatóközpont
 
 A kutatóközpont célja a tudományos tevékenység ösztönzése és elősegítése a matematika és az informatika különféle szakterületein. A központ a Sapientia EMTE marosvásárhelyi Matematika-Informatika Tanszékének és a csíkszeredai Matematika-Informatika Szakcsoport közös kutatóműhelye.
 
@@ -83,9 +83,7 @@ A kutatóközpont fő vizsgálódási területe a kommunikáció, ezen belül pe
 Kutatócsoport (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-tarsadalomtudomanyok-tanszek/uj-media-kutatocsoport)
 **Kutatási jelentés** (https://ms.sapientia.ro/content/docs/MS/Kutatokozpontok/Media%20es%20Komm/Archive.zip)
 ``````markdown
-ACFA - Automatizálás, Számítástechnika és Alkalmazott Fizika Kutatóközpont
-
-ACFA - Automatizálás, Számítástechnika és Alkalmazott Fizika Kutatóközpont
+# ACFA - Automatizálás, Számítástechnika és Alkalmazott Fizika Kutatóközpont
 
 AZ ACFA (Automatizálás, Számítástechnika és Alkalmazott Fizika) Kutatóközpont célja a tudományos kutatás támogatása villamosmérnöki tudományok, rendszerelmélet, irányítástechnika, számítástechnika, távközlés és alkalmazott fizika területeken a Sapientia Erdélyi Magyar Tudományegyetem Marosvásárhelyi Karán.
 **A kutatóközpont vezető tanácsa**
@@ -98,40 +96,39 @@ AZ ACFA (Automatizálás, Számítástechnika és Alkalmazott Fizika) Kutatókö
 * Tag: Dr. Szabó László Zsolt
 Kutatócsoportok (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_ )
 ``````markdown
-      # Kertészeti, biológiai és alkalmazott kémiai kutatóközpont
+# Kertészeti, biológiai és alkalmazott kémiai kutatóközpont
 
-      A kutatóközpont interdiszciplináris jellegű, célja a kutatás és tervezés, valamint a technológiai transzfer a növénytermesztés területén. A kutatómunkát más tevékenységek is kiegészítik, így elemzések, szakvélemények készítése, különféle szolgáltatások, közvetítői tevékenység, valamint szakkönyvek és szakfolyóiratok kiadása.
+A kutatóközpont interdiszciplináris jellegű, célja a kutatás és tervezés, valamint a technológiai transzfer a növénytermesztés területén. A kutatómunkát más tevékenységek is kiegészítik, így elemzések, szakvélemények készítése, különféle szolgáltatások, közvetítői tevékenység, valamint szakkönyvek és szakfolyóiratok kiadása.
 
-      ---
+---
+**A kutatócsoport tagjai**
 
-      **A kutatócsoport tagjai**
+**Elnök: Dr. Balog Adalbert, egyetemi tanár**
 
-      **Elnök: Dr. Balog Adalbert, egyetemi tanár**
+* Dr. Bálint János, egyetemi tanár
+* Dr. Ferencz László, egyetemi docens
+* Dr. Fodorpataki László, egyetemi docens
+* Dr. Abod Éva, adjunktus
+* Dr. Balla Géza, adjunktus
+* Dr. Bandi Attila, adjunktus
+* Dr. Bartha Csaba, adjunktus
+* Dr. Benedek Klára, adjunktus
+* Dr. Biró-Janka Béla, adjunktus
+* Dr. Csiszér Levente, adjunktus
+* Dr. Domokos Erzsébet, docens
+* Dr. Fazakas Csaba, adjunktus
+* Dr. Kentelky Endre, docens
+* Dr. Nyárádi Imre-István, docens
+* Dr. Moldován Csaba, adjunktus
+* Dr. Szabó Károly-Attila, adjunktus
+* Molnár Katalin, tanársegéd
+* Putnoky-Csicsó Barna, tanársegéd
 
-      * Dr. Bálint János, egyetemi tanár
-      * Dr. Ferencz László, egyetemi docens
-      * Dr. Fodorpataki László, egyetemi docens
-      * Dr. Abod Éva, adjunktus
-      * Dr. Balla Géza, adjunktus
-      * Dr. Bandi Attila, adjunktus
-      * Dr. Bartha Csaba, adjunktus
-      * Dr. Benedek Klára, adjunktus
-      * Dr. Biró-Janka Béla, adjunktus
-      * Dr. Csiszér Levente, adjunktus
-      * Dr. Domokos Erzsébet, docens
-      * Dr. Fazakas Csaba, adjunktus
-      * Dr. Kentelky Endre, docens
-      * Dr. Nyárádi Imre-István, docens
-      * Dr. Moldován Csaba, adjunktus
-      * Dr. Szabó Károly-Attila, adjunktus
-      * Molnár Katalin, tanársegéd
-      * Putnoky-Csicsó Barna, tanársegéd
+---
 
-      ---
-
-      **Kutatócsoport (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/kerteszmernoki-tanszek_/ppgroup)**
+**Kutatócsoport (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/kerteszmernoki-tanszek_/ppgroup)**
 ``````markdown
-Ipari Mérnök és Alkalmazott Fizika Kutatóközpont
+# Ipari Mérnök és Alkalmazott Fizika Kutatóközpont
 
 A központ célja a tudományos kutatás a mérnöki tudományok területén. A kutatómunkát egyéb tevékenységek is kiegészítik, így elemzések, szakvélemények készítése, különféle szolgáltatások, közvetítői tevékenység, valamint szakkönyvek és szakfolyóiratok kiadása.
 
@@ -154,13 +151,13 @@ A központ célja a tudományos kutatás a mérnöki tudományok területén. A 
 
 **Kutatócsoportok** [ITT](https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/gepeszmernoki-tanszek_ )
 ``````markdown
-DAMERG Nyelvészeti Kutatóközpont
+# DAMERG Nyelvészeti Kutatóközpont
 
 A DAMERG kutatóközpont elsősorban az alkalmazott nyelvészet területén fejti ki tevékenységét: fő kutatási irányai közé tartoznak a terminológiai, szaknyelvi vizsgálatok, az audiovizuális és online sajtó nyelvhasználati sajátosságai, a fordítás- és tolmácsolástudományi elemzések (különös tekintettel az új technológiákra és az interkulturális vonatkozásokra), illetve a szociolingvisztikai vizsgálódások (kétnyelvűség, nyelvi tájkép, kisebbségi nyelvhasználat, antropológiai nyelvészeti kutatások).
 
 ---
 
-A kutatóközpont tagjai
+# A kutatóközpont tagjai
 
 **Elnök: Dr. Suba Réka, docens**
 
@@ -177,7 +174,7 @@ A kutatóközpont tagjai
 * Dr. Suciu Sorin, adjunktus
 * Barabás Blanka, tanársegéd
 
-Külső munkatársak:
+# Külső munkatársak:
 
 * Dr. Butiurcă Doina, George Emil Palade Orvosi, Gyógyszerészeti és Tudomány és Technológiai Egyetem, Marosvásárhely
 * Dr. Boldea Iulian, George Emil Palade Orvosi, Gyógyszerészeti és Tudomány és Technológiai Egyetem, Marosvásárhely
@@ -196,7 +193,7 @@ Külső munkatársak:
 
 Kutatócsoportok (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-nyelveszeti-tanszek_/damerg )
 ``````markdown
-Életminőség Kutatóközpont
+# Életminőség Kutatóközpont
 
 Évente megrendezésre kerül a Közegészségügyi konferencia.
 **A kutatócsoport tagjai:**
@@ -213,9 +210,7 @@ Kutatócsoportok (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott
 * dr. Lukács-Márton Réka, adjunktus
 * dr. Tatai Csilla, pszichológus, külső munkatárs
 ```markdown
-DAMERG
-
-DAMERG
+# DAMERG
 
 A DAMERG kutatóközpont a Sapientia EMTE Alkalmazott Nyelvészeti Tanszékének oktatóit, valamint a különböző kutatási területekhez csatlakozott külső szakembereket tömörítő intézmény. A központ kutatási irányai közé az alábbiak tartoznak:  
 
@@ -271,13 +266,13 @@ Trans-Linguistica 4. Soknyelvűség és többnyelvűség. Sapientia EMTE, MK   
 * Fazakas Noémi, Bodó Csanád, Moldvai diákok nyelvi tapasztalatai Csíkszeredában. Válság, változás, perspektívák. 2021/04/16–2021/04/17, Sapientia EMTE, Csíkszereda, Románia
 * Fazakas Noémi, Bodó Csanád, Nyelvészeti etnográfia és részvételi kutatás: Négy moldvai csángó Pecha Kucha. XXVIII. Magyar Alkalmazott Nyelvészeti Kongresszus: Nyelvek, nyelvváltozatok, következmények. 2021/04/19–2021/04/20, Pannon Egyetem, Veszprém, Magyarország
 
-  **2020**
+**2020**
 
 * Kovács Gabriella, Technical Translation in Translator Training. 11th World Conference on Learning, Teaching and Educational Leadership (WCLTA-2020). 2020/09/13–2020/09/15, Christian University St. Petersburg, Oroszország
 * Biró Enikő, Nagy Imola Katalin, Kovács Gabriella, Language Teaching Today and Tomorrow. 9th International Conference on Education (IC-ED 2020). 2020/10/29–2020/10/31, National Kapodistrian University of Athens, Görögország
 * Biró Enikő, Individualised multilingualism online – hidden principles of Facebook language practices. Conference on Multilingualism (COM). 2020/06/23–2020/06/25, Reading University, Egyesült Királyság
 
-  **2019**
+**2019**
 
 * Kovács Gabriella, Nyelvtanulási szükségletek és célok angol nyelvvizsga erednények tükrében. VII. Neveléstudományi és Szakmódszertani Konferencia. 2019/01/12–2019/01/14, Štúrovo, Szlovákia
 * Nagy Imola Katalin, Culturemele: taxonomii si implicatii traductologice. Diversitate culturală şi limbaje de specialitate.  2019/06/13–2019/06/14, Kolozsvár, Románia
@@ -287,7 +282,7 @@ Trans-Linguistica 4. Soknyelvűség és többnyelvűség. Sapientia EMTE, MK   
 * Biró Enikő, "When online, English is my mother tongue": negotiating linguistic identities in the digital world. TLANG2. Languaging in Times of Change / TLANG2 / TLANG2, 2019/09/26–2019/09/27, Stirling, Egyesült Királyság
 * Kommer Alois, Die landsmannschaftliche Presse als identitätsstiftendes Medium der ausgewanderten Rumäniendeutschen. Nemzetközi konferencia: Migráció és identitás a romániai kulturális térségben. Multidiszciplináris megközelítések. 2019/05/23–2019/05/25, Nagyszeben, Románia
 
-  **2018**
+**2018**
 
 * Kovács Gabriella, Nyelvtanítás és célnyelvi kultúra. VI. Neveléstudományi és Szakmódszertani Konferencia. 2018/01/14–2018/01/15, Párkány (Šturovo), Szlovákia
 * Kovács Gabriella, The significance of developing second language reading skills in translator training and language teacher training. 9th World Conference on Learning, Teaching and Educational Leadership. 2018/10/26–2018/10/28, Róma, Olaszország
@@ -298,7 +293,7 @@ Trans-Linguistica 4. Soknyelvűség és többnyelvűség. Sapientia EMTE, MK   
 * Suciu Sorin, Intentionality and Purpose in the Translation of a Political Discourse. Communication, Context and Interdisciplinarity. 2018/10/20–2018/10/21, Târgu-Mureş, România
 * Biró Enikő, A battlefield of language policies, ideologies and beliefs – multilingual schoolscapes in Romania. The 11th International Conference on Multilingualism and Third Language Acquisition. 2018/09/12–2018/09/15, Lisszabon, Portugália
 
-  **2017**
+**2017**
 
 * Kovács Gabriella, Angol idiómák a fordítóképzésben - felismerés, megértés, fordítás. V. Neveléstudományi és Szakmódszertani Konferencia. 2017/01/15–2017/01/16, Párkány, Szlovákia
 * Pásztor Judit, Orbán Norbert, Nagy Imola Katalin, Kovács Gabriella, Farmos Rudolf, Háromnyelvű, képes, műszaki, mezőgazdasági fogalomtár honlap ismertetése. IV. Erdélyi Kertész és Tájépítész Konferencia. 2017/05/05–2017/05/06, Marosvásárhely, Románia
@@ -310,7 +305,7 @@ Trans-Linguistica 4. Soknyelvűség és többnyelvűség. Sapientia EMTE, MK   
 * Biró Enikő, Schoolscape tales about teaching languages in Hungarian minority schools in Romania. 11th International Symposium on Bilingualism. 2017/06/10–2017/06/15, Limerick, Írország
 * Kommer Alois, Terminologiedatenbanken – IT-Modeerscheinung oder nützliche Übersetzungswerkzeuge?. Soknyelvűség és többnyelvűség Európában. 2017/05/25–2017/05/27, Marovásárhely, Románia
 
-  **2016**
+**2016**
 
 * Nagy Imola Katalin, The problem of synonymy in medical texts. The International Conference on Cultural Diversity and plurilingualism. 2016/09/08–2016/09/09, Cluj/Kolozsvár, Romania
 * Pletl Rita, A nyelvi tényező szerepe a romániai magyar tannyelvű szakképzésben. XVI. Országos neveléstudományi konferencia. 2016/11/17–2016/11/19, Szeged Magyarország
@@ -352,7 +347,7 @@ Trans-Linguistica 4. Soknyelvűség és többnyelvűség. Sapientia EMTE, MK   
 **2016**
 ...
 ``````markdown
-Új média kutatócsoport
+# Új média kutatócsoport
 
 http://www.pralpha.ro
 
@@ -668,7 +663,7 @@ További részletek (https://ms.sapientia.ro/content/content_photos/Tartalom/GMT
 ``````markdown
 PPGroup
 
-Növényvédelmi Kutatócsoport
+# Növényvédelmi Kutatócsoport
 
 **Témakörök:**
 
@@ -771,7 +766,7 @@ Tagok
 
 ---
 
-Publikációk
+# Publikációk
 
 * Kovács Andrea, Antal Margit, Mouse Dynamics-based Bot Detection. SZAMOKT XXXII., October 13-16, 2022, Targu-Mures, Romania, pp. 140-145.
 * Kamil Książek, Przemysław Głomb, Michał Romaszewski, Michał Cholewa, Bartosz Grabowski, Krisztian Buza (2022):  
@@ -786,10 +781,6 @@ Publikációk
 * Buza K., Antal M. (2021) Convolutional Neural Networks with Dynamic Convolution for Time Series Classification, pp. 304-312. In: Wojtkiewicz K., Treur J., Pimenidis E., Maleszka M. (eds) Advances in Computational Collective Intelligence. ICCCI 2021. Communications in Computer and Information Science, vol 1463. Springer, Cham.
 * Margit Antal, Norbert Fejer, Krisztian Buza (2021), SapiMouse: Mouse Dynamics-based User Authentication Using Deep Feature Learning, 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI), 2021.
 ``````markdown
-CAL-Sapientia
-
-CAL-Sapientia
-
 **Számítógéppel támogatott oktatás**
 
 ### **Témakörök**
@@ -875,7 +866,7 @@ CAL-Sapientia
   + Facebook: (Facebook (https://www.facebook.com/AlgoRythmics/))
   + Instagram: (Instagram (https://www.instagram.com/algorythmics/))
 ``````markdown
-CIRG
+# CIRG
 
 Fontosabb kutatási témáink: klaszterező és részlegesen felügyelt klaszterező algoritmusok, evolúciós algoritmusok, digitális jel- és képfeldolgozás, beszédtechnológia: folyamatos beszédfelismerés, beszédszintézis, nyelvi erőforrások fejlesztése, alkalmazások nagy adatbázisokkal, élettani rendszerek modellezése és szimulációja, protein együtthatási hálózatainak tanulmányozása, virtualizációs technikák.
 
@@ -960,7 +951,7 @@ Fontosabb kutatási témáink: klaszterező és részlegesen felügyelt klaszter
 
 **Publikációk**
 
-Journal papers:
+## Journal papers:
 
 1. Győrfi Á, Szilágyi L, Kovács L: A fully automatic procedure for brain tumor segmentation from multi-spectral MRI records using ensemble learning and atlas-based data enhancement. Applied Sciences 11(2):564, pp. 1–24, 2021.
 
@@ -1169,9 +1160,8 @@ P. Kupán:
 the Gamma function, ACTA UNIVERSITATIS SAPIENTIAE, MATHEMATICA, 9/2, (2017), 291−302.
 
 2. A.P. Kupán, About strong starlikeness conditions, FILOMAT, 32/6, (2018), 2035-2042.
-```APEMBSYS
-
-APEMBSYS
+```
+# APEMBSYS
 
 Kutatócsoportunk az újrakonfigurálható áramkörökre illetve mikrovezérlőkre épülő, digitális áramkörökön megvalósított beágyazott rendszerek tervezésével, implementációjával és tesztelésével foglalkozik. Az érintett főbb témakörök a következők:
 
@@ -1270,9 +1260,7 @@ Kutatócsoportunk az újrakonfigurálható áramkörökre illetve mikrovezérlő
 17. Simulation and application of Spiking Artificial neural networks, Project manager - Prof. dr. ing. Iuliu Székely, Research Institute of the Sapientia Foundation, 2003-2004.
 
 18. Modeling and simulation of neuromorphic artificial neuronal networks, Project manager - Prof. dr. ing. Iuliu Székely, Research Institute of the Sapientia Foundation, 2002-2003.```markdown
-CIRG
-
-CIRG
+# CIRG
 
 Fontosabb kutatási témáink: klaszterező és részlegesen felügyelt klaszterező algoritmusok, evolúciós algoritmusok, digitális jel- és képfeldolgozás, beszédtechnológia: folyamatos beszédfelismerés, beszédszintézis, nyelvi erőforrások fejlesztése, alkalmazások nagy adatbázisokkal, élettani rendszerek modellezése és szimulációja, protein együtthatási hálózatainak tanulmányozása, virtualizációs technikák.
 
@@ -1308,7 +1296,7 @@ Tagok:
 * Lehel Crăciun, hallgató
 * Lehel Szabó, hallgató
 
-A kutatócsoport partnerintézményei
+## A kutatócsoport partnerintézményei
 
 * BME Budapest (Hungary), Dept. Of Control Engineering and Information Technology, Balázs Benyó, (http://iit.bme.hu)
 * Canterbury University of Christchurch (New Zealand), Geoffrey Chase
@@ -1318,7 +1306,7 @@ A kutatócsoport partnerintézményei
 * Mircea Giurgiu, Speech Processing Group, Technical University of Cluj-Napoca, (http://speech.utcluj.ro)
 * UMFST Tg. Mureş, Sándor M. Szilágyi
 
-Elnyert kutatási projektek, szerződések
+## Elnyert kutatási projektek, szerződések
 
 * KPI grant: Multi-atlas based segmentation of medical images for diagnostics and therapy planning (2019/05-2021/05, 10000 EUR)
 * KPI grant: Detection and segmentation of tubular shapes and structures in low-resolution volumetric image data (2017/03–2018/08, 20000 RON)
@@ -1328,7 +1316,7 @@ Elnyert kutatási projektek, szerződések
 * Székely Előfutár Fellowship (Zoltán Kapás, 2016-2017, 1000 USD), (Bálint Borsos, 2018-2019, 1000 USD)
 * Accenture Student Research Fellowship (Zsófia Szabó, 2018, 4000 RON), (Bálint Borsos, 2018, 4000 RON)
 
-Konferencia szervezés
+## Konferencia szervezés
 
 * INES 2021 ¬– Program Committee Co-chair: László Szilágyi
 * INES 2020 ¬– Program Committee Co-chair: László Szilágyi
@@ -1336,7 +1324,7 @@ Konferencia szervezés
 * PSIVT 2017 – Program Committee member: László Szilágyi
 * MDAI 2016, 2017, 2018, 2019, 2020, 2021 – Program Committee member: László Szilágyi
 
-Konferencia részvétel
+## Konferencia részvétel
 
 * ICONIP 2016 – International Conference on Neural Information Processing – Kyoto (Japan)
 * ICONIP 2017 – International Conference on Neural Information Processing – Guangzhou (China)
@@ -1355,7 +1343,7 @@ Konferencia részvétel
 * FSKD 2018 – International Conference on Fuzzy Systems and Knowledge Discovery – Huangshan (China)
 * EMBC 2019 – Annual International Conference of the IEEE EMBS – Berlin (Germany)
 
-Publikációk
+# Publikációk
 
 Journal papers:
 
@@ -1469,10 +1457,6 @@ Találmányok, prototípusok, termékek, demók
 ``````markdown
 # NARC
 
-NARC
-
-NARC
-
 Hálózati irányítások: A kutatás célja új irányítási stratégiák kidolgozása hálózatokra és multi-ágens rendszerekre. Vizsgáljuk az újonnan kidolgozott matematikai módszerek (stabilitásvizsgálati-, matematikai modellezési-, optimizálási eljárások) alkalmazhatóságát hálózati rendszerek irányítására. Vizsgáljuk a kommunikációs késleltetések hatását hálózat irányítási rendszerek minőségi jellemzőire. Alkalmazási területekként szóba jöhetnek például smart grid elektromos energiatermelő rendszerek, nemlineáris folyamathálózatok, hálózati adatforgalom irányítási alkalmazások, biológiai hálózatok.
 
 Autonóm robotcsoportok irányítása: A kutatás célja irányítási stratégiák, pályatervezési módszerek, lokalizációs technikák kidolgozása csapatokban mozgó mobilis robot-ágenseknek.
@@ -1561,9 +1545,7 @@ Conference proceedings papers, conference participation:
 * Software for the control of robot swarms in CoppeliaSim simulation environment: https://github.com/TARC-Sapientia/SwarmController (https://github.com/TARC-Sapientia/SwarmController)
 * YouTube demos: https://www.youtube.com/channel/UCr5gZCi8ZeS6IMVJ13ursOw/videos (https://www.youtube.com/channel/UCr5gZCi8ZeS6IMVJ13ursOw/videos)
 ``````markdown
-PEDIMCo
-
-PEDIMCo
+# PEDIMCo
 
 A kutatócsoport célja a teljesítményelektronikai konverterek, villamos hajtások, villamos hőtechnikai, felületkezelési alkalmazások, valamint ezek irányítási eljárásainak a fejlesztése. Szakterületek:
 
@@ -1638,7 +1620,7 @@ Dr. Imecs Mária egyetemi professzor, Dr. Dávid László egyetemi professzor, D
 6. DSP-based test platform for the development of boost type switch-mode three phase rectifiers and test platform for the development of induction motor control methods, based on dSPACE type real time development system.
 7. Pulsed Power Supply for the Plasma-Electrolytic Oxidation Process (6kW, +/-1000V, max. 100A, 50kHz)
 ``````markdown
-PRRG
+# PRRG
 
 Két fő irányvonallal foglalkozunk. Az egyik különböző acélok hőkezelése nitrogén - hidrogén plazmában, DCPN illetve ASPN módszerrel. Elvégezzük a kezelt minták optikai- és elektronmikroszkópiás vizsgálatát, valamint a Wickers - keménységprofil mérését. A másik irányvonal a hőkezelés plazmájának tanulmányozása lokális plazmadiagnosztikai módszerrel. Automatizált diagnosztikai rendszerrel, számítógép segítségével mérjük a szonda U-I karakterisztikáját és határozunk meg lokális plazmaparamétereket. E mellett a szonda radiális mozgatását is végezzük, így paraméter eloszlást is meghatározunk.
 
@@ -1677,9 +1659,7 @@ Két fő irányvonallal foglalkozunk. Az egyik különböző acélok hőkezelés
 
 10. D. N. Kutasi: Comparative Local Plasma Diagnostics Performed in DCPN and HCAPN Reactors, 2020 IEEE 20th International Symposium on Computational Intelligence and Informatics (CINTI), Budapest, Hungary, 2020, pp. 105-108, doi: 10.1109/CINTI51262.2020.9305848.
 ``````
-Pályázatok
-
-Pályázatok
+# Pályázatok
 
 Pályázatok oktatóknak (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak)
 Pályázatok hallgatóknak (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-hallgatoknak_)
@@ -1698,7 +1678,7 @@ A pályázat beküldésével, a pályázati eljárással kapcsolatos kérdésekb
   
 **A felhívás teljes szövege és a pályázati mellékletek letölthetőek** innen (http://ct.sha.hu/dokumentumok/megjelent-a-2024-2025-os-tanev-palyazati-kiirasa?fbclid=IwZXh0bgNhZW0CMTAAAR2Tp8rppgT3H8nA0wLPuqz7EuwkL1AZczB_6kKqNCVoIWhy-7sMkmtTRQ0_aem_dnk_qUhX8aj47WgXOawI6Q)
 ``````markdown
-Horizont Európa Program
+# Horizont Európa Program
 
 [Horizont Európa – MSCA PF és COFUND 2024](https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/horizont-europa-program/horizont-europa-msca-pf-es-cofund-2024  "Horizont Európa – MSCA PF és COFUND 2024")
 [Horizont Európa - MSCA – Kutatócsere program 2022**MSCA Staff Exchanges 2022 (HORIZON-MSCA-2022-SE-01-01)**](https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/horizont-europa-program/horizont-europa-msca-kutatocsere-program-2022  "Horizont Európa - MSCA – Kutatócsere program 2022")
@@ -1711,7 +1691,7 @@ Horizont Európa Program
 [MTA pályázatok](https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok)
 [Communitas Alapítvány pályázatai](https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/communitas-alapitvany-palyazatai)
 ``````markdown
-KAB pályázatok
+# KAB pályázatok
 
 KAB pályázat - 2024. II. félév (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok/kab-palyazat-2024-ii-felev)
 KAB pályázat - 2024. I. félév (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok/kab-palyazat-2024-i-felev)
@@ -1719,7 +1699,7 @@ KAB pályázat - 2023. I. félév (https://ms.sapientia.ro/hu/kutatas/palyazatok
 KAB pályázat - 2022. II. félév (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok/kab-palyazat-2022-ii-felev)
 KAB pályázat - Publikációs támogatás (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok/kab-palyazat-publikacios-tamogatas)
 ``````markdown
-      # Pályázat kari oktatói minősítési pótlék megítélésére a 2025-ös évre
+# Pályázat kari oktatói minősítési pótlék megítélésére a 2025-ös évre
 
 **A Sapientia EMTE Marosvásárhelyi Kara pályázatot hirdet az oktatók minősítési bérkiegészítésére.**
 
@@ -1752,8 +1732,6 @@ A tanszékvezetők által ellenjegyzett és a tanszék előtt bemutatott pályá
  Sok sikert a pályázáshoz!
 ``````markdown
 # UEFISCDI pályázatok
-
-UEFISCDI pályázatok
 
 2024-es PNCDI IV pályázatok (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/uefiscdi-palyazatok/2024-es-pncdi-iv-palyazatok)
 2024-es PED és PTE pályázati kiírások (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/uefiscdi-palyazatok/2024-es-ped-es-pte-palyazati-kiirasok)

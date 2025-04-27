@@ -4,8 +4,7 @@ Gólyafüzet 2021 (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato
 Gólyafüzet 2019 (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/golyafuzet-2019)
 Gyakorlati órák pótlása (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/gyakorlati-orak-potlasa)
 ``````markdown
-Általános információk az egyetemről
-
+# Általános információk az egyetemről
 Itt az Egyetemről olvashatsz bővebb információkat.
 
 ## Röviden az Egyetemről
@@ -87,13 +86,13 @@ A filmművészet, fotóművészet, média szakos hallgatók a Sapientia EMTE ál
   + Dr. Sztranyiczki Szilárd, egyetemi docens, a Sapientia EMTE oktatási és minőségbiztosítási rektorhelyettese  
      e-mail: sztranyiczkisz@kv.sapientia.ro 
 ``````markdown
-Gyakorlati órák pótlása
+# Gyakorlati órák pótlása
 
 **Kivonat a KT 2013. szeptember 10-i jegyzőkönyvéből**
 
 A Kari Tanács 2013. szeptember 10-én elhatározta, hogy a laboratóriumi gyakorlatok pótlása a következőképpen történik: összesen három laborgyakorlat pótolható, az első laborgyakorlat pótlása díjmentes. A további két gyakorlat pótlásának kérésre történő megszervezési díja a Szenátus által jóváhagyott 20 RON /laborgyakorlat/hallgató. A gyakorlat pótlásának módja felől az oktató határoz.
 ``````markdown
-Szakkoordinátorok
+# Szakkoordinátorok
 
 **A 2024/2025-ös tanév szakkoordinátorainak névsora és elérhetőségeik.**
 
@@ -123,7 +122,7 @@ Szakkoordinátorok
 Ösztöndíjak (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak)
 Fizetési határidők (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/fizetesi-hataridok)
 Adminisztratív díjak (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-dijak_)```markdown
-Ösztöndíjak
+# Ösztöndíjak
 
 Ösztöndíjakról általában (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak/osztondijakrol-altalaban)
 Alkalmi ösztöndíjak (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak/alkalmi-osztondijak)
@@ -132,7 +131,7 @@ Tanulmányi ösztöndíj (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penz
 Szociális ösztöndíj (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak/szocialis-osztondij)
 Ferber-ösztöndíj (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak/ferber-osztondij)
 ``````markdown
-Ösztöndíjakról általában
+# Ösztöndíjakról általában
 
 A Sapientia Erdélyi Magyar Tudományegyetem bármely hallgatója jogosult tanulmányi, szociális, illetve érdemösztöndíjra, amennyiben teljesíti az ösztöndíj megítélésének feltételeit. Az érdem, illetve tanulmányi és a szociális ösztöndíj halmozható, azonban az Egyetemen két párhuzamos képzésben részt vevő diák csak egy szakon jogosult ösztöndíjra, és csak egy képzési ciklusnak megfelelő ideig.
 
@@ -140,11 +139,11 @@ Az összeg a tanulmányi és a rendes vizsgaidőszak időtartamára szól, a pó
 
 Egyetemi ösztöndíjszabályzat (https://sapientia.ro/content/2011-2021/hallgatok/osztondij_szabalyzat_2016.pdf)
 ``````markdown
-Alkalmi ösztöndíjak
+# Alkalmi ösztöndíjak
 
 Ha a család vagy a hallgató anyagi vagy szociális helyzetében hirtelen súlyos változás állt be, alkalmi szociális ösztöndíjért folyamodhat. A kérések elbírálása és az ösztöndíj mértékének megállapítása a Kari Tanács hatáskörébe tartozik. Alkalmi érdemösztöndíjat ítélhet meg a Kari Tanács azoknak a hallgatóknak, akik az egyetem érdekeit szolgáló rendkívüli teljesítményt értek el. Az ösztöndíj mértékéről és folyósításának módjáról a Kari Tanács hivatott dönteni. Az alkalmi ösztöndíjak forrása a kari ösztöndíjkeret fennmaradó része, illetve egyéb saját források.
 ``````markdown
-Érdemösztöndíj
+# Érdemösztöndíj
 
 Az érdemösztöndíjat a hallgatók a második egyetemi félévtől kezdődően nyerhetik el. Az érdemösztöndíj megítéléséhez szükséges tanulmányi átlageredmény szakonkénti alsó küszöbét a Kari Ösztöndíjtanács javaslatára a Kari Tanács állapítja meg. Amennyiben több, ugyanazon tanulmányi átlagot elért hallgató van egy adott szakon és évfolyamon, aki teljesíti az érdemösztöndíjra előírt feltételeket, az előzőtanévben elért kreditindex szerint választják ki az érdemösztöndíjban részesülő hallgatót.
 ``````markdown
@@ -152,10 +151,11 @@ Az érdemösztöndíjat a hallgatók a második egyetemi félévtől kezdődően
 
 A tanulmányi ösztöndíjat a hallgatók az első egyetemi félévtől kezdődően nyerhetik el. Elsőéves hallgatók esetében a tanulmányi ösztöndíj első félévre a felvételi vizsga eredménye alapján ítélhető meg, a második egyetemi félévtől kezdődően az előző félév tanulmányi átlageredménye alapján. A tanulmányi ösztöndíj megítéléséhez szükséges minimális tanulmányi átlageredményt szakonként a Kari Ösztöndíjtanács javaslatára a Kari Tanács állapítja meg. A tanulmányi ösztöndíjak egy adott szakon és évfolyamon az érdemösztöndíjak kiosztása után kerülnek megállapításra, az utolsó érdemösztöndíjas hallgató tanulmányi átlageredményétől kiindulva.
 ``````markdown
+# Szociális ösztöndíj
 
 Szociális ösztöndíj a hallgató által benyújtott kérés (űrlap) és az űrlaphoz mellékelt, a hallgató szociális helyzetét igazoló bizonylatok alapján nyerhető el, amennyiben a hallgató teljesítette az előírt minimális tanulmányi feltételeket. Szociális ösztöndíjra jogosultak azok a hallgatók, akik árvák, félárvák vagy gyermekotthonban nőttek fel. Nem minősül félárvának az a hallgató, akinek szülője újraházasodott.
 ``````markdown
-Ferber-ösztöndíj
+# Ferber-ösztöndíj
 
 Ferber Miklós, az Eastern Michigan University Ipari technológia Karának tanára már az alapításától kezdve támogatta a Sapientia Erdélyi Magyar Tudományegyetemet. Az ösztöndíjat a hallgató egy összegben kapja meg a tanév elején az előző évi teljesítménye függvényében. Egy hallgató csak egyszer részesülhet Ferber-ösztöndíjban a képzése ideje alatt.
 
@@ -248,7 +248,8 @@ Hallgatók (https://host.sdakft.hu/semtehw/ )                       
 Oktatók (https://host.sdakft.hu/semteow/ )
 
 A Neptun rendszer használatával kapcsolatos kérdéseikkel forduljanak a Dékáni Hivatalokban a tanulmányi titkárokhoz. A rendszerbe való sikertelen belépés esetén az *Elfelejtettem a jelszavam* címszóra kattintva lehet jelszócserét kérni a Felhasználónevet (=Azonosító =Neptunkód) beírva. Ebben az esetben az alapértelmezett e-mail-címre küldi a rendszer a visszaállításhoz a linket. Amennyiben ez nem sikeres, a neptun@sapientia.ro (https://sapientia.ro/el_remover_neptun<i class='fa fa-at'></i>sapientia.ro ) e-mail-címen kérhetik jelszavuk visszaállítását, az üzenetben feltüntetve Neptunkódjukat (=Felhasználónév, =Azonosító), nevüket, a kart és hallgatók esetén a szakot is.
-```Dokumentumok
+```
+#Dokumentumok
 
 Egyetemi szabályzatok és eljárási rendek (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/szabalyzatok-es-eljarasi-rendek)
 Egyetemi fejlesztési stratégia (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/fejlesztesi-strategia)
@@ -259,7 +260,7 @@ Oklevelek átvétele
 
 Azon végzett hallgatók, akik a Sapientia Erdélyi Magyar Tudományegyetem által szervezett államvizsgán/disszertáción vettek részt, személyesen átvehetik egyetemi/mesteri oklevelüket Kolozsváron a Rektori Hivatalban (Mátyás kir. u./str. Matei Corvin 4.szám) **hétfőtől csütörtökig 10-13 óra között (csak előzetes időpont egyeztetéssel!)**. Jelentkezni a **diploma****@****sapientia.ro** (https://sapientia.ro/el_remover_diploma<i class='fa fa-at'></i>sapientia.ro ) e-mail-címen lehet (a levelekre csak hétköznap 9-17 óra között áll módunkban válaszolni).
 
-Időpont kéréséhez szükséges adatok:
+## Időpont kéréséhez szükséges adatok:
 
 * név - születési bizonyítvány alapján – ha változott időközben, kérjük azt is beírni
 * CNP (külföldiek esetében személyi igazolvány száma)
@@ -274,7 +275,7 @@ Kérjük, elsősorban azok jelentkezzenek, akiknek sürgősen szükségük van a
 
 **Jelenleg a 2012-ben, 2013-ban, 2014-ben, 2015-ben, 2016-ban, 2017-ben, 2018-ban, 2019-ben, 2020-ban, 2021-ben, 2022-ben és 2023-ban sikeresen záróvizsgázott hallgatók oklevelei vehetők át.**
 
-Az oklevél átvételéhez szükséges:
+## Az oklevél átvételéhez szükséges:
 
 1. előzetes emailes időpont foglalás (a diploma@sapientia.ro (https://sapientia.ro/el_remover_diploma<i class='fa fa-at'></i>sapientia.ro ) e-mail-címen)
 
@@ -306,7 +307,7 @@ Capitolul III, Sectiunea 1, Art. 19.
 
 *További információk a Rektori Hivatal titkárságán kérhetőek, a* *diploma**@**sapientia.ro* (https://sapientia.ro/el_remover_diploma<i class='fa fa-at'></i>sapientia.ro ) *e-mail címen.*
 ``````markdown
-Orvosi rendelő
+# Orvosi rendelő
 
 ### **A Marosvásárhelyi Kar diákjainak egészségügyi felügyeletét dr. Finna Judit Családorvosi Rendelője (https://www.facebook.com/profile.php?id=100021537022581) (Aleea Cornisa 23-as tömbház, külön bejárat) vállalta fel.**
 
@@ -344,7 +345,7 @@ Igazolások, hivatalos iratok végett írjatok e-mailt: finnajutka@yahoo.com.
 
 **Jelentkezni  itt (https://forms.gle/NQkxuQCxcJirbv4L6)**
 ``````
-Lelkigondozás
+# Lelkigondozás
 
 András Csaba SJ jezsuita szerzetes, katolikus egyetemi lelkész vagyok.
 
@@ -427,7 +428,7 @@ Szabályzat (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/szabalyzat_)
 Áraink (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/araink_)
 Bentlakással kapcsolatos költségek kifizetése (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakassal-kapcsolatos-koltsegek-kifizetese_)
 ``````markdown
-Bentlakás jelentkezési kritériumok és szükséges iratok 2024-2025 évre - Első évesek
+# Bentlakás jelentkezési kritériumok és szükséges iratok 2024-2025 évre - Első évesek
 
 **A pályázatokat a következő e-mail címre kell elküldeni: [ocsaba@ms.sapientia.ro]
 
@@ -534,7 +535,7 @@ Az átutalási bizonylatra kérjük feltüntetni a nevet, a kifizetés típusát
 ```
 
 ```markdown
-Rólunk
+# Rólunk
 
 A Sapientia EMTE Tanárképző Intézete (románul: Departamentul de Specialitate cu Profil Psihopedagogic – DSPP) azoknak a hallgatóknak a pszichopedagógiai képzését vállalja fel, akik az egyetemi szakjuknak megfelelő szakképzettség megszerzése mellett a tanári pálya gyakorlásához szükséges szaktudást és didaktikai kompetenciákat is el szeretnék sajátítani.
 
@@ -548,7 +549,7 @@ A tanárképzési program II. szintjére mesteri tanulmányaikat folytató hallg
 
 Működési szabályzat (https://sapientia.ro/content/Szabalyzatok/HU/Tan%C3%A1rk%C3%A9pz%C3%A9si_programok_m%C3%B3dszertana.pdf )
 ``````markdown
-Hasznos információk
+# Hasznos információk
 
 **I. szintű pedagógiai modul**
 
@@ -638,7 +639,7 @@ Befizetés után a banki bizonylatot a következő e-mail-címre küldjék: **[o
 
 **További kérdésekre ugyanezen az e-mail-címen kérhetnek eligazítást.**
 ``````markdown
-Felvételi
+# Felvételi
 
 ### A képzés I. szintjére való felvételi
 
@@ -717,7 +718,7 @@ Mentortanároknak és irányítótanároknak (https://sapientia.ro/hu/oktatas/ta
 PedPsi Kutatóközpont (https://sapientia.ro/hu/kutatas/kutatokozpontok/tanarkepzo-intezet)
 Álláshirdetések (https://sapientia.ro/hu/oktatas/tanarkepzes/allashirdetesek)
 ``````markdown
-A pedagógiai gyakorlat megszervezése
+# A pedagógiai gyakorlat megszervezése
 
 **I. és II. szintű képzés**
 
@@ -918,8 +919,6 @@ Szerkesztési útmutató - II. szint (https://sapientia.ro/content/Dokumentumok/
 ``````markdown
 # Tudományos kutatási tevékenységek
 
-Tudományos kutatási tevékenységek
-
 ### I. A tudományos kutatás általános elvei
 
 A Tanárképző Intézet tudományos kutatási terve szervesen illeszkedik a Sapientia EMTE kutatási stratégiájának irányelveihez, és összhangban van az intézet általános küldetésének céljaival.
@@ -953,7 +952,7 @@ A Tanárképző Intézet tudományos kutatási terve szervesen illeszkedik a Sap
 11. A környezeti nevelés pedagógiai lehetőségei az egyetem előtti oktatásban
 12. Az interkulturális nevelés pedagógiai lehetőségei az egyetem előtti oktatásban
 ``````markdown
-Törvényi keretek
+# Törvényi keretek
 
 * Ordin al ministrului educației nr. 5566/2021 (https://sapientia.ro/content/2011-2021/TKI/Cadrul%20legislativ/OM%205566_2021_DSPP_institutii%20acreditate_monitor.pdf)
 * Ordinul 5191/2019 din 18 septembrie 2019 (https://sapientia.ro/content/2011-2021/TKI/OM_5191_2019.pdf)
@@ -1003,8 +1002,7 @@ Törvényi keretek
 * dr. Toró Tibor egyetemi docens, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Tor%C3%B3%20Tibor.pdf)
 * dr. Zoller Katalin egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Zoller%20Katalin-1.pdf)
 
-Titkár
-
+# Titkár 
 Onika Orsolya [onikaorsolya@uni.sapientia.ro]
 
 **Fogadóóra:** hétfő–péntek, 8:00–16:00
@@ -1068,7 +1066,7 @@ A kutatóközpont havi rendszerességgel szervezi meg a Tanárok Akadémiája (h
 MŰKÖDÉSI STATÚTUM (RO) (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/Statutul_CC_22.pdf)
 
 ```markdown
-Záróvizsga
+# Záróvizsga
 
 Alapképzés - Ütemezés és tematikák 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025)
 Mesterképzés - Ütemezés 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025)
@@ -1078,7 +1076,7 @@ Záróvizsga bizottságok (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/za
 Záróvizsga készítési útmutatók (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok)
 Szabályzatok és iratok (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/szabalyzatok-es-iratok)
 ``````markdown
-Alapképzés - Ütemezés és tematikák 2024/2025
+# Alapképzés - Ütemezés és tematikák 2024/2025
 
 Automatika és alkalmazott informatika (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/automatika-es-alkalmazott-informatika)
 Fordító és tolmács (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/fordito-es-tolmacs)
@@ -1093,7 +1091,7 @@ Számítástechnika (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepz
 Tájépítészet (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/tajepiteszet)
 Tanárképző Intézet (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/tanarkepzo-intezet-20202021)
 ``````markdown
-Automatika és alkalmazott informatika
+# Automatika és alkalmazott informatika
 
 Az **Automatika és alkalmazott informatika** szak esetében a záróvizsga két részből áll: 
 
@@ -1113,7 +1111,7 @@ Szóbeli vizsga a megadott tételek alapján Rendszerelmélet és Irányításte
 
 **Az Automatika és alkalmazott informatika szak záróvizsga tematikája INNEN (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/Automatika_Zarovizsga_Tematika_2023_2024.pdf) tölthető le.**
 ``````markdown
-Fordító és tolmács
+# Fordító és tolmács
 
 A **Fordító és tolmács** szak esetében a záróvizsga két részből áll: 
 
@@ -1131,7 +1129,7 @@ A szakdolgozat nyelve lehet szakspecifikus (angol/német), illetve román. A sza
 
 **A  Fordító és tolmács szak záróvizsga tematikája INNEN (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/03%20Tematica%202024-25%20hu-en-de-ro.pdf) tölthető le.**
 ``````markdown
-Gépészmérnöki
+# Gépészmérnöki
 
 A **Gépészmérnöki** szak esetében a záróvizsga a következőkből áll: 
 
@@ -1167,6 +1165,7 @@ A szóbeli vizsgán minden hallgató húz két tételt: egyet az alapismeretek f
 **A záróvizsga időpontja: (hamarosan)**
 
 **Az Infokommunikációs hálózatok és rendszerek (Távközlés) szak záróvizsga tematikája INNEN (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/IHR%20licenszvizsga%20tematika.pdf) tölthető le.**```markdown
+# Informatika
 ### Az **Informatika** szak esetében a záróvizsga két részből áll:
 
 **I. rész: Szakmai ismeretek és kompetenciák ellenőrzése írásbeli dolgozat formájában a megadott tematika és szakirodalom szerint.**
@@ -1187,7 +1186,7 @@ Erre a hallgatónak 10 perc áll rendelkezésre, amely során egy prezentáció 
 
 **Az Informatika szak záróvizsga tematikája (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/Tematika%202022/Tematika_2021_2022_HU_Info.pdf) tölthető le.**
 ``````markdown
-Kertészmérnöki
+# Kertészmérnöki
 
 A **Kertészmérnöki** szak esetében a záróvizsga két részből áll: 
 
@@ -1207,7 +1206,7 @@ Az államvizsgázó diákok szakdolgozataikat power point típusú háttérszeml
 
 **A Kertészmérnöki szak záróvizsga tematikája INNEN (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/Tematika%20a%20Kert%C3%A9szm%C3%A9rn%C3%B6ki.pdf) tölthető le.**
 ``````markdown
-Kommunikáció és közkapcsolatok
+# Kommunikáció és közkapcsolatok
 
 A **Kommunikáció és közkapcsolatok** szak esetében a záróvizsga két részből áll:
 
@@ -1227,6 +1226,7 @@ A szakdolgozathoz csatolni kell a hallgató és az irányító tanár által is 
 
 **A Kommunikáció és közkapcsolatokszak záróvizsga tematikája** ([INNEN](https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/Z%C3%A1r%C3%B3vizsga%20tematika%20ATT.pdf)) **tölthető le.**
 ``````markdown
+# Közegészségügyi szolgáltatások és politikák
 A **Közegészségügyi szolgáltatások és politikák**szak esetében a záróvizsga két részből áll:  
 
 **I. rész: Írásbeli dolgozat megadott tematika és szakirodalom alapján**
@@ -1247,10 +1247,8 @@ A szakdolgozatot magyar nyelven kell megírni, de mellékelni kell a dolgozat 1-
 
 INNEN (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/K%C3%B6zeg%C3%A9szs%C3%A9g%C3%BCgy_%C3%81llamvizsga_tematika_2023_2024.pdf)
 Közegészségügyi szolgáltatások és politikák (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/kozegeszsegugyi-szolgaltatasok-es-politikak-)
-```Mechatronika
-
-Mechatronika
-
+```
+# Mechatronika
 A **Mechatronika**szak esetében a záróvizsga a következőkből áll:
 
 A diplomaterv nyilvános bemutatása és védése.
@@ -1265,7 +1263,8 @@ A diplomadolgozat bemutatására minden hallgatónak 10 perc áll rendelkezésé
 
 **A záróvizsga időpontja: (hamarosan)**
 
-**A Mechatronika szak záróvizsga tematikája (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/Z%C3%A1r%C3%B3vizsga-tematika-Mecha-2024-HU.pdf) tölthető le.**Számítástechnika
+**A Mechatronika szak záróvizsga tematikája (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/Z%C3%A1r%C3%B3vizsga-tematika-Mecha-2024-HU.pdf) tölthető le.**
+# Számítástechnika
 
 A **Számítástechnika** szak esetében a záróvizsga a következőkből áll: 
 
@@ -1288,7 +1287,7 @@ A vizsgával kapcsolatos további részletek a kari honlapon találhatók
 **A záróvizsga időpontja: 2024. július 16., 230-as terem**
 
 **A Számítástechnika szak záróvizsga tematikája INNEN (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/Szamitastechnika_zarovizsga_tematika_2023_2024.pdf) tölthető le.**```markdown
-Tájépítészet
+# Tájépítészet
 
 A **Tájépítészet** szak esetében a záróvizsga a következőkből áll: 
 
@@ -1307,7 +1306,8 @@ A dolgozat és diplomaterv megvédésének (bemutatásának) nyelve magyar, a fe
 **A záróvizsga időpontja: (hamarosan)**
 
 **A Tájépítészet szak záróvizsga tematikája [INNEN](https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/Tematika%20a%20T%C3%A1j%C3%A9p%C3%ADt%C3%A9szet%20szak%20%C3%A1llamvizsg%C3%A1j%C3%A1nak%20%C3%ADr%C3%A1sbeli%20vizsg%C3%A1j%C3%A1hoz%202023-24-1.pdf) tölthető le.**
-```Tanárképző Intézet
+```
+# Tanárképző Intézet
 
 **Pedagógiai portfólió**
 
@@ -1375,13 +1375,13 @@ Számítógépes irányítási rendszerek (https://ms.sapientia.ro/hu/hallgatokn
 Növényorvos (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/novenyorvos)
 Fejlett mechatronikai rendszerek (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/fejlett-mechatronikai-rendszerek)
 ``````markdown
-Szoftverfejlesztés
+# Szoftverfejlesztés
 
 ### **A záróvizsga időpontja: 2024. július 5., 131-es terem**
 
 A disszertáció vizsga a mesteri disszertáció bizottság előtt történő bemutatásából és védéséből áll. A mesteri disszertáció védése nyilvános, a bizottság és a vizsgázó ugyanazon helyen való egyidejű jelenlétében történik.
 ``````markdown
-Nyelvvizsga
+# Nyelvvizsga
 
 Egyetemi szintű nyelvvizsga szabályzat (https://sapientia.ro/content/Szabalyzatok/RO/Regulament_de_org%20_centru_LinguaSap_modif.pdf)
 
@@ -1500,7 +1500,8 @@ Maximális pontszám: 30, a minimális átmenő 15 pont - a Sapientia államvizs
 ---
 
 **A nyelvvizsga bizonyítvány érvényessége meghatározatlan időre szól!**
-```Záróvizsga készítési útmutatók
+```
+# Záróvizsga készítési útmutatók
 
 * Alkalmazott Nyelvészeti Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-nyelveszeti-tanszek__)
 * Alkalmazott Társadalomtudományi Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-tarsadalomtudomanyi-tanszek_)
@@ -1509,7 +1510,7 @@ Maximális pontszám: 30, a minimális átmenő 15 pont - a Sapientia államvizs
 * Matematika-Informatika Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/matematika-informatika-tanszek__)
 * Villamosmérnöki Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__)
 * Tanárképző Intézet (https://sapientia.ro/hu/oktatas/tanarkepzes/a-zarovizsga-metodologiaja)```markdown
-Fordító és tolmács szak
+# Fordító és tolmács szak
 
 Alkalmazott Nyelvészeti Tanszék útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/03%20Szakdolgozat-keszitesi%20utmutato%202025.pdf)
 Alkalmazott Nyelvészeti Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-nyelveszeti-tanszek__)
@@ -1539,7 +1540,7 @@ Gépészmérnöki szak (https://ms.sapientia.ro/data/Szakdolgozat%20GMT%20Gepesz
 ``````
 Növényorvos mesteri szak útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/Szakdolgozat%20KMT%20N%C3%B6v%C3%A9nyorvosi%202025_01_17.pdf)
 ``````markdown
-Informatika szak
+# Informatika szak
 
 **Matematika-Informatika Tanszék útmutatója** (https://ms.sapientia.ro/content/2011-2021/Szakdolgozat%20MIT%20Informatika.pdf)
 **Informatika alapszak államvizsgasablon** (https://ms.sapientia.ro/content/docs/MS/Diplomadolgozat.zip)
@@ -1552,7 +1553,7 @@ Infokommunikációs hálózatok és rendszerek szak (https://ms.sapientia.ro/dat
 ```
 Számítástechnika szak (https://ms.sapientia.ro/data/Szakdolgozat%20VMT%20Szamitastechnika.doc)
 ```markdown
-A záróvizsga metodológiája
+# A záróvizsga metodológiája
 
 A tanárképzési program mind az I., mind a II. szint esetében vizsgával zárul.
 

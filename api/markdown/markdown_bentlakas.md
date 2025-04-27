@@ -7,7 +7,7 @@ Szabályzat (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/szabalyzat_)
 Áraink (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/araink_)
 Bentlakással kapcsolatos költségek kifizetése (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakassal-kapcsolatos-koltsegek-kifizetese_)
 ``````markdown
-Bentlakás jelentkezési kritériumok és szükséges iratok 2024-2025 évre - Első évesek
+# Bentlakás jelentkezési kritériumok és szükséges iratok 2024-2025 évre - Első évesek
 
 **A pályázatokat a következő e-mail címre kell elküldeni: [ocsaba@ms.sapientia.ro]
 
@@ -15,7 +15,7 @@ Bentlakás jelentkezési kritériumok és szükséges iratok 2024-2025 évre - E
 
 ---
 
-A pályázathoz a következő iratok szükségesek:
+## A pályázathoz a következő iratok szükségesek:
 
 1. a szülők részéről az adóhivatal által kibocsátott **igazolás** arra vonatkozóan, hogy van-e vagy nincs megadózandó jövedelmük (**Adeverință de venit**).
 
@@ -100,7 +100,7 @@ Szabályzat
 
 \*Az összeg a szobát igénylők létszámának függvényében osztódik (a szoba befogadóképessége max. 3 személy)
 ``````markdown
-A bentlakással kapcsolatos költségeket az alábbi bankszámlára lehet utalni:
+# A bentlakással kapcsolatos költségeket az alábbi bankszámlára lehet utalni:
 
 **RO72BTRLRONCRT003922180F**
 

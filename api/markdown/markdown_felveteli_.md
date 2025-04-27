@@ -1,3 +1,4 @@
+
 Felvételi
   * Online beiratkozás (https://felveteli.sapientia.ro/)
   * Alapképzés (https://ms.sapientia.ro/hu/felveteli/alapkepzes)
@@ -16,29 +17,48 @@ Felvételi
   * Felvételi eredmények (https://ms.sapientia.ro/hu/felveteli/felveteli-eredmenyek)
   * Nyílt Napok (https://ms.sapientia.ro/hu/felveteli/nyilt-napok)
   * Virtuális séta (https://sapientia.ro/hu/az-egyetemrol/rolunk/virtualis-seta)
+
 # Felvételi kritériumok és beiskolázási számok 2025
+
 ### Felvételi kritériumok és helyek száma - 2025
+
 - alapképzés (https://ms.sapientia.ro/content/docs/MS/Felveteli/2025/MK_szenatusra_Felveteli_kriteriumok_2025_Alapkepzes.pdf)
 - mesterképzés (https://ms.sapientia.ro/content/docs/MS/Felveteli/2025/MK_szenatusra_Felveteli_kriteriumok_2025_Mesteri.pdf)
+
 # Felvételi mappához szükséges iratok
+
 Szükséges iratok (https://sapientia.ro/hu/felveteli/szukseges-iratok)
+
 **Felvételi tematika, mintafeladatok, mintatételek**
 **Alapképzés**
+
 A felvételi vizsga **kötelező** azon jelentkezők számára, akik **nem rendelkeznek** érettségi írásbeli vizsga jeggyel **matematikából**, **informatikából** vagy **fizikából**, és az Automatika és alkalmazott informatika, Informatika, Számítástechnika, Infokommunikációs hálózatok és rendszerek (Távközlés), Mechatronika és Gépészmérnöki szakok egyikére jelentkeztek:
+
 * **Fizika** (https://ms.sapientia.ro/data/Tematika_Fizika_felveteli_2016.pdf)
 * **Informatika** (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/Felveteli_tematika_INFO.pdf)
 * **Matematika** (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/Felveteli%20Tematika.pdf)
+
 A Fordító-tolmács szakra jelentkezők számára, amennyiben a jelentkező **nem rendelkezik** a felvételi jegy **2. és/vagy 3.** összetevőjével (lásd a **Felvételi Szabályzat** (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok) 5.7. fejezetét):
+
 * **Fordító-Tolmács szak tételminta (angol)** (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/Sapientia%20EMTE%20Fordito%20tetelminta%20EN%202022.pdf)
 * **Fordító-Tolmács szak tételminta (magyar)** (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/Sapientia%20EMTE%20Fordito%20tetelminta%20HU%202022.pdf)
 * **Fordító-Tolmács szak tételminta (német)** (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/Sapientia%20EMTE%20Fordito%20tetelminta%20DE%202022.pdf)
+
 **Felvételi kritériumok** (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-kriteriumok-es-beiskolazasi-szamok-2024)
+
+
+
 **Mesterképzés**
+
 * **Fejlett mechatronikai rendszerek** (https://ms.sapientia.ro/content/docs/MS/Felv%C3%A9teli-tematika-FMR-2024-HU.pdf)
 * **Növényorvos** (https://ms.sapientia.ro/content/docs/MS/Felveteli/2024/Novenyorvos%20MSc%20felveteli%20tematika%202024.pdf)
 * **Szoftverfejlesztés** (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/SZF_Tematika_2022_2023_HU.pdf) / **RO** (https://ms.sapientia.ro/content/docs/MS/Tematica_2022_2023_RO.pdf)
 * **Számítógépes irányítási rendszerek** (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/SZIR%20mesteri_Tematika_2022_javitott_PDF.pdf) / **RO** (https://ms.sapientia.ro/content/docs/MS/Szir_tematika_romanul.pdf)
+
+
+
 **Az előző évek felvételi tételei**
+
 * **Fizika 2016** (https://ms.sapientia.ro/data/dokumentumok/felveteli-2018/Fizika%202016(1).pdf)
 * **Fizika 2017** (https://ms.sapientia.ro/data/dokumentumok/felveteli-2018/Fizika%202017.pdf)
 * **Fizika 2018** (https://ms.sapientia.ro/data/dokumentumok/zarovizsga%20tematikak/Fizika_2018.pdf)
@@ -57,7 +77,11 @@ A Fordító-tolmács szakra jelentkezők számára, amennyiben a jelentkező **n
 * **Matematika 2022** (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/felveteli_matematika_honlapra_1.pdf)
 * **Matematika 2023** (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Felveteli_Matek2023SZEPT-B-Varians_1.pdf) **(javítókulcs)** (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Felveteli_Matek2023SZEPT-B-VariansJAVITOKULCS_1.pdf)
 * **Angol v1** (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/felv_23_oszi_4.pdf) • **v2** (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/felv_23_oszi_5.pdf) • **v3** (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/felv_23_oszi_6.pdf)
+
 A  2025/2026-os **EGYETEMI** felvételi szabályzat (https://sapientia.ro/content/Szabalyzatok/HU/Felveteli-szabalyzat_2025.pdf) olvasható.
+
 A Sapientia EMTE Marosvásárhelyi Karának **ALAPKÉPZÉSRE** vonatkozó felvételi szabályzata  (https://ms.sapientia.ro/content/docs/MS/Felveteli/2025/MK_Alapkepzes_felveteli_szabalyzat_2025-2026_vegleges.pdf) érhető el.
+
 A Sapientia EMTE  Marosvásárhelyi Karának **MESTERKÉPZÉSRE** vonatkozó felvételi szabályzata (https://ms.sapientia.ro/content/docs/MS/MK_Mesterkepzes%20felveteli%20szabalyzat%202025-2026_vegleges_alairva.pdf)érhető el.
+
 ### Külföldi oklevéllel rendelkezők beiratkozása (https://www.sapientia.ro/hu/felveteli/kulfoldi-oklevellel-rendelkezoknek )

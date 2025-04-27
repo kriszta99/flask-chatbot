@@ -13,8 +13,7 @@ Partnerek (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/partnerek)
 Nemzetközi hallgatók (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/nemzetkozi-hallgatok)
 Kapcsolat (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/kapcsolat-nemzetkozi-kapcsolatok)
 ``````markdown
-Erasmus+
-
+# Erasmus+
 
 Pályázati felhívások (hallgatók) (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok)
 Pályázati felhívások (oktatók és felsőoktatási munkatársak) (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-oktatok-es-felsooktatasi-munkatarsak)
@@ -153,7 +152,7 @@ Sepsiszentgyörgyi Kar: ITT (https://sepsi.sapientia.ro/hu/nemzetkozi-kapcsolato
 
 **A pályázatok beküldésének periódusa: 2025. február 24. hétfő déli 12,00 órától 2025. március 17. hétfő déli 12,00 óráig.**
 
-További információk a kari Erasmus+ koordinátoroknál:
+## További információk a kari Erasmus+ koordinátoroknál:
 
 * Csíkszeredai Kar: Bors Hortenzia, borshortenzia@uni.sapientia.ro 
 * Kolozsvári Kar: Sipos Ottilia, kv.erasmus@kv.sapientia.ro 
@@ -551,7 +550,7 @@ Tárgylisták (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/t
 Jó tudni (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/jo-tudni)
 Jelentkezés (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/jelentkezes)
 ``````markdown
-Isten hozott az egyetemünkre!
+# Isten hozott az egyetemünkre!
 
 Kedves Cserediákok!
 
@@ -615,7 +614,7 @@ Rövid történelmi bemutató
 
 **Brassaï**, eredeti nevén Halász Gyula (1899-1984): brassói származású fotó- és filmművész, festő, író. A fotóművészet mellett képzőművészként és íróként is sikeres volt, kapcsolatot tartott Pablo Picassoval, Joan Miróval, Salvador Dalíval. A graffitinak, a falakra karcolt és írt képeknek, szavaknak, mondatoknak, a párizsi utca folklórjának képviselője.
 ``````markdown
-Röviden az Egyetemről
+# Röviden az Egyetemről
 
 A Sapientia Erdélyi Magyar Tudományegyetem az erdélyi magyar nyelvű felsőoktatás önálló, akkreditált intézménye. A magyar állam támogatásával 2001-ben létrejött intézmény négy városban működik: Csíkszeredában, Kolozsváron, Marosvásárhelyen és Sepsiszentgyörgyön. A négy, sajátos jelleggel rendelkező oktatási helyszín egységes egyetemi szerkezetet alkot.
 
@@ -625,7 +624,7 @@ Az állami egyetemekhez hasonlóan a Sapientia EMTE tandíjmentes és költségt
 
 Az Egyetemen folyó jelentős kutatási tevékenység finanszírozása az európai uniós, illetve a román kutatási szakhatóság által meghirdetett projektekből, illetve a Kutatási Programok Intézete által biztosított egyetemi kutatási pályázatokból történik. Ezeket számos más egyéni kutatási ösztöndíj és egyéb, kisebb volumenű kutatási projekt egészíti ki. Az Acta Universitatis Sapientiae (https://acta.sapientia.ro/) az egyetem angol nyelvű szakfolyóirata, amely 12 tudományterületen publikálja a legújabb tudományos kutatási eredményeket.
 ``````markdown
-Karok
+# Karok
 
 Csíkszeredai Kar (https://sapientia.ro/hu/az-egyetemrol/oktatasi-helyszinek/csikszeredai-kar)
 Kolozsvári Kar (https://sapientia.ro/hu/az-egyetemrol/oktatasi-helyszinek/kolozsvari-kar)
@@ -882,7 +881,7 @@ Kosárlabda Specifikus Módszertani Központ (https://ksmk.hu/ ) (HU)
 
 ---
 
-Hazai intézmények
+# Hazai intézmények
 
 **2003**
 
@@ -924,7 +923,7 @@ Székely Gazdaszervezetek Egyesülete (https://szekelygazda.ro/ )
 
 ### Erasmus+ partnerintézmények [ITT](http://www.sapientia.ro/hu/erasmus/erasmus-partnerek )
 ``````markdown
-Makovecz Program
+# Makovecz Program
 
 A Makovecz Hallgatói Ösztöndíjprogram teljes szemeszteres részképzéseket, valamint részképzős tanulmányutakat kínál a hallgatók számára más, határon túli magyar nyelvű felsőoktatási intézményekben.
 
@@ -937,7 +936,7 @@ Tárgylisták (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/t
 Partnerintézmények (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program/partnerintezmenyek)
 Korábbi felhívások (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program/korabbi-felhivasok)
 ``````markdown
-Nemzetközi hallgatóknak
+# Nemzetközi hallgatóknak
 
 * A Sapientia EMTE nemzetközi hallgatói útmutatója (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/International-student-guide-Sapientia.pdf )
 * Külföldi állampolgárok beiratkozása (https://sapientia.ro/hu/felveteli/kulfoldi-oklevellel-rendelkezoknek )
@@ -1004,7 +1003,7 @@ Az utazás megtörténését minden esetben igazolni kell, akkor is, hogyha a r�
 
 **A hátrányos helyzetű és a roma származású pályázóktól a jogosultságra vonatkozó iratokat 2025. május 9. péntek délig várjuk, határidőn túl érkező iratokat nem áll módunkban figyelembe venni**! A szükséges iratokról az illetékes kari Erasmus+ koordinátortól lehet felvilágosítást kérni.
 
-Összefoglalva:
+# Összefoglalva:
 
 |  |  |  |
 | --- | --- | --- |
@@ -1090,7 +1089,7 @@ Kolozsvár, 2025. április 09.
 
 BIP pályázati felhívások (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok/bip-palyazati-felhivasok)
 ``````markdown
-Erasmus+ kiutazó diákok (beszámolók)
+# Erasmus+ kiutazó diákok (beszámolók)
 
 Rövid szakmai gyakorlatok (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/rovid-szakmai-gyakorlatok)
 Szakmai gyakorlat mobilitás 2024 nyara (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/szakmai-gyakorlat-mobilitas-2024-nyara)
@@ -1112,7 +1111,7 @@ Tanulmányi mobilitás 2016/2017-es tanév (https://ms.sapientia.ro/hu/nemzetkoz
 Szakmai gyakorlat mobilitás 2016. nyara (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/szakmai-gyakorlat-mobilitas-2016-nyara)
 Tanulmányi Mobilitás 2015/2016-os tanév (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/tanulmanyi-mobilitas-20152016-os-tanev)
 ``````markdown
-Rövid szakmai gyakorlatok
+# Rövid szakmai gyakorlatok
 
 Nagy Nikoletta (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/rovid-szakmai-gyakorlatok/nagy-nikoletta)
 Péter Anita (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/rovid-szakmai-gyakorlatok/peter-anita)
@@ -1121,13 +1120,13 @@ Markus Emese-Erika (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/er
 Bartha Örs Csaba (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/rovid-szakmai-gyakorlatok/bartha-ors-csaba)
 Asztalos Vivien-Katalin (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/rovid-szakmai-gyakorlatok/asztalos-vivien-katalin)
 ``````markdown
-BIP mobilitások (beszámolók)
+# BIP mobilitások (beszámolók)
 
 Act on Sustainability (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/bip-mobilitasok-2022-2023/act-on-sustainability)
 Circularity of Regional Fashion - textile meetup (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/bip-mobilitasok-2022-2023/circularity-of-regional-fashion-textile-meetup)
 JvNU tool design (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/bip-mobilitasok-2022-2023/jvnu-tool-design)
 ``````markdown
-Erasmus+ Partnerek
+# Erasmus+ Partnerek
 
 Andrássy Universität Budapest (https://www.andrassyuni.eu/)
 Biznesa Augstskola Turiba (Turiba University) (http://turiba.lv/en/)
@@ -1181,11 +1180,11 @@ Vilnius Gediminas Technical University (https://www.vgtu.lt/index.php?lang=2)
 Wesley János Lelkészképző Főiskola (http://www.wesley.hu/)
 II. Rákóczi Ferenc Kárpátaljai Magyar Főiskola (Ferenc Rakoczi II. Transcarpathian Hungarian College of Higher Education) (http://kmf.uz.ua/hu/)
 ``````markdown
-Erasmus+ Projektek
+# Erasmus+ Projektek
 
 A Befogadó tanulási környezetek támogatása – stratégiák a gyermeket nevelő, családos hallgatók támogatására a felsőoktatásban projekt (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-projektek/a-befogado-tanulasi-kornyezetek-tamogatasa-strategiak-a-gyermeket-nevelo-csalados-hallgatok-tamogatasara-a-felsooktatasban-projekt)
 ``````markdown
-Dokumentumok, szabályzatok
+# Dokumentumok, szabályzatok
 
 * Erasmus+ Charta, Erasmus+ stratégia, dokumentumok, szabályzatok
 

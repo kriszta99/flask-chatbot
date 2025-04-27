@@ -8,7 +8,7 @@ Matematika-Informatika Tanszék (https://ms.sapientia.ro/hu/a-karrol/tanszeke/ma
 Villamosmérnöki Tanszék (https://ms.sapientia.ro/hu/a-karrol/tanszeke/villamosmernoki-tanszek)
 ```
 ```markdown
-Alkalmazott Nyelvészeti Tanszék
+# Alkalmazott Nyelvészeti Tanszék
 
 **Tanszékvezető:**Dr. Fazakas Noémi, egyetemi docens
 
@@ -40,7 +40,7 @@ Barabás Blanka tanársegéd (https://ms.sapientia.ro/hu/a-karrol/tanszeke/alkal
 Máthé Nóra tanársegéd (https://ms.sapientia.ro/hu/a-karrol/tanszeke/alkalmazott-nyelveszeti-tanszek/mathe-nora)
 Szántó Emese tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/tanszeke/alkalmazott-nyelveszeti-tanszek/szanto-emese)
 ``````markdown
-Alkalmazott Társadalomtudományok Tanszék
+# Alkalmazott Társadalomtudományok Tanszék
 
 **Tanszékvezető:**Dr. Fülöp Otília, egyetemi docens
 
@@ -75,7 +75,7 @@ Bartha Izabella-Ildikó tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/t
 Ungár Judit labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszeke/alkalmazott-tarsadalomtudomanyok-tanszek/ungar-judit)
 Veres Mónika tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/tanszeke/alkalmazott-tarsadalomtudomanyok-tanszek/veres-monika)
 ``````markdown
-Gépészmérnöki Tanszék
+# Gépészmérnöki Tanszék
 
 **Tanszékvezető:**Dr. Forgó Zoltán, egyetemi docens
 
@@ -117,7 +117,7 @@ Gál Károly-István labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszek
 Kiss Tünde tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/tanszeke/gepeszmernoki-tanszek/kiss-tunde)
 Bálint Lajos szakmunkás (https://ms.sapientia.ro/hu/a-karrol/tanszeke/gepeszmernoki-tanszek/balint-lajos)
 ``````markdown
-Kertészmérnöki Tanszék
+# Kertészmérnöki Tanszék
 
 **Tanszékvezető**: dr. Benedek Klára, egyetemi adjunktus
 
@@ -162,9 +162,7 @@ Iakab Márton labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszeke/kerte
 Thiesz Tibor labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszeke/kerteszmernoki-tanszek/thiesz-tibor)
 Szabadi Lídia tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/tanszeke/kerteszmernoki-tanszek/szabadi-lidia)
 ``````markdown
-# Marosvásárhelyi Kar - Sapientia Erdélyi Magyar Tudományegyetem
-
-Matematika-Informatika Tanszék
+# Matematika-Informatika Tanszék
 
 **Tanszékvezető:**dr. Kátai Zoltán, egyetemi docens
 
@@ -201,7 +199,7 @@ Győrfi Ágnes labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszeke/mate
 Lukács Ibolya labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszeke/matematika-informatika-tanszek/lukacs-ibolya)
 Csizmadia Erzsébet tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/tanszeke/matematika-informatika-tanszek/csizmadia-erzsebet)
 ``````markdown
-Villamosmérnöki Tanszék
+# Villamosmérnöki Tanszék
 
 **Tanszékvezető:** dr. Bakó László egyetemi docens
 

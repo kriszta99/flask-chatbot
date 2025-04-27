@@ -23,7 +23,7 @@ A 2024/2025-ös tanév II. félévének órarendje: ([https://sapientia-emte.edu
 ``````markdown
 # Tantárgyi adatlapok
 
-Alapképzés
+# Alapképzés
 
 1. Automatika és alkalmazott informatika (https://ms.sapientia.ro/content/docs/MS/AUT-20230616T071339Z-001.zip)
 2. Közegészségügyi szolgáltatások és politikák (https://drive.google.com/file/d/1xW7EA2NXr40S3GCK6bE5UcnqhfZitcbZ/view?usp=sharing)
@@ -37,7 +37,7 @@ Alapképzés
 10. Tájépítészet (https://drive.google.com/file/d/1bci_KM5dhq5rGILhtG_cJakqK4o3IlIt/view?usp=drive_link)
 11. Távközlés (https://ms.sapientia.ro/content/docs/MS/TST-20230616T072159Z-001.zip)
 
-Mesterképzés
+# Mesterképzés
 
 1. Szoftverfejlesztés (https://drive.google.com/file/d/1FzhVcwuDtwh4h7oHz98647kNeRxqpLFK/view?usp=drive_link)
 2. Fejlett mechatronika rendszerek (https://drive.google.com/file/d/1nGI3ZtuaLrMrVKFnyLOdSW_fgL8AWeWp/view?usp=sharing)

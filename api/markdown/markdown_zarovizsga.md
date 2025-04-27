@@ -1,5 +1,5 @@
 ```markdown
-Záróvizsga
+# Záróvizsga
 
 Alapképzés - Ütemezés és tematikák 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025)
 Mesterképzés - Ütemezés 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025)
@@ -9,7 +9,7 @@ Záróvizsga bizottságok (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/za
 Záróvizsga készítési útmutatók (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok)
 Szabályzatok és iratok (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/szabalyzatok-es-iratok)
 ``````markdown
-Alapképzés - Ütemezés és tematikák 2024/2025
+# Alapképzés - Ütemezés és tematikák 2024/2025
 
 Automatika és alkalmazott informatika (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/automatika-es-alkalmazott-informatika)
 Fordító és tolmács (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/fordito-es-tolmacs)
@@ -24,7 +24,7 @@ Számítástechnika (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepz
 Tájépítészet (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/tajepiteszet)
 Tanárképző Intézet (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/tanarkepzo-intezet-20202021)
 ``````markdown
-Automatika és alkalmazott informatika
+# Automatika és alkalmazott informatika
 
 Az **Automatika és alkalmazott informatika** szak esetében a záróvizsga két részből áll: 
 
@@ -44,7 +44,7 @@ Szóbeli vizsga a megadott tételek alapján Rendszerelmélet és Irányításte
 
 **Az Automatika és alkalmazott informatika szak záróvizsga tematikája INNEN (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/Automatika_Zarovizsga_Tematika_2023_2024.pdf) tölthető le.**
 ``````markdown
-Fordító és tolmács
+# Fordító és tolmács
 
 A **Fordító és tolmács** szak esetében a záróvizsga két részből áll: 
 
@@ -62,7 +62,7 @@ A szakdolgozat nyelve lehet szakspecifikus (angol/német), illetve román. A sza
 
 **A  Fordító és tolmács szak záróvizsga tematikája INNEN (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/03%20Tematica%202024-25%20hu-en-de-ro.pdf) tölthető le.**
 ``````markdown
-Gépészmérnöki
+# Gépészmérnöki
 
 A **Gépészmérnöki** szak esetében a záróvizsga a következőkből áll: 
 
@@ -118,7 +118,7 @@ Erre a hallgatónak 10 perc áll rendelkezésre, amely során egy prezentáció 
 
 **Az Informatika szak záróvizsga tematikája (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/Tematika%202022/Tematika_2021_2022_HU_Info.pdf) tölthető le.**
 ``````markdown
-Kertészmérnöki
+# Kertészmérnöki
 
 A **Kertészmérnöki** szak esetében a záróvizsga két részből áll: 
 
@@ -138,7 +138,7 @@ Az államvizsgázó diákok szakdolgozataikat power point típusú háttérszeml
 
 **A Kertészmérnöki szak záróvizsga tematikája INNEN (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/Tematika%20a%20Kert%C3%A9szm%C3%A9rn%C3%B6ki.pdf) tölthető le.**
 ``````markdown
-Kommunikáció és közkapcsolatok
+# Kommunikáció és közkapcsolatok
 
 A **Kommunikáció és közkapcsolatok** szak esetében a záróvizsga két részből áll:
 
@@ -178,9 +178,8 @@ A szakdolgozatot magyar nyelven kell megírni, de mellékelni kell a dolgozat 1-
 
 INNEN (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/K%C3%B6zeg%C3%A9szs%C3%A9g%C3%BCgy_%C3%81llamvizsga_tematika_2023_2024.pdf)
 Közegészségügyi szolgáltatások és politikák (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/kozegeszsegugyi-szolgaltatasok-es-politikak-)
-```Mechatronika
-
-Mechatronika
+```
+# Mechatronika
 
 A **Mechatronika**szak esetében a záróvizsga a következőkből áll:
 
@@ -219,7 +218,7 @@ A vizsgával kapcsolatos további részletek a kari honlapon találhatók
 **A záróvizsga időpontja: 2024. július 16., 230-as terem**
 
 **A Számítástechnika szak záróvizsga tematikája INNEN (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/Szamitastechnika_zarovizsga_tematika_2023_2024.pdf) tölthető le.**```markdown
-Tájépítészet
+# Tájépítészet
 
 A **Tájépítészet** szak esetében a záróvizsga a következőkből áll: 
 
@@ -238,7 +237,8 @@ A dolgozat és diplomaterv megvédésének (bemutatásának) nyelve magyar, a fe
 **A záróvizsga időpontja: (hamarosan)**
 
 **A Tájépítészet szak záróvizsga tematikája [INNEN](https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/Tematika%20a%20T%C3%A1j%C3%A9p%C3%ADt%C3%A9szet%20szak%20%C3%A1llamvizsg%C3%A1j%C3%A1nak%20%C3%ADr%C3%A1sbeli%20vizsg%C3%A1j%C3%A1hoz%202023-24-1.pdf) tölthető le.**
-```Tanárképző Intézet
+```
+# Tanárképző Intézet
 
 **Pedagógiai portfólió**
 
@@ -306,13 +306,13 @@ Számítógépes irányítási rendszerek (https://ms.sapientia.ro/hu/hallgatokn
 Növényorvos (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/novenyorvos)
 Fejlett mechatronikai rendszerek (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/fejlett-mechatronikai-rendszerek)
 ``````markdown
-Szoftverfejlesztés
+# Szoftverfejlesztés
 
 ### **A záróvizsga időpontja: 2024. július 5., 131-es terem**
 
 A disszertáció vizsga a mesteri disszertáció bizottság előtt történő bemutatásából és védéséből áll. A mesteri disszertáció védése nyilvános, a bizottság és a vizsgázó ugyanazon helyen való egyidejű jelenlétében történik.
 ``````markdown
-Nyelvvizsga
+# Nyelvvizsga
 
 Egyetemi szintű nyelvvizsga szabályzat (https://sapientia.ro/content/Szabalyzatok/RO/Regulament_de_org%20_centru_LinguaSap_modif.pdf)
 
@@ -359,7 +359,7 @@ II. Szóbeli rész, 6 pont:
 * tematikus beszélgetés
 * képleírás
 ``````markdown
-Nyelvvizsga 2024/2025
+# Nyelvvizsga 2024/2025
 
 **FŐ VIZSGAIDŐPONTOK (ingyenes vizsgaalkalmak)**
 
@@ -440,7 +440,7 @@ Maximális pontszám: 30, a minimális átmenő 15 pont - a Sapientia államvizs
 * Matematika-Informatika Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/matematika-informatika-tanszek__)
 * Villamosmérnöki Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__)
 * Tanárképző Intézet (https://sapientia.ro/hu/oktatas/tanarkepzes/a-zarovizsga-metodologiaja)```markdown
-Fordító és tolmács szak
+# Fordító és tolmács szak
 
 Alkalmazott Nyelvészeti Tanszék útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/03%20Szakdolgozat-keszitesi%20utmutato%202025.pdf)
 Alkalmazott Nyelvészeti Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-nyelveszeti-tanszek__)
@@ -470,7 +470,7 @@ Gépészmérnöki szak (https://ms.sapientia.ro/data/Szakdolgozat%20GMT%20Gepesz
 ``````
 Növényorvos mesteri szak útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/Szakdolgozat%20KMT%20N%C3%B6v%C3%A9nyorvosi%202025_01_17.pdf)
 ``````markdown
-Informatika szak
+# Informatika szak
 
 **Matematika-Informatika Tanszék útmutatója** (https://ms.sapientia.ro/content/2011-2021/Szakdolgozat%20MIT%20Informatika.pdf)
 **Informatika alapszak államvizsgasablon** (https://ms.sapientia.ro/content/docs/MS/Diplomadolgozat.zip)
@@ -483,7 +483,7 @@ Infokommunikációs hálózatok és rendszerek szak (https://ms.sapientia.ro/dat
 ```
 Számítástechnika szak (https://ms.sapientia.ro/data/Szakdolgozat%20VMT%20Szamitastechnika.doc)
 ```markdown
-A záróvizsga metodológiája
+# A záróvizsga metodológiája
 
 A tanárképzési program mind az I., mind a II. szint esetében vizsgával zárul.
 

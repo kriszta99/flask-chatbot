@@ -1,5 +1,5 @@
 ```markdown
-Felvételi
+# Felvételi
   * Online beiratkozás (https://felveteli.sapientia.ro/)
   * Alapképzés (https://ms.sapientia.ro/hu/felveteli/alapkepzes)
   * Mesterképzés (https://ms.sapientia.ro/hu/felveteli/mesterkepzes)

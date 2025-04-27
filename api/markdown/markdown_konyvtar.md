@@ -1,7 +1,7 @@
 ```markdown
           # Marosvásárhelyi Kar - Sapientia Erdélyi Magyar Tudományegyetem
 
-Könyvtár
+# Könyvtár
 
 [A könyvtárról](https://ms.sapientia.ro/hu/a-karrol/konyvtar/a-konyvtarrol)
 [Szolgáltatások](https://ms.sapientia.ro/hu/a-karrol/konyvtar/szolgaltatasok)
@@ -120,7 +120,7 @@ A kölcsönözhető könyvállomány másik részét a raktárban őrizzük és 
 
 A hallgatók (kivéve a végzősöket) egy alkalommal 3 művet kölcsönözhetnek. A kölcsönzés határidejét kötelező betartani, ellenkező esetben a könyvtár bizonyos időszakra felfüggesztheti az olvasó kölcsönzési jogát. A határidő lejárta előtt viszont hosszabbításra van lehetőség, online, személyesen vagy telefonon / e-mail-ben. Az online katalógusban a Saját könyvtárba való belépéssel ellenőrizhetők az aktuális kölcsönzések és lejárati határidők, illetve lehetőség van előjegyzésre, félretételre, egyszeri hosszabbításra!
 
-Tájékoztatás
+## Tájékoztatás
 
 A könyvtár nyitvatartási idejében tájékoztatást lehet kérni a könyvtár és más könyvtárak állományáról, az állomány használatáról. Az érdeklődők kérdéseire e-mailben is válaszolunk: [biblms.sapientia.ro]
 
@@ -129,9 +129,7 @@ A könyvtár nyitvatartási idejében tájékoztatást lehet kérni a könyvtár
 A könyvtár olvasótermébe telepített, internet-hozzáférést biztosító számítógépek elsősorban a katalógusban való keresést és az adatbázisok használatát szolgálják, de önálló munkavégzésre is alkalmasak. Az adatbázisokból letölthető dokumentumok saját célra lementhetők, e-mail-ben elküldhetők.  
 A könyvtárban wifin keresztül saját eszközökkel is csatlakozhatnak az internetre.
 ``````markdown
-          Beiratkozás
-
-Beiratkozás
+# Beiratkozás
 
 Könyvtári tagságra az egyetemi polgárok (hallgatók, oktatók, alkalmazottak) jogosultak, ők online ([http://opac3.ms.sapientia.ro/hu_HU/](http://opac3.ms.sapientia.ro/hu_HU/ ) - Online regisztráció) vagy személyesen, a könyvtárban iratkozhatnak be.
 
@@ -147,8 +145,6 @@ Oktatóknak, alkalmazottaknak nem szükséges fényképet hozniuk. Külső szem�
 
 ``````markdown
 # Katalógus
-
-Katalógus
 
 A keresett művel (könyv, folyóirat, elektronikus dokumentum, szakdolgozat) kapcsolatban a könyvtár számítógépes katalógusában találunk információkat. Elektronikus katalógusunk építése folyamatos, elérhető interneten keresztül a következő címen: [http://opac3.ms.sapientia.ro/hu_HU/](http://opac3.ms.sapientia.ro/hu_HU/ )[.](http://193.16.218.70/monguz/index.jsp )
 

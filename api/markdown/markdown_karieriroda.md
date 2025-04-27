@@ -1,13 +1,9 @@
 ```markdown
 # Küldetés
 
-Küldetés
-
 A Karrieriroda stratégiai szerepet tölt be a Marosvásárhelyi Karon tanuló hallgatók felkészítésében, hogy a munkaerőpiacon érvényesülni tudjanak. A digitális átalakulás és a koronavírus-járvány a munkaerőpiac gyökeres átalakulását eredményezi: régi foglalkozások megszűnnek vagy lényegesen átalakulnak, valamint teljesen új munkakörök jönnek létre. A Karrieriroda tájékoztatást, útmutatást és támogatást nyújt a jelenlegi és volt hallgatóknak a munkaerőpiaci elhelyezkedésben, továbbá a sikeres karrierút megtervezésében.
 ``````markdown
 # Tevékenységek
-
-Tevékenységek
 
 * Nyilvános előadások szervezése a munkaerőpiaci kihívásokról állami intézmények, elismert non-profit szervezetek, multinacionális vállalatok vezetőinek, illetve HR szakembereinek meghívásával.
 * Képzések / workshop-ok szervezése a jelenlegi és volt hallgatóknak:
@@ -27,9 +23,7 @@ Tevékenységek
 * Kutatások elvégzése a volt hallgatók karrierútjáról
 * Partnerségi hálózat kialakítása és fenntartása a lehetséges munkaadókkal és gyakornoki programok kezdeményezőivel.
 ``````markdown
-          # Marosvásárhelyi Karrierbörze 2025
-
-Marosvásárhelyi Karrierbörze 2025
+# Marosvásárhelyi Karrierbörze 2025
 
 „A legjobb módja a jövő megjóslásának, ha mi magunk építjük” – mondta egykor Abraham Lincoln. Most itt a lehetőség, hogy te is formáld a jövődet a **Marosvásárhelyi Karrierbörze** rendezvényen! Ne hagyd ki ezt az alkalmat, hogy megtaláld az ideális állást, megismerd a munkaerőpiac legfrissebb trendjeit.
 
@@ -50,8 +44,6 @@ Az eseményen számos iparág képviselői lesznek jelen, többek között az al
 * Ne hagyd ki ezt az egyedülálló lehetőséget!
 ``````markdown
 # Állásajánlatok és szakmai gyakorlat
-
-Marosvásárhely
 
 [A karról](https://ms.sapientia.ro/hu/a-karrol)
 [Karrieriroda](https://ms.sapientia.ro/hu/a-karrol/karrieriroda)
@@ -79,8 +71,6 @@ UNO Engineering állásajánlat (https://ms.sapientia.ro/hu/a-karrol/karrierirod
 Helen Doron állásajánlat (https://ms.sapientia.ro/content/docs/MS/join%20(1800%20%C3%97%201800%20px)%20(Poster%20(A3%20Portrait)).pdf)
 ``````markdown
 # Internship ajánlatok
-
-Marosvásárhely
 
 [Dreamups - Upcelerator Program](https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/internship-ajanlatok/dreamups-upcelerator-program)
 ``````markdown
