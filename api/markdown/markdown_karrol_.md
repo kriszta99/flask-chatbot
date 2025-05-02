@@ -1,3 +1,22 @@
+# A karról
+Rólunk(https://ms.sapientia.ro/hu/a-karrol/rolunk)
+A kar vezetése(https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese)
+Tanszékek(https://ms.sapientia.ro/hu/a-karrol/tanszeke)
+Dokumentumok(https://ms.sapientia.ro/hu/a-karrol/dokumentumok_)
+Karrieriroda(https://ms.sapientia.ro/hu/a-karrol/karrieriroda)
+Könyvtár(https://ms.sapientia.ro/hu/a-karrol/konyvtar)
+Hallgatói Önkormányzat(https://ms.sapientia.ro/hu/a-karrol/hallgatoi-onkormanyzat)
+Akkreditáció(https://sapientia.ro/hu/az-egyetemrol/akkreditacio)
+Alumni(https://ms.sapientia.ro/hu/a-karrol/alumni)
+Elérhetőségek(https://ms.sapientia.ro/hu/a-karrol/elerhetosegek)
+Rólunk írták(https://ms.sapientia.ro/hu/a-karrol/rolunk-irtak)
+Támogatásszervezés(https://ms.sapientia.ro/hu/a-karrol/tamogatasszervezes)
+# Rólunk
+Küldetés(https://ms.sapientia.ro/hu/a-karrol/rolunk/kuldetes)
+Magunkról(https://ms.sapientia.ro/hu/a-karrol/rolunk/magunkrol)
+Munkatársak(https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak)
+Szervezeti ábra(https://ms.sapientia.ro/hu/a-karrol/rolunk/szervezeti-abra)
+Galéria(https://ms.sapientia.ro/hu/a-karrol/rolunk/galeria)
 # Küldetés
 A Sapientia Erdélyi Magyar Tudományegyetem a romániai magyarság önálló egyeteme Európában, melynek célja nemzeti közösségünk oktatásának és tudományos életének elismert szakmai színvonalon való művelése.
 Felelősek vagyunk a hallgatóknak nyújtott tudásért, oktatóink és munkatársaink jövőjéért, kutatásaink minőségéért és működésünk átláthatóságáért.
