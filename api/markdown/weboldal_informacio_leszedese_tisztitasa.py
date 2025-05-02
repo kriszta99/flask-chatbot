@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1IU_5NogghL_4kSrcnsNZa3xJmJcQLN47
 """
 
-!pip install -q -U google-genai
+#!pip install -q -U google-genai
 
-!pip install requests beautifulsoup4 markdownify
+#!pip install requests beautifulsoup4 markdownify
 
 import requests
 from bs4 import BeautifulSoup

@@ -1,5 +1,3 @@
-# Rólunk
-A Sapientia Erdélyi Magyar Tudományegyetem a romániai magyarság önálló egyeteme Európában, melynek célja nemzeti közösségünk oktatásának és tudományos életének elismert szakmai színvonalon való művelése.
 # Küldetés
 A Sapientia Erdélyi Magyar Tudományegyetem a romániai magyarság önálló egyeteme Európában, melynek célja nemzeti közösségünk oktatásának és tudományos életének elismert szakmai színvonalon való művelése.
 Felelősek vagyunk a hallgatóknak nyújtott tudásért, oktatóink és munkatársaink jövőjéért, kutatásaink minőségéért és működésünk átláthatóságáért.
