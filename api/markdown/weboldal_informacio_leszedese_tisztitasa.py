@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1IU_5NogghL_4kSrcnsNZa3xJmJcQLN47
 """
 
-#!pip install -q -U google-genai
+!pip install -q -U google-genai
 
-#!pip install requests beautifulsoup4 markdownify
+!pip install requests beautifulsoup4 markdownify
 
 import requests
 from bs4 import BeautifulSoup
@@ -90,174 +90,11 @@ def url_to_markdown(url):
 #url = "https://ms.sapientia.ro/hu/oktatas/orarend"
 #url = "https://ms.sapientia.ro/hu/oktatas/tantargyi-adatlapok"
 #url = "https://ms.sapientia.ro/hu/oktatas/tantervek"
-#url = "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato"
-#url = "https://ms.sapientia.ro/hu/hallgatoknak/vizsgaidopontok"
-#url = "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-dijak_"
-#url = "https://ms.sapientia.ro/hu/hallgatoknak/kari-tdk"
+
 url = "https://ms.sapientia.ro/hu/felveteli"
 markdown_szoveg = url_to_markdown(url)
 
 print(markdown_szoveg)  # Itt láthatod a Markdown-tartalmat
-
-konyvtar = "könyvtár"
-akkrecitacio = "Akkreditáció"
-idei_ev = "Csak 2025-ös tanévet tarsd meg."
-tantargyi_adatlapk_linkjei = "Tantárgyi adatlapok"
-tantervek = "Tantervek"
-Adminisztrativ_dijak = "Adminisztratív díjak"
-kariTdk="Kari TDK"
-felveteli = "Felvételi oldal linkei"
-
-szovegek_pipline = f"""
-      Feladat:
-          Tisztítsd meg az alábbi markdown szöveget.
-          A fő tartalmat {kariTdk} és {idei_ev} tartsd meg.
-
-          Törlendő részek:
-          - navigációs menük
-          - oldalsó navigációs menük linkjei
-          - lábléc
-          - jogi információk
-          - ismétlődő címek
-          - hírek
-          - képek linkjei
-          - ismétlődő nevek"""
-
-szoveg_link_pipline = f"""
-      Feladat:
-          Tisztítsd meg az alábbi markdown szöveget.
-          A fő tartalmat ({felveteli}) tartsd meg.
-          A linkek add ilyen formátumban: téma (http://link).
-
-          Törlendő részek:
-          - navigációs menük
-          - menük linkjei
-          - Lábléc
-          - kapcsolodó linkek
-          - jogi információk
-          - ismétlődő címek
-          - hirek
-          - képek linkjei
-          - ismétlődő nevek"""
-
-from google import genai
-client = genai.Client(api_key="AIzaSyCLIFWdK7JZX8LnP8liIJ3UMop4Gfa6qPQ")
-
-response = client.models.generate_content(
-    model="gemini-2.0-flash-thinking-exp-01-21",
-    contents = [f"""
-          {szoveg_link_pipline}
-          Szöveg:
-          {markdown_szoveg}
-          """]
-
-)
-print(response.text)
-
-#file_path = '/content/markdown_output.md'
-#file_path = '/content/markdown_konyvtar.md'
-#file_path = '/content/markdown_oktatas.md'
-#file_path = '/content/markdown_output.md'
-#file_path = '/content/markdown_hallgatoknak.md'
-file_path = '/content/markdown_felveteli.md'
-
-
-
-with open(file_path, 'a') as f:
-  f.write(response.text)
-
-# Fájl elérési útja
-file_path
-
-tanszek_pipline = """ Feladat:
-          Tisztítsd meg az alábbi markdown szöveget. A fő tartalmat (tanszéken lévő információkat, dolgozókat és szerepkörük) tartsd meg.
-          A linkeket formátumban add vissza: téma (https://link)
-
-          Törlendő részek:
-          - navigációs menük
-          - oldalsó navigációs menük linkjei
-          - Lábléc
-          - kapcsolodó linkek
-          - jogi információk
-          - ismétlődő címek
-          - Hírek
-          - képek linkjei
-          - ismétlődő nevek  """
-
-list_urls = [
-             "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/informatika-bizottsag-",
-             "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/minosegbiztositasi-bizottsag-",
-             "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/akkreditacios-bizottsag",
-             "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/tanulmanyi-es-kredit-bizottsag-",
-             "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/kari-osztondij-tanacs",
-             "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/kari-erasmus-bizottsag",
-             "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/erasmus-szocialis-osztondij-bizottsag",
-             "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/tudomanyos-kutatas-bizottsaga",
-             "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/kari-beszerzesi-elbiralo-bizottsag-",
-             "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/kari-tudomanyos-diakkori-tanacs",
-             "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/orarendkeszito-bizottsag",
-             "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/kari-valasztasi-bizottsag",
-             "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/kari-hallgatoi-valasztasi-bizottsag"
-           ]
-
-from google import genai
-
-def web_scraping_clean(list_urls):
-  for item_url in list_urls:
-    markdown_szoveg = url_to_markdown(item_url)
-    if markdown_szoveg:
-      client = genai.Client(api_key="AIzaSyCLIFWdK7JZX8LnP8liIJ3UMop4Gfa6qPQ")
-      response = client.models.generate_content(
-          model="gemini-2.0-flash-thinking-exp-01-21",
-          contents = [f"""
-          {szovegek_pipline}
-          Szöveg:
-          {markdown_szoveg}
-          """]
-          #contents=[f"Tisztítsd meg a markdown formátumú szöveget: {markdown_szoveg}. Tartsd meg a fő tartalmat, eltávolítva minden nem informatív rész, mint navigációs menü és menü linkjei, lábléce, jogi információ, és ismétlődő szöveg. A dokumentumlinkek a következő formátumban: téma (https://link)."]
-      )
-      # response objektumnak van-e text attribútuma
-      if response and  hasattr(response, 'text'):
-          print(response.text)
-          #file_path = '/content/markdown_karieriroda.md'
-          file_path = '/content/markdown_konyvtar.md'
-
-          with open(file_path, 'a') as f:
-            f.write(response.text)
-      else:
-          print(f"Hiba történt a válasz feldolgozása során: {response}")
-
-web_scraping_clean(list_urls)
-
-tanszek_urls= ["https://ms.sapientia.ro/hu/a-karrol/tanszeke/alkalmazott-nyelveszeti-tanszek",
-               "https://ms.sapientia.ro/hu/a-karrol/tanszeke/alkalmazott-tarsadalomtudomanyok-tanszek",
-               "https://ms.sapientia.ro/hu/a-karrol/tanszeke/gepeszmernoki-tanszek",
-               "https://ms.sapientia.ro/hu/a-karrol/tanszeke/kerteszmernoki-tanszek",
-               "https://ms.sapientia.ro/hu/a-karrol/tanszeke/matematika-informatika-tanszek",
-               "https://ms.sapientia.ro/hu/a-karrol/tanszeke/villamosmernoki-tanszek"]
-
-web_scraping_clean(tanszek_urls)
-
-karieriroda_urls=[ "https://ms.sapientia.ro/hu/a-karrol/karrieriroda/kuldetes_",
-                   "https://ms.sapientia.ro/hu/a-karrol/karrieriroda/tevekenysegek",
-                   "https://ms.sapientia.ro/hu/a-karrol/karrieriroda/esemenyek/marosvasarhelyi-karrierborze-2025",
-                   ]
-
-allasajanlatok_urls= ["https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat",
-                      "https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok",
-                      "https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/internship-ajanlatok",
-                      "https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/szakmai-gyakorlat-lehetosegek"]
-
-web_scraping_clean(karieriroda_urls)
-
-web_scraping_clean(allasajanlatok_urls)
-
-konyvtar_urls = [ "https://ms.sapientia.ro/hu/a-karrol/konyvtar/a-konyvtarrol",
-                 "https://ms.sapientia.ro/hu/a-karrol/konyvtar/szolgaltatasok",
-                  "https://ms.sapientia.ro/hu/a-karrol/konyvtar/beiratkozas",
-                  "https://ms.sapientia.ro/hu/a-karrol/konyvtar/katalogus"]
-
-web_scraping_clean(konyvtar_urls)
 
 #egy másik .md fájl tartalmát hozzáfűzi a target_file(cél) .md fájl végéhez.
 
@@ -271,7 +108,7 @@ def append_md_file(target_file: str, source_file: str):
             content = f.read()
 
         with open(target_file, 'a', encoding='utf-8') as f:
-            f.write("\n\n")  # optional separator
+            f.write("\n")  # optional separator
             f.write(content)
 
         print(f"Sikeresen hozzáfűztük a(z) '{source_file}' tartalmát a '{target_file}' fájlhoz.")
@@ -281,20 +118,68 @@ def append_md_file(target_file: str, source_file: str):
     except Exception as e:
         print(f"Hiba történt: {e}")
 
-append_md_file('markdown_output.md','markdown_bizottsagok.md')
+karrol_urls = [ "https://ms.sapientia.ro/hu/a-karrol/",
+                "https://ms.sapientia.ro/hu/a-karrol/rolunk",
+                "https://ms.sapientia.ro/hu/a-karrol/rolunk/kuldetes",
+                "https://ms.sapientia.ro/hu/a-karrol/rolunk/magunkrol",
+                "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak",
+                "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/dekani-hivatal_",
+                "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/gazdasagi-osztaly_",
+                "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_",
+                "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/konyvtar__",
+                "https://ms.sapientia.ro/hu/a-karrol/rolunk/szervezeti-abra",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/kari-vezetok",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/kari-tanacs",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/informatika-bizottsag-",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/minosegbiztositasi-bizottsag-",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/akkreditacios-bizottsag",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/tanulmanyi-es-kredit-bizottsag-",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/kari-osztondij-tanacs",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/kari-erasmus-bizottsag",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/erasmus-szocialis-osztondij-bizottsag",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/tudomanyos-kutatas-bizottsaga",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/kari-beszerzesi-elbiralo-bizottsag-",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/kari-tudomanyos-diakkori-tanacs",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/orarendkeszito-bizottsag",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/kari-valasztasi-bizottsag",
+                "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/bizottsagok/kari-hallgatoi-valasztasi-bizottsag",
+                "https://ms.sapientia.ro/hu/a-karrol/tanszeke",
+                "https://ms.sapientia.ro/hu/a-karrol/tanszeke/alkalmazott-nyelveszeti-tanszek",
+                "https://ms.sapientia.ro/hu/a-karrol/tanszeke/alkalmazott-tarsadalomtudomanyok-tanszek",
+                "https://ms.sapientia.ro/hu/a-karrol/tanszeke/gepeszmernoki-tanszek",
+                "https://ms.sapientia.ro/hu/a-karrol/tanszeke/kerteszmernoki-tanszek",
+                "https://ms.sapientia.ro/hu/a-karrol/tanszeke/matematika-informatika-tanszek",
+                "https://ms.sapientia.ro/hu/a-karrol/tanszeke/villamosmernoki-tanszek",
+                "https://sapientia.ro/hu/az-egyetemrol/dokumentumok_",
+                "https://ms.sapientia.ro/hu/a-karrol/konyvtar",
+                "https://ms.sapientia.ro/hu/a-karrol/konyvtar/a-konyvtarrol",
+                "https://ms.sapientia.ro/hu/a-karrol/konyvtar/szolgaltatasok",
+                "https://ms.sapientia.ro/hu/a-karrol/konyvtar/beiratkozas",
+                "https://ms.sapientia.ro/hu/a-karrol/konyvtar/katalogus",
+                "https://ms.sapientia.ro/hu/a-karrol/karrieriroda",
+                "https://ms.sapientia.ro/hu/a-karrol/karrieriroda/kuldetes_",
+                "https://ms.sapientia.ro/hu/a-karrol/karrieriroda/tevekenysegek",
+                "https://ms.sapientia.ro/hu/a-karrol/karrieriroda/esemenyek/marosvasarhelyi-karrierborze-2025",
+                "https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat",
+                "https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok",
+                "https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/internship-ajanlatok",
+                "https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/szakmai-gyakorlat-lehetosegek",
+                "https://ms.sapientia.ro/hu/a-karrol/hallgatoi-onkormanyzat",
+                "https://sapientia.ro/hu/az-egyetemrol/akkreditacio",
+                "https://ms.sapientia.ro/hu/a-karrol/alumni",
+                "https://ms.sapientia.ro/hu/a-karrol/elerhetosegek",
+                "https://ms.sapientia.ro/hu/a-karrol/tamogatasszervezes/szemelyi-jovedelemadoja-35-aval-tamogassa-a-sapientia-erdelyi-magyar-tudomanyegyetemet"
 
-append_md_file('markdown_output.md','markdown_tanszekek.md')
 
-append_md_file('markdown_output.md','markdown_karieriroda.md')
-
-append_md_file('markdown_output.md','markdown_konyvtar.md')
-
-append_md_file('markdown_karrol.md','markdown_output.md')
+                ]
 
 hallgatok_urls = ["https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato",
                   "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/altalanos-informaciok-az-egyetemrol",
                   "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/gyakorlati-orak-potlasa",
                   "https://ms.sapientia.ro/hu/hallgatoknak/szakkoordinatorok",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/vizsgaidopontok",
                   "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek",
                   "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak",
                   "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak/osztondijakrol-altalaban",
@@ -304,11 +189,65 @@ hallgatok_urls = ["https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato
                   "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak/szocialis-osztondij",
                   "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak/ferber-osztondij",
                   "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/fizetesi-hataridok",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-dijak_",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/kari-tdk",
                   "https://sapientia.ro/hu/oktatas/hallgatoknak/neptun",
                   "https://ms.sapientia.ro/hu/a-karrol/dokumentumok_",
                   "https://sapientia.ro/hu/oktatas/hallgatoknak/oklevelek-atvete",
                   "https://ms.sapientia.ro/hu/hallgatoknak/orvosi-rendelo",
-                  "https://ms.sapientia.ro/hu/hallgatoknak/lelkigondozas"
+                  "https://ms.sapientia.ro/hu/hallgatoknak/lelkigondozas",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakas-jelentkezesi-kriteriumok-es-szukseges-iratok-2024-2025-evre-elso-evesek",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/szabalyzat_",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/araink_",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakassal-kapcsolatos-koltsegek-kifizetese_",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/rolunk",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/hasznos-informaciok",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/felveteli",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/a-pedagogiai-gyakorlat-megszervezese",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/tudomanyos-kutatasi-tevekenysegek",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/torvenyi-keretek",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/a-tanarkepzo-intezet-vezetosege-es-munkatarsai",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/mentortanaroknak-es-iranyitotanaroknak",
+                  "https://sapientia.ro/hu/kutatas/kutatokozpontok/tanarkepzo-intezet",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/automatika-es-alkalmazott-informatika",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/fordito-es-tolmacs",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/gepeszmernoki",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/infokommunikacios-halozatok-es-rendszerek-tavkozles",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/informatika",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/kerteszmernoki",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/kommunikacio-es-kozkapcsolatok",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/kozegeszsegugyi-szolgaltatasok-es-politikak-",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/mechatronika",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/szamitastechnika",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/tajepiteszet",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/tanarkepzo-intezet-20202021",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/szoftverfejlesztes",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/szamitogepes-iranyitasi-rendszerek",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/novenyorvos",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/fejlett-mechatronikai-rendszerek",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/nyelvvizsga_",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/nyelvvizsga-20242025",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-nyelveszeti-tanszek__/fordito-es-tolmacs-szak",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-tarsadalomtudomanyi-tanszek_/kommunikacio-es-kozkapcsolatok-szak",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-tarsadalomtudomanyi-tanszek_/kozegeszsegugyi-szolgaltatasok-es-politikak-szak",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/gepeszmernoki-tanszek__/gepeszmernoki-szak",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/gepeszmernoki-tanszek__/mechatronika-szak",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/kerteszmernoki-szak",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/tajepiteszet-szak",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/novenyorvos-mesteri-szak",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/matematika-informatika-tanszek__/informatika-szak",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/matematika-informatika-tanszek__/szoftverfejlesztes-mesterszak",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/automatika-es-alkalmazott-informatika-szak",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/infokommunikacios-halozatok-es-rendszerek-szak",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/szamitastechnika-szak",
+                  "https://sapientia.ro/hu/oktatas/tanarkepzes/a-zarovizsga-metodologiaja",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/szabalyzatok-es-iratok"
+
 
                   ]
 
@@ -326,13 +265,15 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           contents = [f"""
       Feladat:
           Tisztítsd meg az alábbi markdown szöveget.
-          A fő tartalmat ({item_url_name}) tartsd meg.
+          A fő tartalmat ({item_url_name}) tartsd meg. Minden mondat kerüljön külön sorba.
           Csak a fő tartalomban ({item_url_name}-ban) lévő linkeket add ilyen formátumban: téma (http://link).
-          Ha a {item_url_name}-ban nincsenek dokumentumlinkek csak a szöveget tarsd meg.
+          Ha a {item_url_name}-ban nincsenek dokumentumlinkek csak a szöveget tarsd meg. A cimeket jelöld # karakterrel.
+          Ha van táblázat akkor alakítsd át szöveges felsorolássá, megtartva minden adatot, jól tagolt és áttekinthető formában.
 
           Távolítsd el a következőket:
           - navigációs menük és linkjeik
           - lábléc
+          - üres sorok
           - kapcsolodó linkek
           - jogi információk
           - ismétlődő cím
@@ -349,12 +290,15 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
       # response objektumnak van-e text attribútuma
       if response and  hasattr(response, 'text'):
           print(response.text)
+          #file_path = '/content/markdown_karrol.md'
           #file_path = '/content/markdown_hallgatoknak.md'
           #file_path = '/content/markdown_zarovizsga.md'
           #file_path = '/content/markdown_bentlakas.md'
           #file_path = '/content/markdown_tanarkepzes.md'
+          #file_path = '/content/markdown_felveteli.md'
+          #file_path = '/content/markdown_oktatas.md'
           #file_path = '/content/markdown_kutatas.md'
-          #file_path = '/content/markdown_nemzetkozi_kapcsolatok.md'
+          file_path = '/content/markdown_nemzetkozi_kapcsolatok.md'
 
           with open(file_path, 'a') as f:
             f.write(response.text)
@@ -362,85 +306,37 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
       else:
           print(f"Hiba történt a válasz feldolgozása során: {response}")
 
+web_scraping_markdown_to_clean(karrol_urls)
+
 web_scraping_markdown_to_clean(hallgatok_urls)
 
-zarovizsga_urls = [ "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/automatika-es-alkalmazott-informatika",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/fordito-es-tolmacs",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/gepeszmernoki",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/infokommunikacios-halozatok-es-rendszerek-tavkozles",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/informatika",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/kerteszmernoki",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/kommunikacio-es-kozkapcsolatok",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/kozegeszsegugyi-szolgaltatasok-es-politikak-",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/mechatronika",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/szamitastechnika",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/tajepiteszet",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/tanarkepzo-intezet-20202021",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/szoftverfejlesztes",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/nyelvvizsga_",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/nyelvvizsga-20242025",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-nyelveszeti-tanszek__/fordito-es-tolmacs-szak",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-tarsadalomtudomanyi-tanszek_/kommunikacio-es-kozkapcsolatok-szak",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-tarsadalomtudomanyi-tanszek_/kozegeszsegugyi-szolgaltatasok-es-politikak-szak",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/gepeszmernoki-tanszek__/gepeszmernoki-szak",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/gepeszmernoki-tanszek__/mechatronika-szak",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/kerteszmernoki-szak",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/tajepiteszet-szak",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/novenyorvos-mesteri-szak",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/matematika-informatika-tanszek__/informatika-szak",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/matematika-informatika-tanszek__/szoftverfejlesztes-mesterszak",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/automatika-es-alkalmazott-informatika-szak",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/infokommunikacios-halozatok-es-rendszerek-szak",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/szamitastechnika-szak",
-                    "https://sapientia.ro/hu/oktatas/tanarkepzes/a-zarovizsga-metodologiaja",
-                    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/szabalyzatok-es-iratok"
-                  ]
-
-web_scraping_markdown_to_clean(zarovizsga_urls)
-
-felveteli_tudnivalok_urls = [ "https://ms.sapientia.ro/hu/felveteli"
+felveteli_es_tudnivalok_urls = [
+                              "https://ms.sapientia.ro/hu/felveteli",
                               "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-kriteriumok-es-beiskolazasi-szamok-2025",
                               "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-mappahoz-szukseges-iratok",
                               "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-tematika",
                               "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok",
                               "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/lapozhato-tajekoztato-fuzet",
                               "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/kulfoldi-oklevellel-rendelkezok-beiratkozasa",
+                              "https://ms.sapientia.ro/hu/felveteli/nyilt-napok"
+                              ]
 
-                  ]
+web_scraping_markdown_to_clean(felveteli_es_tudnivalok_urls)
 
-web_scraping_markdown_to_clean(felveteli_tudnivalok_urls)
+oktatas_urls = [
+                "https://ms.sapientia.ro/hu/oktatas",
+                "https://ms.sapientia.ro/hu/oktatas/tanevszerkezet",
+                "https://ms.sapientia.ro/hu/oktatas/orarend",
+                "https://ms.sapientia.ro/hu/oktatas/tantargyi-adatlapok",
+                "https://ms.sapientia.ro/hu/oktatas/tantervek",
+                "https://ms.sapientia.ro/hu/oktatas/oktatoi-versenyvizsgak",
+                "https://ms.sapientia.ro/hu/oktatas/oktatoi-versenyvizsgak/meghatarozott-idore-szolo-tanarsegedi-allasok-20242025",
+                "https://ms.sapientia.ro/hu/hirek/palyazati-kiiras-tanarsegedi-allas-betoltesere-20242025-tanev-i-felevetol",
+                "https://ms.sapientia.ro/hu/oktatas/oktatoi-versenyvizsgak/oraadoi-allasok-20242025",
+                "https://ms.sapientia.ro/hu/hirek/oraadoi-allasok-a-20242025-os-tanev-i-felevere",
+                "https://ms.sapientia.ro/hu/oktatas/tantargyi-leirasok"]
 
-bentlakas_urls= [ "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_",
-                 "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakas-jelentkezesi-kriteriumok-es-szukseges-iratok-2024-2025-evre-elso-evesek",
-                  "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/szabalyzat_",
-                  "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/araink_",
-                  "https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakassal-kapcsolatos-koltsegek-kifizetese_"]
-
-web_scraping_markdown_to_clean(bentlakas_urls)
-
-tanarkepzes_urls=[
-                  "https://sapientia.ro/hu/oktatas/tanarkepzes/rolunk",
-                  "https://sapientia.ro/hu/oktatas/tanarkepzes/hasznos-informaciok",
-                  "https://sapientia.ro/hu/oktatas/tanarkepzes/felveteli",
-                  "https://sapientia.ro/hu/oktatas/tanarkepzes/a-pedagogiai-gyakorlat-megszervezese",
-                  "https://sapientia.ro/hu/oktatas/tanarkepzes/a-zarovizsga-metodologiaja",
-                  "https://sapientia.ro/hu/oktatas/tanarkepzes/tudomanyos-kutatasi-tevekenysegek",
-                  "https://sapientia.ro/hu/oktatas/tanarkepzes/torvenyi-keretek",
-                  "https://sapientia.ro/hu/oktatas/tanarkepzes/a-tanarkepzo-intezet-vezetosege-es-munkatarsai",
-                  "https://sapientia.ro/hu/oktatas/tanarkepzes/mentortanaroknak-es-iranyitotanaroknak",
-                  "https://sapientia.ro/hu/kutatas/kutatokozpontok/tanarkepzo-intezet"]
-
-web_scraping_markdown_to_clean(tanarkepzes_urls)
-
-append_md_file('markdown_hallgatoknak.md','markdown_bentlakas.md')
-
-append_md_file('markdown_hallgatoknak.md','markdown_tanarkepzes.md')
-
-append_md_file('markdown_hallgatoknak.md','markdown_zarovizsga.md')
+web_scraping_markdown_to_clean(oktatas_urls)
 
 kutatas_urls = ["https://ms.sapientia.ro/hu/kutatas",
                 "https://ms.sapientia.ro/hu/kutatas/kutatokozpontok",
@@ -513,34 +409,42 @@ nemzetkozi_kapcsolatok_urls=[
 
 web_scraping_markdown_to_clean(nemzetkozi_kapcsolatok_urls)
 
-"""Egy függvény ami egy markdown fájlt beolvassa, és eltávolítja belőle a \n, ``` és --- karaktereket.
-
-"""
-
-def clean_markdown_file(file_path):
+from google.colab import files
+#Beolvassa a fájlt, eltávolítja a nem kívánt markdown elemeket és az üres sorokat, majd visszaírja egy új fájlba.
+def clean_and_remove_empty_lines(file_path):
+    # fájl beolvasása
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Sorvégek, markdown kódblokkok és elválasztók eltávolítása
-    cleaned_content = content.replace('```', '')
-    cleaned_content = cleaned_content.replace('``````markdown', '')
-    cleaned_content = cleaned_content.replace('---', '')
-    cleaned_content = cleaned_content.replace('markdown', '')
-    cleaned_content = cleaned_content.replace('\n\n\n', '\n')
-    cleaned_content = cleaned_content.replace('\n\n', '\n')
+    # nem kívánt markdown elemek eltávolítása
+    for pattern in ['```', '``````markdown', '---', 'markdown', '```markdown', '``````', '````markdown']:
+        content = content.replace(pattern, '')
 
-    with open(f"{file_path.split('.')[0]}_.md", 'w', encoding='utf-8') as f:
-      f.write(cleaned_content)
-    return f"{file_path.split('.')[0]}_.md"
+    # sorok szétbontása
+    lines = content.splitlines()
 
-clean_markdown_file('markdown_hallgatoknak.md')
+    # üres sorok eltávolítása
+    non_empty_lines = [line for line in lines if line.strip()]
 
-clean_markdown_file('markdown_karrol.md')
+    # új fájlnév generálása (például eredeti_név_.md)
+    output_file_path = f"{file_path.rsplit('.', 1)[0]}_.md"
 
-clean_markdown_file('markdown_felveteli.md')
+    # visszaírás új fájlba
+    with open(output_file_path, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(non_empty_lines))
 
-clean_markdown_file('markdown_oktatas.md')
+    print(f"Kész! Az üres sorok eltávolítva és markdown megtisztítva: {output_file_path}")
+    files.download(output_file_path)
+    return output_file_path
 
-clean_markdown_file('markdown_kutatas.md')
+clean_and_remove_empty_lines('markdown_karrol.md')
 
-clean_markdown_file('markdown_nemzetkozi_kapcsolatok.md')
+clean_and_remove_empty_lines('markdown_hallgatoknak.md')
+
+clean_and_remove_empty_lines('markdown_felveteli.md')
+
+clean_and_remove_empty_lines('markdown_oktatas.md')
+
+clean_and_remove_empty_lines('markdown_kutatas.md')
+
+clean_and_remove_empty_lines('markdown_nemzetkozi_kapcsolatok.md')
