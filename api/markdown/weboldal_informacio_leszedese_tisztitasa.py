@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1IU_5NogghL_4kSrcnsNZa3xJmJcQLN47
 """
 
-#!pip install -q -U google-genai
+!pip install -q -U google-genai
 
-#!pip install requests beautifulsoup4 markdownify
+!pip install requests beautifulsoup4 markdownify
 
 import requests
 from bs4 import BeautifulSoup
@@ -90,8 +90,8 @@ def url_to_markdown(url):
 #url = "https://ms.sapientia.ro/hu/oktatas/orarend"
 #url = "https://ms.sapientia.ro/hu/oktatas/tantargyi-adatlapok"
 #url = "https://ms.sapientia.ro/hu/oktatas/tantervek"
-
-url = "https://ms.sapientia.ro/hu/felveteli"
+#url = "https://ms.sapientia.ro/hu/felveteli"
+url = "https://ms.sapientia.ro/hu/a-karrol/rolunk"
 markdown_szoveg = url_to_markdown(url)
 
 print(markdown_szoveg)  # Itt láthatod a Markdown-tartalmat
@@ -295,10 +295,10 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           #file_path = '/content/markdown_zarovizsga.md'
           #file_path = '/content/markdown_bentlakas.md'
           #file_path = '/content/markdown_tanarkepzes.md'
-          #file_path = '/content/markdown_felveteli.md'
+          file_path = '/content/markdown_felveteli.md'
           #file_path = '/content/markdown_oktatas.md'
           #file_path = '/content/markdown_kutatas.md'
-          file_path = '/content/markdown_nemzetkozi_kapcsolatok.md'
+          #file_path = '/content/markdown_nemzetkozi_kapcsolatok.md'
 
           with open(file_path, 'a') as f:
             f.write(response.text)
@@ -312,6 +312,25 @@ web_scraping_markdown_to_clean(hallgatok_urls)
 
 felveteli_es_tudnivalok_urls = [
                               "https://ms.sapientia.ro/hu/felveteli",
+                              "https://ms.sapientia.ro/hu/felveteli/alapkepzes",
+                              "https://ms.sapientia.ro/hu/felveteli/alapkepzes/fordito-es-tolmacs-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/alapkepzes/kerteszmernoki-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/alapkepzes/tajepiteszet-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/alapkepzes/kommunikacio-es-kozkapcsolatok-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/alapkepzes/kozegeszsegugyi-szolgaltatasok-es-politikak-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/alapkepzes/informatika-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/alapkepzes/automatika-es-alkalmazott-informatika-mernok-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/alapkepzes/gepeszmernoki-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/alapkepzes/infokommunikacios-halozatok-es-rendszerek-tavkozles-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/alapkepzes/mechatronika-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/alapkepzes/szamitastechnika-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/mesterkepzes",
+                              "https://ms.sapientia.ro/hu/felveteli/mesterkepzes/fejlett-mechatronikai-rendszerek-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/mesterkepzes/novenyorvos-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szamitogepes-iranyitasi-rendszerek-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szoftverfejlesztes-szak",
+                              "https://ms.sapientia.ro/hu/felveteli/felveteli-utemezes",
+                              "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_",
                               "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-kriteriumok-es-beiskolazasi-szamok-2025",
                               "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-mappahoz-szukseges-iratok",
                               "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-tematika",
