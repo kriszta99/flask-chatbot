@@ -73,7 +73,7 @@ def url_to_markdown(url):
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/dekani-hivatal_"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/gazdasagi-osztaly_"
-#url = ""https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_"
+#url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/konyvtar__"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/szervezeti-abra"
 #url = "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/kari-vezetok"
