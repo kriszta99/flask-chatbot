@@ -34,6 +34,17 @@ import openai
 import numpy as np
 openai.api_key = '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'
 
+import numpy as np
+#def get_embedding(text: str, model="text-embedding-3-large") -> np.ndarray:
+#def get_embedding(text: str, model="text-embedding-3-small") -> np.ndarray:
+def get_embedding(text: str, model="text-embedding-ada-002") -> np.ndarray:
+    """Szöveg beágyazásának lekérése OpenAI modellel."""
+    response = openai.embeddings.create(input=text, model=model)
+    #embedding = response['data'][0]['embedding']
+    # Az új API-ban a válasz egy objektum, nem közvetlenül szótár
+    embedding = response.data[0].embedding
+    return np.array(embedding)
+
 import tiktoken
 
 # Tokenek számolása
@@ -146,17 +157,6 @@ chunks = chunk_text_by_line_with_headers_to_embeding(text_m, max_tokens=256)
 # Eredmény kiíratása
 for i, chunk in enumerate(chunks):
     print(f"Chunk {i + 1}: (Index: {chunk['chunk_index']}, Chunk ID: {chunk['chunk_id']})\n{chunk['header']} -> {chunk['text']}\n Embedding:{chunk['embedding']}... [Token count: {chunk['token_count']}]")
-
-import numpy as np
-#def get_embedding(text: str, model="text-embedding-3-large") -> np.ndarray:
-#def get_embedding(text: str, model="text-embedding-3-small") -> np.ndarray:
-def get_embedding(text: str, model="text-embedding-ada-002") -> np.ndarray:
-    """Szöveg beágyazásának lekérése OpenAI modellel."""
-    response = openai.embedding.create(input=text, model=model)
-    #embedding = response['data'][0]['embedding']
-    # Az új API-ban a válasz egy objektum, nem közvetlenül szótár
-    embedding = response.data[0].embedding
-    return np.array(embedding)
 
 import json
 import tiktoken
@@ -416,6 +416,5 @@ for json_filename in json_filenames:
 df = pd.DataFrame(results)
 print("\n--- EREDMÉNYEK ---")
 print(df)
-
 df.to_excel('results.xlsx', index=False)  # encoding nem szükséges itt
 files.download('results.xlsx')
