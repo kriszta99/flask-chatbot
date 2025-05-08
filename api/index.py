@@ -1,6 +1,8 @@
 from flask import Flask, jsonify, render_template, request 
 from upstash_vector import Index
 import numpy as np
+from functools import lru_cache
+from collections import defaultdict
 import os
 import openai
 from google import genai
@@ -15,6 +17,20 @@ api_key = os.getenv("GEMINI_API_KEY")
 
 app = Flask(__name__)
 vector_db = Index(url=UPSTASH_VECTOR_REST_URL, token=UPSTASH_VECTOR_REST_TOKEN)
+
+# -----Caching eszközök -----
+_query_cache = {}
+
+def embedding_to_tuple(embedding: list[float]):
+    return tuple(round(x, 3) for x in embedding)
+
+def cached_vector_query(query_embedding,top_k=1000):
+    key = embedding_to_tuple(query_embedding)
+    if key in _query_cache:
+        return _query_cache[key]
+    results = vector_db.query(vector=query_embedding, include_metadata=True, top_k=top_k)
+    _query_cache[key] = results
+    return results
 
 # OpenAI embedding generálás
 def get_embedding(text: str, model="text-embedding-ada-002") -> list:
@@ -34,111 +50,67 @@ def get_context_text(search_results):
 
     return context
 """
-"""
 def get_chunk_id_from_embedding(query_embedding):
     results = vector_db.query(vector=query_embedding, include_metadata=True)
-    chunk_id = results[0].metadata.get('chunk_id')
-    #chunk_header = results[0].metadata.get('header')
-    return chunk_id
-
-# Ellenőrző kiírás
-def query_by_chunk_id(query_embedding, chunk_id):
-    # Első lépés: Kérjük le az összes vektort (szűrés nélkül)
-    results = vector_db.query(vector=query_embedding, include_metadata=True,top_k=1000)
-    
-    # Második lépés: Szűrés a chunk_id és header alapján
-    filtered_results = [
-        result for result in results
-        if result.metadata.get('chunk_id') == chunk_id 
-    ]
-
-    # Rendezés chunk_order szerint
-    filtered_results.sort(key=lambda r: r.metadata.get('chunk_order', 0))
-    
-    # Ellenőrizzük, hogy van-e találat
-    if not filtered_results:
-        print("\nNincs találat.")
-        return []
-    
-    # Az összes szöveg összegyűjtése
-    chunk_texts = [result.metadata.get('text', '') for result in filtered_results]
-    print(f"\nSzövegek: {chunk_texts}")
-    return chunk_texts  # Az összes szöveg visszaadása
-
-
-def get_context_text(query_embedding):
-    chunk_id = get_chunk_id_from_embedding(query_embedding)
-    if not chunk_id:
-        return "Nem található chunk_id."
-
-    relevant_results = query_by_chunk_id(query_embedding, chunk_id)
-    if not relevant_results:
-        return f"Nincs találat a(z) {chunk_id} chunk_id-re."
-
-    #context = "\n".join([result.metadata.get('text', '') for result in relevant_results])
-    context = "\n".join(relevant_results)
-
-    return context
-
-"""
-
-def get_chunk_id_from_embedding(query_embedding):
-    results = vector_db.query(vector=query_embedding, include_metadata=True)  # Több találatot keresünk 
-    # Az összes chunk_id 
     chunk_ids = [result.metadata.get('chunk_id') for result in results]
     return chunk_ids
 
-
 def query_by_chunk_id(query_embedding, chunk_ids):
-    # Első lépés: Kérjük le az összes vektort (szűrés nélkül)
-    results = vector_db.query(vector=query_embedding, include_metadata=True, top_k=1000)
-    
-    # Második lépés: Szűrés a chunk_id és header alapján
+    results = cached_vector_query(query_embedding, 1000)
+
+    # Szűrés a chunk_id alapján
     filtered_results = [
         result for result in results
-        if result.metadata.get('chunk_id') in chunk_ids 
+        if result.metadata.get('chunk_id') in chunk_ids
     ]
 
-    # Rendezés chunk_order szerint
-    filtered_results.sort(key=lambda r: r.metadata.get('chunk_order', 0))
-    
-    # Ellenőrizzük, hogy van-e találat
     if not filtered_results:
         print("\nNincs találat.")
-        return []
-    
-    # Az összes szöveg összegyűjtése
-    chunk_texts = [result.metadata.get('text') for result in filtered_results]
-    print(f"\nSzövegek: {chunk_texts}")
-    return chunk_texts  # Az összes szöveg visszaadása
+        return {}
 
+    # Csoportosítás chunk_id szerint
+    grouped_by_chunk_id = defaultdict(list)
+    for result in filtered_results:
+        chunk_id = result.metadata.get('chunk_id')
+        grouped_by_chunk_id[chunk_id].append(result)
+
+    # Rendezés minden chunk_id csoporton belül chunk_order szerint
+    for chunk_id in grouped_by_chunk_id:
+        grouped_by_chunk_id[chunk_id].sort(key=lambda r: r.metadata.get('chunk_order', 0))
+
+    return grouped_by_chunk_id
 
 def get_context_text(query_embedding):
     chunk_ids = get_chunk_id_from_embedding(query_embedding)
-    
     if not chunk_ids:
         return "Nem található chunk_id."
 
-    # Több chunk_id-t és chunk_header-t használunk szűréshez
-    relevant_results = query_by_chunk_id(query_embedding, chunk_ids)
-    
-    if not relevant_results:
+    grouped_results = query_by_chunk_id(query_embedding, chunk_ids)
+    if not grouped_results:
         return f"Nincs találat a(z) {chunk_ids} chunk_id-re."
-    
-    # Kontextus összeállítása
-    context = "\n".join(relevant_results)
+
+    # Minden chunk_id-hoz tartozó szöveg összefűzése, chunk_order szerint
+    context_parts = []
+    for chunk_id in sorted(grouped_results.keys()):
+        texts = [r.metadata.get('text') for r in grouped_results[chunk_id]]
+        context_parts.append("\n".join(texts))
+
+    # chunk_id csoportokat elválasztjuk dupla sortöréssel
+    context = "\n\n".join(context_parts)
     return context
+
+
+
 def get_llm_response(context, question):
     client = genai.Client(api_key=api_key)
 
     full_prompt = f"Context: {context}\nQuestion: {question}"
 
     response = client.models.generate_content(
-        model="gemini-2.0-flash-thinking-exp-01-21",
+        #model="gemini-2.0-flash-thinking-exp-01-21",
+        model = "gemini-2.0-flash",
         contents=[full_prompt]
     )
-    
-    print(response.text)
     return response.text
 
 @app.route('/', methods=['GET', 'POST'])
