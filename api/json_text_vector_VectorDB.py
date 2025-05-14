@@ -171,4 +171,4 @@ def chunk_to_insert_to_vectorDB(file_path, max_tokens=256, encoding_name='cl100k
 
 
 
-chunk_to_insert_to_vectorDB('markdown/markdown_output.md',max_tokens=256)
+chunk_to_insert_to_vectorDB('flask-chatbot/markdown/markdown_output.md',max_tokens=256)
