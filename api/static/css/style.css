@@ -133,10 +133,25 @@ body.show-chatbot .chatbot{
 }
 .chatbox .incoming p {
     border-radius: 10px 10px 10px 0;
-}
-.chatbox .incoming p {
     color: #000;
     background: #f2f2f2;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 75%;
+}
+.chatbox .incoming p a {
+  word-break: break-all;
+  color: #0077cc;
+  text-decoration: underline;
+}
+.chatbox .incoming ol {
+  list-style-position: inside;
+}
+
+.chatbox .incoming li::marker {
+  font-weight: bold;
+  margin-left: 10px;
 }
 .chatbot .chat-input{
     display: flex;
