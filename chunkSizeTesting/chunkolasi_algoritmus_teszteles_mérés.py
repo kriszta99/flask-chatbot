@@ -35,9 +35,9 @@ import numpy as np
 openai.api_key = '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'
 
 import numpy as np
-#def get_embedding(text: str, model="text-embedding-3-large") -> np.ndarray:
+def get_embedding(text: str, model="text-embedding-3-large") -> np.ndarray:
 #def get_embedding(text: str, model="text-embedding-3-small") -> np.ndarray:
-def get_embedding(text: str, model="text-embedding-ada-002") -> np.ndarray:
+#def get_embedding(text: str, model="text-embedding-ada-002") -> np.ndarray:
     """Szöveg beágyazásának lekérése OpenAI modellel."""
     response = openai.embeddings.create(input=text, model=model)
     #embedding = response['data'][0]['embedding']
@@ -151,13 +151,15 @@ def chunk_text_by_line_with_headers_to_embeding(text, max_tokens=384, encoding_n
     return chunks
 
 
+
+
 # Például: A text_m2 változó legyen a szöveg, amit chunkolni szeretnél.
 chunks = chunk_text_by_line_with_headers_to_embeding(text_m, max_tokens=256)
-
 # Eredmény kiíratása
 for i, chunk in enumerate(chunks):
-    print(f"Chunk {i + 1}: (Index: {chunk['chunk_index']}, Chunk ID: {chunk['chunk_id']})\n{chunk['header']} -> {chunk['text']}\n Embedding:{chunk['embedding']}... [Token count: {chunk['token_count']}]")
+    print(f"Chunk {i + 1}: (Index: {chunk['chunk_index']}, Chunk ID: {chunk['chunk_id']}, Chunk order: {chunk['order']})\n{chunk['header']} -> {chunk['text']}\n Embedding:{chunk['embedding']}... [Token count: {chunk['token_count']}]")
 
+#Open Ai modell-re
 import json
 import tiktoken
 from google.colab import files
@@ -297,6 +299,8 @@ import numpy as np
 import openai
 from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
+from google.colab import files
+
 
 # OpenAI API kulcs beállítása
 openai.api_key = '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'
@@ -304,28 +308,68 @@ openai.api_key = 'sk-proj-IotQReeWFirjRVHrAkQAb_5AkML_AISzyKHCa5hxh8DhaUCed4g9xZ
 def get_embedding(text: str, model="text-embedding-ada-002") -> np.ndarray:
 #def get_embedding(text: str, model="text-embedding-3-large") -> np.ndarray:
 #def get_embedding(text: str, model="text-embedding-3-small") -> np.ndarray:
-
-    #response = openai.Embedding.create(input=text, model=model)
     response = openai.embeddings.create(input=text, model=model)
-    #embedding = response['data'][0]['embedding']
     # Az új API-ban a válasz egy objektum, nem közvetlenül szótár
     embedding = response.data[0].embedding
     return np.array(embedding)
 
 # Kérdések és helyes válaszok
 questions = [
+    "Mikor nyilt meg a C épület a Capmpuson?",
+    "Ki a tanulmányi és kredit bizottság elnöke?",
+    "Mikor van nyitva a könyvtár vakációban?",
+    "Ki a PR felelős a dékáni hivatalban?",
+    "Ki a tanszékvezető helyettes az alkalmazott nyelvészeti tanszéknek?",
+    "Mikor jelent meg a mechatronika képzési szak a romániai felsőoktatásban?",
+    "Ki a szoftverfejlesztés szak szakkordinátora?",
+    "Hány férőhely van a könyvtárban helyben olvasásra?",
+    "Melyek a nem kölcsönözhető dokumentukok a könyvtárból?",
+    "Hányas formanyomtatványt kell kitöltenie aki az adója 3,5%-ával a Sapientia Erdélyi Magyar Tudományegyetemet támogatja?",
+    "Mi a neve a gazdasági igazgatónak?",
+    "Mi az a varjútábor?",
+    "Mi a feladatköre Ozsváth-Berényi Attilának?",
     "Hány hektáros területen gyakorlatoznak a kertészmérnöki szakos diákok?",
     "Ki az  Informatika bizottság előke?",
     "Hogyan és mivel tudok Kölcsönözni könyvet?",
     "Mi a HÖK három legfontosabb feladata?",
-    "Vizsgaidőszakban mikor van nyitva a könyvtár?"
+    "Vizsgaidőszakban mikor van nyitva a könyvtár?",
+    " Melyik linken van a Matematika-Informatika tanszék?",
+    " Mi az elérhetősége a Marosvasarhelyi Karnak?"
 ]
 correct_answers = [
+    "2018-ban egy újabb szárny nyílt meg a Campuson, a C épület, amelyben két amfiteátrum, számos terem és laboratórium is létesült.",
+    "dr. Horobeț Emil, egyetemi docens",
+    """Vakációban (a nyári szünet alatt is):
+    *   hétfő – péntek: 8:00 – 15:00
+    *   szombat – vasárnap: zárva.""",
+    "Ungvári Zsuzsi, PR-felelős",
+    "Dr. Suba Réka - docens, tanszékvezető-helyettes, szakkoordinátor (Fordító és tolmács szak)",
+    "A Mechatronika képzési szak 1990 után jelent meg a romániai felsőoktatásban, az ipar által támasztott igények kielégítésére, azon szakterületeken, ahol a szakember gépészmérnöki, villamosmérnöki és informatikai alapismeretekkel kell rendelkezzen.",
+    "Dr. Márton Gyöngyvér, adjunktus, szakkoordinátor (Szoftverfejlesztés)",
+    "helyben olvasás a 72 férőhelyes szabadpolcos olvasóteremben",
+    """További nem kölcsönözhető dokumentumaink:
+      *   tájékoztató segédkönyvek (szótárak, lexikonok),
+      *   folyóiratok,
+      *   szakdolgozatok (raktárból felkérhető).""",
+    "Ha az Ön jövedelme csak fizetésből (egy vagy több) származik, akkor a **230**-as formanyomtatványt kell kitöltenie.",
+    "Babos Annamária gazdasági igazgató",
+    "* A Varjútábort, amit a már elballagott diákoknak szervezünk, hogy együtt tölthessünk egy hétvégét a régi idők emlékére.",
+    """Feladatkör: Iroda felelős
+    * Név: Ozsváth-Berényi Attila""",
     "A kar főépületét körülvevő 27 hektáros területen a kertészmérnöki szakos diákok gyakorlatoznak, akik parkosítják a terület egy részét.",
     "**Elnök:**\n* dr. Szabó László-Zsolt, egyetemi adjunktus",
     "Kölcsönözni csak személyesen, érvényes könyvtári igazolvánnyal lehet.",
     "A HÖK három legfontosabb feladata:\n* Információ továbbítás\n* Érdekképviselet\n* Rendezvényszervezés",
-    "Vizsgaidőszakban szombat délelőttönként is nyitva tartunk, a pontos dátumokat előzőleg hirdetjük a Hírek, közlemények almenüben."
+    "Vizsgaidőszakban szombat délelőttönként is nyitva tartunk, a pontos dátumokat előzőleg hirdetjük a Hírek, közlemények almenüben.",
+    "Matematika-Informatika Tanszék (https://ms.sapientia.ro/hu/a-karrol/tanszeke/matematika-informatika-tanszek)",
+    """## Marosvásárhelyi Kar
+       Târgu-Mureş/Corunca (Marosvásárhely/Koronka), Calea Sighișoarei nr. 2.
+       (26, 27, 44-es közszállítási vonal végállomása)
+       Tel: +40 265 206 210
+       fax: +40 265 206 211
+       Postacím: 540485 Târgu-Mureş, O.p. 9, C.p. 4
+       E-mail: office@ms.sapientia.ro
+       Weboldal (http://ms.sapientia.ro/)"""
 
 
 
@@ -337,7 +381,7 @@ def load_chunks(json_filename):
         return json.load(file)
 
 # Top N chunk kiválasztása
-def find_top_matches(chunk_data, query_embedding, top_n=3):
+def find_top_matches(chunk_data, query_embedding, top_n):
     similarities = []
     for chunk in chunk_data:
         chunk_embedding = np.array(chunk["embedding"])
@@ -347,7 +391,7 @@ def find_top_matches(chunk_data, query_embedding, top_n=3):
     return similarities[:top_n]
 
 # Válasz értékelése
-def check_answer(model_answer, correct_answer,threshold=0.86):
+def check_answer(model_answer, correct_answer,threshold=0.80):
     correct_answer_embeddings = get_embedding(correct_answer)
     model_answer_embedding = get_embedding(model_answer)
     similarity = cosine_similarity(model_answer_embedding.reshape(1, -1), correct_answer_embeddings.reshape(1, -1))[0][0]
@@ -355,7 +399,6 @@ def check_answer(model_answer, correct_answer,threshold=0.86):
 
 # Fájl feldolgozás
 #json_filenames = ['markdown_karrol_256_.json','markdown_karrol_384_.json','markdown_karrol_512_.json','markdown_karrol_768_.json','markdown_karrol_1024_.json','markdown_karrol_2048_.json']
-
 #json_filenames= ['markdown_karrol_256_small.json','markdown_karrol_384_small.json','markdown_karrol_512_small.json','markdown_karrol_768_small.json','markdown_karrol_1024_small.json','markdown_karrol_2048_small.json']
 
 json_filenames= ['markdown_karrol_256_ada.json','markdown_karrol_384_ada.json','markdown_karrol_512_ada.json','markdown_karrol_768_ada.json','markdown_karrol_1024_ada.json','markdown_karrol_2048_ada.json']
@@ -365,15 +408,15 @@ for json_filename in json_filenames:
     chunk_data = load_chunks(json_filename)
     total_time = 0
     correct_count = 0
-    threshold = 0.86
-    top_n = 3
+    threshold = 0.67
+    top_n = 10
 
     for i, question in enumerate(questions):
         start_time = time.time()
         query_embedding = get_embedding(question)
 
         # Top találatok lekérése
-        top_matches = find_top_matches(chunk_data, query_embedding, top_n=3)
+        top_matches = find_top_matches(chunk_data, query_embedding, top_n=10)
         print("\n--- KÉRDÉS ---")
         print(question)
         print("--- TOP TALÁLATOK ---")
@@ -416,5 +459,5 @@ for json_filename in json_filenames:
 df = pd.DataFrame(results)
 print("\n--- EREDMÉNYEK ---")
 print(df)
-df.to_excel('results.xlsx', index=False)  # encoding nem szükséges itt
-files.download('results.xlsx')
+df.to_excel('results_ada_0_67_threshold_topk_10.xlsx', index=False)  # encoding nem szükséges itt
+files.download('results_ada_0_67_threshold_topk_10.xlsx')
