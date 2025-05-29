@@ -106,7 +106,8 @@ Pisak-Lukáts Ioan-Marius rendszergazda (https://ms.sapientia.ro/hu/a-karrol/rol
 Pál Árpád beszerző (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/gazdasagi-osztaly_/pal-arpad)
 ```markdown
 # Adminisztráció
-Osváth Csaba adminisztrátor és bentlakás adminisztrátor (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/osvath-csaba)
+Osváth Csaba adminisztrátor (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/osvath-csaba)
+Moise Annamária bentlakás adminisztrátor (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/moise-annamaria)
 Demeter Ferenc épületgépész (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/demeter-ferenc)
 Iszlai Lóránt tűz-és munkavédelmi felelős (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/iszlai-lorant)
 Siklódi József Magán Vészhelyzeti Felelős (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/siklodi-jozsef)
@@ -533,6 +534,95 @@ Szenátusi határozatok (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/sze
 Etikai Bizottság dokumentumai (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/etikai-bizottsag-dokumentumai)
 Egyéb dokumentumok (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/egyeb-dokumentumok)```markdown
 
+# Dokumentumok
+Szabályzatok és eljárási rendek (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/szabalyzatok-es-eljarasi-rendek)
+Fejlesztési stratégia (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/fejlesztesi-strategia)
+Rektori jelentések (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/rektori-jelentesek)
+Szenátusi határozatok (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/szenatusi-hatarozatok_)
+Etikai Bizottság dokumentumai (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/etikai-bizottsag-dokumentumai)
+Egyéb dokumentumok (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/egyeb-dokumentumok)
+
+# Karrieriroda
+Küldetés (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/kuldetes_)
+Tevékenységek (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/tevekenysegek)
+Tevékenységi beszámolók (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/tevekenysegi-beszamolok)
+Események (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/esemenyek)
+Állásajánlatok és szakmai gyakorlat (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat)
+
+# Küldetés
+A Karrieriroda stratégiai szerepet tölt be a Marosvásárhelyi Karon tanuló hallgatók felkészítésében, hogy a munkaerőpiacon érvényesülni tudjanak.
+A digitális átalakulás és a koronavírus-járvány a munkaerőpiac gyökeres átalakulását eredményezi: régi foglalkozások megszűnnek vagy lényegesen átalakulnak, valamint teljesen új munkakörök jönnek létre.
+A Karrieriroda tájékoztatást, útmutatást és támogatást nyújt a jelenlegi és volt hallgatóknak a munkaerőpiaci elhelyezkedésben, továbbá a sikeres karrierút megtervezésében.
+```markdown
+# Tevékenységek
+* Nyilvános előadások szervezése a munkaerőpiaci kihívásokról állami intézmények, elismert non-profit szervezetek, multinacionális vállalatok vezetőinek, illetve HR szakembereinek meghívásával.
+* Képzések / workshop-ok szervezése a jelenlegi és volt hallgatóknak:
+    + a munkahelykeresés alapelveiről (CV, rezümé, LinkedIn),
+    + az önismeret és puha képességek fejlesztéséről,
+    + a személyes márkázásról,
+    + a vállalkozásindításról.
+* Egyéni tanácsadás a jelenlegi és volt hallgatóknak a következő témakörökben:
+    + állásajánlatok ismertetése,
+    + álláskeresésre való egyéni felkészítés,
+    + próbainterjú szimulálása.
+* Állásbörzék és cégbemutatók szervezése jelenlegi és volt hallgatóknak
+* Állások és gyakornoki programok közvetítése jelenlegi és volt hallgatóknak
+* Kutatások végzése a Marosvásárhelyi Kar hallgatóinak munkavállalói igényeiről
+* Pályatervezési tanácsadás középiskolásoknak.
+* Kutatások végzése a munkaadók elvárásairól
+* Kutatások elvégzése a volt hallgatók karrierútjáról
+* Partnerségi hálózat kialakítása és fenntartása a lehetséges munkaadókkal és gyakornoki programok kezdeményezőivel.
+```
+# Marosvásárhelyi Karrierbörze 2025
+„A legjobb módja a jövő megjóslásának, ha mi magunk építjük” – mondta egykor Abraham Lincoln.
+Most itt a lehetőség, hogy te is formáld a jövődet a Marosvásárhelyi Karrierbörze rendezvényen!
+Ne hagyd ki ezt az alkalmat, hogy megtaláld az ideális állást, megismerd a munkaerőpiac legfrissebb trendjeit.
+Az eseményen számos iparág képviselői lesznek jelen, többek között az alábbi területekről: mérnöki és műszaki szektor, gyártás, autóipar, IT, szolgáltatások, logisztika és szállítmányozás, telekommunikáció, kereskedelem, marketing és kommunikáció, humánerőforrás, valamint pénzügy és bankügy.
+## Miért érdemes részt venni álláskeresőként?
+Naprakész információkat kapsz a munkaerőpiacról.
+Közvetlenül kapcsolatba léphetsz munkáltatókkal.
+Már a rendezvényen kitűnhetsz a munkaadók előtt.
+Megtalálhatod az ideális munkát, vagy akár álmaid állását is megszerezheted.
+Gyakornoki és szakmai gyakorlati lehetőségek várnak rád.
+Azonnali válaszokat kapsz kérdéseidre.
+Megismerheted a kiválasztási folyamat működését.
+Részletes információkat szerezhetsz az érdeklődési területedről.
+Kipróbálhatod a kiállító cégek termékeit.
+Segít eligazodni a karriered építésében és a számodra legjobb szakmai irány kiválasztásában.
+Ne hagyd ki ezt az egyedülálló lehetőséget!
+Facebook-esemény (https://fb.me/e/6sfh1zDr4)
+
+# Állásajánlatok és szakmai gyakorlat
+Állásajánlatok (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok)
+Internship ajánlatok (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/internship-ajanlatok)
+Szakmai gyakorlat lehetőségek (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/szakmai-gyakorlat-lehetosegek)
+DreamJobs állásajánlatok (https://dreamjobs.ro/hu)
+DreamJobs internship ajánlatok (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/dreamjobs-internship-ajanlatok)
+Sonrisa állásajánlatok (https://www.careers.sonrisa.hu/)
+
+# Állásajánlatok
+Energetikai menedzsert alkalmaz a Bayer Strada (https://www.bayerstrada.ro/energetikai-menedzser/)
+Automatizálási mérnököt keres az Aquaserv (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok/automatizalasi-mernokot-keres-az-aquaserv)
+Műszaki értékesítő munkatársat keres a sepsiszentgyörgyi Grimas Control cég (https://ms.sapientia.ro/content/docs/MS/M%C5%B1szaki%20%C3%A9rt%C3%A9kes%C3%ADt%C5%91%20munkat%C3%A1rsat%20keres%C3%BCnk%202024_GRIMASControl.pdf)
+Junior állások a DreamJobs-nál (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok/junior-allasok-a-dreamjobs-nal)
+Gyakornoki álláslehetőség az ANFEED cégnél (https://ms.sapientia.ro/content/docs/MS/2024.04.26.%20Ny%C3%A1ri%20munkalehet%C5%91s%C3%A9g%20di%C3%A1koknak%20ANF_Sapientia.docx)
+Marosvásárhelyi állásbőrze 2024 (https://fb.me/e/1JkgE6QpT)
+1. Tavaszi karrierbörze (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok/1-tavaszi-karrierborze)
+Inreco építőipari magáncég gépészmérnököt alkalmaz (https://ms.sapientia.ro/content/docs/MS/G%C3%A9p%C3%A9szm%C3%A9rn%C3%B6k_240315_180508.pdf)
+Heineken Trainee Program (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok/heineken-trainee-program)
+Balint Construction Company SRL állásajánlat (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok/balint-construction-company-srl-allasajanlat)
+UNO Engineering állásajánlat (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok/uno-engineering-allasajanlat)
+Helen Doron állásajánlat (https://ms.sapientia.ro/content/docs/MS/join%20(1800%20%C3%97%201800%20px)%20(Poster%20(A3%20Portrait)).pdf)
+
+# Internship ajánlatok
+Dreamups - Upcelerator Program (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/internship-ajanlatok/dreamups-upcelerator-program)
+```markdown
+# Szakmai gyakorlat lehetőségek
+Interview Prep Accelerator Workshop sorozat (https://ms.sapientia.ro/hu/hirek/interview-prep-accelerator-workshop-sorozat)
+Bosch Future Mobility Challenge 2025 (BFMC2025)**A Bosch Kolozsvári Mérnöki Központja nyolcadik alkalommal szervezi meg a Bosch Future Mobility Challenge 2025 (BFMC2025) hallgatói versenyt.** (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-hallgatoknak_/bosch-future-mobility-challenge-2025-bfmc2025)
+Nyári gyakorlat lehetőség a Fomco Solarnál (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/szakmai-gyakorlat-lehetosegek/nyari-gyakorlat-lehetoseg-a-fomco-solarnal)
+Kadeno Solutions nyári szakmai gyakorlat**Nyári szakmai gyakorlatot hirdet a Kadeno Solutions marosvásárhelyi cég.** (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/szakmai-gyakorlat-lehetosegek/kadeno-solutions-nyari-szakmai-gyakorlat)
+```
 # Könyvtár
 A könyvtárról (https://ms.sapientia.ro/hu/a-karrol/konyvtar/a-konyvtarrol)
 Szolgáltatások (https://ms.sapientia.ro/hu/a-karrol/konyvtar/szolgaltatasok)
@@ -640,6 +730,47 @@ A könyvtárban történő, személyes beiratkozás esetében szükséges dokume
 Oktatóknak, alkalmazottaknak nem szükséges fényképet hozniuk.
 Külső személyek beiratkozás nélkül használhatják a könyvtárat, ők egyszerű látogatói nyilvántartásba kerülnek.
 ```
+```markdown
+# Ajánló
+## Az egyetemen elérhető előfizetéses adatbázisok:
+Web of Science (http://www.webofknowledge.com/)
+Springer Link (http://link.springer.com/)
+MathSciNet (http://www.ams.org/msnhtml/fullitem_help.html#references)
+JSTOR Archívum (http://www.jstor.org/)
+Science Direct (https://www.sciencedirect.com/)
+USC SOÁ Alapítvány Vizuális Történelmi Archívum (http://vha.usc.edu/login)
+Akadémiai Kiadó folyóirat-gyűjteménye (https://akjournals.com/)
+Akadémiai Kiadó szótárai (http://eisz.szotar.org/)
+Akadémiai Kiadó MeRSZ (https://mersz.hu/)
+Arcanum Digitális Tudománytár (https://adtplus.arcanum.hu/hu/)
+Szaktárs (https://www.szaktars.hu/)
+L’Harmattan Könyvkiadó (https://openaccess.hu/)
+Typotex Interkönyv (https://edu.interkonyv.hu/)
+Kossuth Kiadó (https://zeusz.kossuth.hu/start)
+SzóTudásTár (https://szotudastar.hu/)
+További adatbázisok:
+Kortárs Építészeti Központ Tudástára (https://tudastar.kek.org.hu/)
+Artstor Digital Library (https://library.artstor.org/#/)
+REAL - az MTA Könyvtárának repozitóriuma (http://real.mtak.hu/)
+Directory of Open Access Journals (DOAJ) (https://doaj.org/)
+Digitális Tankönyvtár (https://dtk.tankonyvtar.hu/)
+Adatbank. Erdélyi Magyar Elektronikus Könyvtár (http://adatbank.ro/)
+Magyar Elektronikus Könyvtár (http://mek.oszk.hu/)
+Elektronikus Periodika Adatbázis (http://www.epa.oszk.hu/)
+Magyar Digitális Képkönyvtár (http://www.kepkonyvtar.hu/)
+Digitális Irodalmi Akadémia (http://dia.hu/)
+Europeana (http://www.europeana.eu/)
+Egészségfejlesztés folyóirat (http://folyoirat.nefi.hu/index.php?journal=Egeszsegfejlesztes)
+Compass - a Magyarországon elérhető elektronikus tudományos tartalmak keresőfelülete (http://compass.mtak.hu/)
+## Könyvtárak:
+A Sapientia EMTE csíkszeredai könyvtára (https://ms.sapientia.ro/sapcs/hu/a-karrol/konyvtar)
+A Sapientia EMTE kolozsvári könyvtára (http://kv.sapientia.ro/hu/a-tonk-sandor-konyvtar)
+A Partiumi Keresztény Egyetem könyvtára (https://konyvtar.partium.ro/hu/bemutatas)
+Marosvásárhelyi Művészeti Egyetem (https://www.szini.ro/az-egyetemrol/infrastruktura-szolgaltatasok)
+Marosvásárhelyi „George Emil Palade” Orvosi, Gyógyszerészeti, Tudomány- és Technológiai Egyetem (http://liberty.umftgm.ro:8080/liberty/libraryHome.do?SAMLResponse=&clientAlias=&time=&digest=&corporationAlias=UMFTGM)
+„Lucian Blaga” Központi Egyetemi Könyvtár, Kolozsvár (https://www.bcucluj.ro/hun)
+„Ion Ionescu de la Brad” Élettudományi Egyetem, Jászvásár (http://uaiasi.ro/index.php?lang=ro&pagina=pagini/10_biblioteca.html)
+```
 # Katalógus
 A keresett művel (könyv, folyóirat, elektronikus dokumentum, szakdolgozat) kapcsolatban a könyvtár számítógépes katalógusában találunk információkat.
 Elektronikus katalógus elérhetősége (http://opac3.ms.sapientia.ro/hu_HU/)
@@ -658,86 +789,6 @@ Ezt a keresési módot akkor használjuk, ha nem ismerjük pontosan a keresendő
 Ekkor ugyanis nem pontos egyezést keres a program, hanem a keresési kifejezéshez legközelebb álló rekordtól kezdve listáz ki megadott számú anyagot.
 A számítógépes katalógus használatához eligazítást ad a Súgó menüpont is.
 
-# Karrieriroda
-Küldetés (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/kuldetes_)
-Tevékenységek (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/tevekenysegek)
-Tevékenységi beszámolók (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/tevekenysegi-beszamolok)
-Események (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/esemenyek)
-Állásajánlatok és szakmai gyakorlat (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat)
-
-# Küldetés
-A Karrieriroda stratégiai szerepet tölt be a Marosvásárhelyi Karon tanuló hallgatók felkészítésében, hogy a munkaerőpiacon érvényesülni tudjanak.
-A digitális átalakulás és a koronavírus-járvány a munkaerőpiac gyökeres átalakulását eredményezi: régi foglalkozások megszűnnek vagy lényegesen átalakulnak, valamint teljesen új munkakörök jönnek létre.
-A Karrieriroda tájékoztatást, útmutatást és támogatást nyújt a jelenlegi és volt hallgatóknak a munkaerőpiaci elhelyezkedésben, továbbá a sikeres karrierút megtervezésében.```markdown
-# Tevékenységek
-* Nyilvános előadások szervezése a munkaerőpiaci kihívásokról állami intézmények, elismert non-profit szervezetek, multinacionális vállalatok vezetőinek, illetve HR szakembereinek meghívásával.
-* Képzések / workshop-ok szervezése a jelenlegi és volt hallgatóknak:
-    + a munkahelykeresés alapelveiről (CV, rezümé, LinkedIn),
-    + az önismeret és puha képességek fejlesztéséről,
-    + a személyes márkázásról,
-    + a vállalkozásindításról.
-* Egyéni tanácsadás a jelenlegi és volt hallgatóknak a következő témakörökben:
-    + állásajánlatok ismertetése,
-    + álláskeresésre való egyéni felkészítés,
-    + próbainterjú szimulálása.
-* Állásbörzék és cégbemutatók szervezése jelenlegi és volt hallgatóknak
-* Állások és gyakornoki programok közvetítése jelenlegi és volt hallgatóknak
-* Kutatások végzése a Marosvásárhelyi Kar hallgatóinak munkavállalói igényeiről
-* Pályatervezési tanácsadás középiskolásoknak.
-* Kutatások végzése a munkaadók elvárásairól
-* Kutatások elvégzése a volt hallgatók karrierútjáról
-* Partnerségi hálózat kialakítása és fenntartása a lehetséges munkaadókkal és gyakornoki programok kezdeményezőivel.
-```
-# Marosvásárhelyi Karrierbörze 2025
-„A legjobb módja a jövő megjóslásának, ha mi magunk építjük” – mondta egykor Abraham Lincoln.
-Most itt a lehetőség, hogy te is formáld a jövődet a Marosvásárhelyi Karrierbörze rendezvényen!
-Ne hagyd ki ezt az alkalmat, hogy megtaláld az ideális állást, megismerd a munkaerőpiac legfrissebb trendjeit.
-Az eseményen számos iparág képviselői lesznek jelen, többek között az alábbi területekről: mérnöki és műszaki szektor, gyártás, autóipar, IT, szolgáltatások, logisztika és szállítmányozás, telekommunikáció, kereskedelem, marketing és kommunikáció, humánerőforrás, valamint pénzügy és bankügy.
-## Miért érdemes részt venni álláskeresőként?
-Naprakész információkat kapsz a munkaerőpiacról.
-Közvetlenül kapcsolatba léphetsz munkáltatókkal.
-Már a rendezvényen kitűnhetsz a munkaadók előtt.
-Megtalálhatod az ideális munkát, vagy akár álmaid állását is megszerezheted.
-Gyakornoki és szakmai gyakorlati lehetőségek várnak rád.
-Azonnali válaszokat kapsz kérdéseidre.
-Megismerheted a kiválasztási folyamat működését.
-Részletes információkat szerezhetsz az érdeklődési területedről.
-Kipróbálhatod a kiállító cégek termékeit.
-Segít eligazodni a karriered építésében és a számodra legjobb szakmai irány kiválasztásában.
-Ne hagyd ki ezt az egyedülálló lehetőséget!
-Facebook-esemény (https://fb.me/e/6sfh1zDr4)
-
-# Állásajánlatok és szakmai gyakorlat
-Állásajánlatok (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok)
-Internship ajánlatok (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/internship-ajanlatok)
-Szakmai gyakorlat lehetőségek (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/szakmai-gyakorlat-lehetosegek)
-DreamJobs állásajánlatok (https://dreamjobs.ro/hu)
-DreamJobs internship ajánlatok (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/dreamjobs-internship-ajanlatok)
-Sonrisa állásajánlatok (https://www.careers.sonrisa.hu/)
-
-# Állásajánlatok
-Energetikai menedzsert alkalmaz a Bayer Strada (https://www.bayerstrada.ro/energetikai-menedzser/)
-Automatizálási mérnököt keres az Aquaserv (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok/automatizalasi-mernokot-keres-az-aquaserv)
-Műszaki értékesítő munkatársat keres a sepsiszentgyörgyi Grimas Control cég (https://ms.sapientia.ro/content/docs/MS/M%C5%B1szaki%20%C3%A9rt%C3%A9kes%C3%ADt%C5%91%20munkat%C3%A1rsat%20keres%C3%BCnk%202024_GRIMASControl.pdf)
-Junior állások a DreamJobs-nál (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok/junior-allasok-a-dreamjobs-nal)
-Gyakornoki álláslehetőség az ANFEED cégnél (https://ms.sapientia.ro/content/docs/MS/2024.04.26.%20Ny%C3%A1ri%20munkalehet%C5%91s%C3%A9g%20di%C3%A1koknak%20ANF_Sapientia.docx)
-Marosvásárhelyi állásbőrze 2024 (https://fb.me/e/1JkgE6QpT)
-1. Tavaszi karrierbörze (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok/1-tavaszi-karrierborze)
-Inreco építőipari magáncég gépészmérnököt alkalmaz (https://ms.sapientia.ro/content/docs/MS/G%C3%A9p%C3%A9szm%C3%A9rn%C3%B6k_240315_180508.pdf)
-Heineken Trainee Program (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok/heineken-trainee-program)
-Balint Construction Company SRL állásajánlat (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok/balint-construction-company-srl-allasajanlat)
-UNO Engineering állásajánlat (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/allasajanlatok/uno-engineering-allasajanlat)
-Helen Doron állásajánlat (https://ms.sapientia.ro/content/docs/MS/join%20(1800%20%C3%97%201800%20px)%20(Poster%20(A3%20Portrait)).pdf)
-
-# Internship ajánlatok
-Dreamups - Upcelerator Program (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/internship-ajanlatok/dreamups-upcelerator-program)
-```markdown
-# Szakmai gyakorlat lehetőségek
-Interview Prep Accelerator Workshop sorozat (https://ms.sapientia.ro/hu/hirek/interview-prep-accelerator-workshop-sorozat)
-Bosch Future Mobility Challenge 2025 (BFMC2025)**A Bosch Kolozsvári Mérnöki Központja nyolcadik alkalommal szervezi meg a Bosch Future Mobility Challenge 2025 (BFMC2025) hallgatói versenyt.** (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-hallgatoknak_/bosch-future-mobility-challenge-2025-bfmc2025)
-Nyári gyakorlat lehetőség a Fomco Solarnál (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/szakmai-gyakorlat-lehetosegek/nyari-gyakorlat-lehetoseg-a-fomco-solarnal)
-Kadeno Solutions nyári szakmai gyakorlat**Nyári szakmai gyakorlatot hirdet a Kadeno Solutions marosvásárhelyi cég.** (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/szakmai-gyakorlat-lehetosegek/kadeno-solutions-nyari-szakmai-gyakorlat)
-```
 # Hallgatói Önkormányzat
 Kedves Hallgatók!
 Szeretettel köszönt benneteket a Sapientia Erdélyi Magyar Tudományegyetem Marosvásárhelyi Karának Hallgatói Önkormányzata.
@@ -782,51 +833,16 @@ A HÖK Szervezeti- és működési szabályzata letölthető: Szervezeti- és m�
 ## Vezetők
 A HÖK-ben a legfontosabb ügyek vezetésére elnököket választanak, ők alkotják az Elnökséget, akiknek a munkáját az elnök irányítja.
 A Sapientia EMTE Marosvásárhelyi Kar Hallgatói Önkormányzatának jelenlegi elnöksége:
-* Feladatkör: Elnök
-    * Név: Balázs Vajk-István
-    * Szak/Évfolyam: Számítástechnika III. év
-    * Telefonszám: 0758423708
-    * E-mail: balazs.vajk.istvan@student.ms.sapientia.ro
-* Feladatkör: Érdekképviseleti alelnök
-    * Név: Mihálydeák Máté-Áron
-    * Szak/Évfolyam: Számítástechnika III. év
-    * Telefonszám: 0753111447
-    * E-mail: mihalydeak.mate@student.ms.sapientia.ro
-* Feladatkör: Gazdasági bizottság elnöke
-    * Név: Horváth Ákos
-    * Szak/Évfolyam: Informatika III. év
-    * Telefonszám: 0743191343
-    * E-mail: horvath.akos@student.ms.sapientia.ro
-* Feladatkör: Kommunikációs bizottság elnöke
-    * Név: Nagy Alexandra
-    * Szak/Évfolyam: Fordító és tolmács II. év
-    * Telefonszám: 0748669851
-    * E-mail: nagy.alexandra@student.ms.sapientia.ro
-* Feladatkör: Tanulmányi bizottság elnöke
-    * Név: Hints Orsolya
-    * Szak/Évfolyam: Kommunikáció és közkapcsolatok II. év
-    * Telefonszám: 0756923117
-    * E-mail: hints.orsolya@student.ms.sapientia.ro
-* Feladatkör: Kulturális bizottság elnöke
-    * Név: Gálfi Attila
-    * Szak/Évfolyam: Számítástechnika, II. év
-    * Telefonszám: 0747769655
-    * E-mail: galfi.attila@student.ms.sapientia.ro
-* Feladatkör: Sportbizottság elnöke
-    * Név: Portik Richárd
-    * Szak/Évfolyam: Fordító és tolmács III. év
-    * Telefonszám: 0754880519
-    * E-mail: portik.richard@student.ms.sapientia.ro
-* Feladatkör: Arculatfelelős
-    * Név: Csala Csongor
-    * Szak/Évfolyam: Számítástechnika II. év
-    * Telefonszám: 0744830324
-    * E-mail: csala.csongor@student.ms.sapientia.ro
-* Feladatkör: Iroda felelős
-    * Név: Ozsváth-Berényi Attila
-    * Szak/Évfolyam: Automatika és alkalmazott informatika, I. év
-    * Telefonszám: 0741949694
-    * E-mail: ozsvath.attila@student.ms.sapientia.ro
+
+Feladatkör: Elnök, Név: Balázs Vajk-István, Szak/Évfolyam: Számítástechnika III. év, Telefonszám: 0758423708, E-mail: balazs.vajk.istvan@student.ms.sapientia.ro
+Feladatkör: Érdekképviseleti alelnök, Név: Mihálydeák Máté-Áron, Szak/Évfolyam: Számítástechnika III. év, Telefonszám: 0753111447, E-mail: mihalydeak.mate@student.ms.sapientia.ro
+Feladatkör: Gazdasági bizottság elnöke, Név: Horváth Ákos, Szak/Évfolyam: Informatika III. év, Telefonszám: 0743191343, E-mail: horvath.akos@student.ms.sapientia.ro
+Feladatkör: Kommunikációs bizottság elnöke, Név: Nagy Alexandra, Szak/Évfolyam: Fordító és tolmács II. év, Telefonszám: 0748669851, E-mail: nagy.alexandra@student.ms.sapientia.ro
+Feladatkör: Tanulmányi bizottság elnöke, Név: Hints Orsolya, Szak/Évfolyam: Kommunikáció és közkapcsolatok II. év, Telefonszám: 0756923117, E-mail: hints.orsolya@student.ms.sapientia.ro
+Feladatkör: Kulturális bizottság elnöke, Név: Gálfi Attila, Szak/Évfolyam: Számítástechnika, II. év, Telefonszám: 0747769655, E-mail: galfi.attila@student.ms.sapientia.ro
+Feladatkör: Sportbizottság elnöke, Név: Portik Richárd, Szak/Évfolyam: Fordító és tolmács III. év, Telefonszám: 0754880519, E-mail: portik.richard@student.ms.sapientia.ro
+Feladatkör: Arculatfelelős, Név: Csala Csongor, Szak/Évfolyam: Számítástechnika II. év, Telefonszám: 0744830324, E-mail: csala.csongor@student.ms.sapientia.ro
+Feladatkör: Iroda felelős, Név: Ozsváth-Berényi Attila, Szak/Évfolyam: Automatika és alkalmazott informatika, I. év, Telefonszám: 0741949694, E-mail: ozsvath.attila@student.ms.sapientia.ro
 
 Cím: Calea Sighișoarei nr. 2., Marosvásárhely/Koronka
 E-mail: sapientiamshok@gmail.com
@@ -855,7 +871,8 @@ Az alábbi  kérdőív célja, hogy információkat gyűjtsünk a végzett hall
 A Sapientia EMTE vezetősége egy **névtelen kérdőíves felmérést** készít a végzős diákok intézménnyel, oktatással, oktatókkal, bentlakással és diákélettel való elégedettségéről.
 Kérünk minden végzős hallgatót, hogy töltse ki a kérdőívet.
 Előre is köszönjük! 
-Az űrlap itt érhető el: **Elégedettség Felmérés 2024 (https://forms.gle/fuXtcbc9qMAMqD6M8 )**# Elérhetőségek
+Az űrlap itt érhető el: **Elégedettség Felmérés 2024 (https://forms.gle/fuXtcbc9qMAMqD6M8 )**
+# Elérhetőségek
 ## Marosvásárhelyi Kar
 Târgu-Mureş/Corunca (Marosvásárhely/Koronka), Calea Sighișoarei nr. 2.
 (26, 27, 44-es közszállítási vonal végállomása)

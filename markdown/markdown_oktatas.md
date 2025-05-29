@@ -19,7 +19,7 @@ Tantárgyi leírások (https://ms.sapientia.ro/hu/oktatas/tantargyi-leirasok)
 A dokumentum a páros és páratlan tanítási heteket, a vizsga- és vakációs időszakokat, valamint a hivatalos ünnepnapokat tartalmazza.```markdown
 
 # Órarend
-# A 2024/2025-ös tanév II. félévének órarendje:
+## A 2024/2025-ös tanév II. félévének órarendje:
 * https://sapientia-emte.edupage.org/timetable/? (https://sapientia-emte.edupage.org/timetable/)
 **A 2024/2025-ös tanév szerkezete (https://ms.sapientia.ro/content/docs/MS/tan%C3%A9vszerkezet%202024-25_.pdf) olvasható.**
 
@@ -40,77 +40,74 @@ A dokumentum a páros és páratlan tanítási heteket, a vizsga- és vakációs
 * Szoftverfejlesztés (https://drive.google.com/file/d/1FzhVcwuDtwh4h7oHz98647kNeRxqpLFK/view?usp=drive_link)
 * Fejlett mechatronika rendszerek (https://drive.google.com/file/d/1nGI3ZtuaLrMrVKFnyLOdSW_fgL8AWeWp/view?usp=sharing)
 * Számítógépes irányítási rendszerek (https://drive.google.com/file/d/1jJNn_Xe6WBtWpRoRSby0VpELfnHA6fuV/view?usp=drive_link)
-* Növényorvos (https://drive.google.com/file/d/1zc6UVbiLNTzF7v0u0Yu3Xq1Q49TrBNsT/view?usp=drive_link)# Tantervek
-### Alapképzés
-*   Szak: Informatika
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBInfo_2024.pdf)
-    *   II. év: 2023_2024_I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBInfo_2023.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Informatika_2022_2023_II%20ev.pdf)
-    *   IV. év: Nincs adat
-*   Szak: Mechatronika
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBMech_2024_Magyar.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Tanterv_MMECH_2023.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/mechatronika_2022_2023_II%20ev.pdf)
-    *   IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/mechatronika_2021_2022_I%20ev.pdf)
-*   Szak: Számítástechnika
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitastechnika%202024-2025.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitastechnika%202023-2024%20(1).pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/szamitastechnika_2022_2023_II%20ev.pdf)
-    *   IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/szamitastechnika_2021_2022_I%20ev.pdf)
-*   Szak: Automatika és alkalmazott informatika
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Automatika_es_alkalmazott_informaika_2024-2025.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Automatika_es_alkalmazott_informaika_2023-2024%20(1).pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/automatizalas_2022_2023_II%20ev.pdf)
-    *   IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/automatizalas_2021_2022_I%20ev.pdf)
-*   Szak: Gépészmérnöki
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBTCM_2024_Magyar.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Tanterv_MTCM_2023.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/gepesz_2022_2023_II%20ev.pdf)
-    *   IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/gepesz_2021_2022_I%20ev.pdf)
-*   Szak: Távközlés
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Infokummunikacios_halozatok_es_rendszerek_2024-2025_1.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/minta_MBTK_2023_HU.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/tavkozles_2022_2023_II%20ev.pdf)
-    *   IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/tavkozles_2021_2022_I%20ev.pdf)
-*   Szak: Kertészmérnöki
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKer_2024.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKer_2023.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Anexa%20II.3.1%20-%20Plan%20de%20invatamant%20HORT%202022-2023.pdf)
-    *   IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/kertesz_2021_2022_I%20ev.pdf)
-*   Szak: Kommunikáció és közkapcsolatok
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKom_2024.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKom_2023.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/kommunikacio_2022_2023_II%20ev.pdf)
-    *   IV. év: Nincs adat
-*   Szak: Közegészségügyi szolgáltatások és politikák
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBEg_2024.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBEg_2023.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/kozeg_2022_2023_II%20ev.pdf)
-    *   IV. év: Nincs adat
-*   Szak: Fordító és tolmács
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBFord_2024%20HU.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBFord_2023_%20Magyar%202023_11_16.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/fordito_2022_2023_II%20ev.pdf)
-    *   IV. év: Nincs adat
-*   Szak: Tájépítészet
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBTaj_2024.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBTaj_2023-24_SZL%20m%C3%A1rc%2005_forditas%20VE_SZL.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/tajepiteszet_2022_2023_II%20ev.pdf)
-    *   IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/tajepiteszet_2021_2022_I%20ev.pdf)
+* Növényorvos (https://drive.google.com/file/d/1zc6UVbiLNTzF7v0u0Yu3Xq1Q49TrBNsT/view?usp=drive_link)
+# Tantervek
+## Alapképzés
+Szak: Informatika
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBInfo_2024.pdf)
+* II. év: 2023_2024_I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBInfo_2023.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Informatika_2022_2023_II%20ev.pdf)
+Szak: Mechatronika
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBMech_2024_Magyar.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Tanterv_MMECH_2023.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/mechatronika_2022_2023_II%20ev.pdf)
+* IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/mechatronika_2021_2022_I%20ev.pdf)
+Szak: Számítástechnika
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitastechnika%202024-2025.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitastechnika%202023-2024%20(1).pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/szamitastechnika_2022_2023_II%20ev.pdf)
+* IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/szamitastechnika_2021_2022_I%20ev.pdf)
+Szak: Automatika és alkalmazott informatika
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Automatika_es_alkalmazott_informaika_2024-2025.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Automatika_es_alkalmazott_informaika_2023-2024%20(1).pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/automatizalas_2022_2023_II%20ev.pdf)
+* IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/automatizalas_2021_2022_I%20ev.pdf)
+Szak: Gépészmérnöki
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBTCM_2024_Magyar.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Tanterv_MTCM_2023.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/gepesz_2022_2023_II%20ev.pdf)
+* IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/gepesz_2021_2022_I%20ev.pdf)
+Szak: Távközlés
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Infokummunikacios_halozatok_es_rendszerek_2024-2025_1.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/minta_MBTK_2023_HU.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/tavkozles_2022_2023_II%20ev.pdf)
+* IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/tavkozles_2021_2022_I%20ev.pdf)
+Szak: Kertészmérnöki
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKer_2024.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKer_2023.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Anexa%20II.3.1%20-%20Plan%20de%20invatamant%20HORT%202022-2023.pdf)
+* IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/kertesz_2021_2022_I%20ev.pdf)
+Szak: Kommunikáció és közkapcsolatok
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKom_2024.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKom_2023.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/kommunikacio_2022_2023_II%20ev.pdf)
+Szak: Közegészségügyi szolgáltatások és politikák
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBEg_2024.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBEg_2023.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/kozeg_2022_2023_II%20ev.pdf)
+* IV. év: Nincs adat
+Szak: Fordító és tolmács
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBFord_2024%20HU.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBFord_2023_%20Magyar%202023_11_16.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/fordito_2022_2023_II%20ev.pdf)
+Szak: Tájépítészet
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBTaj_2024.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBTaj_2023-24_SZL%20m%C3%A1rc%2005_forditas%20VE_SZL.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/tajepiteszet_2022_2023_II%20ev.pdf)
+* IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/tajepiteszet_2021_2022_I%20ev.pdf)
 ### Mesterképzés
-*   Szak: Szoftverfejlesztés
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMSZF_2024.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMSZF_2023.pdf)
-*   Szak: Növényorvos
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMNOV_2024.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMNOV_2023_SZL%20m%C3%A1rc.27.pdf)
-*   Szak: Számítógépes irányítási rendszerek
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitogepes_iranyitasi_rendszerek_2024-2025%201.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitogepes_iranyitasi_rendszerek_2023-2024%20(1).pdf)
-*   Szak: Fejlett mechatronikai rendszerek
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMFMR_2024_Magyar.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Tanterv_FMR_2023.pdf)
-
+Szak: Szoftverfejlesztés
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMSZF_2024.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMSZF_2023.pdf)
+Szak: Növényorvos
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMNOV_2024.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMNOV_2023_SZL%20m%C3%A1rc.27.pdf)
+Szak: Számítógépes irányítási rendszerek
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitogepes_iranyitasi_rendszerek_2024-2025%201.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitogepes_iranyitasi_rendszerek_2023-2024%20(1).pdf)
+Szak: Fejlett mechatronikai rendszerek
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMFMR_2024_Magyar.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Tanterv_FMR_2023.pdf)
 # Oktatói versenyvizsgák
 Meghatározott időre szóló tanársegédi állások 2024/2025 (https://ms.sapientia.ro/hu/oktatas/oktatoi-versenyvizsgak/meghatarozott-idore-szolo-tanarsegedi-allasok-20242025)
 Óraadói állások 2024/2025 (https://ms.sapientia.ro/hu/oktatas/oktatoi-versenyvizsgak/oraadoi-allasok-20242025)
@@ -157,11 +154,5 @@ Tel.: +40-265-208170, +40-723-193989, fax: +40-265-206211,
 E-mail: office@ms.sapientia.ro
 ``````markdown
 # Tantárgyi leírások
-Oktatás (https://ms.sapientia.ro/hu/oktatas)
-Tanévszerkezet (https://ms.sapientia.ro/hu/oktatas/tanevszerkezet)
-Órarend (https://ms.sapientia.ro/hu/oktatas/orarend)
-Tantárgyi adatlapok (https://ms.sapientia.ro/hu/oktatas/tantargyi-adatlapok)
-Tantervek (https://ms.sapientia.ro/hu/oktatas/tantervek)
-Oktatói versenyvizsgák (https://ms.sapientia.ro/hu/oktatas/oktatoi-versenyvizsgak)
 Tantárgyi leírások (https://ms.sapientia.ro/hu/oktatas/tantargyi-leirasok)
 ```

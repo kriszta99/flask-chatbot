@@ -180,10 +180,12 @@ A végzős évfolyamok 2018/2019-es nyári pótvizsgabeosztása (https://ms.sapi
 A 2018/2019-es tanév nyári vizsgabeosztása (https://ms.sapientia.ro/data/dokumentumok/vizsgabeosztasok/vizsgabeosztas_nyari_2019.pdf) követhető.
 A 2018/2019-es tanév nyári pótvizsgabeosztása (https://ms.sapientia.ro/data/dokumentumok/vizsgabeosztasok/potvizsgabeosztas_nyari_2019%20junius(2).pdf) követhető.
 A 2018/2019-es tanév őszi kiegészítő vizsgabeosztása (https://ms.sapientia.ro/data/kiegeszito_vizsgabeosztas_%202019aug28%20uj.pdf) követhető.
-```# Hallgatói pénzügyek
+```
+# Hallgatói pénzügyek
 Ösztöndíjak (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak)
 Fizetési határidők (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/fizetesi-hataridok)
-Adminisztratív díjak (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-dijak_)# Ösztöndíjak
+Adminisztratív díjak (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-dijak_)
+# Ösztöndíjak
 Ösztöndíjakról általában (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak/osztondijakrol-altalaban)
 Alkalmi ösztöndíjak (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak/alkalmi-osztondijak)
 Érdemösztöndíj (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak/erdemosztondij)
@@ -230,200 +232,78 @@ Egy hallgató csak egyszer részesülhet Ferber-ösztöndíjban a képzése idej
 Dokumentumlinkek:
 Ferber-ösztöndíj odaítélésének kritérium rendszere (https://ms.sapientia.ro/content/docs/MS/Osztondijak/Ferber%20osztondijhoz%20kriteriumok%20VEGLEGES%202021jun22.pdf)
 # Fizetési határidők
-### **Tandíjak bankon keresztül utalhatóak a következő bankszámlára:**
+## **Tandíjak bankon keresztül utalhatóak a következő bankszámlára:**
 **RO48BTRLRONCRT0039221810**
 UNIVERSITATEA SAPIENTIA, CORUNCA, CF: 14645945
 **Az átutalási bizonylatra kérjük feltüntetni a kifizetés típusát (tandíj/taxa școlarizare), nevet, szakot.**
 **Fizetni online is lehetséges** ITT (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-dijak_)
-## Tandíj befizetési határidők a 2024/2025-ös tanévre, I-II.év
-- **500 euro tandíj hozzájárulás - 2500 RON**
-  - Díj megnevezése: I. félévi tandíj hozzájárulás
-    - Befizetési határidő: július 28.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 600
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: II. félévi tandíj hozzájárulás
-    - Befizetési határidő: október 31.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 650
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: március 31.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 1250
-- **700 euro tandíj hozzájárulás - 3500 RON**
-  - Díj megnevezése: I. félévi differenciált költséghozzájárulás
-    - Befizetési határidő: július 28.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 600
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: október 31.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 275
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: december 15.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 875
-  - Díj megnevezése: II. félévi differenciált költséghozzájárulás
-    - Befizetési határidő: március 31.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 875
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: május 15.
-    * Évfolyam: I-II.
-    * Jelenlegi összeg RON: 875
-- **900 euro tandíj hozzájárulás - 4500 RON**
-  - Díj megnevezése: I. félévi tandíj hozzájárulás - teljes tandíj
-    - Befizetési határidő: július 28.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 600
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: október 31.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 525
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: december 15.
-    - Évfolyam: I-II.
-    * Jelenlegi összeg RON: 1125
-  - Díj megnevezése: II. félévi tandíj hozzájárulás - teljes tandíj
-    - Befizetési határidő: március 31.
-    - Évfolyam: I-II.
-    * Jelenlegi összeg RON: 1125
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: május 15.
-    * Évfolyam: I-II.
-    * Jelenlegi összeg RON: 1125
-- **Minden szak**
-  - Díj megnevezése: újra felvett tantárgy díja
-    - Befizetési határidő: tanévkezdés -1 hét
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: kreditszám x 50 lej
-    - Mulasztás következménye: nem vizsgázhat
-  - Díj megnevezése: kiegészítő-vizsgadíj
-    - Befizetési határidő: (nincs megadva)
-    - Évfolyam: (nincs megadva)
-    - Jelenlegi összeg RON: 100 lej
-    - Mulasztás következménye: nem vizsgázhat
-  - Díj megnevezése: visszairatkozás az egyetemre
-    - Befizetési határidő: tanévkezdés -1 hét
-    - Évfolyam: (nincs megadva)
-    - Jelenlegi összeg RON: 100 lej
-    - Mulasztás következménye: nem írják vissza
-  - Díj megnevezése: törzskönyvi kivonat kibocsájtása
-    - Befizetési határidő: átvétel előtt
-    - Évfolyam: (nincs megadva)
-    - Jelenlegi összeg RON: 200 lej
-    - Mulasztás következménye: nem adják ki
-- **Felvételi - nyári vagy őszi**
-  - Díj megnevezése: beiratkozási díj
-    - Befizetési határidő: beiratkozáskor
-    - Évfolyam: 0
-    - Jelenlegi összeg RON: 100 lej
-    - Mulasztás következménye: (nincs megadva)
+## Tandíj befizetési határidők a 2024/2025-ös tanévre, I-II. év
+
+### Tandíj: 500 euro tandíj hozzájárulás - 2500 RON
+Díj megnevezése: I. félévi tandíj hozzájárulás, Befizetési határidő: július 28., Évfolyam: I-II., Jelenlegi összeg RON: 600, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi tandíj hozzájárulás, Befizetési határidő: október 31., Évfolyam: I-II., Jelenlegi összeg RON: 650, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi tandíj hozzájárulás, Befizetési határidő: március 31., Évfolyam: I-II., Jelenlegi összeg RON: 1250, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+
+### Tandíj: 700 euro tandíj hozzájárulás - 3500 RON
+Díj megnevezése: I. félévi differenciált költséghozzájárulás, Befizetési határidő: július 28., Évfolyam: I-II., Jelenlegi összeg RON: 600, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: I. félévi differenciált költséghozzájárulás, Befizetési határidő: október 31., Évfolyam: I-II., Jelenlegi összeg RON: 275, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: I. félévi differenciált költséghozzájárulás, Befizetési határidő: december 15., Évfolyam: I-II., Jelenlegi összeg RON: 875, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi differenciált költséghozzájárulás, Befizetési határidő: március 31., Évfolyam: I-II., Jelenlegi összeg RON:  875, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi differenciált költséghozzájárulás, Befizetési határidő: május 15., Évfolyam: I-II., Jelenlegi összeg RON: 875, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+
+### Tandíj: 900 euro tandíj hozzájárulás - 4500 RON
+Díj megnevezése: I. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: július 28., Évfolyam: I-II., Jelenlegi összeg RON: 600, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: I. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: október 31., Évfolyam: I-II., Jelenlegi összeg RON: 525, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: I. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: december 15., Évfolyam: I-II., Jelenlegi összeg RON: 1125, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: március 31., Évfolyam: I-II., Jelenlegi összeg RON: 1125, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: május 15., Évfolyam: I-II., Jelenlegi összeg RON: 1125, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+
+### Tandíj: Minden szak
+Díj megnevezése: újra felvett tantárgy díja, Befizetési határidő: tanévkezdés -1 hét, Évfolyam: I-II., Jelenlegi összeg RON: kreditszám x 50 lej, Mulasztás következménye: nem vizsgázhat
+Díj megnevezése: kiegészítő-vizsgadíj, Befizetési határidő: (üres), Évfolyam: I-II., Jelenlegi összeg RON: 100 lej, Mulasztás következménye: nem vizsgázhat
+Díj megnevezése: visszairatkozás az egyetemre, Befizetési határidő: tanévkezdés -1 hét, Évfolyam:  I-II., Jelenlegi összeg RON: 100 lej, Mulasztás következménye: nem írják vissza
+Díj megnevezése: törzskönyvi kivonat kibocsájtása, Befizetési határidő: átvétel előtt, Évfolyam:  I-II., Jelenlegi összeg RON: 200 lej, Mulasztás következménye: nem adják ki
+
+### Tandíj: Felvételi - nyári vagy őszi
+Díj megnevezése: beiratkozási díj, Befizetési határidő: beiratkozáskor, Évfolyam: 0, Jelenlegi összeg RON: 100 lej, Mulasztás következménye: (üres)
 
 ## Tandíj befizetési határidők a 2024/2025-ös tanévre, III-IV. év
-- **400 euro tandíj hozzájárulás - 2000 RON**
-  - Díj megnevezése: I. félévi tandíj hozzájárulás
-    - Befizetési határidő: október 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 1000
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: II. félévi tandíj hozzájárulás
-    - Befizetési határidő: március 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 1000
-- **500 euro tandíj hozzájárulás - 2500 RON**
-  - Díj megnevezése: I. félévi-másodszori beiratkozás utáni tandíj
-    - Befizetési határidő: október 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 1250
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: II. félévi-másodszori beiratkozás utáni tandíj
-    - Befizetési határidő: március 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 1250
-- **600 euro tandíj hozzájárulás - 3000 RON**
-  - Díj megnevezése: I. félévi differenciált költséghozzájárulás
-    - Befizetési határidő: október 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 750
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: december 15.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 750
-  - Díj megnevezése: II. félévi differenciált költséghozzájárulás
-    - Befizetési határidő: március 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 750
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: május 15.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 750
-- **700 euro tandíj hozzájárulás - 3500 RON**
-  - Díj megnevezése: I. félévi-harmadszori beiratkozás utáni tandíj
-    - Befizetési határidő: október 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 875
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: december 15.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 875
-  - Díj megnevezése: II. félévi-harmadszori beiratkozás utáni tandíj
-    - Befizetési határidő: március 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 875
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: május 15.
-    - Évfolyam: III-IV.
-    * Jelenlegi összeg RON: 875
-- **750 euro tandíj hozzájárulás - 3750 RON**
-  - Díj megnevezése: I. félévi tandíj hozzájárulás - teljes tandíj
-    - Befizetési határidő: október 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 950
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: december 15.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 925
-  - Díj megnevezése: II. félévi tandíj hozzájárulás - teljes tandíj
-    - Befizetési határidő: március 31.
-    - Évfolyam: III-IV.
-    * Jelenlegi összeg RON: 950
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: május 16.
-    - Évfolyam: III-IV.
-    * Jelenlegi összeg RON: 925
-- **Minden szak**
-  - Díj megnevezése: újra felvett tantárgy díja
-    - Befizetési határidő: tanévkezdés - 1 hét
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: kreditszám x 50 lej
-    - Mulasztás következménye: nem vizsgázhat
-  - Díj megnevezése: kiegészítő-vizsgadíj
-    - Befizetési határidő: (nincs megadva)
-    - Évfolyam: (nincs megadva)
-    - Jelenlegi összeg RON: 100 lej
-    - Mulasztás következménye: nem vizsgázhat
-  - Díj megnevezése: visszairatkozás az egyetemre
-    - Befizetési határidő: tanévkezdés - 1 hét
-    - Évfolyam: (nincs megadva)
-    - Jelenlegi összeg RON: 100 lej
-    - Mulasztás következménye: nem írják vissza
-  - Díj megnevezése: törzskönyvi kivonat kibocsájtása
-    - Befizetési határidő: átvétel előtt
-    - Évfolyam: (nincs megadva)
-    - Jelenlegi összeg RON: 200 lej
-    - Mulasztás következménye: nem adják ki
-- **Felvételi - nyári vagy őszi**
-  - Díj megnevezése: beiratkozási díj
-    - Befizetési határidő: beiratkozáskor
-    - Évfolyam: 0
-    - Jelenlegi összeg RON: 100 lej
-    - Mulasztás következménye: (nincs megadva)
+
+### Tandíj: 400 euro tandíj hozzájárulás - 2000 RON
+Díj megnevezése: I. félévi tandíj hozzájárulás, Befizetési határidő: október 31., Évfolyam: III-IV., Jelenlegi összeg RON: 1000, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi tandíj hozzájárulás, Befizetési határidő: március 31., Évfolyam: III-IV., Jelenlegi összeg RON: 1000, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+
+### Tandíj: 500 euro tandíj hozzájárulás - 2500 RON
+Díj megnevezése: I. félévi-másodszori beiratkozás utáni tandíj, Befizetési határidő: október 31., Évfolyam: III-IV., Jelenlegi összeg RON: 1250, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi-másodszori beiratkozás utáni tandíj, Befizetési határidő: március 31., Évfolyam: III-IV., Jelenlegi összeg RON: 1250, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+
+### Tandíj: 600 euro tandíj hozzájárulás - 3000 RON
+Díj megnevezése: I. félévi differenciált költséghozzájárulás, Befizetési határidő: október 31., Évfolyam: III-IV., Jelenlegi összeg RON: 750, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: I. félévi differenciált költséghozzájárulás, Befizetési határidő: december 15., Évfolyam: III-IV., Jelenlegi összeg RON: 750, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi differenciált költséghozzájárulás, Befizetési határidő: március 31., Évfolyam: III-IV., Jelenlegi összeg RON: 750, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi differenciált költséghozzájárulás, Befizetési határidő: május 15., Évfolyam: III-IV., Jelenlegi összeg RON: 750, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+
+### Tandíj: 700 euro tandíj hozzájárulás - 3500 RON
+Díj megnevezése: I. félévi-harmadszori beiratkozás utáni tandíj, Befizetési határidő: október 31., Évfolyam: III-IV., Jelenlegi összeg RON: 875, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: I. félévi-harmadszori beiratkozás utáni tandíj, Befizetési határidő: december 15., Évfolyam: III-IV., Jelenlegi összeg RON: 875, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi-harmadszori beiratkozás utáni tandíj, Befizetési határidő: március 31., Évfolyam: III-IV., Jelenlegi összeg RON: 875, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi-harmadszori beiratkozás utáni tandíj, Befizetési határidő: május 15., Évfolyam: III-IV., Jelenlegi összeg RON: 875, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+
+### Tandíj: 750 euro tandíj hozzájárulás - 3750 RON
+Díj megnevezése: I. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: október 31., Évfolyam: III-IV., Jelenlegi összeg RON: 950, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: I. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: december 15., Évfolyam: III-IV., Jelenlegi összeg RON: 925, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: március 31., Évfolyam: III-IV., Jelenlegi összeg RON: 950, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: május 16., Évfolyam: III-IV., Jelenlegi összeg RON: 925, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+
+### Tandíj: Minden szak
+Díj megnevezése: újra felvett tantárgy díja, Befizetési határidő: tanévkezdés - 1 hét, Évfolyam: III-IV., Jelenlegi összeg RON: kreditszám x 50 lej, Mulasztás következménye: nem vizsgázhat
+Díj megnevezése: kiegészítő-vizsgadíj, Befizetési határidő: (üres), Évfolyam: III-IV., Jelenlegi összeg RON: 100 lej, Mulasztás következménye: nem vizsgázhat
+Díj megnevezése: visszairatkozás az egyetemre, Befizetési határidő: tanévkezdés - 1 hét, Évfolyam: III-IV., Jelenlegi összeg RON: 100 lej, Mulasztás következménye: nem írják vissza
+Díj megnevezése: törzskönyvi kivonat kibocsájtása, Befizetési határidő: átvétel előtt, Évfolyam: III-IV., Jelenlegi összeg RON: 200 lej, Mulasztás következménye: nem adják ki
+
+### Tandíj: Felvételi - nyári vagy őszi
+Díj megnevezése: beiratkozási díj, Befizetési határidő: beiratkozáskor, Évfolyam: 0, Jelenlegi összeg RON: 100 lej, Mulasztás következménye: (üres)
+
 # Adminisztratív díjak
 
 Az alábbi webcímen elérhető jegyzék az érvényes adminisztratív díjakat összegzi.
@@ -499,90 +379,7 @@ A Neptun rendszer használatával kapcsolatos kérdéseikkel forduljanak a Dék�
 A rendszerbe való sikertelen belépés esetén az *Elfelejtettem a jelszavam* címszóra kattintva lehet jelszócserét kérni a Felhasználónevet (=Azonosító =Neptunkód) beírva.
 Ebben az esetben az alapértelmezett e-mail-címre küldi a rendszer a visszaállításhoz a linket.
 Amennyiben ez nem sikeres, a neptun@sapientia.ro e-mail-címen kérhetik jelszavuk visszaállítását, az üzenetben feltüntetve Neptunkódjukat (=Felhasználónév, =Azonosító), nevüket, a kart és hallgatók esetén a szakot is.```markdown
-# Dokumentumok
-Egyetemi szabályzatok és eljárási rendek (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/szabalyzatok-es-eljarasi-rendek)
-Egyetemi fejlesztési stratégia (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/fejlesztesi-strategia)
-Kari operatív tervek, dékáni jelentések (https://ms.sapientia.ro/hu/a-karrol/dokumentumok_/operativ-tervek-dekani-jelentesek)
-Kari minőségbiztosítási jelentések (https://ms.sapientia.ro/hu/a-karrol/dokumentumok_/minosegbiztositasi-jelentesek)
-Kari dokumentumok (https://ms.sapientia.ro/hu/a-karrol/dokumentumok_/kari-dokumentumok)
-```
-# Oklevelek átvétele
-
-Azon végzett hallgatók, akik a Sapientia Erdélyi Magyar Tudományegyetem által szervezett államvizsgán/disszertáción vettek részt, személyesen átvehetik egyetemi/mesteri oklevelüket Kolozsváron a Rektori Hivatalban (Mátyás kir. u./str. Matei Corvin 4.szám) hétfőtől csütörtökig 10-13 óra között (csak előzetes időpont egyeztetéssel!).
-Jelentkezni a diploma@sapientia.ro e-mail-címen lehet (a levelekre csak hétköznap 9-17 óra között áll módunkban válaszolni).
-
-Időpont kéréséhez szükséges adatok:
-* név - születési bizonyítvány alapján – ha változott időközben, kérjük azt is beírni
-* CNP (külföldiek esetében személyi igazolvány száma)
-* kar, szak és záróvizsga éve
-* amennyiben tanárképző modult is végzett, kérjük azt is jelezze
-* Alumni kérdőív kitöltése végén kapott kód (akik posztgraduális tanárképzési oklevelet vesznek át, a következő linken kell kitölteniük a kérdőívet: Alumni kérdőív - Tanárképző)
-* szabad időpontok közül megjelölni az alkalmasat (jelentkezni a tervezett időpont előtt legalább 2 munkanappal) – ITT (https://docs.google.com/spreadsheets/d/1_m5bR3XLGYc13gOQUzG2yPFsaldsel6Pxkb1wFx78M0/edit#gid=0) elérhető az időpontokat tartalmazó táblázat.
-
-Csakis pontos időbeosztás szerint van lehetőségünk az oklevelek átadására, és csak azokat a végzetteket áll módunkban fogadni, akik előzetesen időpontot kértek, és ezt a Rektori Hivatal munkatársai visszaigazolták.
-Kérjük, elsősorban azok jelentkezzenek, akiknek sürgősen szükségük van az oklevelükre.
-
-**Jelenleg a 2012-ben, 2013-ban, 2014-ben, 2015-ben, 2016-ban, 2017-ben, 2018-ban, 2019-ben, 2020-ban, 2021-ben, 2022-ben és 2023-ban sikeresen záróvizsgázott hallgatók oklevelei vehetők át.**
-
-Az oklevél átvételéhez szükséges:
-1. előzetes emailes időpont foglalás (a diploma@sapientia.ro e-mail-címen)
-2. személyazonossági igazolvány
-3. születési bizonyítvány eredetije és egyszerű másolata (ha hiányzik a dossziéból – erről az időpont egyeztetéskor értesítjük a végzettet)
-4. névváltoztatás esetén az ezt igazoló dokumentum (házasságlevél vagy egyéb okirat) eredetije és egyszerű másolata
-5. 2 db. aktuális, színes, 3x4 cm-es fénykép (ha hiányzik a dossziéból, vagy nem megfelelő – erről az időpont egyeztetéskor értesítjük a végzettet)
-6. Alumni kérdőív kitöltve (a kérdőív végén kapott kódot küldjék el az időpont egyeztetéskor e-mailben; posztgraduális tanárképző esetén: Alumni kérdőív - Tanárképző)
-
-**Figyelem!**
-A Szenátus 2513/2021.06.25. határozata értelmében 2025. január 1-jétől a tanulmányi okmányok tárolási díja a hallgatói jogviszony lezárását követő három éven túl oklevelenként 20 euró (100 lej), ez az összeg minden évben további 5 euróval (25 lej) nő.
-
-Csakis indokolt esetben vehető át az oklevél közjegyzői felhatalmazással rendelkező személy által.
-Az erre vonatkozó igényt, kérjük jelezze az időpont egyeztetés során.
-A különböző oklevéltípusokat külön fel kell tüntetni a felhatalmazásban (pl. külön licensz oklevél, pedagógia oklevél).
-Ez esetben a közjegyzői felhatalmazás mellett a felhatalmazott személynek fel kell mutatnia a saját személyi igazolványát és az oklevél tulajdonosának személyi másolatát.
-Az erre vonatkozó Románia Hivatalos Közlönyében megjelent rendelkezés:
-*ORDIN nr. 4.156/2020 pentru aprobarea Regulamentului-cadru privind regimul actelor de studii şi al documentelor universitare în sistemul de învăţământ superior*
-Publicat in Monitorul Oficial, Partea I nr. 381 din 12 mai 2020 (https://www.edu.ro/sites/default/files/_fișiere/Legislatie/2020/OMEC_4156_regim%20acte_%20studii_documente%20universitare.pdf)
-Capitolul III, Sectiunea 1, Art. 19.
-
-(2) În situaţia în care titularul nu se poate prezenta, actul de studii poate fi eliberat împuternicitului acestuia, pe bază de procură autentificată la notariat/împuternicire avocaţială în copie certificată conform cu originalul, în care se menţionează în mod expres faptul că împuternicitul poate ridica acte de studii.
-(3) În cazul în care procura notarială a fost întocmită pe teritoriul altui stat, aceasta se depune în original, fiind însoţită de traducerea legalizată.
-Procura trebuie să fie apostilată sau supralegalizată de autorităţile competente ale statului pe al cărui teritoriu a fost întocmită, cu excepţia celor întocmite în statele care au încheiat cu România convenţii, tratate sau acorduri privind asistenţa juridică în materie civilă, care prevăd scutirea de orice legalizare.
-Se acceptă împuternicirile efectuate la ambasadele vagy consulatele României din diverse state.
-Împuternicirile efectuate sub semnătura ambasadorului/consulului nu trebuie traduse vagy apostilate/supralegalizate.
-(4) Înscrisurile menţionate la alin. (2) şi (3) se păstrează cu termen permanent în arhiva instituţiei care eliberează actul de studii.
-
-További információk a Rektori Hivatal titkárságán kérhetőek, a diploma@sapientia.ro e-mail címen.
-# Orvosi rendelő
-**A Marosvásárhelyi Kar diákjainak egészségügyi felügyeletét dr. Finna Judit Családorvosi Rendelője (https://www.facebook.com/profile.php?id=100021537022581) (Aleea Cornisa 23-as tömbház, külön bejárat) vállalta fel.**
-**Előzetes bejelentkezés: 0265-212-623**
-online jelentkezés (https://docs.google.com/forms/d/e/1FAIpQLSdmVcCF9T5wmcWjp9YWHZ7frFC20WzqyE6VEWfWd8yGfyfcNg/viewform)
-**Rendelési időpontok:**
-- hétfő, szerda: 9-14 óra
-- kedd, csütörtök: 14-18 óra
-- péntek: 9-13 óra
-Az egyetemen lévő elsősegélynyújtási pont (a főépület alagsorában levő „orvosi rendelő”) jelenleg is jól felszerelve tud segítséget nyújtani.
-Törvényes rendelkezés, hogy a távolabb, más megyében lakó diákokat, csak úgy tudjuk ingyenes, ártámogatott gyógyszerhez juttatni illetve egyéb szakorvoshoz küldeni, ha a mi rendelőnkhöz iratkozik fel.
-Máskülönben a diákok nem részesülhetnek olyan ingyenes szakorvosi ellátásban, ami túllépi a családorvosi rendelő kereteit.
-Igazolások, hivatalos iratok végett írjatok e-mailt: finnajutka@yahoo.com.
-Orvosi igazolást csakis a betegség bejelentésének napjától állíthatunk ki, utólag.
-Az email „subject”-jében tüntessétek fel, hogy a Sapientia hallgatói vagytok.
-**Sürgősségi esetben hívják a lenti telefonszámok egyikét.**
-Üdvözlettel,
-- dr. Finna Judit (0744-339-765)
-- dr. Juhász Imre, szakterület: családorvoslás, gyerekgyógyászat
-- dr. Nagy Bernadett, szakterület: családorvoslás
-- dr. Kis Anna-Bernadett, szakterület: családorvoslás
-- dr. Benedek Orsolya (orsibenedek89@gmail.com), pszichiáter
-**Dr. Benedek Orsolya pszichiáter jóvoltából lehetőségetek van pszichiátriai ellátásban is részesülni konzultáció, tanácsadás formájában.**
-**Jelentkezni: itt (https://forms.gle/NQkxuQCxcJirbv4L6)**# Lelkigondozás
-András Csaba SJ jezsuita szerzetes, katolikus egyetemi lelkész vagyok.
-Keddenként 9 és 12 óra között a bentlakás kápolnájában személyes beszélgetésre várlak titeket.
-Mire számíthatsz?
-Egy meghallgató jelenlétre, ahol nyugodtan kimondhatod mindazt, ami foglalkoztat, és ami talán már régóta bennrekedt, és jó lenne valakinek elmondani.
-Együtt kereshetjük, hogy mi segítene Neked az előrehaladásban és a nagyobb szabadságban.
-Időpontot egyeztetni a következő űrlap kitöltésével lehet: űrlap kitöltésével (https://forms.gle/kD3YxsncqnLHtvcp9)
 # Bentlakás
-
 Jelentkezni július 31-tól augusztus 7-ig lehetséges (pályázni abban az esetben lehetséges, amennyiben a felvételi során visszaigazolták az elnyert helyüket).
 Bentlakás - Pályázati eredmények a 2024/2025-ös tanévre (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakas-palyazati-eredmenyek-a-20242025-os-tanevre)
 Bentlakás jelentkezési kritériumok és szükséges iratok 2024-2025 évre - Első évesek (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakas-jelentkezesi-kriteriumok-es-szukseges-iratok-2024-2025-evre-elso-evesek)
@@ -590,7 +387,51 @@ Bentlakás jelentkezés a 2024-2025-ös tanévre - II, III, IV évesek (https://
 Fotók a bentlakásról (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/fotok-a-bentlakasrol_)
 Szabályzat (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/szabalyzat_)
 Áraink (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/araink_)
-Bentlakással kapcsolatos költségek kifizetése (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakassal-kapcsolatos-koltsegek-kifizetese_)# Bentlakás jelentkezési kritériumok és szükséges iratok 2024-2025 évre - Első évesek
+Bentlakással kapcsolatos költségek kifizetése (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakassal-kapcsolatos-koltsegek-kifizetese_)
+# Bentlakás jelentkezés a 2024-2025-ös tanévre - II, III, IV évesek
+Amennyiben az alább felsorolt, szükséges okiratok közül valamelyik hiányzik / nem beszerezhető, akkor helyette ideiglenesen elfogadunk egy saját felelősségre megírt nyilatkozatot, amelyben szerepeljenek a kért adatok, információk.
+A beköltözéskor természetesen kötelező lesz az eredeti, hivatalos okiratok benyújtása is.
+A pályázatokat a következő e-mail címre kell elküldeni: ocsaba@ms.sapientia.ro
+Jelentkezni július 24-ig lehetséges.
+Szükséges iratok:
+1. a szülők részéről az adóhivatal által kibocsátott igazolás arra vonatkozóan, hogy van-e vagy nincs megadózandó jövedelmük (Adeverință de venit).
+2. a szülők részéről a Polgármesteri Hivatal által kiadott bizonyítvány a tulajdonban lévő földterületről vagy ennek hiányáról.
+Elvált szülők esetén a bírósági végzés másolata, illetve annak a szülőnek az 1., 2. pontban megjelölt iratai, akinek a gyermeket nevelésre odaítélték.
+3. testvérekkel (ha vannak) kapcsolatos iratok: a 18 éven aluli testvérek esetén óvodai vagy iskolai igazolvány, illetve születési bizonyítvány másolata, ha nem óvodás, és nem iskolás.
+A 18 éven felüli testvérek esetén főiskolai vagy egyetemi igazolvány, illetve ha igazoltan munkaképtelen, rokkantsági nyugdíj igazolása.
+4. betegség esetén a törvényben előírt, családorvos/szakorvos által kiállított, 3 hónaposnál nem régebbi bizonyítvány
+5. félárvák esetében az elhunyt szülő halotti bizonyítványának másolata
+6. árvák esetében a szülők halotti bizonyítványának másolata
+7. gyermekotthonban nevelkedők esetében azon intézet által kiállított bizonyítvány, ahol utoljára tartózkodott
+9. személyi igazolvány másolata
+10. születési bizonyítvány másolata
+11. orvosi igazolás a háziorvostól, ami tartalmazza, hogy lakhat bentlakásban (hiánya kizáró jellegű)
+12. erkölcsi bizonyítvány („priusz”, románul „cazier”, hiánya kizáró jellegű)
+13. Felvételi díj befizetése 200 lej,
+Beiratkozási díj a bentlakásba 200 lej.
+Azon személyeknek, akik nem jutottak be a bentlakásba az összeget visszatérítjük.
+Abban az esetben viszont, ha valaki visszalép a bentlakási hely igénylésétől, nem térítjük vissza az iratkozási díjat.
+A beiratkozási díj kifizetése utalással történik, az alábbi adatokkal:
+Universitatea Sapientia
+Cod fiscal: RO14645945
+számlaszám: RO51OTPV320000073814RO11
+(OTP Bank, suc. Tg. Mures.)
+Az összeg utalásánál, a letéti lapra kérjük tüntessék fel az alábbiakat:
+- jelentkező diák neve
+- “contribuție cazare”
+FONTOS!
+Kérjük a számla kivonatát (extras) vagy az átutalási bizonylatot (OP-ordin de plata) is szkennelve küldjék el az alábbi e-mail címre: ocsaba@ms.sapientia.ro
+kérvény (típusnyomtatvány) (https://ms.sapientia.ro/content/docs/MS/Felveteli/Bentlak%C3%A1s/2024-2025/bentlakas%20iratkozashoz%20kerveny%202024_2025re.doc)
+Az elsőéves hallgatók sikeres felvételi után pályázhatnak a bentlakásban számukra fenntartott 120 helyre.
+Áraink- (a kollégiumban nincsenek költségtámogatott, vagy ingyenes helyek):
+Apartman: 3 + 3 ágy, 200 lej/fő + közköltség (fogyasztásmérők szerint) + ebédjegy*
+Garzon: 3 ágy, 240 lej/fő + közköltség (fogyasztásmérők szerint) + ebédjegy*
+Tetőtéri szoba: 2 + 2 ágy, 240 lej/fő + közköltség (fogyasztásmérők szerint) + ebédjegy*
+\* Minden teljes hónapban kötelező 10 darab ebédjegy (220 lej/10 db) megvásárlása melyeket az egyetemi étkezdében lehet felhasználni.
+További információk:
+Osváth Csaba, adminisztrátor
+E-mail cím: ocsaba@ms.sapientia.ro
+# Bentlakás jelentkezési kritériumok és szükséges iratok 2024-2025 évre - Első évesek
 A pályázatokat a következő e-mail címre kell elküldeni: ocsaba@ms.sapientia.ro.
 Jelentkezni július 31-től augusztus 7-ig lehetséges (pályázni abban az esetben lehetséges, amennyiben a felvételi során visszaigazolták az elnyert helyüket).
 A pályázathoz a következő iratok szükségesek.
@@ -628,11 +469,10 @@ ITT (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-
 *Minden teljes hónapban kötelező 10 darab ebédjegy (220 lej/10 db) megvásárlása melyeket az egyetemi étkezdében lehet felhasználni.
 További információk.
 Osváth Csaba, adminisztrátor.
-E-mail cím: ocsaba@ms.sapientia.ro.```markdown
-## Szabályzat
+E-mail cím: ocsaba@ms.sapientia.ro.
+# Szabályzat
 A bentlakás 2024/2025-ös tanévre vonatkozó szabályzata (https://ms.sapientia.ro/content/docs/MS/Regulament%20camin%202024_2025_alairva.pdf) érhető el.
-```
-## Áraink
+# Áraink
 Tanév: 2024/2025
 Éves díj (szobatípusonként):
 - Apartmann (3 + 3 ágy): 200 lej/fő
@@ -640,14 +480,27 @@ Tanév: 2024/2025
 Szoba díj* (2024/2025):
 - Sapientiás hallgatók: 105 lej/nap
 - Más egyetemek hallgatói: 135 lej/nap
-*Az összeg a szobát igénylők létszámának függvényében osztódik (a szoba befogadóképessége max. 3 személy).```markdown
-## Bentlakással kapcsolatos költségek kifizetése
+*Az összeg a szobát igénylők létszámának függvényében osztódik (a szoba befogadóképessége max. 3 személy).
+# Bentlakással kapcsolatos költségek kifizetése
 A bentlakással kapcsolatos költségeket az alábbi bankszámlára lehet utalni:
 **RO72BTRLRONCRT003922180F**
 UNIVERSITATEA SAPIENTIA, CORUNCA, CF: 14645945
 Az átutalási bizonylatra kérjük feltüntetni a nevet, a kifizetés típusát (bentlakás díja/contributie cazare, közköltség/cheltuieli de consum)
 **Fizetni online is lehetséges**
 ITT (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-dijak_)
+# Tanárképzés
+Rólunk (https://sapientia.ro/hu/oktatas/tanarkepzes/rolunk)
+Hasznos információk (https://sapientia.ro/hu/oktatas/tanarkepzes/hasznos-informaciok)
+Felvételi (https://sapientia.ro/hu/oktatas/tanarkepzes/felveteli)
+A pedagógiai gyakorlat megszervezése (https://sapientia.ro/hu/oktatas/tanarkepzes/a-pedagogiai-gyakorlat-megszervezese)
+A záróvizsga metodológiája (https://sapientia.ro/hu/oktatas/tanarkepzes/a-zarovizsga-metodologiaja)
+Tantervek (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/Planuri_invatamant_22_23_antet.pdf)
+Tudományos kutatási tevékenységek (https://sapientia.ro/hu/oktatas/tanarkepzes/tudomanyos-kutatasi-tevekenysegek)
+Törvényi keretek (https://sapientia.ro/hu/oktatas/tanarkepzes/torvenyi-keretek)
+Vezetőség és munkatársak (https://sapientia.ro/hu/oktatas/tanarkepzes/a-tanarkepzo-intezet-vezetosege-es-munkatarsai)
+Mentortanároknak és irányítótanároknak (https://sapientia.ro/hu/oktatas/tanarkepzes/mentortanaroknak-es-iranyitotanaroknak)
+PedPsi Kutatóközpont (https://sapientia.ro/hu/kutatas/kutatokozpontok/tanarkepzo-intezet)
+Álláshirdetések (https://sapientia.ro/hu/oktatas/tanarkepzes/allashirdetesek)
 ```
 # Rólunk
 A Sapientia EMTE Tanárképző Intézete (románul: Departamentul de Specialitate cu Profil Psihopedagogic – DSPP) azoknak a hallgatóknak a pszichopedagógiai képzését vállalja fel, akik az egyetemi szakjuknak megfelelő szakképzettség megszerzése mellett a tanári pálya gyakorlásához szükséges szaktudást és didaktikai kompetenciákat is el szeretnék sajátítani.
@@ -658,7 +511,8 @@ Megszervezése a Sapientia EMTE-n is az 1/2011-es Oktatási Törvény és a 3850
 A pszichopedagógiai tanulmányok egyetemi tanulmányokkal párhuzamosan megszervezett I. szintjére az egyetem I. vagy II. éves (tehát valamelyik szakra már felvételt nyert) hallgatói iratkozhatnak be.
 A tanárképzési programra történő beiratkozás opcionális.
 Igény szerint az I. szintű tanárképzési program posztgraduális formában is megszervezhető olyan jelentkezők számára, akik már rendelkeznek alapképzési oklevéllel.
-A tanárképzési program II. szintjére mesteri tanulmányaikat folytató hallgatók, illetve a posztgraduális képzésre mesteri oklevéllel rendelkező személyek jelentkezhetnek.# Hasznos információk
+A tanárképzési program II. szintjére mesteri tanulmányaikat folytató hallgatók, illetve a posztgraduális képzésre mesteri oklevéllel rendelkező személyek jelentkezhetnek.
+# Hasznos információk
 
 ## I. szintű pedagógiai modul
 
@@ -841,7 +695,7 @@ A pedagógiai gyakorlat keretében a hallgatóknak 3-5 próbatanítást kell meg
 A vizsgatanítás megtartása a záróvizsgán való részvétel előfeltétele.
 ``````markdown
 # Tudományos kutatási tevékenységek
-# I. A tudományos kutatás általános elvei
+## I. A tudományos kutatás általános elvei
 A Tanárképző Intézet tudományos kutatási terve szervesen illeszkedik a Sapientia EMTE kutatási stratégiájának irányelveihez.
 és összhangban van az intézet általános küldetésének céljaival.
 
@@ -876,78 +730,45 @@ Ordinul 5191/2019 din 18 septembrie 2019 privind aprobarea listei instituţiilor
 ORDIN Nr. 4129/2018 din 16 iulie 2018 privind modificarea şi completarea anexei la Ordinul ministrului educaţiei naţionale nr. 3.850/2017 pentru aprobarea Metodologiei-cadru de organizare a programelor de formare psihopedagogică prin departamentele de specialitate din cadrul instituţiilor de învăţământ superior acreditate în vederea certificării competenţelor pentru profesia didactică (https://sapientia.ro/content/2011-2021/TKI/Cadrul%20legislativ/b.%20ORDIN%20129-2018.pdf)
 ORDIN Nr. 3850/2017 din 2 mai 2017 pentru aprobarea Metodologiei-cadru de organizare a programelor de formare psihopedagogică în cadrul instituţiilor de învăţământ superior acreditate în vederea certificării competenţelor pentru profesia didactică (https://sapientia.ro/content/2011-2021/TKI/Cadrul%20legislativ/a.%20ORDIN%203850-2017.pdf)
 A tanárképzési programok megszervezésének módszertana (https://sapientia.ro/content/Szabalyzatok/HU/Tanarkepzesi_programok_modszertana.pdf)
-
+# Vezetőség és munkatársak
 Igazgató: dr. Tódor Erika-Mária, egyetemi tanár : CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/T%C3%B3dor%20Erika-M%C3%A1ria.pdf)
-
-# Helyi felelősök
-dr. Tódor Erika-Mária, egyetemi tanár – Csíkszereda
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/T%C3%B3dor%20Erika-M%C3%A1ria.pdf)
-dr. Poszet Szilárd, egyetemi adjunktus – Kolozsvár
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Poszet%20Szilard-1.pdf)
-dr. Harangus Katalin, egyetemi docens – Marosvásárhely
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Harangus%20Katalin-1.pdf)
-Barabás Andrea, óraadó oktató – Sepsiszentgyörgy
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Barab%C3%A1s%20Andrea.pdf)
-
-# Főállású oktatók
-dr. Harangus Katalin, egyetemi docens
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Harangus%20Katalin-1.pdf)
-dr. Horváth Zsófia, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Horv%C3%A1th%20Zs%C3%B3fia-1.pdf)
-dr. Szentes Erzsébet, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Szentes%20Erzs%C3%A9bet.pdf)
-dr. Tódor Imre, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/To%CC%81dor%20Imre.pdf)
-
-# Társult oktatók
-Barabás Andrea
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Barab%C3%A1s%20Andrea.pdf)
-Bartalis Izabella
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Bartalis%20Izabella.pdf)
-dr. Bálint Emese, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/B%C3%A1lint%20Emese.pdf)
-Benedek Árpád
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Benedek%20Arpad%20.pdf)
-dr. Dégi Zsuzsanna, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/D%C3%A9gi%20Zsuzsanna.pdf)
-dr. Fekete Deák Ildikó
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Fekete%20Deak%20Ildiko.pdf)
-dr. Fodor László, egyetemi docens
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Fodor%20L%C3%A1szl%C3%B3%20.pdf)
-dr. Hégető Katalin
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Hegeto%20Katalin.pdf)
-dr. Kátai Zoltán, egyetemi docens
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Katai%20Zoltan.pdf)
-dr. Kentelky Endre, egyetemi docens
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Kentelky%20Endre.pdf)
-dr. Kommer Erika, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Kommer%20Erika-1.pdf)
-dr. Kovács Gabriella, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Kovacs%20Gabriella-1.pdf)
-dr. Mara Gyöngyvér, egyetemi tanár
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Mara%20Gy%C3%B6ngyv%C3%A9r.pdf)
-dr. Pál Enikő, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/P%C3%A1l%20Enik%C5%91.pdf)
-dr. Székely Melinda, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Szekely%20Melinda-1.pdf)
-dr. Tankó Enikő, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Tank%C3%B3%20Enik%C5%91.pdf)
-dr. Tomonicska Ingrid, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Tomonicska%20Ingrid.pdf)
-dr. Toró Tibor, egyetemi docens
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Tor%C3%B3%20Tibor.pdf)
-dr. Zoller Katalin, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Zoller%20Katalin-1.pdf)
-
+## Helyi felelősök
+dr. Tódor Erika-Mária, egyetemi tanár – Csíkszereda CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/T%C3%B3dor%20Erika-M%C3%A1ria.pdf)
+dr. Poszet Szilárd, egyetemi adjunktus – Kolozsvár CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Poszet%20Szilard-1.pdf)
+dr. Harangus Katalin, egyetemi docens – Marosvásárhely CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Harangus%20Katalin-1.pdf)
+Barabás Andrea, óraadó oktató – Sepsiszentgyörgy CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Barab%C3%A1s%20Andrea.pdf)
+## Főállású oktatók
+dr. Harangus Katalin, egyetemi docens, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Harangus%20Katalin-1.pdf)
+dr. Horváth Zsófia, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Horv%C3%A1th%20Zs%C3%B3fia-1.pdf)
+dr. Szentes Erzsébet, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Szentes%20Erzs%C3%A9bet.pdf)
+dr. Tódor Imre, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/To%CC%81dor%20Imre.pdf)
+## Társult oktatók
+Barabás Andrea, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Barab%C3%A1s%20Andrea.pdf)
+Bartalis Izabella, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Bartalis%20Izabella.pdf)
+dr. Bálint Emese, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/B%C3%A1lint%20Emese.pdf)
+Benedek Árpád, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Benedek%20Arpad%20.pdf)
+dr. Dégi Zsuzsanna, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/D%C3%A9gi%20Zsuzsanna.pdf)
+dr. Fekete Deák Ildikó, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Fekete%20Deak%20Ildiko.pdf)
+dr. Fodor László, egyetemi docens, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Fodor%20L%C3%A1szl%C3%B3%20.pdf)
+dr. Hégető Katalin, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Hegeto%20Katalin.pdf)
+dr. Kátai Zoltán, egyetemi docens, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Katai%20Zoltan.pdf)
+dr. Kentelky Endre, egyetemi docens, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Kentelky%20Endre.pdf)
+dr. Kommer Erika, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Kommer%20Erika-1.pdf)
+dr. Kovács Gabriella, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Kovacs%20Gabriella-1.pdf)
+dr. Mara Gyöngyvér, egyetemi tanár, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Mara%20Gy%C3%B6ngyv%C3%A9r.pdf)
+dr. Pál Enikő, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/P%C3%A1l%20Enik%C5%91.pdf)
+dr. Székely Melinda, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Szekely%20Melinda-1.pdf)
+dr. Tankó Enikő, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Tank%C3%B3%20Enik%C5%91.pdf)
+dr. Tomonicska Ingrid, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Tomonicska%20Ingrid.pdf)
+dr. Toró Tibor, egyetemi docens, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Tor%C3%B3%20Tibor.pdf)
+dr. Zoller Katalin, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Zoller%20Katalin-1.pdf)
 Titkár: Onika Orsolya Fogadóóra: hétfő–péntek, 8:00–16:00
 ```markdown
 # Mentortanároknak és irányítótanároknak
 Mentortanárok feladatai (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/Mentortanarok_feladatai_2022.pdf)
 Irányítótanárok feladatai (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/Iranyitotanarok_feladatai_2022.pdf)
 ```
-# Tanárképző Intézet
-
-## PedPsi Kutatóközpont
+# PedPsi Kutatóközpont
 
 A 2022-ben a Tanárképző Intézet berkeiben létrejövő és működő PedPsi Kutatóközpont a legfiatalabb az egyetem kutatóközpontjai közül, amelynek működését a Szenátus 2022/2596-os határozata szabályozza.
 A Kutatóközpont pedagógiai és pszichológiai, szakmódszertani és interdiszciplináris jellegű kutatásokat végez.
@@ -1002,7 +823,15 @@ A kutatóközpont tagjai az elmúlt időperiódusban különböző egyéni és c
 **Linkek a fő tartalomból:**
 
 *   Tanárok Akadémiája (https://sapientia.ro/hu/hirek/tanarok-akademiaja-nevvel-inditunk-online-eloadas-sorozatot)
-*   MŰKÖDÉSI STATÚTUM (RO) (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/Statutul_CC_22.pdf)# Záróvizsga
+*   MŰKÖDÉSI STATÚTUM (RO) (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/Statutul_CC_22.pdf)
+# Dokumentumok
+Egyetemi szabályzatok és eljárási rendek (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/szabalyzatok-es-eljarasi-rendek)
+Egyetemi fejlesztési stratégia (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/fejlesztesi-strategia)
+Kari operatív tervek, dékáni jelentések (https://ms.sapientia.ro/hu/a-karrol/dokumentumok_/operativ-tervek-dekani-jelentesek)
+Kari minőségbiztosítási jelentések (https://ms.sapientia.ro/hu/a-karrol/dokumentumok_/minosegbiztositasi-jelentesek)
+Kari dokumentumok (https://ms.sapientia.ro/hu/a-karrol/dokumentumok_/kari-dokumentumok)
+```
+# Záróvizsga
 Alapképzés - Ütemezés és tematikák 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025)
 Mesterképzés - Ütemezés 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025)
 Nyelvvizsga (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/nyelvvizsga_)
@@ -1093,11 +922,11 @@ Az Informatika szak záróvizsga tematikája (https://ms.sapientia.ro/content/do
 
 A Kertészmérnöki szak esetében a záróvizsga két részből áll:
 
-# I. rész: Szakmai ismeretek és kompetenciák ellenőrzése írásbeli teszt formájában
+## I. rész: Szakmai ismeretek és kompetenciák ellenőrzése írásbeli teszt formájában
 
 A teszt 50 db. nyitott és zárt kérdést fog tartalmazni az integráló jellegű szaktantárgyak (dísznövény-, gyógynövény-, gyümölcs-, szőlő-, borászat és zöldségtermesztés tárgykörök) megadott tematikájából.
 
-# II. rész: A diplomaterv nyilvános bemutatása és védése
+## II. rész: A diplomaterv nyilvános bemutatása és védése
 
 Az államvizsgázó diákok szakdolgozataikat power point típusú háttérszemléltetéssel kb. 10 perc alatt kell bemutassák, megvédjék.
 Ezt követően a Bizottság szakdolgozathoz kötődő kérdéseire kell válaszoljanak.
@@ -1110,13 +939,13 @@ A Kertészmérnöki szak záróvizsga tematikája (https://ms.sapientia.ro/conte
 # Kommunikáció és közkapcsolatok
 A Kommunikáció és közkapcsolatok szak esetében a záróvizsga két részből áll.
 
-# I. rész: Írásbeli dolgozat megadott tematika és szakirodalom alapján
+## I. rész: Írásbeli dolgozat megadott tematika és szakirodalom alapján
 Az írásbeli dolgozatra a megadott tematika és szakirodalom alapján kell felkészülni.
 A vizsga formája: egyválaszos és többválaszos kérdésekből álló rácsteszt.
 Az értékelés előre megállapított pontozási rendszer alapján történik (teszt-típusú értékelés).
 Az írásbeli nyelve magyar.
 
-# II. rész: Szakdolgozat nyilvános megvédése az államvizsga bizottság előtt
+## II. rész: Szakdolgozat nyilvános megvédése az államvizsga bizottság előtt
 A szakdolgozathoz csatolni kell a hallgató és az irányító tanár által is aláírt eredetiségi nyilatkozatot.
 A szakdolgozat nyilvános védése magyar nyelven történik.
 A bizottsági tagok kérdéseire a kérdés megfogalmazásának nyelvén kell válaszolni.
@@ -1221,19 +1050,19 @@ Számítógépes irányítási rendszerek (https://ms.sapientia.ro/hu/hallgatokn
 Növényorvos (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/novenyorvos)
 Fejlett mechatronikai rendszerek (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/fejlett-mechatronikai-rendszerek)
 ```markdown
-## Szoftverfejlesztés
+# Szoftverfejlesztés
 ### A záróvizsga időpontja: 2025. július 3., 131-es terem
 A disszertáció vizsga a mesteri disszertáció bizottság előtt történő bemutatásából és védéséből áll.
 A mesteri disszertáció védése nyilvános, a bizottság és a vizsgázó ugyanazon helyen való egyidejű jelenlétében történik.
-## Számítógépes irányítási rendszerek
+# Számítógépes irányítási rendszerek
 ### A záróvizsga időpontja: 2025. július 10., 230-as terem
 A disszertáció vizsga a mesteri disszertáció bizottság előtt történő bemutatásából és védéséből áll.
 A mesteri disszertáció védése nyilvános, a bizottság és a vizsgázó ugyanazon helyen való egyidejű jelenlétében történik.
-## Növényorvos
+# Növényorvos
 ### A záróvizsga időpontja: 2025. július 2., 231-es terem. 
 A disszertáció vizsga a mesteri disszertáció bizottság előtt történő bemutatásából és védéséből áll.
 A mesteri disszertáció védése nyilvános, a bizottság és a vizsgázó ugyanazon helyen való egyidejű jelenlétében történik.
-## Fejlett mechatronikai rendszerek
+# Fejlett mechatronikai rendszerek
 ### A záróvizsga időpontja: 2025. július 8., 15 óra, 217-es terem
 A disszertáció vizsga a mesteri disszertáció bizottság előtt történő bemutatásából és védéséből áll.
 A mesteri disszertáció védése nyilvános, a bizottság és a vizsgázó ugyanazon helyen való egyidejű jelenlétében történik.
@@ -1292,7 +1121,7 @@ II.
 *   2025. MÁRCIUS 11. (kedd): NÉMET nyelv (Minden szak.)
 *   Iratkozás a tanszékeken 2025. február 10-21 között.
 
-# PÓTVIZSGÁK (fizetős vizsgaalkalmak)
+## PÓTVIZSGÁK (fizetős vizsgaalkalmak)
 
 III.
 *   2025. ÁPRILIS 8. (kedd): ANGOL nyelv (Minden szak.)
@@ -1333,13 +1162,6 @@ II. ÍRÁSBELI (24 pont):
 
 Maximális pontszám: 30, a minimális átmenő 15 pont - a Sapientia államvizsgára valamint mesteri képzésre való jelentkezéshez egyaránt.
 A nyelvvizsga bizonyítvány érvényessége meghatározatlan időre szól!
-
-Alapképzés - Ütemezés és tematikák 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025)
-Mesterképzés - Ütemezés 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025)
-Nyelvvizsga (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/nyelvvizsga_)
-Záróvizsga bizottságok (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-bizottsagok)
-Záróvizsga készítési útmutatók (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok)
-Szabályzatok és iratok (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/szabalyzatok-es-iratok)
 ```
 # Záróvizsga készítési útmutatók
 Alkalmazott Nyelvészeti Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-nyelveszeti-tanszek__)
@@ -1349,46 +1171,60 @@ Kertészmérnöki Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/z
 Matematika-Informatika Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/matematika-informatika-tanszek__)
 Villamosmérnöki Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__)
 Tanárképző Intézet (https://sapientia.ro/hu/oktatas/tanarkepzes/a-zarovizsga-metodologiaja)
-Alapképzés - Ütemezés és tematikák 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025)
-Mesterképzés - Ütemezés 2024/2005 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025)
-Nyelvvizsga (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/nyelvvizsga_)
-Nyelvvizsga 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/nyelvvizsga-20242025)
-Záróvizsga bizottságok (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-bizottsagok)
-Szabályzatok és iratok (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/szabalyzatok-es-iratok)# Fordító és tolmács szak
-Alkalmazott Nyelvészeti Tanszék útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/03%20Szakdolgozat-keszitesi%20utmutato%202025.pdf)# Kommunikáció és közkapcsolatok szak
-Kommunikáció és közkapcsolatok szak (https://ms.sapientia.ro/data/Szakdolgozat%20ATT%20Kommunikacio.pdf)```markdown
-## Közegészségügyi szolgáltatások és politikák szak
-Szakdolgozat ATT Kozegeszseguegy (https://ms.sapientia.ro/data/Szakdolgozat%20ATT%20Koezegeszseguegy.pdf)
-```
-## Gépészmérnöki szak
-Gépészmérnöki szak (https://ms.sapientia.ro/data/Szakdolgozat%20GMT%20Gepeszmernoek.docx)```markdown
-## Mechatronika szak
-Szakdolgozat GMT Mechatronika (https://ms.sapientia.ro/data/Szakdolgozat%20GMT%20Mechatronika.doc)
-```
-## Kertészmérnöki szak
-Kertészmérnöki szak útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/Szakdolgozat%20KMT%20Kerteszmernoki%202025_01_17.pdf)
-## Tájépítészet szak
-Tájépítészet szak útmutatója:
+```markdown
+# Alkalmazott Nyelvészeti Tanszék
+Marosvásárhely.
+Fordító és tolmács szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-nyelveszeti-tanszek__/fordito-es-tolmacs-szak)
+```# Fordító és tolmács szak
+Alkalmazott Nyelvészeti Tanszék útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/03%20Szakdolgozat-keszitesi%20utmutato%202025.pdf)```markdown
+# Alkalmazott Társadalomtudományi Tanszék
+Kommunikáció és közkapcsolatok szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-tarsadalomtudomanyi-tanszek_/kommunikacio-es-kozkapcsolatok-szak)
+Közegészségügyi szolgáltatások és politikák szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-tarsadalomtudomanyi-tanszek_/kozegeszsegugyi-szolgaltatasok-es-politikak-szak)
+```# Kommunikáció és közkapcsolatok szak
+Szakdolgozat útmutató (https://ms.sapientia.ro/data/Szakdolgozat%20ATT%20Kommunikacio.pdf)
+# Közegészségügyi szolgáltatások és politikák szak
+Közegészségügyi szolgáltatások és politikák szak (https://ms.sapientia.ro/data/Szakdolgozat%20ATT%20Koezegeszseguegy.pdf)```markdown
+# Gépészmérnöki Tanszék
+Záróvizsga készítési útmutatók
+Gépészmérnöki szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/gepeszmernoki-tanszek__/gepeszmernoki-szak)
+Mechatronika szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/gepeszmernoki-tanszek__/mechatronika-szak)
+``````markdown
+# Gépészmérnöki szak
+Gépészmérnöki szak (https://ms.sapientia.ro/data/Szakdolgozat%20GMT%20Gepeszmernoek.docx)
+``````markdown
+# Mechatronika szak
+Mechatronika szak (https://ms.sapientia.ro/data/Szakdolgozat%20GMT%20Mechatronika.doc)
+```# Kertészmérnöki Tanszék
+Kertészmérnöki szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/kerteszmernoki-szak)
+Tájépítészet szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/tajepiteszet-szak)
+Növényorvos mesteri szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/novenyorvos-mesteri-szak)# Kertészmérnöki szak
+Kertészmérnöki szak útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/Szakdolgozat%20KMT%20Kerteszmernoki%202025_01_17.pdf)# Tájépítészet szak
+**Tájépítészet szak útmutatója:**
 útmutató (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/Diplomamunka%20utmutato_%20tajepiteszet%202024-2025.pdf)
 poszter (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/Poszter%202024.psd)
 tervlap (https://drive.google.com/file/d/1NHt8QHPZ2-5U44-RYeKB76ylNOkq3zr0/view?usp=sharing)
-## Növényorvos mesteri szak
+# Növényorvos mesteri szak
 Növényorvos mesteri szak útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/Szakdolgozat%20KMT%20N%C3%B6v%C3%A9nyorvosi%202025_01_17.pdf)```markdown
-## Informatika szak
+# Matematika-Informatika Tanszék
+Informatika szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/matematika-informatika-tanszek__/informatika-szak)
+Szoftverfejlesztés mesterszak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/matematika-informatika-tanszek__/szoftverfejlesztes-mesterszak)
+```# Informatika szak
 Matematika-Informatika Tanszék útmutatója (https://ms.sapientia.ro/content/2011-2021/Szakdolgozat%20MIT%20Informatika.pdf)
-Informatika alapszak államvizsgasablon (https://ms.sapientia.ro/content/docs/MS/Diplomadolgozat.zip)
-```
-## Szoftverfejlesztés mesterszak
+Informatika alapszak államvizsgasablon (https://ms.sapientia.ro/content/docs/MS/Diplomadolgozat.zip)# Szoftverfejlesztés mesterszak
 Matematika-Informatika Tanszék útmutatója (https://ms.sapientia.ro/content/2011-2021/Szakdolgozat%20MIT%20Informatika.pdf)
-Szoftverfejlesztés mesterszak államvizsgasablon (https://ms.sapientia.ro/content/docs/MS/DisszertDolgozat_sablon.zip)
-## Automatika és alkalmazott informatika szak
-Automatika és alkalmazott informatika szak (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/Keszitesi%20utmutato_2022/Szakdolgozat%20VMT%20Automatika_2022.doc)```markdown
-## Infokommunikációs hálózatok és rendszerek szak
+Szoftverfejlesztés mesterszak államvizsgasablon (https://ms.sapientia.ro/content/docs/MS/DisszertDolgozat_sablon.zip)```markdown
+# Villamosmérnöki Tanszék
+Automatika és alkalmazott informatika szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/automatika-es-alkalmazott-informatika-szak)
+Infokommunikációs hálózatok és rendszerek szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/infokommunikacios-halozatok-es-rendszerek-szak)
+Számítástechnika szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/szamitastechnika-szak)
+```# Automatika és alkalmazott informatika szak
+Automatika és alkalmazott informatika szak (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/Keszitesi%20utmutato_2022/Szakdolgozat%20VMT%20Automatika%20_2022.doc)```markdown
+# Infokommunikációs hálózatok és rendszerek szak
 Infokommunikációs hálózatok és rendszerek szak (https://ms.sapientia.ro/data/Szakdolgozat%20VMT%20Tavkoezles.doc)
 ``````markdown
-## Számítástechnika szak
-Szakdolgozat útmutató (Számítástechnika szak) (https://ms.sapientia.ro/data/Szakdolgozat%20VMT%20Szamitastechnika.doc)
-```
+# Számítástechnika szak
+Záróvizsga útmutató (Számítástechnika szak) (https://ms.sapientia.ro/data/Szakdolgozat%20VMT%20Szamitastechnika.doc)
+``````markdown
 # A záróvizsga metodológiája a tanárképzési programnak
 A tanárképzési program mind az I., mind a II. szint esetében vizsgával zárul.
 
@@ -1485,3 +1321,81 @@ Az eredeti példányt a másolat helyszínen történő hitelesítése nyomán a
 * **Egyetemi oklevél eredetije és a beiratkozás során hitelesített másolata** (mesteri szakok végzettjei esetében), valamint esetenként a **honosítási okirat**;
 * **Idegennyelvvizsga-bizonyítvány másolata.**
 Más nyelvvizsgaközpontok által kibocsátott bizonyítványok esetében a LinguaSap Központ általi elismerés is szükséges.
+# Oklevelek átvétele
+
+Azon végzett hallgatók, akik a Sapientia Erdélyi Magyar Tudományegyetem által szervezett államvizsgán/disszertáción vettek részt, személyesen átvehetik egyetemi/mesteri oklevelüket Kolozsváron a Rektori Hivatalban (Mátyás kir. u./str. Matei Corvin 4.szám) hétfőtől csütörtökig 10-13 óra között (csak előzetes időpont egyeztetéssel!).
+Jelentkezni a diploma@sapientia.ro e-mail-címen lehet (a levelekre csak hétköznap 9-17 óra között áll módunkban válaszolni).
+
+Időpont kéréséhez szükséges adatok:
+* név - születési bizonyítvány alapján – ha változott időközben, kérjük azt is beírni
+* CNP (külföldiek esetében személyi igazolvány száma)
+* kar, szak és záróvizsga éve
+* amennyiben tanárképző modult is végzett, kérjük azt is jelezze
+* Alumni kérdőív kitöltése végén kapott kód (akik posztgraduális tanárképzési oklevelet vesznek át, a következő linken kell kitölteniük a kérdőívet: Alumni kérdőív - Tanárképző)
+* szabad időpontok közül megjelölni az alkalmasat (jelentkezni a tervezett időpont előtt legalább 2 munkanappal) – ITT (https://docs.google.com/spreadsheets/d/1_m5bR3XLGYc13gOQUzG2yPFsaldsel6Pxkb1wFx78M0/edit#gid=0) elérhető az időpontokat tartalmazó táblázat.
+
+Csakis pontos időbeosztás szerint van lehetőségünk az oklevelek átadására, és csak azokat a végzetteket áll módunkban fogadni, akik előzetesen időpontot kértek, és ezt a Rektori Hivatal munkatársai visszaigazolták.
+Kérjük, elsősorban azok jelentkezzenek, akiknek sürgősen szükségük van az oklevelükre.
+
+**Jelenleg a 2012-ben, 2013-ban, 2014-ben, 2015-ben, 2016-ban, 2017-ben, 2018-ban, 2019-ben, 2020-ban, 2021-ben, 2022-ben és 2023-ban sikeresen záróvizsgázott hallgatók oklevelei vehetők át.**
+
+Az oklevél átvételéhez szükséges:
+1. előzetes emailes időpont foglalás (a diploma@sapientia.ro e-mail-címen)
+2. személyazonossági igazolvány
+3. születési bizonyítvány eredetije és egyszerű másolata (ha hiányzik a dossziéból – erről az időpont egyeztetéskor értesítjük a végzettet)
+4. névváltoztatás esetén az ezt igazoló dokumentum (házasságlevél vagy egyéb okirat) eredetije és egyszerű másolata
+5. 2 db. aktuális, színes, 3x4 cm-es fénykép (ha hiányzik a dossziéból, vagy nem megfelelő – erről az időpont egyeztetéskor értesítjük a végzettet)
+6. Alumni kérdőív kitöltve (a kérdőív végén kapott kódot küldjék el az időpont egyeztetéskor e-mailben; posztgraduális tanárképző esetén: Alumni kérdőív - Tanárképző)
+
+**Figyelem!**
+A Szenátus 2513/2021.06.25. határozata értelmében 2025. január 1-jétől a tanulmányi okmányok tárolási díja a hallgatói jogviszony lezárását követő három éven túl oklevelenként 20 euró (100 lej), ez az összeg minden évben további 5 euróval (25 lej) nő.
+
+Csakis indokolt esetben vehető át az oklevél közjegyzői felhatalmazással rendelkező személy által.
+Az erre vonatkozó igényt, kérjük jelezze az időpont egyeztetés során.
+A különböző oklevéltípusokat külön fel kell tüntetni a felhatalmazásban (pl. külön licensz oklevél, pedagógia oklevél).
+Ez esetben a közjegyzői felhatalmazás mellett a felhatalmazott személynek fel kell mutatnia a saját személyi igazolványát és az oklevél tulajdonosának személyi másolatát.
+Az erre vonatkozó Románia Hivatalos Közlönyében megjelent rendelkezés:
+*ORDIN nr. 4.156/2020 pentru aprobarea Regulamentului-cadru privind regimul actelor de studii şi al documentelor universitare în sistemul de învăţământ superior*
+Publicat in Monitorul Oficial, Partea I nr. 381 din 12 mai 2020 (https://www.edu.ro/sites/default/files/_fișiere/Legislatie/2020/OMEC_4156_regim%20acte_%20studii_documente%20universitare.pdf)
+Capitolul III, Sectiunea 1, Art. 19.
+
+(2) În situaţia în care titularul nu se poate prezenta, actul de studii poate fi eliberat împuternicitului acestuia, pe bază de procură autentificată la notariat/împuternicire avocaţială în copie certificată conform cu originalul, în care se menţionează în mod expres faptul că împuternicitul poate ridica acte de studii.
+(3) În cazul în care procura notarială a fost întocmită pe teritoriul altui stat, aceasta se depune în original, fiind însoţită de traducerea legalizată.
+Procura trebuie să fie apostilată sau supralegalizată de autorităţile competente ale statului pe al cărui teritoriu a fost întocmită, cu excepţia celor întocmite în statele care au încheiat cu România convenţii, tratate sau acorduri privind asistenţa juridică în materie civilă, care prevăd scutirea de orice legalizare.
+Se acceptă împuternicirile efectuate la ambasadele vagy consulatele României din diverse state.
+Împuternicirile efectuate sub semnătura ambasadorului/consulului nu trebuie traduse vagy apostilate/supralegalizate.
+(4) Înscrisurile menţionate la alin. (2) şi (3) se păstrează cu termen permanent în arhiva instituţiei care eliberează actul de studii.
+
+További információk a Rektori Hivatal titkárságán kérhetőek, a diploma@sapientia.ro e-mail címen.
+# Orvosi rendelő
+**A Marosvásárhelyi Kar diákjainak egészségügyi felügyeletét dr. Finna Judit Családorvosi Rendelője (https://www.facebook.com/profile.php?id=100021537022581) (Aleea Cornisa 23-as tömbház, külön bejárat) vállalta fel.**
+**Előzetes bejelentkezés: 0265-212-623**
+online jelentkezés (https://docs.google.com/forms/d/e/1FAIpQLSdmVcCF9T5wmcWjp9YWHZ7frFC20WzqyE6VEWfWd8yGfyfcNg/viewform)
+**Rendelési időpontok:**
+- hétfő, szerda: 9-14 óra
+- kedd, csütörtök: 14-18 óra
+- péntek: 9-13 óra
+Az egyetemen lévő elsősegélynyújtási pont (a főépület alagsorában levő „orvosi rendelő”) jelenleg is jól felszerelve tud segítséget nyújtani.
+Törvényes rendelkezés, hogy a távolabb, más megyében lakó diákokat, csak úgy tudjuk ingyenes, ártámogatott gyógyszerhez juttatni illetve egyéb szakorvoshoz küldeni, ha a mi rendelőnkhöz iratkozik fel.
+Máskülönben a diákok nem részesülhetnek olyan ingyenes szakorvosi ellátásban, ami túllépi a családorvosi rendelő kereteit.
+Igazolások, hivatalos iratok végett írjatok e-mailt: finnajutka@yahoo.com.
+Orvosi igazolást csakis a betegség bejelentésének napjától állíthatunk ki, utólag.
+Az email „subject”-jében tüntessétek fel, hogy a Sapientia hallgatói vagytok.
+**Sürgősségi esetben hívják a lenti telefonszámok egyikét.**
+Üdvözlettel,
+- dr. Finna Judit (0744-339-765)
+- dr. Juhász Imre, szakterület: családorvoslás, gyerekgyógyászat
+- dr. Nagy Bernadett, szakterület: családorvoslás
+- dr. Kis Anna-Bernadett, szakterület: családorvoslás
+- dr. Benedek Orsolya (orsibenedek89@gmail.com), pszichiáter
+**Dr. Benedek Orsolya pszichiáter jóvoltából lehetőségetek van pszichiátriai ellátásban is részesülni konzultáció, tanácsadás formájában.**
+**Jelentkezni: itt (https://forms.gle/NQkxuQCxcJirbv4L6)**
+# Lelkigondozás
+András Csaba SJ jezsuita szerzetes, katolikus egyetemi lelkész vagyok.
+Keddenként 9 és 12 óra között a bentlakás kápolnájában személyes beszélgetésre várlak titeket.
+Mire számíthatsz?
+Egy meghallgató jelenlétre, ahol nyugodtan kimondhatod mindazt, ami foglalkoztat, és ami talán már régóta bennrekedt, és jó lenne valakinek elmondani.
+Együtt kereshetjük, hogy mi segítene Neked az előrehaladásban és a nagyobb szabadságban.
+Időpontot egyeztetni a következő űrlap kitöltésével lehet: űrlap kitöltésével (https://forms.gle/kD3YxsncqnLHtvcp9)
+```
+```markdown
