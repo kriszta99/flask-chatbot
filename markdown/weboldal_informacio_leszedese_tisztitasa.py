@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1IU_5NogghL_4kSrcnsNZa3xJmJcQLN47
 """
 
-!pip install -q -U google-genai
+#!pip install -q -U google-genai
 
-!pip install requests beautifulsoup4 markdownify
+#!pip install requests beautifulsoup4 markdownify
 
 import requests
 from bs4 import BeautifulSoup
@@ -73,7 +73,7 @@ def url_to_markdown(url):
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/dekani-hivatal_"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/gazdasagi-osztaly_"
-#url = ""https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_"
+#url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/konyvtar__"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/szervezeti-abra"
 #url = "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/kari-vezetok"
@@ -282,9 +282,9 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           #file_path = '/content/markdown_zarovizsga.md'
           #file_path = '/content/markdown_bentlakas.md'
           #file_path = '/content/markdown_tanarkepzes.md'
-          file_path = '/content/markdown_felveteli.md'
+          #file_path = '/content/markdown_felveteli.md'
           #file_path = '/content/markdown_oktatas.md'
-          #file_path = '/content/markdown_kutatas.md'
+          file_path = '/content/markdown_kutatas.md'
           #file_path = '/content/markdown_nemzetkozi_kapcsolatok.md'
 
           with open(file_path, 'a') as f:
@@ -352,32 +352,43 @@ kutatas_urls = ["https://ms.sapientia.ro/hu/kutatas",
                 "https://ms.sapientia.ro/hu/kutatas/kutatokozpontok/ipari-mernok-es-alkalmazott-fizika-kutatokozpont",
                 "https://ms.sapientia.ro/hu/kutatas/kutatokozpontok/damerg-nyelveszeti-kutatokozpont",
                 "https://ms.sapientia.ro/hu/kutatas/kutatokozpontok/eletminoseg-kutatokozpont",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-nyelveszeti-tanszek_",
                 "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-nyelveszeti-tanszek_/damerg",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-tarsadalomtudomanyok-tanszek",
                 "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-tarsadalomtudomanyok-tanszek/uj-media-kutatocsoport",
                 "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-tarsadalomtudomanyok-tanszek/az-egeszsegi-allapot-es-az-eletminoseg-vizsgalata",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/gepeszmernoki-tanszek_",
                 "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/gepeszmernoki-tanszek_/alkalmazott-fizika-es-gepeszeti-tudomanyok-kutatokozpont",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/kerteszmernoki-tanszek_",
                 "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/kerteszmernoki-tanszek_/ppgroup",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_",
                 "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/biointelligencia-kutatocsoport",
                 "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/cal-sapientia",
                 "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/cirg",
                 "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/research-group-in-mathematics",
+                "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_",
                 "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/apembsys",
                 "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/cirg_",
                 "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/narc",
                 "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/pedimco",
                 "https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/prrg",
                 "https://ms.sapientia.ro/hu/kutatas/palyazatok",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok",
                 "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/collegium-talentum-20242025",
                 "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/horizont-europa-program",
                 "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/sapientia-palyazatok",
                 "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/sapientia-palyazatok/palyazat-kari-oktatoi-minositesi-potlek-megitelesere-a-2025-os-evre",
                 "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/uefiscdi-palyazatok",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kpi-palyazatok",
+                "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok",
                 "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-szulofoldi-osztondijpalyazat-2025",
                 "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-magyarorszagi-osztondijpalyazat-2025-tavasz",
                 "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-alkotoi-osztondijpalyazat-2025",
                 "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/palyazat-a-magyar-tudomanyos-akademia-bolyai-janos-kutatasi-osztondijanak-elnyeresere-2025-ben",
                 "https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/palyazatok_",
                 "https://ms.sapientia.ro/hu/kutatas/szakkollegiumok",
+                "https://ms.sapientia.ro/hu/kutatas/szakkollegiumok/kiss-elemer-szakkollegium",
                 "https://ms.sapientia.ro/hu/kutatas/szakkollegiumok/kiss-elemer-szakkollegium/torteneti-ismerteto"]
 
 web_scraping_markdown_to_clean(kutatas_urls)

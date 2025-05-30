@@ -231,7 +231,10 @@ Kutatócsoport (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-t
 Tagok listája (https://ms.sapientia.ro/content/docs/MS/Kutatokozpontok/Egeszsegfejlesztes/Tagok%20list%C3%A1ja_%C9letmin%C5%91s%C3%A9g%20kutat%C3%B3k%C3%B6zpont.pdf)
 kutatási terv (https://ms.sapientia.ro/content/docs/MS/Kutatokozpontok/Egeszsegfejlesztes/Plan_cercetare.pdf)
 kutatási jelentés (https://ms.sapientia.ro/content/docs/MS/Kutatokozpontok/Egeszsegfejlesztes/Raport_activitate.pdf)
-
+```markdown
+# Alkalmazott Nyelvészeti Tanszék
+DAMERG (Alkalmazott Nyelvészeti Kutatóközpont) (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-nyelveszeti-tanszek_/damerg)
+```
 # DAMERG
 
 A DAMERG kutatóközpont a Sapientia EMTE Alkalmazott Nyelvészeti Tanszékének oktatóit, valamint a különböző kutatási területekhez csatlakozott külső szakembereket tömörítő intézmény.
@@ -258,14 +261,14 @@ Tagok:
 - Dr. Suciu Sorin, adjunktus
 - Barabás Blanka, tanársegéd
 
-# A kutatócsoport partnerintézményei
+## A kutatócsoport partnerintézményei
 *   Eötvös Lóránd Tudományegyetem, Fordító- és Tolmácsképző Tanszék, Budapest (http://www.elteftt.hu/en/)
 *   George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Târgu-Mureș, Romania (https://www.umfst.ro/en/home.html)
 *   Babeș-Bolyai University, Cluj-Napoca, Romania (http://www.ubbcluj.ro)
 *   Academy of Sciences Chișinău, Moldova (http://www.asm.md)
 *   Alecu Russo State University, Bălți, Moldova (http://www.usarb.md)
 
-# Konferenciák:
+## Konferenciák:
 ## Szervezett konferenciák:
 *   2019/05/30–2019/05/31 Trans-Linguistica 5. Nyelvek és kultúrák közötti közvetítés a digitális forradalom után – a 21. század kihívásai. Sapientia EMTE, MK
 *   2017/05/25–2017/05/27 Trans-Linguistica 4. Soknyelvűség és többnyelvűség. Sapientia EMTE, MK
@@ -320,7 +323,7 @@ Tagok:
 *   Suciu Sorin Gheorghe, A Shakespearian Sonnet and its Imaginary Translation. The 15-th International Conference Language, Literature, and Cultural Policies – “The Past in the Present”. 2016/09/29–2016/10/01, Craiova, Romania
 *   Biró Enikő, Who is responsible for failure? Debatable multilingualism of Hungarian ethnic minority in Romania. 10th International Conference on Multilingualism and Third Language Acquisition. 2016/09/01–2016/09/03, Bécs, Ausztria
 ---
-# Publikációk (válogatás)
+## Publikációk (válogatás)
 
 ### 2020
 *   Nagy Imola Katalin, Introducere în traductologie sau noțiuni și concepte fundamentale în teoria și practica traducerii, Scientia, Kolozsvár, 2020, pag. 366, ISBN 978-606-975-040-7
@@ -436,7 +439,9 @@ Tagok:
 *   Suba Réka, Pragmatic Elements in Hungarian Radio Texts. In: Iulian Boldea, Cornel Sigmirean (szerk.): Multicultural Representation. Literature and Discours as Form of Dialogue, Marosvásárhely / Tîrgu Mureş, ARHIEPAG XXI PRESS, 2016, pp. 46–50., ISBN 978-606-8624-16-7
 *   Suba Réka, Limbaj vs. normativitate în presa audiovizuală de limbă maghiară din România. In: Mediamorfoze II. In: Cătălin Negoiță (szerk.): Mediamorfoze II, Presa minorităților etnice din România, Bucuresti, Tritonic, 2016, pp. 519–533.
 *   Suba Réka, Fenomene de contact lingvistic în cazul textelor jurnalistice de limbă maghiară. In: Cătălin Negoiță (szerk.): Mediamorfoze II, Presa minorităților etnice din România, Bucuresti, Tritonic, 2016, pp. 497–519.
-
+# Alkalmazott Társadalomtudományok Tanszék
+Új média kutatócsoport (Kommunikáció és közkapcsolatok szak) (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-tarsadalomtudomanyok-tanszek/uj-media-kutatocsoport)
+Az egészségi állapot és az életminőség vizsgálata (Közegészségügyi szolgáltatások és politikák szak) (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-tarsadalomtudomanyok-tanszek/az-egeszsegi-allapot-es-az-eletminoseg-vizsgalata)
 # Új média kutatócsoport
 
 ## Témakörök
@@ -568,7 +573,7 @@ Tőkés Gyöngyvér, Ethical and Methodological Challenges in Assessment of Smal
 *   2017. április, 2018. szeptember, 2019. május, 2019. november: a Debreceni Egyetem Egészségügyi Kar kutatói szakmai tanácskozásra látogattak intézményünkbe
 *   2019. július 28-31., Pädagogische Hochschule Freiburg, szakmai tanácskozás, publikáció előkészítése
 
-# Konferenciák
+## Konferenciák
 
 ## Általunk szervezett konferenciák
 
@@ -609,7 +614,7 @@ Tőkés Gyöngyvér, Ethical and Methodological Challenges in Assessment of Smal
 *   A társadadalomtudományok 30 éve a Partiumban. Partiumi Keresztény Egyetem, 2021. március 26. Egészség és társadalom szekció.
     *   Krizbai Tímea, Zsigmond István: A Globális Jóllét vizsgálata Erdélyi populációban
 
-# Publikációk
+## Publikációk
 
 *   Kovács Réka Rozália (2016) Házastársi kapcsolat és elégedettség. Narratív pszichológiai tartalomelemzéssel, pszichometriai eszközökkel végzett vizsgálatok családi életciklusok szerint Editura Globe Edit, Saarbrücken, ISBN: 978-3-330-71381-9, 208 oldal
 *   Agnes Rozsa Santha (2016), Social, Demographic and Labour Market Related Determinants of Health in the Adult European Population. Finnish Yearbook of Population Research 51. 77-88. doi: https://doi.org/10.23979/fypr.56932
@@ -623,15 +628,8 @@ Tőkés Gyöngyvér, Ethical and Methodological Challenges in Assessment of Smal
 *   Lukács-Márton Réka, Sántha Ágnes, Kiss János, Majer Réka, Mohácsi Bernadett, Kovács János, Sárváry Andrea (2020) A Sapientia EMTE Marosvásárhelyi Kar hallgatóinak egészségmagatartása és mentális állapota. Acta Medicina et Sociologica 11, 31, 26-38. ISSN 2062-0284
 *   Szabó Árpád, Zsigmond István, Krizbai Timea (2020) A boldogságkutatások mikro/ és makrogazdasági vonatkozásai. DUNAKAVICS 8, 2, 25-37. ISSN 2064-5007
 *   Santha A., Bittlingmayer, U.H., Bollweg, T.M., Gerdes, J., Okan, O., Ökcu, G., Pinheiro, P., Osipov, I., Sahrai, D. (2021): Health Literacy and its Determinants in 11 and 12-year-old School Children in Germany. In: Saboga-Nunes L.A., Bittlingmayer U.H., Okan O., Sahrai D. (eds) New Approaches to Health Literacy. Gesundheit und Gesellschaft. 183-199. Springer VS, Wiesbaden. doi: 10.1007/978-3-658-30909-1\_10
-
-# Publikációk linkjei
-
-*   Social, Demographic and Labour Market Related Determinants of Health in the Adult European Population (https://doi.org/10.23979/fypr.56932)
-*   Work-Family Balance in the Active Age Ethnic Hungarian Population in Romania (https://doi.org/10.3390/socsci8020059)
-*   Maternal health literacy of ethnic Hungarian mothers in Romania (http://dx.doi.org/10.32725/kont.2019.011)
-*   The Health Literacy of Ethnic Hungarian Mothers in Eastern Europe (http://dx.doi.org/10.14658/pupj-ijse-2020-3-5)
-*   Burnout and Depression in Medical Assistants in State-Owned Healthcare Institutions in Romania (http://dx.doi.org/10.2478/aussoc-2020-0006)
-*   Health Literacy and its Determinants in 11 and 12-year-old School Children in Germany (http://dx.doi.org/10.1007/978-3-658-30909-1_10)
+# Gépészmérnöki Tanszék
+Alkalmazott Fizika és Gépészeti Tudományok Kutatóközpont (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/gepeszmernoki-tanszek_/alkalmazott-fizika-es-gepeszeti-tudomanyok-kutatokozpont)```markdown
 # Alkalmazott Fizika és Gépészeti Tudományok Kutatóközpont
 
 A kutatóközpont neve román nyelven: Centrul de Cercetare în Domeniul Inginerie Industrială şi Fizică Aplicată
@@ -659,6 +657,8 @@ A kutatóközpont neve román nyelven: Centrul de Cercetare în Domeniul Inginer
 *   19. Kutató neve: dr. Máté Márton (Tagság kezdete: 2012)
 
 További részletek (https://ms.sapientia.ro/content/content_photos/Tartalom/GMT%20Alkalmazott%20Fizika%20es%20Gepeszeti%20Tudomanyok%20Kutatokoezpont.pdf)```markdown
+# Kertészmérnöki Tanszék
+PPGroup (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/kerteszmernoki-tanszek_/ppgroup)
 # PPGroup
 
 ## Növényvédelmi Kutatócsoport
@@ -740,6 +740,11 @@ BALOG A., LOXDALE H. D., BÁLINT J., BENEDEK K., SZABÓ K-A., JÁNOSI-RANCZ K.-T
 BÁLINT J., SZABÓ K-A., TÓFALVI B., PUIA C., BALOG A. (2016): Comparing disease resistance of local and international plum cultivars (Prunus domestica) from Eastern Transylvania, Romania, Journal of Plant Diseases and Protection, 123: 317-320. (IF. 0,485). Scimago rank Q3.
 
 BÁLINT J., ZYTYNSKA S., SALAMON R., MEHRPARVAR M.,; WEISSER W., SCHMITZ O. J., BENEDEK K., BALOG A. (2016): Intraspecific differences in plant chemotype determines the structure of arthropod food webs, Oecologia, 180(3): 797-807. (IF. 3,130). Scimago rank D1.
+# Matematika-Informatika Tanszék
+Biointelligencia Kutatócsoport (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/biointelligencia-kutatocsoport)
+CAL-Sapientia (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/cal-sapientia)
+CIRG (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/cirg)
+Research group in Mathematics (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/research-group-in-mathematics)
 # Biointelligencia Kutatócsoport
 
 Biointelligencia alatt a gépi tanulás és orvosbiológia határterületét értjük.
@@ -844,7 +849,7 @@ A Matematika-Informatika Tanszék kutatócsoportjaként a csoport informatikai h
 * [Q4] Kátai, Z. Osztián, E., Lőrincz, B.: The effect of multiple graphical rep-resentations on learning algoritms In: The online Journal of Educational Technology International Conference on New Horizons in Education, Paris, [814,819], 2018
 * [Q4] Osztián, E., Kátai, Z., Vekov, G.: Multi dimensional expansion of algorythmics In: INTE International Conference on New Horizons in Education, IDEC International Distance Education Conference, ITICAL International Trends and Issues in Communication & Media Conference Proceedings Book Vol. 2 July 17 19, 2017, Berlin, Germany / Eds. Aytekin Işman, Ahmet Eskicumali, ASET, Sakarya , 701-706, 2017.
 
-# Találmányok, prototípusok, demók
+## Találmányok, prototípusok, demók
 
 * 2013 Best Practices in Education Award (Informatics Europe) (http://www.informatics-europe.org/services/curriculum-award.html) (Zoltán Kátai, László Tóth and Alpár Károly Adorjáni "Multi-Sensory Informatics Education").
 * AlgoRythmics online oktatási környezet weboldala (https://www.algo-rythmics.com/)
@@ -942,7 +947,7 @@ UMFST Tg. Mureş, Sándor M. Szilágyi
 3.  Antal M, Egyed-Zsigmond E: Intrusion detection using mouse dynamics, IET Biometrics, 8(5):285-294, 2019, IET Digital Library, IF: 1.836.
 4.  Lehotsky Á, Szilágyi L, Bánsághi Sz, Szerémy P, Wéber Gy, Haidegger T: Towards objective hand hygiene technique assessment – validation of the UV dye based hand rubbing quality assessment procedure. Journal of Hospital Infection 97(1):26-29, 2017, ISSN 0195-6701, IF: 3.126\*
 5.  Lehotsky Á, Morvai J, Szilágyi L, Bánsághi Sz, Benkó A, Haidegger T: Hand hygiene technique assessment using electronic equipment in 26 Hungarian healthcare institutes (Hungarian). Orvosi Hetilap 158(29):1151-1156, 2017, ISSN 0030-6002, IF: 0.346\*
-6.  Frigy A, Magdás A, Moga VD, Coteţ OG, Kozlovszky M, Szilágyi L: Increase of short-term heart rate variability induced by blood pressure measurements during ambulatory blood pressure monitoring. Computational and Mathematical Methods in Medicine, article ID 5235319, pp. 1–5, 2017, ISSN 1748-6718, IF: 0.937\*
+6.  Frigy A, Magdás A, Moga VD, Coteţ OG, Kozlovszky M, Szilágyi L: Increase of short-term heart rate variability induced by blood pressure measurements during ambulatory blood pressure monitoring. Computational and Mathematical Methods in Medicine, article ID 5235319, pp. 1–5, 2017, ISSN 1748-6718, IF: 0.937
 7.  Antal M, Szabó LZs, Tordai T: Online Signature Verification on MOBISIG Finger-Drawn Signature Corpus. MOBILE INFORMATION SYSTEMS, Volume 2018 (2018), Article ID 3127042, 15 pages
 8.  Balog A, Loxdale H, Bálint J, Benedek K, Szabó KA, Jánosi-Rancz KT, Domokos E: The arbuscular mycorrhizal fungus Rhizophagus irregularis affects arthropod colonization on sweet pepper in both the field and greenhouse, JOURNAL OF PEST SCIENCE,  2017, Volume 90, Issue 3, pp 935–946
 9.  Varga V, Jánosi-Rancz KT, Kálmán B: Conceptual Design of Document NoSQL Database with Formal Concept Analysis, ACTA POLYTECHNICA HUNGARICA, Journal of Applied Sciences, Volume 13, Number 2, p. 229-248, 2016
@@ -994,7 +999,8 @@ Conference papers:
 
 **Találmányok, prototípusok, termékek, demók**
 
-1.  Haidegger T, Lehotsky Á, Nagy M, Szilágyi L: Method and apparatus for hand disinfection control quality. US Patent 9,424,735 B2, 23 August 2016.# Research group in “Mathematics with applications”
+1.  Haidegger T, Lehotsky Á, Nagy M, Szilágyi L: Method and apparatus for hand disinfection control quality. US Patent 9,424,735 B2, 23 August 2016.
+# Research group in “Mathematics with applications”
 
 The research in “Mathematics with applications”, is a unit of the MathInfo research center. Group members (based on their areas of research) usually aim to discuss mathematical problems that have real applications. To this end, they are working with several foreign partners on various projects. Nothing proves the effectiveness of the group better than the fact that members take part in many international research projects, present their results at several international conferences, and last but not least in recent years, the achieved results are published in Scimago-rated Q1 and D1 journals. The members of the group are members of the Department of Mathematics and Informatics of Sapientia Hungarian University of Translyvania, Faculty Of Technical And Human Sciences Târgu Mureş, which is why the joint work within the members of the group is almost daily.
 
@@ -1053,6 +1059,12 @@ E. Horobeț:
 P. Kupán:
 1. A.P., Kupán, Gy. Márton, R. Szász, A result regarding monotonicity of the Gamma function, ACTA UNIVERSITATIS SAPIENTIAE, MATHEMATICA, 9/2, (2017), 291−302.
 2. A.P. Kupán, About strong starlikeness conditions, FILOMAT, 32/6, (2018), 2035-2042.```markdown
+# Villamosmérnöki Tanszék
+APEMBSYS (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/apembsys)
+CIRG (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/cirg_)
+NARC (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/narc)
+PEDIMCo (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/pedimco)
+PRRG (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/prrg)
 
 # APEMBSYS
 
@@ -1241,16 +1253,16 @@ Fontosabb kutatási témáink: klaszterező és részlegesen felügyelt klaszter
 *   FSKD 2018 – International Conference on Fuzzy Systems and Knowledge Discovery – Huangshan (China)
 *   EMBC 2019 – Annual International Conference of the IEEE EMBS – Berlin (Germany)
 
-# Publikációk
+## Publikációk
 
 **Journal papers:**
 
 1.  Győrfi Á, Szilágyi L, Kovács L: A fully automatic procedure for brain tumor segmentation from multi-spectral MRI records using ensemble learning and atlas-based data enhancement. Applied Sciences 11(2):564, pp. 1–24, 2021.
 2.  Szilágyi L, Lefkovits Sz, Szilágyi SM: Self-tuning possibilistic c-means clustering models. International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems 27(Suppl. 1): 143-159, 2019.
 3.  Antal M, Egyed-Zsigmond E: Intrusion detection using mouse dynamics, IET Biometrics, 8(5):285-294, 2019, IET Digital Library, IF: 1.836.
-4.  Lehotsky Á, Szilágyi L, Bánsághi Sz, Szerémy P, Wéber Gy, Haidegger T: Towards objective hand hygiene technique assessment – validation of the UV dye based hand rubbing quality assessment procedure. Journal of Hospital Infection 97(1):26-29, 2017, ISSN 0195-6701, IF: 3.126\*
-5.  Lehotsky Á, Morvai J, Szilágyi L, Bánsághi Sz, Benkó A, Haidegger T: Hand hygiene technique assessment using electronic equipment in 26 Hungarian healthcare institutes (Hungarian). Orvosi Hetilap 158(29):1151-1156, 2017, ISSN 0030-6002, IF: 0.346\*
-6.  Frigy A, Magdás A, Moga VD, Coteţ OG, Kozlovszky M, Szilágyi L: Increase of short-term heart rate variability induced by blood pressure measurements during ambulatory blood pressure monitoring. Computational and Mathematical Methods in Medicine, article ID 5235319, pp. 1–5, 2017, ISSN 1748-6718, IF: 0.937\*
+4.  Lehotsky Á, Szilágyi L, Bánsághi Sz, Szerémy P, Wéber Gy, Haidegger T: Towards objective hand hygiene technique assessment – validation of the UV dye based hand rubbing quality assessment procedure. Journal of Hospital Infection 97(1):26-29, 2017, ISSN 0195-6701, IF: 3.126
+5.  Lehotsky Á, Morvai J, Szilágyi L, Bánsághi Sz, Benkó A, Haidegger T: Hand hygiene technique assessment using electronic equipment in 26 Hungarian healthcare institutes (Hungarian). Orvosi Hetilap 158(29):1151-1156, 2017, ISSN 0030-6002, IF: 0.346
+6.  Frigy A, Magdás A, Moga VD, Coteţ OG, Kozlovszky M, Szilágyi L: Increase of short-term heart rate variability induced by blood pressure measurements during ambulatory blood pressure monitoring. Computational and Mathematical Methods in Medicine, article ID 5235319, pp. 1–5, 2017, ISSN 1748-6718, IF: 0.937
 7.  Antal M, Szabó LZs, Tordai T: Online Signature Verification on MOBISIG Finger-Drawn Signature Corpus. MOBILE INFORMATION SYSTEMS, Volume 2018 (2018), Article ID 3127042, 15 pages
 8.  Balog A, Loxdale H, Bálint J, Benedek K, Szabó KA, Jánosi-Rancz KT, Domokos E: The arbuscular mycorrhizal fungus Rhizophagus irregularis affects arthropod colonization on sweet pepper in both the field and greenhouse, JOURNAL OF PEST SCIENCE, 2017, Volume 90, Issue 3, pp 935–946
 9.  Varga V, Jánosi-Rancz KT, Kálmán B: Conceptual Design of Document NoSQL Database with Formal Concept Analysis, ACTA POLYTECHNICA HUNGARICA, Journal of Applied Sciences, Volume 13, Number 2, p. 229-248, 2016
@@ -1441,7 +1453,8 @@ Dr. Imecs Mária egyetemi professzor, Dr. Dávid László egyetemi professzor, D
 4.  High voltage DC power supplies for the magnetron sputtering process.
 5.  High voltage (12 kV) and high power (120 kW) DC supply for radio frequency induction heating tube oscillators.
 6.  DSP-based test platform for the development of boost type switch-mode three phase rectifiers and test platform for the development of induction motor control methods, based on dSPACE type real time development system.
-7.  Pulsed Power Supply for the Plasma-Electrolytic Oxidation Process (6kW, +/-1000V, max. 100A, 50kHz)# PRRG
+7.  Pulsed Power Supply for the Plasma-Electrolytic Oxidation Process (6kW, +/-1000V, max. 100A, 50kHz)
+# PRRG
 
 Két fő irányvonallal foglalkozunk. Az egyik különböző acélok hőkezelése nitrogén - hidrogén plazmában, DCPN illetve ASPN módszerrel. Elvégezzük a kezelt minták optikai- és elektronmikroszkópiás vizsgálatát, valamint a Wickers - keménységprofil mérését. A másik irányvonal a hőkezelés plazmájának tanulmányozása lokális plazmadiagnosztikai módszerrel. Automatizált diagnosztikai rendszerrel, számítógép segítségével mérjük a szonda U-I karakterisztikáját és határozunk meg lokális plazmaparamétereket. E mellett a szonda radiális mozgatását is végezzük, így paraméter eloszlást is meghatározunk.
 
@@ -1475,6 +1488,15 @@ Két fő irányvonallal foglalkozunk. Az egyik különböző acélok hőkezelés
 Pályázatok oktatóknak (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak)
 Pályázatok hallgatóknak (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-hallgatoknak_)
 ``````markdown
+# Rendszeres pályázatok
+Collegium Talentum 2024/2025 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/collegium-talentum-20242025)
+Horizont Európa Program (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/horizont-europa-program)
+KAB pályázatok (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok)
+Sapientia pályázatok (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/sapientia-palyazatok)
+UEFISCDI pályázatok Hírek, újdonságok, pályázati kiirások (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/uefiscdi-palyazatok)
+KPI pályázatok (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kpi-palyazatok)
+MTA pályázatok (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok)
+Communitas Alapítvány pályázatai (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/communitas-alapitvany-palyazatai)
 # Collegium Talentum 2024/2025
 
 A Sapientia Hungariae Alapítvány kuratóriuma a tanulmányaikat a felsőoktatásban végző külhoni magyar hallgatók szakmai munkáját, az értelmiségi pályán való előrehaladásukat segítendő, pályázatot hirdet a Collegium Talentum 2024/2025-ös tanévi programjában való részvételre.
@@ -1490,14 +1512,26 @@ A pályázat beküldésével, a pályázati eljárással kapcsolatos kérdésekb
 A felhívás teljes szövege és a pályázati mellékletek letölthetőek (http://ct.sha.hu/dokumentumok/megjelent-a-2024-2025-os-tanev-palyazati-kiirasa?fbclid=IwZXh0bgNhZW0CMTAAAR2Tp8rppgT3H8nA0wLPuqz7EuwkL1AZczB_6kKqNCVoIWhy-7sMkmtTRQ0_aem_dnk_qUhX8aj47WgXOawI6Q)
 ```
 # Horizont Európa Program
-## KAB pályázatok
+Horizont Európa – MSCA PF és COFUND 2024 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/horizont-europa-program/horizont-europa-msca-pf-es-cofund-2024)
+Horizont Európa - MSCA – Kutatócsere program 2022 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/horizont-europa-program/horizont-europa-msca-kutatocsere-program-2022)
+# KAB pályázatok
 KAB pályázat - 2024. II. félév (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok/kab-palyazat-2024-ii-felev)
 KAB pályázat - 2024. I. félév (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok/kab-palyazat-2024-i-felev)
 KAB pályázat - 2023. I. félév (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok/kab-palyazat-2023-i-felev)
 KAB pályázat - 2022. II. félév (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok/kab-palyazat-2022-ii-felev)
 KAB pályázat - Publikációs támogatás (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok/kab-palyazat-publikacios-tamogatas)
 ```
-## Pályázat kari oktatói minősítési pótlék megítélésére a 2025-ös évre
+# Sapientia pályázatok
+Pályázat kari oktatói minősítési pótlék megítélésére a 2025-ös évre (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/sapientia-palyazatok/palyazat-kari-oktatoi-minositesi-potlek-megitelesere-a-2025-os-evre)
+Pályázati felhívás tudományos, illetve oktatási kiválósági eredményekre megítélhető minősítési bérkiegészítésre – 2025 (https://sapientia.ro/hu/hirek/palyazati-felhivas-tudomanyos-illetve-oktatasi-kivalosagi-eredmenyekre-megitelheto-minositesi-berkiegeszitesre-2025)
+Pályázat kari oktatói minősítési pótlék megítélésére a 2024-es évre (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/sapientia-palyazatok/palyazat-kari-oktatoi-minositesi-potlek-megitelesere-a-2024-es-evre)
+A Sapientia EMTE Marosvásárhelyi Kara pályázatot hirdet az oktatók minősítési bérkiegészítésére.
+Pályázati felhívás tudományos, illetve oktatási kiválósági eredményekre megítélhető minősítési bérkiegészítésre – 2024 (https://sapientia.ro/hu/oktatas/oktatoknak/palyazatok-oktatoknak/kivalosagi-berkiegeszites/palyazati-felhivas-tudomanyos-illetve-oktatasi-kivalosagi-eredmenyekre-megitelheto-minositesi-berkiegeszitesre-2024_)
+Pályázati felhívás tudományos, illetve oktatási kiválósági eredményekre megítélhető minősítési bérkiegészítésre - 2023 (https://sapientia.ro/hu/oktatas/oktatoknak/palyazatok-oktatoknak/kivalosagi-berkiegeszites/palyazati-felhivas-tudomanyos-illetve-oktatasi-kivalosagi-eredmenyekre-megitelheto-minositesi-berkiegeszitesre-2023)
+PÁLYÁZAT nemzetközi tudományos konferenciákon, művészeti fesztiválokon és kiállításokon való részvétel támogatására – 2022 (https://sapientia.ro/hu/hirek/palyazat-nemzetkozi-tudomanyos-konferenciakon-muveszeti-fesztivalokon-es-kiallitasokon-valo-reszvetel-tamogatasara-2022)
+PÁLYÁZAT rangos nemzetközi (D1, Q1, Q2-es) szakmai folyóiratban közölt cikkek publikálási költségeinek a térítésére – 2022 (https://sapientia.ro/hu/hirek/palyazat-rangos-nemzetkozi-d1-q1-q2-es-szakmai-folyoiratban-kozolt-cikkek-publikalasi-koltsegeinek-a-teritesere-2022)
+Pályázati felhívás tudományos, illetve oktatási kiválósági eredményekre megítélhető minősítési bérkiegészítésre – 2022 (https://sapientia.ro/hu/hirek/palyazati-felhivas-tudomanyos-illetve-oktatasi-kivalosagi-eredmenyekre-megitelheto-minositesi-berkiegeszitesre)
+# Pályázat kari oktatói minősítési pótlék megítélésére a 2025-ös évre
 
 A Sapientia EMTE Marosvásárhelyi Kara pályázatot hirdet az oktatók minősítési bérkiegészítésére.
 A differenciált bérezési rendszer az oktatási, kutatási és az egyetem érdekében kifejtett adminisztrációs jellegű tevékenységek ösztönzése céljából jött létre. A differenciált bérezési rendszer abban áll, hogy ennek keretében a kiválóan teljesítő oktatók pótbérezésben részesülhetnek. A differenciált bérezést megvalósító többletjuttatást pályázat útján lehet elnyerni.
@@ -1512,6 +1546,7 @@ A tanszéki bemutató alkalmával készült jegyzőkönyvet és a tanszékvezet�
 A tanszékvezetők által ellenjegyzett és a tanszék előtt bemutatott pályázatokat elektronikus formában, emailben kell benyújtani az office@ms.sapientia.ro címre **2025. február 28., 15 óráig.**
 Sok sikert a pályázáshoz!
 ```markdown
+
 # UEFISCDI pályázatok
 
 2024-es PNCDI IV pályázatok (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/uefiscdi-palyazatok/2024-es-pncdi-iv-palyazatok)
@@ -1525,6 +1560,39 @@ PCE projektek (Lejárt pályázási határidő) (https://ms.sapientia.ro/hu/kuta
 Posztdoktori és fiatal kutatói csapatokat támogató kiírások (Lejárt pályázási határidő) (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/uefiscdi-palyazatok/posztdoktori-es-fiatal-kutatoi-csapatokat-tamogato-kiirasok-lejart-palyazasi-hatarido)
 M-ERA.NET-3-2021 pályázati felhívás (Lejárt pályázási határidő) (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/uefiscdi-palyazatok/m-eranet-3-2021-palyazati-felhivas-lejart-palyazasi-hatarido)
 ```
+# KPI pályázatok
+PÁLYÁZAT nemzetközi tudományos konferenciákon, művészeti fesztiválokon és kiállításokon való részvétel támogatására - 2024 (https://sapientia.ro/hu/hirek/palyazat-nemzetkozi-tudomanyos-konferenciakon-muveszeti-fesztivalokon-es-kiallitasokon-valo-reszvetel-tamogatasara-2024)
+PÁLYÁZAT nemzetközi tudományos konferenciákon, művészeti fesztiválokon és kiállításokon való részvétel támogatására - 2023 (https://sapientia.ro/hu/hirek/palyazat-nemzetkozi-tudomanyos-konferenciakon-muveszeti-fesztivalokon-es-kiallitasokon-valo-reszvetel-tamogatasara-2023)
+Egyetemi Kutatási Program – 2022/2023 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kpi-palyazatok/egyetemi-kutatasi-program-20222023)
+PÁLYÁZAT nemzetközi tudományos konferenciákon, művészeti fesztiválokon és kiállításokon való részvétel támogatására – 2021 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kpi-palyazatok/palyazat-nemzetkozi-tudomanyos-konferenciakon-muveszeti-fesztivalokon-es-kiallitasokon-valo-reszvetel-tamogatasara-2021)
+# MTA pályázatok
+Domus szülőföldi ösztöndíjpályázat 2025 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-szulofoldi-osztondijpalyazat-2025)
+Domus magyarországi ösztöndíjpályázat – 2025 tavasz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-magyarorszagi-osztondijpalyazat-2025-tavasz)
+Domus alkotói ösztöndíjpályázat 2025 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-alkotoi-osztondijpalyazat-2025)
+Pályázat a Magyar Tudományos Akadémia Bolyai János Kutatási Ösztöndíjának elnyerésére 2025-ben (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/palyazat-a-magyar-tudomanyos-akademia-bolyai-janos-kutatasi-osztondijanak-elnyeresere-2025-ben)
+Magyarországi ösztöndíjpályázat – 2024 ősz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/magyarorszagi-osztondijpalyazat-2024-osz)
+Domus könyvkiadás-támogatási pályázat 2024 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-konyvkiadas-tamogatasi-palyazat-2024)
+Domus szülőföldi ösztöndíjpályázat 2024 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-szulofoldi-osztondijpalyazat-2024)
+Magyarországi ösztöndíjpályázat – 2024 tavasz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/magyarorszagi-osztondijpalyazat-2024-tavasz)
+Domus alkotói ösztöndíjpályázat 2024 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-alkotoi-osztondijpalyazat-2024)
+MTA Vendégkutatói program (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/mta-vendegkutatoi-program)
+Világviszonylatban is kiemelkedő külföldi kutatók bevonása a hazai kutatócsoportok munkájába – ez a fő célja a Magyar Tudományos Akadémia Vendégkutatói Programjának, amelyre október 27-ig lehet benyújtani a pályázatokat.
+Magyarországi ösztöndíj pályázat – 2023 ősz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/magyarorszagi-osztondij-palyazat-2023-osz)
+Az MTA Domus ösztöndíjprogramja senior és junior ösztöndíjakkal kívánja támogatni a külföldi kutatók szakmai munkásságát, magyarországi tevékenységét, segítve bekapcsolódásukat a magyarországi tudományos életbe, akadémiai és egyetemi kutatásokba, magyarországi szakmai partnerek, témavezetők közreműködésével.
+Az MTA Domus nemzetközi publikáció támogatása költségtérítés pályázati felhívása 2023 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/az-mta-domus-nemzetkozi-publikacio-tamogatasa-koltsegterites-palyazati-felhivasa)
+Az MTA Domus pályázati felhívása nemzetközi konferencián való aktív részvétel támogatására 2023 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/az-mta-domus-palyazati-felhivasa-nemzetkozi-konferencian-valo-aktiv-reszvetel-tamogatasara)
+Az MTA Domus könyvkiadás-támogatási pályázati felhívása 2023 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/az-mta-domus-konyvkiadas-tamogatasi-palyazati-felhivasa)
+Domus alkotói ösztöndíjpályázat 2023 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-alkotoi-osztondijpalyazat-2023)
+Domus szülőföldi ösztöndíjpályázat 2023 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-szulofoldi-osztondijpalyazat-2023)
+Magyarországi ösztöndíjpályázat – 2023 tavasz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/magyarorszagi-osztondijpalyazat-2023-tavasz)
+Magyarországi ösztöndíjpályázat – 2022 ősz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/magyarorszagi-osztondijpalyazat-2022-osz)
+II. Az MTA Domus pályázati felhívása szülőföldi ösztöndíjak elnyerésére 2022 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/ii-az-mta-domus-palyazati-felhivasa-szulofoldi-osztondijak-elnyeresere-2022)
+Magyarországi ösztöndíjpályázat - 2022 tavasz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/-magyarorszagi-osztondijpalyazat-2022-tavasz)
+Bolyai János Kutatási Ösztöndíj (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/bolyai-janos-kutatasi-osztondij)
+Magyarországi ösztöndíjpályázat - 2021 ősz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/magyarorszagi-osztondijpalyazat-2021-osz)
+Domus kiadvány- és nemzetközi publikációs pályázatok (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-kiadvany-es-nemzetkozi-publikacios-palyazatok)
+Az MTA Domus pályázati felhívása szülőföldi ösztöndíjak elnyerésére 2021 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/az-mta-domus-palyazati-felhivasa-szulofoldi-osztondijak-elnyeresere-2021)
+Magyarországi ösztöndíjpályázat - 2021 tavasz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/magyarorszagi-osztondijpalyazat-2021-tavasz)
 # Domus szülőföldi ösztöndíjpályázat 2025
 
 Marosvásárhely
@@ -1563,13 +1631,14 @@ Senior pályázat benyújtási link (https://palyazatok.mta.hu/domus_szulofoldi_
 Csoportos pályázat benyújtási link (https://palyazatok.mta.hu/domus_szulofoldi_csoportos_2025/)
 
 A Domus szülőföldi ösztöndíjpályázat teljes tavaszi kiírása (https://mta.hu/data/cikkek/105/1055/cikk-105505/Domus_szulofoldi_osztondij_palyazati_felhivas.pdf) érhető el.
-A Domus ösztöndíjról további részletek (https://mta.hu/domus-osztondij/a-domus-osztondij-105505) olvashatók.# Domus magyarországi ösztöndíjpályázat – 2025 tavasz
+A Domus ösztöndíjról további részletek (https://mta.hu/domus-osztondij/a-domus-osztondij-105505) olvashatók.
+# Domus magyarországi ösztöndíjpályázat – 2025 tavasz
 
 Az MTA Domus ösztöndíjprogramja **senior és junior ösztöndíjakkal** kívánja támogatni a külföldi kutatók szakmai munkásságát, magyarországi tevékenységét, segítve bekapcsolódásukat a magyarországi tudományos életbe, akadémiai és egyetemi kutatásokba, magyarországi szakmai partnerek, témavezetők közreműködésével.
 
 Az ösztöndíj tudományos kutatómunka végzésére, anyaggyűjtésre, konferencián való részvételre, konzultációra stb. használható fel, a benyújtott és elfogadott pályázatban megfogalmazott szakmai terv szerint.
 
-# 1. A pályázat jellege, a pályázat benyújtására jogosultak köre
+## 1. A pályázat jellege, a pályázat benyújtására jogosultak köre
 
 A pályázati támogatás nyílt pályázati eljárás útján nyerhető el.
 
@@ -1577,17 +1646,17 @@ A pályázati támogatás nyílt pályázati eljárás útján nyerhető el.
 
 **Junior ösztöndíj**ra pályázhatnak a tudományos fokozattal nem rendelkező külföldi kutatók közül azok, akik rendelkeznek Master szintű diplomával és tudományos munkásságuk a magyar nyelvű és/vagy tárgyú kutatások terén dokumentálható.
 
-# 2. Az elnyerhető költségvetési támogatás mértékének alsó és felső határa
+## 2. Az elnyerhető költségvetési támogatás mértékének alsó és felső határa
 
 A megpályázható **senior** ösztöndíj összege heti 100.000 forint, a **junior** ösztöndíj összege heti 80.000 forint. A megpályázható ösztöndíjak időtartama 1 héttől 8 hétig terjedhet.
 
 A támogatás formája: vissza nem térítendő támogatás, amennyiben a pályázatban megjelölt kutatási terv megvalósul, és a kutatási beszámolót a Magyar Tudományosság Külföldön Elnöki Bizottság (MTK EB) által létrehozott Kuratórium elfogadja.
 
-# 3. A támogatási időszak
+## 3. A támogatási időszak
 
 Jelen pályázat keretében a 2025. július 1. és 2025. december 31. között megvalósuló ösztöndíjas tevékenység támogatható.
 
-# 4. A pályázat benyújtása, tartalmi és formai követelmények
+## 4. A pályázat benyújtása, tartalmi és formai követelmények
 
 A pályázatot **2025. március 14-én 14 óráig**, az Akadémiai Adattárhoz kapcsolt Domus pályázati rendszeren keresztül kell benyújtani az alábbi linkeken:
 
@@ -1603,7 +1672,8 @@ Senior pályázók esetében (https://palyazatok.mta.hu/domus_senior_ht_2025_tav
 
 A Domus magyarországi ösztöndíjpályázat teljes tavaszi kiírása (https://mta.hu/data/cikkek/105/1055/cikk-105505/Domus_magyarorszagi_osztondij_palyazati_felhivas_tavasz.pdf)
 
-További részletek a Domus ösztöndíjról (https://mta.hu/domus-osztondij/a-domus-osztondij-105505)# Domus alkotói ösztöndíjpályázat 2025
+További részletek a Domus ösztöndíjról (https://mta.hu/domus-osztondij/a-domus-osztondij-105505)
+# Domus alkotói ösztöndíjpályázat 2025
 
 Az Akadémia Domus alkotói ösztöndíjprogramja a Kárpát-medencében oktatói és kutatói munkakörben dolgozók tudományos kutatásainak előmozdítását, a tudományos előmenetelük elősegítését célozza meg.
 
@@ -1633,7 +1703,8 @@ A Domus ösztöndíjról további részletek  olvashatók.
 
 Linkek a fő tartalomból:
 - Alkotói pályázat (https://palyazatok.mta.hu/domus_alkotoi_2025/)
-- Domus ösztöndíjról további részletek (https://mta.hu/domus-osztondij/a-domus-osztondij-105505)# Pályázat a Magyar Tudományos Akadémia Bolyai János Kutatási Ösztöndíjának elnyerésére 2025-ben
+- Domus ösztöndíjról további részletek (https://mta.hu/domus-osztondij/a-domus-osztondij-105505)
+# Pályázat a Magyar Tudományos Akadémia Bolyai János Kutatási Ösztöndíjának elnyerésére 2025-ben
 
 A Bolyai János Kutatási Ösztöndíjat kiemelkedő kutatási-fejlesztési teljesítmény ösztönzésére és elismerésére az MTA elnöke által felkért és az MTA köztestületi keretei között működő Kuratórium nyilvános pályázati rendszerben ítéli oda.
 
@@ -1732,9 +1803,15 @@ Tudományos szakmai lapok (ISI Journals) (https://ms.sapientia.ro/hu/kutatas/pal
 *   Egészségfejlesztés Szakkollégium (https://ms.sapientia.ro/hu/kutatas/szakkollegiumok/egeszsegfejlesztes-szakkollegium)
     Az Egészségfejlesztés Szakkolégium támogatója az Emberi Erőforrások Támogatáskezelő Nemzeti Tehetség Program (NTP-SZKOLL-19-0072)
 *   Kiss Elemér Szakkollégium (https://ms.sapientia.ro/hu/kutatas/szakkollegiumok/kiss-elemer-szakkollegium)
-    A Kiss Elemér Szakkollégium 2010. novemberében alakult a Sapientia Erdélyi Magyar Tudományegyetem Marosvásárhelyi Karán a MITIS Egyesület keretében.# Történeti ismertető
+    A Kiss Elemér Szakkollégium 2010. novemberében alakult a Sapientia Erdélyi Magyar Tudományegyetem Marosvásárhelyi Karán a MITIS Egyesület keretében.
 
-### Kiss Elemér Szakkollégium
+# Kiss Elemér Szakkollégium
+Előadások (https://ms.sapientia.ro/hu/kutatas/szakkollegiumok/kiss-elemer-szakkollegium/eloadasok_kiss_elemer_szakkollegium)
+Táborok (https://ms.sapientia.ro/hu/kutatas/szakkollegiumok/kiss-elemer-szakkollegium/taborok-kiss-elemer-szakkollegium)
+Történeti ismertető (https://ms.sapientia.ro/hu/kutatas/szakkollegiumok/kiss-elemer-szakkollegium/torteneti-ismerteto)
+# Történeti ismertető
+
+## Kiss Elemér Szakkollégium
 
 A Sapientia EMTE Marosvásárhelyi Karán működő tehetséggondozó fórum szakkollégiuma.
 
