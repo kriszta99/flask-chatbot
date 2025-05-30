@@ -18,11 +18,11 @@ from urllib.parse import urljoin, urlparse
 import re
 def url_to_markdown(url):
     try:
-        # 1. Letölti az oldal tartalmát
+        # letöltöm az oldal tartalmát
         response = requests.get(url, timeout=10)
         response.raise_for_status()
 
-        # 2. Kinyeri a HTML-tartalmat
+        # kinyerem a HTML-tartalmat
         html = response.text
         soup = BeautifulSoup(html, 'html.parser')
         for i_tag in soup.find_all('i', class_='fa fa-at'):
@@ -31,12 +31,12 @@ def url_to_markdown(url):
         if body is None:
             raise ValueError("❌ Az oldal nem tartalmaz <body> elemet.")
 
-        # 3. A domain gyökere (https://ms.sapientia.ro/)
+        # a domain gyökerét visszaállitom (https://ms.sapientia.ro/)
         parsed = urlparse(response.url)
         base_root = f"{parsed.scheme}://{parsed.netloc}/"
         print(f"ℹ️ Domain gyökere: {base_root}")
 
-        # 4. Keresés a <div id="nright"> és pageheader elemekben
+        # megkeresem a <div id="nright"> és pageheader elemekben <a> és <img> tag eket hogy teljes URL-re hozzam őket
 
         targets = [
           soup.find('div', {'id': 'nright'}),
@@ -45,20 +45,20 @@ def url_to_markdown(url):
 
         for container in targets:
             if container:
-                # 5. Az összes relatív <a> és <img> link teljes URL-re hozása ezen a konténeren belül
+                # az összes relatív <a> és <img> link teljes URL-re hozom 
                 for tag in container.find_all(['a', 'img']):
                     attr = 'href' if tag.name == 'a' else 'src'
                     if tag.has_attr(attr):
                         val = tag[attr]
-                        ## Ha nem http/https link, akkor kiegészítjük teljes URL-re
+                        ## ha nem http/https link, akkor kiegészítem teljes URL-re
                         if not val.startswith(('http://', 'https://')):
                             tag[attr] = urljoin(base_root, val)
-                        # Az URL-t szóköz hozzáfűzésével mentjük el
+                        # az URL-t szóköz hozzáfűzésével mentem le valtózőba
                         tag[attr] = f"{tag[attr]} "
 
 
 
-        # 6. A teljes HTML átalakítása Markdown formátumba
+        # majd a teljes HTML átalakítom Markdown formátumba
         markdown = md(str(body), heading_style="ATX")
 
         return markdown
@@ -94,7 +94,7 @@ def url_to_markdown(url):
 url = "https://ms.sapientia.ro/hu/a-karrol/rolunk"
 markdown_szoveg = url_to_markdown(url)
 
-print(markdown_szoveg)  # Itt láthatod a Markdown-tartalmat
+print(markdown_szoveg) 
 
 karrol_urls = [ "https://ms.sapientia.ro/hu/a-karrol/",
                 "https://ms.sapientia.ro/hu/a-karrol/rolunk",
@@ -254,7 +254,7 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           Tisztítsd meg az alábbi markdown szöveget.
           A fő tartalmat ({item_url_name}) tartsd meg. Minden mondat kerüljön külön sorba.
           Csak a fő tartalomban ({item_url_name}-ban) lévő linkeket add ilyen formátumban: téma (http://link).
-          Ha a {item_url_name}-ban nincsenek dokumentumlinkek csak a szöveget tarsd meg. Az első címet jelöld # karakterrel.
+          Ha a {item_url_name}-ban nincsenek dokumentumlinkek akkor csak a szöveget tarsd meg.  Első címet # karakterrel jelöld.
           Ha van táblázat akkor alakítsd át szöveggé (soronként), megtartva minden adatot, jól tagolt és áttekinthető formában.
 
           Távolítsd el a következőket:
@@ -284,8 +284,8 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           #file_path = '/content/markdown_tanarkepzes.md'
           #file_path = '/content/markdown_felveteli.md'
           #file_path = '/content/markdown_oktatas.md'
-          file_path = '/content/markdown_kutatas.md'
-          #file_path = '/content/markdown_nemzetkozi_kapcsolatok.md'
+          #file_path = '/content/markdown_kutatas.md'
+          file_path = '/content/markdown_nemzetkozi_kapcsolatok.md'
 
           with open(file_path, 'a') as f:
             f.write(response.text)
@@ -396,37 +396,32 @@ web_scraping_markdown_to_clean(kutatas_urls)
 nemzetkozi_kapcsolatok_urls=[
               "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok",
               "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus",
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok",
               "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/erasmus-hallgatoi-palyazati-felhivas-szakmai-gyakorlat-mobilitas-2025-nyara-es-tanulmanyi-mobilitas-202526-os-tanev",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-kepzesi-celu-mobilitasara-stt-az-unios-tagallamokban-valamint-a-programhoz-tarsult-es-nem-tarsult-harmadik-orszagokban-a-2024-2025-os-tanevben-ka131",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-az-unios-tagallamokban-valamint-a-programhoz-tarsult-es-nem-tarsult-harmadik-orszagokban-megvalosulo-oktatasi-celu-mobilitasra-sta-a-2024-2025-os-tanevben-ka131",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-mobilitas-palyazati-felhivas-oktatok-szamara-kozremukodokent-trainer-valo-reszvetelre-vegyes-intenziv-programokban-bip-a-2024-2025-os-tanevben",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/isten-hozott-az-egyetemunkre",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/udvozlunk-erdelyben",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/roviden-az-egyetemrol",
-              "https://sapientia.ro/hu/az-egyetemrol/oktatasi-helyszinek",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/targylistak",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/jo-tudni",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/jelentkezes",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/partnerintezmenyek",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/nemzetkozi-hallgatoknak",
-              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok/bip-palyazati-felhivasok",
-              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok/bip-palyazati-felhivasok/meghivasos-erasmus-hallgatoi-mobilitas-palyazati-felhivas-rovid-vegyes-tanulmanyi-mobilitason-valo-reszvetel-vegyes-intenziv-program-bip-kereteben",
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-oktatok-es-felsooktatasi-munkatarsak",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-kepzesi-celu-mobilitasara-stt-az-unios-tagallamokban-valamint-a-programhoz-tarsult-es-nem-tarsult-harmadik-orszagokban-a-20252026-os-tanevben-ka131",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-hallgatoi-mobilitas-palyazati-felhivas-tanarkepzesben-is-reszt-vevok-sajat-hallgatok-szamara-rovid-vegyes-tanulmanyi-mobilitason-valo-reszvetel-vegyes-intenziv-program-bip-kereteben",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-mobilitas-palyazati-felhivas-bip-kereteben-vagy-bip-hez-nem-kapcsolodoan-rovid-vegyes-mobilitast-teljesito-hallgatoi-csoportot-kisero-munkatarsak-szamara-a-20252026-os-tanevben",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-mobilitas-palyazati-felhivas-oktatok-szamara-kozremukodokent-trainer-valo-reszvetelre-vegyes-intenziv-programokban-bip-a-20252026-os-tanevben",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-palyazati-felhivas-rovid-vegyes-intenziv-programok-blended-intensive-programmes-bip-megszervezesere-a-20252026-os-tanevben-a-2024-es-ka131-mobilitasi-projekt-kereteben",
               "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok",
-              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/rovid-szakmai-gyakorlatok",
               "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/bip-mobilitasok-2022-2023",
               "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-partnerek",
               "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-projektek",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/dokumentumok-szabalyzatok",
-              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kapcsolat",
               "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok",
+              "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program",
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/partnerek",
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/nemzetkozi-hallgatok",
+              "https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/kapcsolat-nemzetkozi-kapcsolatok"
               ]
 
 web_scraping_markdown_to_clean(nemzetkozi_kapcsolatok_urls)
 
 from google.colab import files
-#Beolvassa a fájlt, eltávolítja a nem kívánt markdown elemeket és az üres sorokat, majd visszaírja egy új fájlba.
+#ez a függvény beolvassa a fájlt, eltávolítja a nem kívánt markdown elemeket és az üres sorokat, majd visszaírja egy új fájlba
 def clean_and_remove_empty_lines(file_path):
     # fájl beolvasása
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -469,15 +464,15 @@ clean_and_remove_empty_lines('markdown_nemzetkozi_kapcsolatok.md')
 
 def append_md_file(target_file: str, source_file: str):
     """
-    :param target_file: Az a fájl, amelyhez hozzá szeretnénk fűzni.
-    :param source_file: Az a fájl, amelynek tartalmát hozzáfűzzük.
+    :param target_file: az a fájl, amelyhez hozzá szeretnénm fűzni
+    :param source_file: az a fájl, amelynek tartalmát hozzáfűzzöm
     """
     try:
         with open(source_file, 'r', encoding='utf-8') as f:
             content = f.read()
 
         with open(target_file, 'a', encoding='utf-8') as f:
-            f.write("\n")  # optional separator
+            f.write("\n")  
             f.write(content)
 
         print(f"Sikeresen hozzáfűztük a(z) '{source_file}' tartalmát a '{target_file}' fájlhoz.")
@@ -495,6 +490,6 @@ append_md_file('markdown_output.md', 'markdown_hallgatoknak_.md')
 
 append_md_file('markdown_output.md', 'markdown_oktatas_.md')
 
-append_md_file('markdown_output.md', 'markdown_nemzetkozi_kapcsolatok_.md')
-
 append_md_file('markdown_output.md', 'markdown_kutatas_.md')
+
+append_md_file('markdown_output.md', 'markdown_nemzetkozi_kapcsolatok_.md')

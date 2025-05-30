@@ -49,7 +49,7 @@ Több jelentős személyiség neve kötődik a városhoz, közülük kettő mind
 A város kulturális intézményei, a Nemzeti Színház, a Filharmónia, a történelmi múzeumok, Teleki-téka, közkönyvtárak, Alternatív Filmfesztivál, Nemzetközi könyvvásár, valamint az állandó és időszakos képzőművészeti tárlatok Marosvásárhely egyetemi város jellegének szerves részét képezik.
 A város állami egyetemei a Marosvásárhelyi "George Emil Palade" Orvosi, Gyógyszerészeti, Tudomány és Technológiai Egyetem és a Marosvásárhelyi Művészeti Egyetem, magánegyetemként működik a Sapientia EMTE Marosvásárhelyi Kara mellett a Dimitrie Cantemir Egyetem.
 Az orvosi és a színművészeti egyetemen magyar nyelvű oktatás is folyik.
-# Marosvásárhelyi Kar
+## Marosvásárhelyi Kar
 A marosvásárhelyi magyar nyelvű műszaki képzés igénye már a rendszerváltozás előtt is ki nem mondott téma volt szűk szakmai körökben, azonban a kar létrejöttének szükségszerűsége 1990-ben hangsúlyosan megmutatkozott, amikor csaknem százezer ember követelt Marosvásárhely központjában önálló magyar tudományegyetemet a hazai magyar közösségnek.
 A városban a Marosvásárhelyi "George Emil Palade" Orvosi, Gyógyszerészeti, Tudomány és Technológiai Egyetem, a Marosvásárhelyi Művészeti Egyetem és a Petru Maior Egyetem állami intézmények mellett, magánegyetemként, a magyar állam finanszírozásával 2001-től működik a Sapientia EMTE Marosvásárhelyi Kara (MHTK).
 A kar magyar nyelvű műszaki felsőoktatás legjelentősebb központja, amely országos viszonylatban egyedülálló módon biztosít magyar nyelvű képzést nyolc mérnöki szakon.
@@ -98,7 +98,8 @@ Dr. Hajdu Szabolcs adjunktus (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkata
 Pisak-Lukáts Ioan-Marius rendszergazda (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/gazdasagi-osztaly_/pisak-lukats-ioan-marius)
 Pál Árpád beszerző (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/gazdasagi-osztaly_/pal-arpad)
 # Adminisztráció
-Osváth Csaba adminisztrátor és bentlakás adminisztrátor (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/osvath-csaba)
+Osváth Csaba adminisztrátor (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/osvath-csaba)
+Moise Annamária bentlakás adminisztrátor (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/moise-annamaria)
 Demeter Ferenc épületgépész (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/demeter-ferenc)
 Iszlai Lóránt tűz-és munkavédelmi felelős (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/iszlai-lorant)
 Siklódi József Magán Vészhelyzeti Felelős (https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_/siklodi-jozsef)
@@ -391,7 +392,7 @@ Hodgyai Norbert tanársegéd (https://ms.sapientia.ro/hu/a-karrol/tanszeke/gepes
 Lőrincz András tanszéki mérnök (https://ms.sapientia.ro/hu/a-karrol/tanszeke/gepeszmernoki-tanszek/lorincz-andras)
 Gál Károly-István labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszeke/gepeszmernoki-tanszek/gal-karoly-istvan)
 Kiss Tünde tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/tanszeke/gepeszmernoki-tanszek/kiss-tunde)
-Bálint Lajos szakmunkás (https://ms.sapientia.ro/hu/a-karrol/tanszeke/gepeszmernoki-tanszek/balint-lajos)
+Bálint Lajos szakmunkás (https://ms.sapientia.ro/hu/a-karrol/tanszeke/gepeszmernoki-tanszek/balint-lajos)Oké, íme a tisztított  szöveg, a kéréseknek megfelelően:
 # Kertészmérnöki Tanszék
 Tanszékvezető: dr. Benedek Klára, egyetemi adjunktus.
 Tanszékvezető helyettes: dr. Ványolos Endre, egyetemi docens.
@@ -455,7 +456,7 @@ Oltean-Péter Boróka, tanársegéd (https://ms.sapientia.ro/hu/a-karrol/tanszek
 Naghi Mirtill-Boglárka, tanársegéd (https://ms.sapientia.ro/hu/a-karrol/tanszeke/matematika-informatika-tanszek/naghi-mirtill-boglarka)
 Győrfi Ágnes, labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszeke/matematika-informatika-tanszek/gyorfi-agnes)
 Lukács Ibolya, labortechnikus (https://ms.sapientia.ro/hu/a-karrol/tanszeke/matematika-informatika-tanszek/lukacs-ibolya)
-Csizmadia Erzsébet, tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/tanszeke/matematika-informatika-tanszek/csizmadia-erzsebet)
+Csizmadia Erzsébet, tanszéki titkár (https://ms.sapientia.ro/hu/a-karrol/tanszeke/matematika-informatika-tanszek/csizmadia-erzsebet)Oké, itt a megtisztított szöveg, ami csak a villamosmérnöki tanszék fő tartalmát tartalmazza, a kért formázással:
 # Villamosmérnöki Tanszék
 Tanszékvezető: dr. Bakó László egyetemi docens.
 Tanszékvezető-helyettes: dr. Márton Lőrinc egyetemi tanár.
@@ -490,7 +491,13 @@ Kiss Konrád József, labortechnikus, mérnök.
 Marton Tamás Lóránd, labortechnikus.
 Nagy Zoltán Gábor, tanszéki mérnök.
 Szöllösi István, labortechnikus.
-Szatmári-Kőszeghi Asztrid, tanszéki titkár.
+Szatmári-Kőszeghi Asztrid, tanszéki titkár.# Dokumentumok
+Szabályzatok és eljárási rendek (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/szabalyzatok-es-eljarasi-rendek)
+Fejlesztési stratégia (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/fejlesztesi-strategia)
+Rektori jelentések (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/rektori-jelentesek)
+Szenátusi határozatok (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/szenatusi-hatarozatok_)
+Etikai Bizottság dokumentumai (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/etikai-bizottsag-dokumentumai)
+Egyéb dokumentumok (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/egyeb-dokumentumok)
 # Dokumentumok
 Szabályzatok és eljárási rendek (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/szabalyzatok-es-eljarasi-rendek)
 Fejlesztési stratégia (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/fejlesztesi-strategia)
@@ -498,122 +505,6 @@ Rektori jelentések (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/rektori
 Szenátusi határozatok (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/szenatusi-hatarozatok_)
 Etikai Bizottság dokumentumai (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/etikai-bizottsag-dokumentumai)
 Egyéb dokumentumok (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/egyeb-dokumentumok)
-# Könyvtár
-A könyvtárról (https://ms.sapientia.ro/hu/a-karrol/konyvtar/a-konyvtarrol)
-Szolgáltatások (https://ms.sapientia.ro/hu/a-karrol/konyvtar/szolgaltatasok)
-Beiratkozás (https://ms.sapientia.ro/hu/a-karrol/konyvtar/beiratkozas)
-Ajánló (https://ms.sapientia.ro/hu/a-karrol/konyvtar/ajanlo)
-Katalógus (https://ms.sapientia.ro/hu/a-karrol/konyvtar/katalogus)
-Hírek, közlemények (https://ms.sapientia.ro/hu/a-karrol/konyvtar/hirek-kozlemenyek)
-Elérhetőségek (https://ms.sapientia.ro/hu/a-karrol/konyvtar/elerhetosegek-konyvtar)
-## A könyvtárról
-A Sapientia Erdélyi Magyar Tudományegyetem Marosvásárhelyi Karának könyvtára korlátozottan nyilvános egyetemi könyvtár.
-Szolgáltatásait elsősorban a Kar oktatói, hallgatói és munkatársai vehetik igénybe, de kívülálló személyek is használhatják állományát a könyvtár olvasótermében.
-A több mint 43.000 könyvtári egységet tartalmazó állományt a szakképzésekhez szükséges magyar és idegen nyelvű egyetemi tankönyvek, szakkönyvek, referenciakönyvek folyóiratok, elektronikus dokumentumok alkotják.
-Az internet-hozzáférést biztosító számítógépek katalógus- és adatbázis-használatra, illetve személyes munkavégzésre szolgálnak.
-## A könyvtár alapvető szolgáltatásai
-*   könyvek kölcsönzése;
-*   helyben olvasás a 72 férőhelyes szabadpolcos olvasóteremben, illetve a kollégium tanulószobáiban (120 férőhely);
-*   az internetes katalógus használata (http://opac3.ms.sapientia.ro/hu_HU/), mely naprakész információkkal szolgál a könyvtári állomány dokumentumairól;
-*   adatbázis-szolgáltatás (teljes szövegű elektronikus folyóiratok és könyvek elérése az adatbázisokban - lásd: AJÁNLÓ (https://ms.sapientia.ro/hu/konyvtar/ajanlo));
-*   internet-hozzáférés és számítógép-használat önálló tanulási céllal;
-*   könyvtári tájékoztatás, eligazítás az adatbázisok használatában;
-*   könyvtárközi kölcsönzés (a Sapientia EMTE könyvtárai között).
-## Főbb szakterületek
-*   társadalomtudományok: társadalmi kommunikáció, tömegkommunikáció, média, szociológia, pedagógia;
-*   természettudományok: matematika, fizika, kémia, biológia;
-*   mérnöki tudományok: számítástechnika, távközlés, gépészet, elektrotechnika;
-*   kertészet, növénytermesztés;
-*   tájépítészet;
-*   nyelvek, nyelvészet, fordítástudomány;
-*   közegészségügy.
-A könyvtárhasználati szabályzat innen tölthető le (https://ms.sapientia.ro/content/2011-2021/Konyvtarhasznalati_szabalyzat.pdf).
-## Nyitvatartás
-Oktatási időszakban:
-*   hétfő – péntek: 8:00 – 19:30
-*   szombat – vasárnap: zárva.
-Vakációban (a nyári szünet alatt is):
-*   hétfő – péntek: 8:00 – 15:00
-*   szombat – vasárnap: zárva.
-Vizsgaidőszakban szombat délelőttönként is nyitva tartunk, a pontos dátumokat előzőleg hirdetjük a Hírek, közlemények almenüben.
-Ugyanitt értesítjük olvasóinkat az esetleges programváltozásokról is.
-## Munkatársak
-*   Kuszálik Eszter – könyvtárfelelős
-*   Jablonovszki Judit - könyvtáros
-*   Tamási Csilla – könyvtáros
-## Elérhetőség
-Cím: Koronka, Calea Sighișoarei nr. 2., 2. emelet
-Postacím: Târgu Mureş (Marosvásárhely) - 540485
-OP: 9 CP: 4
-Telefon: +40 365-403036
-E-mail: bibl@ms.sapientia.ro
-# Szolgáltatások
-### A könyvtár alapvető szolgáltatásai:
-*   könyvek kölcsönzése;
-*   helyben olvasás a 72 férőhelyes szabadpolcos olvasóteremben, illetve a kollégium tanulószobáiban (120 férőhely);
-*   az internetes katalógus (http://opac3.ms.sapientia.ro/hu_HU/) használata, mely naprakész információkkal szolgál a könyvtári állomány dokumentumairól
-*   adatbázis-szolgáltatás (teljes szövegű elektronikus folyóiratok és könyvek elérése az adatbázisokban);
-*   internet-hozzáférés és számítógép-használat önálló tanulási céllal
-*   könyvtári tájékoztatás, eligazítás az adatbázisok használatában;
-*   könyvtárközi kölcsönzés (a Sapientia EMTE könyvtárai között).
-### Helyben olvasás
-Az olvasóteremben, tematikus rend szerint, szabadpolcon elhelyezett könyvek egy része nem kölcsönözhető, ezeket a dokumentumokat helyben olvasásra ajánljuk: jelük a könyvgerincen elhelyezett piros színcsík. 
-További nem kölcsönözhető dokumentumaink:
-*   tájékoztató segédkönyvek (szótárak, lexikonok),
-*   folyóiratok,
-*   szakdolgozatok (raktárból felkérhető).
-Az olvasóterem ugyanakkor kellemes környezetet biztosít önálló tanuláshoz is.
-### Kölcsönzés
-A kölcsönzés helyszíne szintén az olvasóterem.
-Kölcsönözni csak személyesen, érvényes könyvtári igazolvánnyal lehet.
-A keresett mű adatairól, elérhetőségéről az elektronikus katalógusban találunk információt (http://opac3.ms.sapientia.ro/hu_HU/).
-A leggyakrabban igényelt könyvek az olvasóteremben kaptak helyet, az olvasó a szabadpolcról önállóan leveheti és a szolgálatos könyvtárostól kikölcsönözheti azokat.
-Az olvasóteremben elhelyezett és kölcsönzésre szánt könyvek a következő megkülönböztető színcsíkokat kapták:
-*   sárga jelzés: 2 hétre kölcsönözhető
-*   kék jelzés: egy hónapra kölcsönözhető
-*   zöld jelzés: egy félévre kölcsönözhető
-A kölcsönözhető könyvállomány másik részét a raktárban őrizzük és olvasói kérésre (kérőlap kitöltése) onnan felküldjük (ez naponta 8 és 15 óra között igényelhető).
-A raktári könyvek két hétre / egy hónapra kölcsönözhetőek.
-A hallgatók (kivéve a végzősöket) egy alkalommal 3 művet kölcsönözhetnek.
-A kölcsönzés határidejét kötelező betartani, ellenkező esetben a könyvtár bizonyos időszakra felfüggesztheti az olvasó kölcsönzési jogát.
-A határidő lejárta előtt viszont hosszabbításra van lehetőség, online, személyesen vagy telefonon / e-mail-ben.
-Az online katalógusban a Saját könyvtárba való belépéssel ellenőrizhetők az aktuális kölcsönzések és lejárati határidők, illetve lehetőség van előjegyzésre, félretételre, egyszeri hosszabbításra!
-### Tájékoztatás
-A könyvtár nyitvatartási idejében tájékoztatást lehet kérni a könyvtár és más könyvtárak állományáról, az állomány használatáról.
-Az érdeklődők kérdéseire e-mailben is válaszolunk: bibl@ms.sapientia.ro.
-### Elektronikus szolgáltatások
-A könyvtár olvasótermébe telepített, internet-hozzáférést biztosító számítógépek elsősorban a katalógusban való keresést és az adatbázisok használatát szolgálják, de önálló munkavégzésre is alkalmasak.
-Az adatbázisokból letölthető dokumentumok saját célra lementhetők, e-mail-ben elküldhetők.
-A könyvtárban wifin keresztül saját eszközökkel is csatlakozhatnak az internetre.
-# Beiratkozás
-Könyvtári tagságra az egyetemi polgárok (hallgatók, oktatók, alkalmazottak) jogosultak, ők online (Online regisztráció (http://opac3.ms.sapientia.ro/hu_HU/)) vagy személyesen, a könyvtárban iratkozhatnak be.
-Online regisztráció esetében kérünk szépen minden mezőt kitölteni, annak ellenére, hogy a felület ezt nem teszi kötelezővé!
-Első lépésként a visszaigazoló e-mailt kell jóváhagyni.
-A hallgatókat egy következő fordulóban (vonalkód közlése után) kérjük egy igazolvány típusú fénykép feltöltésére, ezzel véglegesítődik a beiratkozás, a nyomtatott igazolványt pedig átvehetik majd az olvasóteremben.
-(Kölcsönözni csak az igazolvány birtokában lehet.)
-A könyvtárban történő, személyes beiratkozás esetében szükséges dokumentumok:
-*   személyazonossági igazolvány
-*   egy fénykép
-*   beiratkozási adatlap kitöltése.
-Oktatóknak, alkalmazottaknak nem szükséges fényképet hozniuk.
-Külső személyek beiratkozás nélkül használhatják a könyvtárat, ők egyszerű látogatói nyilvántartásba kerülnek.
-# Katalógus
-A keresett művel (könyv, folyóirat, elektronikus dokumentum, szakdolgozat) kapcsolatban a könyvtár számítógépes katalógusában találunk információkat.
-Elektronikus katalógus elérhetősége (http://opac3.ms.sapientia.ro/hu_HU/)
-## Általános tanácsok a kereséshez
-A számítógépes katalógus a könyvtár állományáról tájékoztat, valamint kölcsönzési információkat nyújt: bibliográfiai adatokat közöl a példányokról, a lelőhelyről, valamint a könyvek státusáról.
-A könyvtári anyagban való keresés alapvetően kétféleképpen történhet: böngészéssel vagy pontos kereséssel.
-## Keresés
-A kereséseket pontos ékezetekkel kell megadni.
-A rendszer a kis- és nagybetű között nem tesz különbséget, bármelyik használható.
-Névelőket nem kell beírni, ezeket a szavakat a rendszer kereséskor figyelmen kívül hagyja (pl. A, AZ, THE, AN, DER).
-Kereséskor az adatok megadásánál törekedni kell az egyszerűségre: ritkán előforduló vezetéknevek esetében a keresztnév megadása nem szükséges.
-Gyakori vezetékneveknél a keresztnév beírása szűkíti a találatok számát.
-Ha egy szerzőnek sok műve található az adatbázisban, a szerző nevének és a cím egy szavának megadása pontosabb eredményhez vezet.
-## Böngészés
-Ezt a keresési módot akkor használjuk, ha nem ismerjük pontosan a keresendő anyag tulajdonságait, csak közelítő információkkal rendelkezünk.
-Ekkor ugyanis nem pontos egyezést keres a program, hanem a keresési kifejezéshez legközelebb álló rekordtól kezdve listáz ki megadott számú anyagot.
-A számítógépes katalógus használatához eligazítást ad a Súgó menüpont is.
 # Karrieriroda
 Küldetés (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/kuldetes_)
 Tevékenységek (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/tevekenysegek)
@@ -687,6 +578,161 @@ Interview Prep Accelerator Workshop sorozat (https://ms.sapientia.ro/hu/hirek/in
 Bosch Future Mobility Challenge 2025 (BFMC2025)**A Bosch Kolozsvári Mérnöki Központja nyolcadik alkalommal szervezi meg a Bosch Future Mobility Challenge 2025 (BFMC2025) hallgatói versenyt.** (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-hallgatoknak_/bosch-future-mobility-challenge-2025-bfmc2025)
 Nyári gyakorlat lehetőség a Fomco Solarnál (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/szakmai-gyakorlat-lehetosegek/nyari-gyakorlat-lehetoseg-a-fomco-solarnal)
 Kadeno Solutions nyári szakmai gyakorlat**Nyári szakmai gyakorlatot hirdet a Kadeno Solutions marosvásárhelyi cég.** (https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/szakmai-gyakorlat-lehetosegek/kadeno-solutions-nyari-szakmai-gyakorlat)
+# Könyvtár
+A könyvtárról (https://ms.sapientia.ro/hu/a-karrol/konyvtar/a-konyvtarrol)
+Szolgáltatások (https://ms.sapientia.ro/hu/a-karrol/konyvtar/szolgaltatasok)
+Beiratkozás (https://ms.sapientia.ro/hu/a-karrol/konyvtar/beiratkozas)
+Ajánló (https://ms.sapientia.ro/hu/a-karrol/konyvtar/ajanlo)
+Katalógus (https://ms.sapientia.ro/hu/a-karrol/konyvtar/katalogus)
+Hírek, közlemények (https://ms.sapientia.ro/hu/a-karrol/konyvtar/hirek-kozlemenyek)
+Elérhetőségek (https://ms.sapientia.ro/hu/a-karrol/konyvtar/elerhetosegek-konyvtar)
+## A könyvtárról
+A Sapientia Erdélyi Magyar Tudományegyetem Marosvásárhelyi Karának könyvtára korlátozottan nyilvános egyetemi könyvtár.
+Szolgáltatásait elsősorban a Kar oktatói, hallgatói és munkatársai vehetik igénybe, de kívülálló személyek is használhatják állományát a könyvtár olvasótermében.
+A több mint 43.000 könyvtári egységet tartalmazó állományt a szakképzésekhez szükséges magyar és idegen nyelvű egyetemi tankönyvek, szakkönyvek, referenciakönyvek folyóiratok, elektronikus dokumentumok alkotják.
+Az internet-hozzáférést biztosító számítógépek katalógus- és adatbázis-használatra, illetve személyes munkavégzésre szolgálnak.
+## A könyvtár alapvető szolgáltatásai
+*   könyvek kölcsönzése;
+*   helyben olvasás a 72 férőhelyes szabadpolcos olvasóteremben, illetve a kollégium tanulószobáiban (120 férőhely);
+*   az internetes katalógus használata (http://opac3.ms.sapientia.ro/hu_HU/), mely naprakész információkkal szolgál a könyvtári állomány dokumentumairól;
+*   adatbázis-szolgáltatás (teljes szövegű elektronikus folyóiratok és könyvek elérése az adatbázisokban - lásd: AJÁNLÓ (https://ms.sapientia.ro/hu/konyvtar/ajanlo));
+*   internet-hozzáférés és számítógép-használat önálló tanulási céllal;
+*   könyvtári tájékoztatás, eligazítás az adatbázisok használatában;
+*   könyvtárközi kölcsönzés (a Sapientia EMTE könyvtárai között).
+## Főbb szakterületek
+*   társadalomtudományok: társadalmi kommunikáció, tömegkommunikáció, média, szociológia, pedagógia;
+*   természettudományok: matematika, fizika, kémia, biológia;
+*   mérnöki tudományok: számítástechnika, távközlés, gépészet, elektrotechnika;
+*   kertészet, növénytermesztés;
+*   tájépítészet;
+*   nyelvek, nyelvészet, fordítástudomány;
+*   közegészségügy.
+A könyvtárhasználati szabályzat innen tölthető le (https://ms.sapientia.ro/content/2011-2021/Konyvtarhasznalati_szabalyzat.pdf).
+## Nyitvatartás
+Oktatási időszakban:
+*   hétfő – péntek: 8:00 – 19:30
+*   szombat – vasárnap: zárva.
+Vakációban (a nyári szünet alatt is):
+*   hétfő – péntek: 8:00 – 15:00
+*   szombat – vasárnap: zárva.
+Vizsgaidőszakban szombat délelőttönként is nyitva tartunk, a pontos dátumokat előzőleg hirdetjük a Hírek, közlemények almenüben.
+Ugyanitt értesítjük olvasóinkat az esetleges programváltozásokról is.
+## Munkatársak
+*   Kuszálik Eszter – könyvtárfelelős
+*   Jablonovszki Judit - könyvtáros
+*   Tamási Csilla – könyvtáros
+## Elérhetőség
+Cím: Koronka, Calea Sighișoarei nr. 2., 2. emelet
+Postacím: Târgu Mureş (Marosvásárhely) - 540485
+OP: 9 CP: 4
+Telefon: +40 365-403036
+E-mail: bibl@ms.sapientia.ro
+# Szolgáltatások
+### A könyvtár alapvető szolgáltatásai:
+*   könyvek kölcsönzése;
+*   helyben olvasás a 72 férőhelyes szabadpolcos olvasóteremben, illetve a kollégium tanulószobáiban (120 férőhely);
+*   az internetes katalógus (http://opac3.ms.sapientia.ro/hu\_HU/) használata, mely naprakész információkkal szolgál a könyvtári állomány dokumentumairól
+*   adatbázis-szolgáltatás (teljes szövegű elektronikus folyóiratok és könyvek elérése az adatbázisokban);
+*   internet-hozzáférés és számítógép-használat önálló tanulási céllal
+*   könyvtári tájékoztatás, eligazítás az adatbázisok használatában;
+*   könyvtárközi kölcsönzés (a Sapientia EMTE könyvtárai között).
+### Helyben olvasás
+Az olvasóteremben, tematikus rend szerint, szabadpolcon elhelyezett könyvek egy része nem kölcsönözhető, ezeket a dokumentumokat helyben olvasásra ajánljuk: jelük a könyvgerincen elhelyezett piros színcsík. 
+További nem kölcsönözhető dokumentumaink:
+*   tájékoztató segédkönyvek (szótárak, lexikonok),
+*   folyóiratok,
+*   szakdolgozatok (raktárból felkérhető).
+Az olvasóterem ugyanakkor kellemes környezetet biztosít önálló tanuláshoz is.
+### Kölcsönzés
+A kölcsönzés helyszíne szintén az olvasóterem.
+Kölcsönözni csak személyesen, érvényes könyvtári igazolvánnyal lehet.
+A keresett mű adatairól, elérhetőségéről az elektronikus katalógusban találunk információt (http://opac3.ms.sapientia.ro/hu_HU/).
+A leggyakrabban igényelt könyvek az olvasóteremben kaptak helyet, az olvasó a szabadpolcról önállóan leveheti és a szolgálatos könyvtárostól kikölcsönözheti azokat.
+Az olvasóteremben elhelyezett és kölcsönzésre szánt könyvek a következő megkülönböztető színcsíkokat kapták:
+*   sárga jelzés: 2 hétre kölcsönözhető
+*   kék jelzés: egy hónapra kölcsönözhető
+*   zöld jelzés: egy félévre kölcsönözhető
+A kölcsönözhető könyvállomány másik részét a raktárban őrizzük és olvasói kérésre (kérőlap kitöltése) onnan felküldjük (ez naponta 8 és 15 óra között igényelhető).
+A raktári könyvek két hétre / egy hónapra kölcsönözhetőek.
+A hallgatók (kivéve a végzősöket) egy alkalommal 3 művet kölcsönözhetnek.
+A kölcsönzés határidejét kötelező betartani, ellenkező esetben a könyvtár bizonyos időszakra felfüggesztheti az olvasó kölcsönzési jogát.
+A határidő lejárta előtt viszont hosszabbításra van lehetőség, online, személyesen vagy telefonon / e-mail-ben.
+Az online katalógusban a Saját könyvtárba való belépéssel ellenőrizhetők az aktuális kölcsönzések és lejárati határidők, illetve lehetőség van előjegyzésre, félretételre, egyszeri hosszabbításra!
+### Tájékoztatás
+A könyvtár nyitvatartási idejében tájékoztatást lehet kérni a könyvtár és más könyvtárak állományáról, az állomány használatáról.
+Az érdeklődők kérdéseire e-mailben is válaszolunk: bibl@ms.sapientia.ro.
+### Elektronikus szolgáltatások
+A könyvtár olvasótermébe telepített, internet-hozzáférést biztosító számítógépek elsősorban a katalógusban való keresést és az adatbázisok használatát szolgálják, de önálló munkavégzésre is alkalmasak.
+Az adatbázisokból letölthető dokumentumok saját célra lementhetők, e-mail-ben elküldhetők.
+A könyvtárban wifin keresztül saját eszközökkel is csatlakozhatnak az internetre.
+# Beiratkozás
+Könyvtári tagságra az egyetemi polgárok (hallgatók, oktatók, alkalmazottak) jogosultak, ők online (Online regisztráció (http://opac3.ms.sapientia.ro/hu_HU/)) vagy személyesen, a könyvtárban iratkozhatnak be.
+Online regisztráció esetében kérünk szépen minden mezőt kitölteni, annak ellenére, hogy a felület ezt nem teszi kötelezővé!
+Első lépésként a visszaigazoló e-mailt kell jóváhagyni.
+A hallgatókat egy következő fordulóban (vonalkód közlése után) kérjük egy igazolvány típusú fénykép feltöltésére, ezzel véglegesítődik a beiratkozás, a nyomtatott igazolványt pedig átvehetik majd az olvasóteremben.
+(Kölcsönözni csak az igazolvány birtokában lehet.)
+A könyvtárban történő, személyes beiratkozás esetében szükséges dokumentumok:
+*   személyazonossági igazolvány
+*   egy fénykép
+*   beiratkozási adatlap kitöltése.
+Oktatóknak, alkalmazottaknak nem szükséges fényképet hozniuk.
+Külső személyek beiratkozás nélkül használhatják a könyvtárat, ők egyszerű látogatói nyilvántartásba kerülnek.
+# Ajánló
+## Az egyetemen elérhető előfizetéses adatbázisok:
+Web of Science (http://www.webofknowledge.com/)
+Springer Link (http://link.springer.com/)
+MathSciNet (http://www.ams.org/msnhtml/fullitem_help.html#references)
+JSTOR Archívum (http://www.jstor.org/)
+Science Direct (https://www.sciencedirect.com/)
+USC SOÁ Alapítvány Vizuális Történelmi Archívum (http://vha.usc.edu/login)
+Akadémiai Kiadó folyóirat-gyűjteménye (https://akjournals.com/)
+Akadémiai Kiadó szótárai (http://eisz.szotar.org/)
+Akadémiai Kiadó MeRSZ (https://mersz.hu/)
+Arcanum Digitális Tudománytár (https://adtplus.arcanum.hu/hu/)
+Szaktárs (https://www.szaktars.hu/)
+L’Harmattan Könyvkiadó (https://openaccess.hu/)
+Typotex Interkönyv (https://edu.interkonyv.hu/)
+Kossuth Kiadó (https://zeusz.kossuth.hu/start)
+SzóTudásTár (https://szotudastar.hu/)
+További adatbázisok:
+Kortárs Építészeti Központ Tudástára (https://tudastar.kek.org.hu/)
+Artstor Digital Library (https://library.artstor.org/#/)
+REAL - az MTA Könyvtárának repozitóriuma (http://real.mtak.hu/)
+Directory of Open Access Journals (DOAJ) (https://doaj.org/)
+Digitális Tankönyvtár (https://dtk.tankonyvtar.hu/)
+Adatbank. Erdélyi Magyar Elektronikus Könyvtár (http://adatbank.ro/)
+Magyar Elektronikus Könyvtár (http://mek.oszk.hu/)
+Elektronikus Periodika Adatbázis (http://www.epa.oszk.hu/)
+Magyar Digitális Képkönyvtár (http://www.kepkonyvtar.hu/)
+Digitális Irodalmi Akadémia (http://dia.hu/)
+Europeana (http://www.europeana.eu/)
+Egészségfejlesztés folyóirat (http://folyoirat.nefi.hu/index.php?journal=Egeszsegfejlesztes)
+Compass - a Magyarországon elérhető elektronikus tudományos tartalmak keresőfelülete (http://compass.mtak.hu/)
+## Könyvtárak:
+A Sapientia EMTE csíkszeredai könyvtára (https://ms.sapientia.ro/sapcs/hu/a-karrol/konyvtar)
+A Sapientia EMTE kolozsvári könyvtára (http://kv.sapientia.ro/hu/a-tonk-sandor-konyvtar)
+A Partiumi Keresztény Egyetem könyvtára (https://konyvtar.partium.ro/hu/bemutatas)
+Marosvásárhelyi Művészeti Egyetem (https://www.szini.ro/az-egyetemrol/infrastruktura-szolgaltatasok)
+Marosvásárhelyi „George Emil Palade” Orvosi, Gyógyszerészeti, Tudomány- és Technológiai Egyetem (http://liberty.umftgm.ro:8080/liberty/libraryHome.do?SAMLResponse=&clientAlias=&time=&digest=&corporationAlias=UMFTGM)
+„Lucian Blaga” Központi Egyetemi Könyvtár, Kolozsvár (https://www.bcucluj.ro/hun)
+„Ion Ionescu de la Brad” Élettudományi Egyetem, Jászvásár (http://uaiasi.ro/index.php?lang=ro&pagina=pagini/10_biblioteca.html)
+# Katalógus
+A keresett művel (könyv, folyóirat, elektronikus dokumentum, szakdolgozat) kapcsolatban a könyvtár számítógépes katalógusában találunk információkat.
+Elektronikus katalógus elérhetősége (http://opac3.ms.sapientia.ro/hu_HU/)
+## Általános tanácsok a kereséshez
+A számítógépes katalógus a könyvtár állományáról tájékoztat, valamint kölcsönzési információkat nyújt: bibliográfiai adatokat közöl a példányokról, a lelőhelyről, valamint a könyvek státusáról.
+A könyvtári anyagban való keresés alapvetően kétféleképpen történhet: böngészéssel vagy pontos kereséssel.
+## Keresés
+A kereséseket pontos ékezetekkel kell megadni.
+A rendszer a kis- és nagybetű között nem tesz különbséget, bármelyik használható.
+Névelőket nem kell beírni, ezeket a szavakat a rendszer kereséskor figyelmen kívül hagyja (pl. A, AZ, THE, AN, DER).
+Kereséskor az adatok megadásánál törekedni kell az egyszerűségre: ritkán előforduló vezetéknevek esetében a keresztnév megadása nem szükséges.
+Gyakori vezetékneveknél a keresztnév beírása szűkíti a találatok számát.
+Ha egy szerzőnek sok műve található az adatbázisban, a szerző nevének és a cím egy szavának megadása pontosabb eredményhez vezet.
+## Böngészés
+Ezt a keresési módot akkor használjuk, ha nem ismerjük pontosan a keresendő anyag tulajdonságait, csak közelítő információkkal rendelkezünk.
+Ekkor ugyanis nem pontos egyezést keres a program, hanem a keresési kifejezéshez legközelebb álló rekordtól kezdve listáz ki megadott számú anyagot.
+A számítógépes katalógus használatához eligazítást ad a Súgó menüpont is.
 # Hallgatói Önkormányzat
 Kedves Hallgatók!
 Szeretettel köszönt benneteket a Sapientia Erdélyi Magyar Tudományegyetem Marosvásárhelyi Karának Hallgatói Önkormányzata.
@@ -730,51 +776,15 @@ A HÖK Szervezeti- és működési szabályzata letölthető: Szervezeti- és m�
 ## Vezetők
 A HÖK-ben a legfontosabb ügyek vezetésére elnököket választanak, ők alkotják az Elnökséget, akiknek a munkáját az elnök irányítja.
 A Sapientia EMTE Marosvásárhelyi Kar Hallgatói Önkormányzatának jelenlegi elnöksége:
-* Feladatkör: Elnök
-    * Név: Balázs Vajk-István
-    * Szak/Évfolyam: Számítástechnika III. év
-    * Telefonszám: 0758423708
-    * E-mail: balazs.vajk.istvan@student.ms.sapientia.ro
-* Feladatkör: Érdekképviseleti alelnök
-    * Név: Mihálydeák Máté-Áron
-    * Szak/Évfolyam: Számítástechnika III. év
-    * Telefonszám: 0753111447
-    * E-mail: mihalydeak.mate@student.ms.sapientia.ro
-* Feladatkör: Gazdasági bizottság elnöke
-    * Név: Horváth Ákos
-    * Szak/Évfolyam: Informatika III. év
-    * Telefonszám: 0743191343
-    * E-mail: horvath.akos@student.ms.sapientia.ro
-* Feladatkör: Kommunikációs bizottság elnöke
-    * Név: Nagy Alexandra
-    * Szak/Évfolyam: Fordító és tolmács II. év
-    * Telefonszám: 0748669851
-    * E-mail: nagy.alexandra@student.ms.sapientia.ro
-* Feladatkör: Tanulmányi bizottság elnöke
-    * Név: Hints Orsolya
-    * Szak/Évfolyam: Kommunikáció és közkapcsolatok II. év
-    * Telefonszám: 0756923117
-    * E-mail: hints.orsolya@student.ms.sapientia.ro
-* Feladatkör: Kulturális bizottság elnöke
-    * Név: Gálfi Attila
-    * Szak/Évfolyam: Számítástechnika, II. év
-    * Telefonszám: 0747769655
-    * E-mail: galfi.attila@student.ms.sapientia.ro
-* Feladatkör: Sportbizottság elnöke
-    * Név: Portik Richárd
-    * Szak/Évfolyam: Fordító és tolmács III. év
-    * Telefonszám: 0754880519
-    * E-mail: portik.richard@student.ms.sapientia.ro
-* Feladatkör: Arculatfelelős
-    * Név: Csala Csongor
-    * Szak/Évfolyam: Számítástechnika II. év
-    * Telefonszám: 0744830324
-    * E-mail: csala.csongor@student.ms.sapientia.ro
-* Feladatkör: Iroda felelős
-    * Név: Ozsváth-Berényi Attila
-    * Szak/Évfolyam: Automatika és alkalmazott informatika, I. év
-    * Telefonszám: 0741949694
-    * E-mail: ozsvath.attila@student.ms.sapientia.ro
+Feladatkör: Elnök, Név: Balázs Vajk-István, Szak/Évfolyam: Számítástechnika III. év, Telefonszám: 0758423708, E-mail: balazs.vajk.istvan@student.ms.sapientia.ro
+Feladatkör: Érdekképviseleti alelnök, Név: Mihálydeák Máté-Áron, Szak/Évfolyam: Számítástechnika III. év, Telefonszám: 0753111447, E-mail: mihalydeak.mate@student.ms.sapientia.ro
+Feladatkör: Gazdasági bizottság elnöke, Név: Horváth Ákos, Szak/Évfolyam: Informatika III. év, Telefonszám: 0743191343, E-mail: horvath.akos@student.ms.sapientia.ro
+Feladatkör: Kommunikációs bizottság elnöke, Név: Nagy Alexandra, Szak/Évfolyam: Fordító és tolmács II. év, Telefonszám: 0748669851, E-mail: nagy.alexandra@student.ms.sapientia.ro
+Feladatkör: Tanulmányi bizottság elnöke, Név: Hints Orsolya, Szak/Évfolyam: Kommunikáció és közkapcsolatok II. év, Telefonszám: 0756923117, E-mail: hints.orsolya@student.ms.sapientia.ro
+Feladatkör: Kulturális bizottság elnöke, Név: Gálfi Attila, Szak/Évfolyam: Számítástechnika, II. év, Telefonszám: 0747769655, E-mail: galfi.attila@student.ms.sapientia.ro
+Feladatkör: Sportbizottság elnöke, Név: Portik Richárd, Szak/Évfolyam: Fordító és tolmács III. év, Telefonszám: 0754880519, E-mail: portik.richard@student.ms.sapientia.ro
+Feladatkör: Arculatfelelős, Név: Csala Csongor, Szak/Évfolyam: Számítástechnika II. év, Telefonszám: 0744830324, E-mail: csala.csongor@student.ms.sapientia.ro
+Feladatkör: Iroda felelős, Név: Ozsváth-Berényi Attila, Szak/Évfolyam: Automatika és alkalmazott informatika, I. év, Telefonszám: 0741949694, E-mail: ozsvath.attila@student.ms.sapientia.ro
 Cím: Calea Sighișoarei nr. 2., Marosvásárhely/Koronka
 E-mail: sapientiamshok@gmail.com
 Az egyetemmel, diákélettel kapcsolatos problemák, javaslatok, kritikák esetében jelentkezni lehet személyesen az irodában vagy a fennebb olvasható elérhetőségeken.
@@ -832,7 +842,13 @@ Online beiratkozás (https://felveteli.sapientia.ro/)
 Alapképzés (https://ms.sapientia.ro/hu/felveteli/alapkepzes)
 Mesterképzés (https://ms.sapientia.ro/hu/felveteli/mesterkepzes)
 Felvételi ütemezés (https://ms.sapientia.ro/hu/felveteli/felveteli-utemezes)
-Felvételi tudnivalók (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_)
+Felvételi kritériumok és beiskolázási számok 2025 (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-kriteriumok-es-beiskolazasi-szamok-2025)
+Felvételi mappához szükséges iratok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-mappahoz-szukseges-iratok)
+Felvételi tematika (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-tematika)
+Felvételi szabályzatok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok)
+Lapozható tájékoztató füzet (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/lapozhato-tajekoztato-fuzet)
+Szakcsoportok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/szakcsoportok)
+Külföldi oklevéllel rendelkezők beiratkozása (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/kulfoldi-oklevellel-rendelkezok-beiratkozasa)
 Bentlakás (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_)
 Felvételi eredmények (https://ms.sapientia.ro/hu/felveteli/felveteli-eredmenyek)
 Nyílt Napok (https://ms.sapientia.ro/hu/felveteli/nyilt-napok)
@@ -851,302 +867,293 @@ Mechatronika mérnöki szak (https://ms.sapientia.ro/hu/felveteli/alapkepzes/mec
 Számítástechnika mérnöki szak (https://ms.sapientia.ro/hu/felveteli/alapkepzes/szamitastechnika-szak)
 # Fordító és tolmács szak
 Helyek száma:
-- Tandíjmentes hely: 20
-- Költség-hozzájárulásos hely: 15
-- Tandíjas hely: 15
-Költség-hozzájárulás összege:
-- 500 euró/év
-Teljes tandíj összege:
-- 750 euró/év
-Képzés időtartama:
-- 3 év
+- 20 Tandíjmentes hely
+- 15 Költség-hozzájárulásos hely
+- 15 Tandíjas hely
+Költség-hozzájárulás összege: 500 euró/év
+Teljes tandíj összege: 750 euró/év
+Képzés időtartama: 3 év
 A felvételi jegy összetétele:
-- 50% az érettségi vizsgán Magyar nyelv és irodalom tantárgyból az írásbeli próbán szerzett jegy
-- 25% az érettségi vizsgán Román nyelv és irodalom tantárgyból az írásbeli próbán szerzett jegy
-- 25% a legfrissebb idegen nyelvi tanulmányok angol vagy német vizsgaeredményével egyenértékű jegy
-Beiratkozási időszak:
-- 2025. július 1 - 13.
-*   **Képzési ág:** Alkalmazott idegen nyelvek
-*   **Szak:** Fordító és tolmács
-*   **Képzés időtartama és formája:** 3 éves nappali alapképzés
-ROMÁN NYELVŰ TANTERV (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
-## Neked ajánljuk, ha...
-*   könnyen és jól fogalmazol szóban és írásban;
-*   tág az érdeklődési köröd, és több szakterületbe is bele szeretnél kóstolni;
-*   jó nyelvérzéked van, és szeretnél több nyelvet felsőfokú szinten használni.
-## Főbb tantárgyak:
-*   angol, német, román, magyar nyelv és kultúra
-*   audiovizuális fordítás
-*   számítógéppel támogatott fordítás
-*   szaknyelvek és szakfordítás
-*   fordításelmélet és -gyakorlat
-*   tolmácsoláselmélet és -gyakorlat
-*   helyesírás, szövegjavítás
-## Elhelyezkedési lehetőségek:
-*   általános és szakfordító
-*   tolmács
-*   idegennyelv-tanár
-*   korrektor
-*   szerkesztő
-*   rendezvényszervező
-*   feliratozó
-*   nyelvi tanácsadó
-## Tudod-e, hogy…?
-*   az Európai Uniónak jelenleg 24 hivatalos nyelve van, ezek között megtalálható a magyar, a román, a német és az angol is,
-*   az uniós és romániai intézményekben óriási igény van jól képzett szakfordítókra és tolmácsokra,
-*   ahhoz, hogy valakiből igazán jó fordító, illetve tolmács váljék, nem elég a magas szintű nyelvtudás,
-*   tolmácsként beutazhatod a világot, és izgalmasabbnál izgalmasabb embereket ismerhetsz meg.
-## Felvételi kedvezmények és megjegyzések
+- 50% az érettségi vizsgán **magyar nyelv és irodalom** tantárgyból az írásbeli próbán szerzett jegy
+- 25% az érettségi vizsgán **román nyelv és irodalom** tantárgyból az írásbeli próbán szerzett jegyű
+- 25% a legfrissebb **idegen nyelvi tanulmányok** angol/német vizsgaeredményével egyenértékű jegy
+Beiratkozási időszak: 2025. július 1 - 13.
+Szükséges iratok (https://sapientia.ro/hu/felveteli/szukseges-iratok)
+**Képzési ág:** Alkalmazott idegen nyelvek.
+**Szak:** Fordító és tolmács.
+**Képzés időtartama és formája:** 3 éves nappali alapképzés.
+**Online iratkozás:** Online iratkozás (https://felveteli.sapientia.ro/).
+**ROMÁN NYELVŰ TANTERV** (https://ms.sapientia.ro/ro/studenti/planuri-de-invatamant)
+### Neked ajánljuk, ha...
+- könnyen és jól fogalmazol szóban és írásban.
+- tág az érdeklődési köröd, és több szakterületbe is bele szeretnél kóstolni.
+- jó nyelvérzéked van, és szeretnél több nyelvet felsőfokú szinten használni.
+### Főbb tantárgyak:
+- angol, német, román, magyar nyelv és kultúra
+- audiovizuális fordítás
+- számítógéppel támogatott fordítás
+- szaknyelvek és szakfordítás
+- fordításelmélet és -gyakorlat
+- tolmácsoláselmélet és -gyakorlat
+- helyesírás, szövegjavítás
+### Elhelyezkedési lehetőségek:
+- általános és szakfordító
+- tolmács
+- idegennyelv-tanár
+- korrektor
+- szerkesztő
+- rendezvényszervező
+- feliratozó
+- nyelvi tanácsadó
+### Tudod-e, hogy…?
+- az Európai Uniónak jelenleg 24 hivatalos nyelve van, ezek között megtalálható a magyar, a román, a német és az angol is.
+- az uniós és romániai intézményekben óriási igény van jól képzett szakfordítókra és tolmácsokra.
+- ahhoz, hogy valakiből igazán jó fordító, illetve tolmács váljék, nem elég a magas szintű nyelvtudás.
+- tolmácsként beutazhatod a világot, és izgalmasabbnál izgalmasabb embereket ismerhetsz meg.
+### Felvételi kedvezmények és megjegyzések
 A Kari Felvételi Bizottság a felvételi jegy kiszámításánál figyelembe veszi a különböző tantárgyversenyeken vagy teszteken elért eredményeket.
-A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok mellékleteiben.
+A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok) mellékleteiben.
 A jelentkező a felvételi díj kifizetése alól nem mentesül.
-Amennyiben a jelentkező több szakra is felvételt nyert, csak egy szakot végezhet tandíjmentes helyen.
+### Mi szükséges a felvételi mappához?
+A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek. (https://sapientia.ro/hu/felveteli/szukseges-iratok)
 # Kertészmérnöki szak
-Helyek száma:
-- Tandíjmentes hely: 18
-- Költség-hozzájárulásos hely: 15
-- Differenciált költség-hozzájárulásos: 12
+Helyek száma: 18 Tandíjmentes hely
+Helyek száma: 15 Költség-hozzájárulásos hely
+Helyek száma: 12 Differenciált költség-hozzájárulásos
 Költség-hozzájárulás összege: 500 euró/év
 Differenciált költség-hozzájárulás összege: 700 euró/év
 Képzés időtartama: 4 év
 A felvételi jegy összetétele: 100% érettségi vizsga átlaga
 Beiratkozási időszak: 2025. július 1 - 13.
-Online iratkozás (https://felveteli.sapientia.ro/)
+Képzési ág: Kertészmérnöki
+Szak: Kertészmérnöki
+Képzés időtartama és formája: 4 éves nappali alapképzés
+Online iratkozás: https://felveteli.sapientia.ro/
 Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
-Képzési ág: Kertészmérnöki.
-Szak: Kertészmérnöki.
-Képzés időtartama és formája: 4 éves nappali alapképzés.
+## Neked ajánljuk, ha…
+* szereted a növényeket és szeretnéd érteni a bennük zajló folyamatokat;
+* szeretnéd elsajátítani az üzemi léptékű termesztési technikákat;
+* megismerkednél a professzionális növényszaporítás módszereivel;
+* érdekel az egészséges gyümölcsök, zöldségek termesztése, a borkészítés művészete;
+* felelősséget érzel a környezeted jövőjéért.
+## Főbb tantárgyak:
+* termesztési tárgyak (dísznövény-, gyógynövény-, gyümölcs-, zöldség-, szőlőtermesztés)
+* növényvédelmi tantárgyak
+* talajtan és agrokémia
+* borászat
+* kertészeti növények mikroszaporítása, nemesítése
+* kerttervezés.
+## Elhelyezkedési lehetőségek:
+* kertészmérnök;
+* üzemvezető a kertészeti ágazatban és az ahhoz kapcsolódótárs-ágazatokban;
+* zöldség-, gyümölcs-, dísznövény-, szőlő-, gyógynövénytermesztő, kertépítő, faiskolai termesztő;
+* növénynemesítő.
+## Tudod-e, hogy...?
+* korszerű laboratóriumokban vizsgáljuk a természet törvényszerűségeit;
+* az egyetemi kampusz területén található zöldség-, gyümölcs-, dísznövény-, gyógynövény- és szőlészeti tankertekben bővítheted gyakorlati tudásod;
+* minden évben szakmai gyakorlatot és tanulmányutatkat szervezünk.
+## A felvételi jegy összetétele:
+100% az érettségi vizsga átlaga
+## Felvételi kritériumok
+lásd: Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok)
+## Megjegyzések
+A Kari Felvételi Bizottság a felvételi jegy kiszámításánál figyelembe veszi a különböző tantárgyversenyeken vagy teszteken elért eredményeket.
+A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok mellékleteiben.
+A jelentkező a felvételi díj kifizetése alól nem mentesül.
+Amennyiben a jelentkező több szakra is felvételt nyert, csak egy szakot végezhet tandíjmentes helyen.
+## Mi szükséges a felvételi mappához?
+A felvételire való beiratkozáshoz az (https://sapientia.ro/hu/felveteli/szukseges-iratok) felsorolt iratok kellenek.
+# Tájépítészet mérnöki szak
+Helyek száma: 14 Tandíjmentes hely
+Helyek száma: 18 Költség-hozzájárulásos hely
+Helyek száma: 2 Differenciált költség-hozzájárulásos
+Helyek száma: 6 Tandíjas hely
+Költség-hozzájárulás összege: 500 euró/év
+Differenciált költség-hozzájárulás összege: 700 euró/év
+Teljes tandíj összege: 900 euró/év
+Képzés időtartama: 4 év
+A felvételi jegy összetétele: 100% az érettségi vizsga átlaga
+Beiratkozási időszak: 2025. július 1 - 13.
+Szükséges iratok itt (https://sapientia.ro/hu/felveteli/szukseges-iratok)
+Képzési ág: Kertészmérnöki
+Szak: Tájépítészet
+Képzés időtartama és formája: 4 éves nappali alapképzés
+Online iratkozás: (https://felveteli.sapientia.ro/)
+Román nyelvű tanterv (https://ms.sapientia.ro/ro/studenti/planuri-de-invatamant)
 ### Neked ajánljuk, ha…
-- szereted a növényeket és szeretnéd érteni a bennük lezajló folyamatokat;
-- szeretnéd elsajátítani az üzemi léptékű termesztési technikákat;
-- megismerkednél a professzionális növényszaporítás módszereivel;
-- érdekel az egészséges gyümölcsök, zöldségek termesztése, a borkészítés művészete;
-- felelősséget érzel a környezeted jövőjéért.
+* művészi hajlamod a növények szeretetével társul.
+* részt szeretnél venni városi közparkok tervezésében, történeti kertek revitalizációjában, falumegújításban, régiófejlesztésben és területrendezésben.
+* fontosnak tartod az erdélyi táj megmaradását és felvirágoztatását.
 ### Főbb tantárgyak:
-- termesztési tárgyak (dísznövény-, gyógynövény-, gyümölcs-, zöldség-, szőlőtermesztés)
-- növényvédelmi tantárgyak
-- talajtan és agrokémia
-- borászat
-- kertészeti növények mikroszaporítása, nemesítése
-- kerttervezés.
+- talajtan
+- ökológia
+- botanika
+- kert és tájtörténet
+- szabadkézi és digitális rajz
+- kert és zöldfelület tervezés és fenntartás
+- dendrológia és dísznövényismeret
+- tájrehabilitáció
 ### Elhelyezkedési lehetőségek:
-- kertészmérnök;
-- üzemvezető a kertészeti ágazatban és az ahhoz kapcsolódótárs-ágazatokban;
-- zöldség-, gyümölcs-, dísznövény-, szőlő-, gyógynövénytermesztő, kertépítő, faiskolai termesztő;
-- növénynemesítő.
+- várostervező, kerttervező, -kivitelező és -fenntartó
+- önkormányzatoknál, közigazgatási szerveknél építésügyi, településügyi, területfejlesztési szakember
+- kutatóintézeteknél környezet-, táj- és természetvédelmi szakember
 ### Tudod-e, hogy...?
-- korszerű laboratóriumokban vizsgáljuk a természet törvényszerűségeit;
-- az egyetemi kampusz területén található zöldség-, gyümölcs-, dísznövény-, gyógynövény- és szőlészeti tankertekben bővítheted gyakorlati tudásod;
-- minden évben szakmai gyakorlatot és tanulmányutkat szervezünk.
-### A felvételi jegy összetétele:
-100% az érettségi vizsga átlaga.
-### Felvételi kritériumok
+A tájépítészet főfeladata a tájat alkotó természeti és mesterséges elemek átrendezése, új kompozícióba tömörítése, valamint az emberi alkotások „tájba illesztése”.
+Részt veszünk Erdély kastélykertjeinek felmérésében és felújításában.
+### Felvételi kedvezmények
 lásd: Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok)
 ### Megjegyzések
 A Kari Felvételi Bizottság a felvételi jegy kiszámításánál figyelembe veszi a különböző tantárgyversenyeken vagy teszteken elért eredményeket.
 A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok mellékleteiben.
 A jelentkező a felvételi díj kifizetése alól nem mentesül.
 Amennyiben a jelentkező több szakra is felvételt nyert, csak egy szakot végezhet tandíjmentes helyen.
-### Mi szükséges a felvételi mappához?
-Itt felsorolt iratok kellenek (http://www.sapientia.ro/hu/felveteli/szukseges-iratok)
-# Tájépítészet mérnöki szak
-Helyek száma:
-Tandíjmentes hely: 14
-Költség-hozzájárulásos hely: 18
-Differenciált költség-hozzájárulásos hely: 2
-Tandíjas hely: 6
-Költség-hozzájárulás összege:
-500 euró/év
-Differenciált költség-hozzájárulás összege:
-700 euró/év
-Teljes tandíj összege:
-900 euró/év
-Képzés időtartama:
-4 év
-A felvételi jegy összetétele:
-100% az érettségi vizsga átlaga
-Beiratkozási időszak:
+### További információk
+Marosvásárhelyi Kar
+Târgu-Mureş/Corunca (Marosvásárhely/Koronka), Calea Sighișoarei nr. 2.
+(26, 27, 44-es közszállítási vonal végállomása.)
+Tel: +40 265 206 210, fax: +40 265 206 211
+Postacím: 540485 Târgu-Mureş, O.p. 9, C.p. 4
+E-mail: office@ms.sapientia.ro
+# Kommunikáció és közkapcsolatok szak
+Helyek száma
+- 15 Tandíjmentes hely
+- 15 Költség-hozzájárulásos hely
+- 10 Differenciált költség-hozzájárulásos
+- 10 Tandíjas hely
+Költség-hozzájárulás összege: 500 euró/év
+Differenciált költség-hozzájárulás összege: 700 euró/év
+Teljes tandíj összege: 900 euró/év
+Képzés időtartama és formája: 3 éves nappali alapképzés.
+Online iratkozás:  https://felveteli.sapientia.ro/
+Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
+## A felvételi jegy összetétele
+- 50% az érettségi vizsga átlaga
+- 50% az érettségi vizsgán magyar/román nyelv és irodalom tantárgyból elért jegy
+## Beiratkozási időszak
 2025. július 1 - 13.
-Szükséges iratok (https://sapientia.ro/hu/felveteli/szukseges-iratok)
-*   Képzési ág: Kertészmérnöki
-*   Szak: Tájépítészet
-*   Képzés időtartama és formája: 4 éves nappali alapképzés
-*   Online iratkozás: Online iratkozás (https://felveteli.sapientia.ro/)
-*   Román nyelvű tanterv: Román nyelvű tanterv (https://ms.sapientia.ro/ro/studenti/planuri-de-invatamant)
-## Neked ajánljuk, ha…
-művészi hajlamod a növények szeretetével társul.
-részt szeretnél venni városi közparkok tervezésében, történeti kertek revitalizációjában, falumegújításban, régiófejlesztésben és területrendezésben.
-fontosnak tartod az erdélyi táj megmaradását és felvirágoztatását.
+## Neked ajánljuk, ha:
+- kipróbálnád magad a média világában riporterként, műsorszerkesztőként
+- érdekelnek a közösségi média trendjei
+- szeretsz rendezvényekre járni
+- megtanulnád, hogyan kommunikálj különféle közönségekkel
+- szívesen kérdezel
 ## Főbb tantárgyak:
-*   talajtan
-*   ökológia
-*   botanika
-*   kert és tájtörténet
-*   szabadkézi és digitális rajz
-*   kert és zöldfelület tervezés és fenntartás
-*   dendrológia és dísznövényismeret
-*   tájrehabilitáció
-## Elhelyezkedési lehetőségek:
-*   várostervező, kerttervező, -kivitelező és -fenntartó
-*   önkormányzatoknál, közigazgatási szerveknél építésügyi, településügyi, területfejlesztési szakember
-*   kutatóintézeteknél környezet-, táj- és természetvédelmi szakember
-## Tudod-e, hogy...?
-a tájépítészet főfeladata a tájat alkotó természeti és mesterséges elemek átrendezése, új kompozícióba tömörítése, valamint az emberi alkotások „tájba illesztése”.
-részt veszünk Erdély kastélykertjeinek felmérésében és felújításában.
-## A felvételi jegy összetétele:
-*   100% érettségi átlag
+- kommunikációelmélet
+- rendezvényszervezés
+- közkapcsolatok
+- reklám
+- sajtóműfajok
+- új média
+- vizuális kommunikáció
+## Elhelyezkedési lehetőségek
+- közkapcsolati szakember
+- közösségi média menedzser
+- újságíró, riporter
+- sajtószóvivő
+- rendezvényszervező
+## A felvételi jegy összetétele
+- 50% az érettségi vizsga átlaga
+- 50% az érettségi vizsgán ***Magyar nyelv és irodalom*** tantárgyból vagy ***Román nyelv és irodalom*** tantárgyból az írásbeli próbán szerzett jegy (amennyiben a jelentkező román tannyelvű gimnáziumban tanult)
 ## Felvételi kedvezmények
 lásd: Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok)
 ## Megjegyzések
 A Kari Felvételi Bizottság a felvételi jegy kiszámításánál figyelembe veszi a különböző tantárgyversenyeken vagy teszteken elért eredményeket.
-A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felvételi-szabályzatok) mellékleteiben.
+A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari mellékleteiben.
 A jelentkező a felvételi díj kifizetése alól nem mentesül.
 Amennyiben a jelentkező több szakra is felvételt nyert, csak egy szakot végezhet tandíjmentes helyen.
 ## Mi szükséges a felvételi mappához?
-A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek: Szükséges iratok (http://www.sapientia.ro/hu/felveteli/szukseges-iratok).
-# Kommunikáció és közkapcsolatok szak
-## Helyek száma
-Tandíjmentes hely: 15
-Költség-hozzájárulásos hely: 15
-Differenciált költség-hozzájárulásos hely: 10
-Tandíjas hely: 10
-## Költség-hozzájárulás összege
-Összeg: 500 euró/év
-## Differenciált költség-hozzájárulás összege
-Összeg: 700 euró/év
-## Teljes tandíj összege
-Összeg: 900 euró/év
-## Képzés időtartama
-3 év
-## Beiratkozási időszak
-2025. július 1 - 13.
-Képzési ág: Kommunikációtudomány.
-Szak: Kommunikáció és közkapcsolatok.
-Képzés időtartama és formája: 3 éves nappali alapképzés.
-## Neked ajánljuk, ha:
-Ha kipróbálnád magad a média világában riporterként, műsorszerkesztőként.
-Ha érdekelnek a közösségi média trendjei.
-Ha szeretsz rendezvényekre járni.
-Ha megtanulnád, hogyan kommunikálj különféle közönségekkel.
-Ha szívesen kérdezel.
+A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek. (http://www.sapientia.ro/hu/felveteli/szukseges-iratok)
+# Közegészségügyi szolgáltatások és politikák szak
+Helyek száma:
+- 15 Tandíjmentes hely
+- 15 Költség-hozzájárulásos hely
+- 10 Differenciált költség-hozzájárulásos hely
+Költség-hozzájárulás összege: 500 euró/év
+Differenciált költség-hozzájárulás összege: 700 euró/év
+Képzés időtartama: 3 év
+A felvételi jegy összetétele: 100% az érettségi vizsga átlaga
+Beiratkozási időszak: 2025. július 1 - 13.
+Szükséges iratok itt (https://sapientia.ro/hu/felveteli/szukseges-iratok)
+Képzési ág: Közigazgatási tudományok.
+Szak: Egészségügyi szakpolitikák és szolgáltatások.
+Képzés időtartama: 3 éves nappali alapképzés.
+Online iratkozás (https://felveteli.sapientia.ro/).
+Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek).
+## Neked ajánljuk, ha…
+* szeretnél aktívan tenni azért, hogy egy egészségesebb társadalomban élj.
+* érdekelnek az egészséges életmóddal kapcsolatos információk.
+* úgy érzed, hogy az egészségügyi elemzés és szervezés kihívás számodra.
 ## Főbb tantárgyak:
-kommunikációelmélet
-rendezvényszervezés
-közkapcsolatok
-reklám
-sajtóműfajok
-új média
-vizuális kommunikáció
-## Elhelyezkedési lehetőségek
-közkapcsolati szakember
-közösségi média menedzser
-újságíró, riporter
-sajtószóvivő
-rendezvényszervező
-## A felvételi jegy összetétele
-50% az érettségi vizsga átlaga.
-50% az érettségi vizsgán Magyar nyelv és irodalom tantárgyból vagy Román nyelv és irodalom tantárgyból az írásbeli próbán szerzett jegy (amennyiben a jelentkező román tannyelvű gimnáziumban tanult).
-## Felvételi kedvezmények
-lásd: Kari felvételi szabályzat.
-## Megjegyzések
+* egészségfejlesztés.
+* közigazgatás.
+* balesetvédelem.
+* egészségügyi menedzsment.
+* adatelemzés.
+## Elhelyezkedési lehetőségek:
+* elemző.
+* szakértő, tanácsadó.
+* menedzser.
+* ellenőr.
+* közösségi egészségfejlesztő.
+## Tudod-e, hogy...?
+* jóval olcsóbb és könnyebb megelőzni a betegségeket, mint kezelni.
+* a közegészségügyi szakemberek segítségével egy közösség egészségi állapota és életminősége javul.
+## A felvételi jegy összetétele:
+* 100 % érettségi átlag.
+## Felvételi kedvezmények:
+lásd: Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok).
+## Megjegyzések:
 A Kari Felvételi Bizottság a felvételi jegy kiszámításánál figyelembe veszi a különböző tantárgyversenyeken vagy teszteken elért eredményeket.
 A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok mellékleteiben.
 A jelentkező a felvételi díj kifizetése alól nem mentesül.
 Amennyiben a jelentkező több szakra is felvételt nyert, csak egy szakot végezhet tandíjmentes helyen.
 ## Mi szükséges a felvételi mappához?
-A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek.
-## Linkek a Kommunikáció és közkapcsolatok szak fő tartalmából
-Online iratkozás (https://felveteli.sapientia.ro/)
-Szükséges iratok (https://sapientia.ro/hu/felveteli/szukseges-iratok)
-Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
-Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok)
-# Közegészségügyi szolgáltatások és politikák szak
-Helyek száma:
-Tandíjmentes hely: 15
-Költség-hozzájárulásos hely: 15
-Differenciált költség-hozzájárulásos: 10
+A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek. (https://sapientia.ro/hu/felveteli/szukseges-iratok)
+# Informatika szak
+## Helyek száma:
+- Tandíjmentes hely: 25
+- Költség-hozzájárulásos hely: 25
+- Tandíjas hely: 10
 Költség-hozzájárulás összege: 500 euró/év
 Differenciált költség-hozzájárulás összege: 700 euró/év
+Teljes tandíj összege: 900 euró/év
 Képzés időtartama: 3 év
-A felvételi jegy összetétele: 100 % az érettségi vizsga átlaga
-Beiratkozási időszak: 2025. július 1 - 13.
-Szükséges iratok itt (https://sapientia.ro/hu/felveteli/szukseges-iratok)
-Képzési ág: Közigazgatási tudományok
-Szak: Egészségügyi szakpolitikák és szolgáltatások
-Képzés időtartama: 3 éves nappali alapképzés
-Online iratkozás (https://felveteli.sapientia.ro/)
-Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
-## Neked ajánljuk, ha…
-szeretnél aktívan tenni azért, hogy egy egészségesebb társadalomban élj;
-érdekelnek az egészséges életmóddal kapcsolatos információk;
-úgy érzed, hogy az egészségügyi elemzés és szervezés kihívás számodra.
-## Főbb tantárgyak:
-egészségfejlesztés
-közigazgatás
-balesetvédelem
-egészségügyi menedzsment
-adatelemzés
-## Elhelyezkedési lehetőségek:
-elemző,
-szakértő, tanácsadó,
-menedzser,
-ellenőr,
-közösségi egészségfejlesztő
-## Tudod-e, hogy...?
-jóval olcsóbb és könnyebb megelőzni a betegségeket, mint kezelni;
-a közegészségügyi szakemberek segítségével egy közösség egészségi állapota és életminősége javul.
 ## A felvételi jegy összetétele:
-100 % érettségi átlag
-## Felvételi kedvezmények
-lásd: Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok)
-## Megjegyzések
-A Kari Felvételi Bizottság a felvételi jegy kiszámításánál figyelembe veszi a különböző tantárgyversenyeken vagy teszteken elért eredményeket.
-A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok) mellékleteiben.
-A jelentkező a felvételi díj kifizetése alól nem mentesül.
-Amennyiben a jelentkező több szakra is felvételt nyert, csak egy szakot végezhet tandíjmentes helyen.
-## Mi szükséges a felvételi mappához?
-A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek (http://www.sapientia.ro/hu/felveteli/szukseges-iratok).
-# Informatika szak
-- Helyek száma:
-    - Tandíjmentes hely: 25
-    - Költség-hozzájárulásos hely: 25
-    - Tandíjas hely: 10
-- Költség-hozzájárulás összege: 500 euró/év
-- Differenciált költség-hozzájárulás összege: 700 euró/év
-- Teljes tandíj összege: 900 euró/év
-- Képzés időtartama: 3 év
-- Beiratkozási időszak: 2025. július 1 - 13.
+- 75% írásbeli felvételi Matematikából, Informatikából vagy Fizikából
+- 25% érettségi vizsga átlaga vagy a Matematikából Informatikából vagy Fizikából elért legnagyobb jegy
+FIGYELEM: az érettségi vizsga matematika/informatika/fizika jegy esetében szorzót használunk (bővebben lásd a felvételi szabályzatot).
+Beiratkozási időszak: 2025. július 1 - 13.
 Képzési ág: Informatika.
 Szak: Informatika.
 Képzés időtartama és formája: 3 éves nappali alapképzés.
-Online iratkozás.
-Román nyelvű tanterv. (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
+Online iratkozás (https://felveteli.sapientia.ro/)
+Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
 ### Neked ajánljuk, ha…
-Fontos számodra az algoritmikus gondolkodás.
-Érdekel a szoftverrendszerek tervezése és kivitelezése.
-Kíváncsi vagy a legújabb szoftvertechnológiákra (web, mobil stb.).
-Minél több programozási nyelvet szeretnél elsajátítani.
+- fontos számodra az algoritmikus gondolkodás;
+- érdekel a szoftverrendszerek tervezése és kivitelezése;
+- kíváncsi vagy a legújabb szoftvertechnológiákra (web, mobil stb.);
+- minél több programozási nyelvet szeretnél elsajátítani.
 ### Főbb tantárgyak:
-Algoritmusok és adatstruktúrák.
-Programozási nyelvek.
-Szoftvertechnológiák.
-Mesterséges intelligencia.
-Informatikai biztonság.
+- algoritmusok és adatstruktúrák;
+- programozási nyelvek;
+- szoftvertechnológiák;
+- mesterséges intelligencia;
+- informatikai biztonság.
 ### Elhelyezkedési lehetőségek:
-Szoftverfejlesztő.
-Szoftver tesztelő.
-IT-projektmenedzser.
-Informatika tanár.
-Kutató.
+- szoftverfejlesztő;
+- szoftver tesztelő;
+- IT-projektmenedzser;
+- informatika tanár;
+- kutató.
 ### Tudod-e, hogy...?
-Már középiskolás diákként is részt vehetsz az évente megszervezett Sapientia-ECN nemzetközi matematika- és programozói versenyen.
-Végzőseink 95%-a a szakmában dolgozik.
+- már középiskolás diákként is részt vehetsz az évente megszervezett Sapientia-ECN nemzetközi matematika- és programozói versenyen;
+- végzőseink 95%-a a szakmában dolgozik.
 ### A felvételi jegy összetétele:
-25% az érettségi vizsga átlaga vagy az érettségi írásbeli vizsgán Matematikából vagy Informatikából vagy Fizikából elért legnagyobb jegy.
-75% az írásbeli felvételi vizsgán Matematikából, Informatikából vagy Fizikából elért jegy.
+- 25% az érettségi vizsga átlaga vagy az érettségi írásbeli vizsgán Matematikából vagy Informatikából vagy Fizikából elért legnagyobb jegy;
+- 75% az írásbeli felvételi vizsgán Matematikából, Informatikából vagy Fizikából elért jegy.
 FIGYELEM: az érettségi vizsga Matematika // Informatika // Fizika jegy esetében szorzót használunk (bővebben lásd a felvételi szabályzatot).
 ### Felvételi kedvezmények
-Lásd: Kari felvételi szabályzat.
+lásd: Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok) 
 ### Megjegyzések
 Azok az érettségizett diákok, akik egy Sapientia ECN programozói versenyen az első három helyezést elért középiskolás csapat valamelyikének tagjai voltak, felvételi nélkül tandíjmentes helyre jogosultak az egyetem azon műszaki szakán (Gépészmérnöki, Mechatronika, Automatika és alkalmazott informatika, Számítástechnika, Távközlés, Informatika), amelyre jelentkeznek.
 A Kari Felvételi Bizottság a felvételi jegy kiszámításánál figyelembe veszi a különböző tantárgyversenyeken vagy teszteken elért eredményeket.
@@ -1154,93 +1161,85 @@ A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények
 A jelentkező a felvételi díj kifizetése alól nem mentesül.
 Amennyiben a jelentkező több szakra is felvételt nyert, csak egy szakot végezhet tandíjmentes helyen.
 ### Mi szükséges a felvételi mappához?
-A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek.
-Dokumentumlinkek:
-Szükséges iratok itt (https://sapientia.ro/hu/felveteli/szukseges-iratok)
-Online iratkozás (https://felveteli.sapientia.ro/)
-Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
-felvételi szabályzatot (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok)
+A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek. (http://www.sapientia.ro/hu/felveteli/szukseges-iratok)
 # Automatika és alkalmazott informatika mérnök szak
-Helyek száma:
-* Tandíjmentes hely: 25
-* Költség-hozzájárulásos hely: 15
-* Differenciált költség-hozzájárulásos: 5
-Költség-hozzájárulás összege:
-* 500 euró/év
-Differenciált költség-hozzájárulás összege:
-* 700 euró/év
-Képzés időtartama:
-* 4 év
-A felvételi jegy összetétele:
-* 25% az érettségi vizsga átlaga.
-* 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért legnagyobb jegy, vagy írásbeli felvételi ezen tantárgyak valamelyikéből.
-* FIGYELEM: az érettségi vizsga matematika/informatika/fizika jegy esetében szorzót használunk.
-Beiratkozási időszak:
-* 2025. július 1 - 13.
+## Helyek száma:
+- 25 Tandíjmentes hely
+- 15 Költség-hozzájárulásos hely
+- 5 Differenciált költség-hozzájárulásos
+Költség-hozzájárulás összege: 500 euró/év
+Differenciált költség-hozzájárulás összege: 700 euró/év
+Képzés időtartama: 4 év
+## A felvételi jegy összetétele:
+- 25% az érettségi vizsga átlaga
+- 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért legnagyobb jegy, vagy írásbeli felvételi ezen tantárgyak valamelyikéből / / FIGYELEM: az érettségi vizsga matematika/informatika/fizika jegy esetében szorzót használunk
+Beiratkozási időszak: 2025. július 1 - 13.
 Szükséges iratok itt (http://www.sapientia.ro/hu/felveteli/szukseges-iratok).
-* Képzési ág: Rendszermérnöki.
-* Szak: Automatika és alkalmazott informatika.
-* Képzés időtartama és formája: 4 éves nappali alapképzés.
-* Online iratkozás (https://felveteli.sapientia.ro/).
+**Képzési ág:** Rendszermérnöki
+**Szak:** Automatika és alkalmazott informatika
+**Képzés időtartama és formája:** 4 éves nappali alapképzés
+**Online iratkozás:** Online iratkozás (https://felveteli.sapientia.ro/).
 Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek).
 ### Neked ajánljuk, ha...
-Szeretnél mesterséges intelligenciával (AI) ellátott robotokat tervezni és kivitelezni.
-Mikroprocesszor alapú rendszereket terveznél és programoznál.
-Érdekel a hardverközeli vagy magas szintű programozás.
-Intelligens otthonok vagy komplex ipari folyamatok energiahatékony automatizálását szeretnéd megtervezni.
+- szeretnél mesterséges intelligenciával (AI) ellátott robotokat tervezni és kivitelezni.
+- mikroprocesszor alapú rendszereket terveznél és programoznál.
+- érdekel a hardverközeli vagy magas szintű programozás.
+- intelligens otthonok vagy komplex ipari folyamatok energiahatékony automatizálását szeretnéd megtervezni.
 ### Főbb tantárgyak:
-* ipari folyamatirányító számítógépek programozása
-* robotok irányítása
-* számítógépes hálózatok és operációs rendszerek
-* mikroprocesszorok és mikrovezérlők programozása
-* számítógép-programozás
-* villamos gépek és hajtások
-* digitális jelfeldolgozás és képfeldolgozás
-* optimalizálási eljárások
+- ipari folyamatirányító számítógépek programozása
+- robotok irányítása
+- számítógépes hálózatok és operációs rendszerek
+- mikroprocesszorok és mikrovezérlők programozása
+- számítógép-programozás
+- villamos gépek és hajtások
+- digitális jelfeldolgozás és képfeldolgozás
+- optimalizálási eljárások
 ### Elhelyezkedési lehetőségek:
-* szoftver- és hardverfejlesztő mérnök
-* automatizálási mérnök
-* szoftvertervező és programozó
-* folyamatirányító mérnök
-* AI-kutató
+- szoftver- és hardverfejlesztő mérnök
+- automatizálási mérnök
+- szoftvertervező és programozó
+- folyamatirányító mérnök
+- AI-kutató
 ### Tudod-e, hogy...
-A diákok és tanárok közös kutatási tervek keretében intelligens robotokat, autonóm helikopter-modellt, interneten kialakított irrányítási rendszereket fejlesztenek?
-A szakmai gyakorlat során a diákok cégeknél mélyítik el az egyetemen tanult anyagot, és ezzel közvetlen kapcsolatba kerülnek a lehetséges munkahelyeikkel?
-A végzős diákjaink számára mesterképzés lehetőséget biztosítunk a magyarországi Pannon Egyetemmel közösen indított Számítógépes irányítási rendszerek (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szamitogepes-iranyitasi-rendszerek-szak) mesteri szakon?
+- a diákok és tanárok közös kutatási tervek keretében intelligens robotokat, autonóm helikopter-modellt, interneten kialakított irrányítási rendszereket fejlesztenek?
+- a szakmai gyakorlat során a diákok cégeknél mélyítik el az egyetemen tanult anyagot, és ezzel közvetlen kapcsolatba kerülnek a lehetséges munkahelyeikkel?
+- a végzős diákjaink számára mesterképzés lehetőséget biztosítunk a magyarországi Pannon Egyetemmel közösen indított Számítógépes irányítási rendszerek (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szamitogepes-iranyitasi-rendszerek-szak) mesteri szakon?
 ### A felvételi jegy összetétele
-25% az érettségi vizsga átlaga.
-75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért jegy, VAGY az írásbeli felvételi vizsgán Matematikából, Informatikából vagy Fizikából elért jegyek közül a legnagyobb.
+- 25% az érettségi vizsga átlaga.
+- 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért jegy, VAGY az írásbeli felvételi vizsgán Matematikából, Informatikából vagy Fizikából elért jegyek közül a legnagyobb.
 FIGYELEM: az érettségi vizsga Matematika // Informatika // Fizika jegy esetében szorzót használunk (bővebben lásd a felvételi szabályzatot (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok)).
 ### Felvételi kedvezmények
 lásd: Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok).
 ### Megjegyzések
-Azok az érettségizett diákok, akik egy Sapientia ECN programozói versenyen az első három helyezést elért középiskolás csapat valamelyikének tagjai voltak, felvételi nélkül tandíjmentes helyre jogosultak az egyetem azon műszaki szakán (Gépészmérnöki (https://ms.sapientia.ro/hu/felveteli/alapkepzes/gepeszmernoki-szak), Mechatronika (https://ms.sapientia.ro/hu/felveteli/alapkepzes/mechatronika-szak), Automatika és alkalmazott informatika (https://ms.sapientia.ro/hu/felveteli/alapkepzes/automatika-es-alkalmazott-informatika-mernok-szak), Számítástechnika (https://ms.sapientia.ro/hu/felveteli/alapkepzes/szamitastechnika-szak), Távközlés (https://ms.sapientia.ro/hu/felveteli/alapkepzes/infokommunikacios-halozatok-es-rendszerek-tavkozles-szak), Informatika (https://ms.sapientia.ro/hu/felveteli/alapkepzes/informatika-szak))), amelyre jelentkeznek.
+Azok az érettségizett diákok, akik egy Sapientia ECN programozói versenyen az első három helyezést elért középiskolás csapat valamelyikének tagjai voltak, felvételi nélkül tandíjmentes helyre jogosultak az egyetem azon műszaki szakán (Gépészmérnöki (https://ms.sapientia.ro/hu/felveteli/alapkepzes/gepeszmernoki-szak), Mechatronika (https://ms.sapientia.ro/hu/felveteli/alapkepzes/mechatronika-szak), Automatika és alkalmazott informatika (https://ms.sapientia.ro/hu/felveteli/alapkepzes/automatika-es-alkalmazott-informatika-mernok-szak), Számítástechnika (https://ms.sapientia.ro/hu/felveteli/alapkepzes/szamitastechnika-szak), Távközlés (https://ms.sapientia.ro/hu/felveteli/alapkepzes/infokommunikacios-halozatok-es-rendszerek-tavkozles-szak), Informatika (https://ms.sapientia.ro/hu/felveteli/alapkepzes/informatika-szak)), amelyre jelentkeznek.
 A Kari Felvételi Bizottság a felvételi jegy kiszámításánál figyelembe veszi a különböző tantárgyversenyeken vagy teszteken elért eredményeket.
 A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok) mellékleteiben.
 A jelentkező a felvételi díj kifizetése alól nem mentesül.
 Amennyiben a jelentkező több szakra is felvételt nyert, csak egy szakot végezhet tandíjmentes helyen.
 ### Mi szükséges a felvételi mappához?
-A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek (http://www.sapientia.ro/hu/felveteli/szukseges-iratok).
+A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek (http://www.sapientia.ro/hu/felveteli/szukseges-iratok)
 # Gépészmérnöki szak
-## Helyek száma és felvételi információk
-- Tandíjmentes helyek: 20
-- Költség-hozzájárulásos helyek: 10
-- Differenciált költség-hozzájárulásos helyek: 10
-- Költség-hozzájárulás összege: 500 euró/év
-- Differenciált költség-hozzájárulás összege: 700 euró/év
-- Képzés időtartama: 4 év
-- A felvételi jegy összetétele: 25% az érettségi vizsga átlaga. 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért legnagyobb jegy, vagy írásbeli felvételi ezen tantárgyak valamelyikéből. FIGYELEM: az érettségi vizsga matematika/informatika/fizika jegy esetében szorzót használunk.
-- Beiratkozási időszak: 2025. július 1 - 13.
-- Szükséges iratok: itt felsorolt iratok kellenek (http://www.sapientia.ro/hu/felveteli/szukseges-iratok)
-- Képzési ág: Ipari mérnöki
-- Szak: Gépészmérnöki
-- Képzés időtartama és formája: 4 éves nappali alapképzés
-- Online iratkozás: https://felveteli.sapientia.ro/ (https://felveteli.sapientia.ro/)
+## Helyek száma:
+- 20 Tandíjmentes hely
+- 10 Költség-hozzájárulásos hely
+- 10 Differenciált költség-hozzájárulásos hely
+Költség-hozzájárulás összege: 500 euró/év
+Differenciált költség-hozzájárulás összege: 700 euró/év
+Képzés időtartama: 4 év
+## A felvételi jegy összetétele:
+- 25% az érettségi vizsga átlaga
+- 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért legnagyobb jegy, vagy írásbeli felvételi ezen tantárgyak valamelyikéből.
+FIGYELEM: az érettségi vizsga matematika/informatika/fizika jegy esetében szorzót használunk.
+Beiratkozási időszak: 2025. július 1 - 13.
+Képzési ág: Ipari mérnöki
+Szak: Gépészmérnöki
+Képzés időtartama és formája: 4 éves nappali alapképzés
+Online iratkozás (https://felveteli.sapientia.ro/)
 Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
 ## Neked ajánljuk, ha…
-- szeretnél alkatrészeket tervezni, 3D modelleket készíteni CAD-környezetben, és a gyártásuk folyamatát irányítani;
-- mechanizmusokat, szerkezeteket tervezni;
-- fémek és műanyagok megmunkálási technológiáit megismerni;
+- szeretnél alkatrészeket tervezni, 3D modelleket készíteni CAD-környezetben, és a gyártásuk folyamatát irányítani.
+- mechanizmusokat, szerkezeteket tervezni.
+- fémek és műanyagok megmunkálási technológiáit megismerni.
 - CNC gépeket programozni.
 ## Főbb tantárgyak:
 - anyagtudományok
@@ -1259,264 +1258,262 @@ Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
 - műanyagtechnológus szakember
 - általános iskolai szaktanár (pedagógiai végzettséggel)
 ## Tudod-e, hogy…?
-- világviszonylatban jelenleg ez a legkeresettebb szakma;
-- elsajátíthatod a világ legnépszerűbb gépészeti szoftvereinek a használatát (Catia, Autodesk Inventor, AutoCAD);
+- világviszonylatban jelenleg ez a legkeresettebb szakma.
+- elsajátíthatod a világ legnépszerűbb gépészeti szoftvereinek a használatát (Catia, Autodesk Inventor, AutoCAD).
 - megtanulhatsz esztergapadon, marógépen és CNC szerszámgépen dolgozni.
 ## A felvételi jegy összetétele:
-- 25% az érettségi vizsga átlaga
-- 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért jegy, VAGY az írásbeli felvételi vizsgán Matematikából, Informatikából vagy Fizikából elért jegyek közül a legnagyobb
-- FIGYELEM: az érettségi vizsga Matematika // Informatika // Fizika jegy esetében szorzót használunk (bővebben lásd a felvételi szabályzatot (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok))
-## Felvételi kedvezmények
-lásd: Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok)
-## Megjegyzések
+- 25% az érettségi vizsga átlaga.
+- 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért jegy, VAGY az írásbeli felvételi vizsgán Matematikából, Informatikából vagy Fizikából elért jegyek közül a legnagyobb.
+FIGYELEM: az érettségi vizsga Matematika // Informatika // Fizika jegy esetében szorzót használunk.
+## Felvételi kedvezmények:
+lásd a Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok)
+## Megjegyzések:
 Azok az érettségizett diákok, akik egy Sapientia ECN programozó versenyen az első három helyezést elért középiskolás csapat valamelyikének tagjai voltak, felvételi nélkül tandíjmentes helyre jogosultak az egyetem azon szakán (Gépészmérnöki, Mechatronika, Automatika és alkalmazott informatika, Számítástechnika, Távközlés, Informatika), amelyre jelentkeznek.
 A Kari Felvételi Bizottság a felvételi jegy kiszámításánál figyelembe veszi a különböző tantárgyversenyeken vagy teszteken elért eredményeket.
-A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok) mellékleteiben.
+A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok mellékleteiben.
 A jelentkező a felvételi díj kifizetése alól nem mentesül.
 Amennyiben a jelentkező több szakra is felvételt nyert, csak egy szakot végezhet tandíjmentes helyen.
 ## Mi szükséges a felvételi mappához?
-A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek (http://www.sapientia.ro/hu/felveteli/szukseges-iratok).
+A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek. (https://sapientia.ro/hu/felveteli/szukseges-iratok)
+## További információk:
+Marosvásárhelyi Kar
+Târgu-Mureş/Corunca (Marosvásárhely/Koronka), Calea Sighișoarei nr. 2.
+Postacím: 540485 Târgu-Mureş, O.p. 9, C.p. 4
+Tel: +40 265 206 210, fax: +40 265 206 211
 # Infokommunikációs hálózatok és rendszerek (Távközlés) mérnöki szak
-Helyek száma: -
+Helyek száma: Nincs megadva
 Képzés időtartama: 4 év
-A felvételi jegy összetétele: 25% az érettségi vizsga átlaga, 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért legnagyobb jegy vagy írásbeli felvételi ezen tantárgyak valamelyikéből//FIGYELEM: az érettségi vizsga Matematika//Informatika//Fizika jegy esetében szorzót használunk
-Beiratkozási időszak: -
-Szükséges iratok: (http://sapientia.ro/hu/felveteli/szukseges-iratok)
+A felvételi jegy összetétele: 25% az érettségi vizsga átlaga
+A felvételi jegy összetétele: 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért legnagyobb jegy vagy írásbeli felvételi ezen tantárgyak valamelyikéből
+FIGYELEM: az érettségi vizsga Matematika/Informatika/Fizika jegy esetében szorzót használunk
+Beiratkozási időszak: Nincs megadva
 Képzési ág: Elektronika, távközlés és információtechnológia mérnöki
 Szak: Infokommunikációs hálózatok és rendszerek
 Képzés időtartama és formája: 4 éves nappali alapképzés
-Online iratkozás: (https://felveteli.sapientia.ro/)
+Online iratkozás: https://felveteli.sapientia.ro/
 Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
 ## Neked ajánljuk, ha...
-te akarod működtetni és továbbfejleszteni a 21. század új generációs megvalósításait: Internet, Smart Phone, 4G, VoIp, Tablet, GPS, IP-TV;
-érdekel az elektronikus áramkörök tervezése és programozása.
+Te akarod működtetni és továbbfejleszteni a 21. század új generációs megvalósításait: Internet, Smart Phone, 4G, VoIp, Tablet, GPS, IP-TV.
+Érdekel az elektronikus áramkörök tervezése és programozása.
 ## Főbb tantárgyak:
-programozás, adatbázisok, operációs rendszerek, számítógéphálózatok, internetprotokollok, szoftvertervezés;
-analóg és digitális elektronika, villamos mérések, digitális jel-, kép- és hangfeldolgozás, számítógépes áramkörtervezés;
-hírközléselmélet, modulációs technikák, rádiókommunikáció, mobil kommunikációs rendszerek, IP telefónia, optikai hálózatok, televíziózás.
+Programozás, adatbázisok, operációs rendszerek, számítógéphálózatok, internetprotokollok, szoftvertervezés.
+Analóg és digitális elektronika, villamos mérések, digitális jel-, kép- és hangfeldolgozás, számítógépes áramkörtervezés.
+Hírközléselmélet, modulációs technikák, rádiókommunikáció, mobil kommunikációs rendszerek, IP telefónia, optikai hálózatok, televíziózás.
 ## Elhelyezkedési lehetőségek:
-távközlési rendszerek tervezője, fejlesztője, karbantartója;
-rendszermérnök;
-programozó;
-szoftvertervező;
-információtechnológia (IT) szakértő és tanácsadó;
-elektronikus áramkör tervező és programozó;
-multinacionális, országos, regionális, helyi és vállalati telekommunikációs szakmérnök, vezető;
-kutató.
+Távközlési rendszerek tervezője, fejlesztője, karbantartója.
+Rendszermérnök.
+Programozó.
+Szoftvertervező.
+Információtechnológia (IT) szakértő és tanácsadó.
+Elektronikus áramkör tervező és programozó.
+Multinacionális, országos, regionális, helyi és vállalati telekommunikációs szakmérnök, vezető.
+Kutató.
 ## Tudod-e, hogy...
-ma már az élet szinte minden területén távközlési rendszereket használnak, ezért mindenhol szükség van szakmérnökökre?
-a leglátványosabb elektronikai és programozási fejlesztések a távközléshez kapcsolódnak?
-a világgazdaságban az egyik legtöbb pénzt megmozgató ágazat a távközlés?
+Ma már az élet szinte minden területén távközlési rendszereket használnak, ezért mindenhol szükség van szakmérnökökre?
+A leglátványosabb elektronikai és programozási fejlesztések a távközléshez kapcsolódnak?
+A világgazdaságban az egyik legtöbb pénzt megmozgató ágazat a távközlés?
 ## A felvételi jegy összetétele
-25% az érettségi vizsga átlaga
-75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért legnagyobb jegy (ha az EMTER (https://emter.ms.sapientia.ro/) -en 7-es jegy fölött teljesítessz, akkor a versenyen szerzett eredményeddel kiválthatod ezt) vagy az írásbeli felvételi vizsgán Matematikából, Informatikából vagy Fizikából elért jegyek közül a legnagyobb.
-FIGYELEM: az érettségi vizsga Matematika // Informatika // Fizika jegy esetében szorzót használunk (bővebben lásd a felvételi szabályzatot (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok ))
+- 25% az érettségi vizsga átlaga.
+- 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért legnagyobb jegy (ha az EMTER-en 7-es jegy fölött teljesítessz, akkor a versenyen szerzett eredményeddel kiválthatod ezt) vagy az írásbeli felvételi vizsgán Matematikából, Informatikából vagy Fizikából elért jegyek közül a legnagyobb.
+FIGYELEM: az érettségi vizsga Matematika // Informatika // Fizika jegy esetében szorzót használunk (bővebben lásd a felvételi szabályzatot).
 ## Felvételi kedvezmények
-lásd: Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok)
+Lásd: Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok)
 ## Megjegyzések
 Azok az érettségizett diákok, akik egy Sapientia ECN programozói versenyen az első három helyezést elért középiskolás csapat valamelyikének tagjai voltak, felvételi nélkül tandíjmentes helyre jogosultak az egyetem azon műszaki szakán (Gépészmérnöki, Mechatronika, Automatika és alkalmazott informatika, Számítástechnika, Infokommunikációs hálózatok és rendszerek (Távközlés), Informatika), amelyre jelentkeznek.
 A Kari Felvételi Bizottság a felvételi jegy kiszámításánál figyelembe veszi a különböző tantárgyversenyeken vagy teszteken elért eredményeket.
-A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok) mellékleteiben.
+A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok mellékleteiben.
 A jelentkező a felvételi díj kifizetése alól nem mentesül.
 Amennyiben a jelentkező több szakra is felvételt nyert, csak egy szakot végezhet tandíjmentes helyen.
 ## Mi szükséges a felvételi mappához?
-A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek. (http://www.sapientia.ro/hu/felveteli/szukseges-iratok)
+A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek. (https://sapientia.ro/hu/felveteli/szukseges-iratok)
+## További információk
+Marosvásárhelyi Kar
+Târgu-Mureş/Corunca (Marosvásárhely/Koronka), Calea Sighișoarei nr. 2.
+(26, 27, 44-es közszállítási vonal végállomása.)
+Tel: +40 265 206 210, fax: +40 265 206 211
+Postacím: 540485 Târgu-Mureş, O.p. 9, C.p. 4
+E-mail: office@ms.sapientia.ro
 # Mechatronika mérnöki szak
-Helyek száma:
-Tandíjmentes hely: 20
-Költség-hozzájárulásos hely: 10
-Differenciált költség-hozzájárulásos: 20
-Költség-hozzájárulás összege: 500 euró/év
-Differenciált költség-hozzájárulás összege: 700 euró/év
-Képzés időtartama: 4 év
-A felvételi jegy összetétele:
-25% az érettségi vizsga átlaga.
-75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért legnagyobb jegy vagy írásbeli felvételi ezen tantárgyak valamelyikéből.
+## Helyek száma.
+- 20 Tandíjmentes hely.
+- 10 Költség-hozzájárulásos hely.
+- 20 Differenciált költség-hozzájárulásos hely.
+Költség-hozzájárulás összege: 500 euró/év.
+Differenciált költség-hozzájárulás összege: 700 euró/év.
+Képzés időtartama: 4 év.
+## A felvételi jegy összetétele.
+- 25% az érettségi vizsga átlaga.
+- 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért legnagyobb jegy vagy írásbeli felvételi ezen tantárgyak valamelyikéből.
 FIGYELEM: az érettségi vizsga Matematika//Informatika//Fizika jegy esetében szorzót használunk.
 Beiratkozási időszak: 2025. július 1 - 13.
-szükséges iratok (http://www.sapientia.ro/hu/felveteli/szukseges-iratok)
-* Képzési ág: Mechatronika és robotika
-* Szak: Mechatronika
-* Képzés időtartama és formája: 4 éves nappali alapképzés
-* Online iratkozás (https://felveteli.sapientia.ro/)
-Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
+Szükséges iratok itt (https://sapientia.ro/hu/felveteli/szukseges-iratok).
+Képzési ág: Mechatronika és robotika.
+Szak: Mechatronika.
+Képzés időtartama és formája: 4 éves nappali alapképzés.
+Online iratkozás (https://felveteli.sapientia.ro/).
+Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek).
 ### Neked ajánljuk, ha...
-komplex rendszerek irányítását szeretnéd felügyelni, melyek magukba foglalnak mechanikai és elektronikai elemeket, illetve ezek programozását is.
-robotokat terveznél és/vagy programoznál.
-alkatrészeket, berendezéseket terveznél CAD környezetben.
-3D modelleket készítenél és CNC programok írását tanulnád meg.
-gyártási folyamatok automatizálását szeretnéd megtervezni.
-mikróvezérlők és PLC programozását szeretnéd elsajátítani.
+- komplex rendszerek irányítását szeretnéd felügyelni, melyek magukba foglalnak mechanikai és elektronikai elemeket, illetve ezek programozását is.
+-robotokat terveznél és/vagy programoznál.
+- alkatrészeket, berendezéseket terveznél CAD környezetben.
+- 3D modelleket készítenél és CNC programok írását tanulnád meg.
+- gyártási folyamatok automatizálását szeretnéd megtervezni.
+- mikróvezérlők és PLC programozását szeretnéd elsajátítani.
 ### Főbb tantárgyak:
-* mechanizmusok
-* számítógépes tervezés (CAD)
-* robotok modellezése és programozása
-* mesterséges intelligencia
-* mechatronikai rendszerek tervezése
-* analóg és digitális elektronika
-* CNC vezérlés és -programozás
+* mechanizmusok.
+* számítógépes tervezés (CAD).
+* robotok modellezése és programozása.
+* mesterséges intelligencia.
+* mechatronikai rendszerek tervezése.
+* analóg és digitális elektronika.
+* CNC vezérlés és -programozás.
 ### Elhelyezkedési lehetőségek:
-* mechatronikus mérnök
-* robottervező és -programozó
-* automatizálási szakember
-* folyamatvezérlő (PLC) programozó
-* tervezőmérnök
-* termékfejlesztő
-* termelésirendszer-szakember
+* mechatronikus mérnök.
+* robottervező és -programozó.
+* automatizálási szakember.
+* folyamatvezérlő (PLC) programozó.
+* tervezőmérnök.
+* termékfejlesztő.
+* termelésirendszer-szakember.
 ### Tudod-e, hogy...
-immár hat éve részt veszünk a Aventics Pneumatika Kft. által Egerben szervezett Pneumobil nemzetközi versenyen, és eddig minden évben díjazták a saját tervezésű és kivitelezésű, sűrített levegővel működtetett járműveinket?
+Immár hat éve részt veszünk a Aventics Pneumatika Kft. által Egerben szervezett Pneumobil nemzetközi versenyen, és eddig minden évben díjazták a saját tervezésűés kivitelezésű, sűrített levegővel működtetett járműveinket?
 ### A felvételi jegy összetétele:
-25% az érettségi vizsga átlaga.
-75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért jegy, VAGY az írásbeli felvételi vizsgán Matematikából, Informatikából vagy Fizikából elért jegyek közül a legnagyobb.
+* 25% az érettségi vizsga átlaga.
+* 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért jegy, VAGY az írásbeli felvételi vizsgán Matematikából, Informatikából vagy Fizikából elért jegyek közül a legnagyobb.
 FIGYELEM: az érettségi vizsga Matematika // Informatika // Fizika jegy esetében szorzót használunk (bővebben lásd a felvételi szabályzatot (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok)).
 ### Felvételi kedvezmények
-lásd: Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok)
+lásd: Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok).
 ### Megjegyzések
 Azok az érettségizett diákok, akik egy Sapientia ECN programozó versenyen az első három helyezést elért középiskolás csapat valamelyikének tagjai voltak, felvételi nélkül tandíjmentes helyre jogosultak az egyetem azon szakán (Gépészmérnöki, Mechatronika, Automatika és alkalmazott informatika, Számítástechnika, Távközlés, Informatika), amelyre jelentkeznek.
 A Kari Felvételi Bizottság a felvételi jegy kiszámításánál figyelembe veszi a különböző tantárgyversenyeken vagy teszteken elért eredményeket.
 A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok) mellékleteiben.
 A jelentkező a felvételi díj kifizetése alól nem mentesül.
 Amennyiben a jelentkező több szakra is felvételt nyert, csak egy szakot végezhet tandíjmentes helyen.
-### Mi szükséges a felvételi mappához?
-A felvételire való beiratkozáshoz az szükséges iratok (http://www.sapientia.ro/hu/felveteli/szukseges-iratok) kellenek.
+A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek (http://www.sapientia.ro/hu/felveteli/szukseges-iratok).
 # Számítástechnika mérnöki szak
-Helyek száma:
+## Helyek száma
 - 25 Tandíjmentes hely
 - 15 Költség-hozzájárulásos hely
 - 5 Differenciált költség-hozzájárulásos
 Költség-hozzájárulás összege: 500 euró/év
 Differenciált költség-hozzájárulás összege: 700 euró/év
 Képzés időtartama: 4 év
-A felvételi jegy összetétele:
-- 25% az érettségi vizsga átlaga
-- 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért legnagyobb jegy vagy írásbeli felvételi ezen tantárgyak valamelyikéből.
-//FIGYELEM: az érettségi vizsga Matematika//Informatika//Fizika jegy esetében szorzót használunk.
-Beiratkozási időszak: 2025. július 1 - 13.
-Szükséges iratok itt.
-- **Képzési ág**: Számítástechnika és információtechnológia
-- **Szak:** Számítástechnika
-- **Képzés időtartama és formája:** 4 éves nappali alapképzés
-- **Online iratkozás:** Online iratkozás
-Román nyelvű tanterv.
-## Neked ajánljuk, ha...
-- szeretnél szoftvert tervezni és fejleszteni, legyen az egyszerű mobil alkalmazás vagy komplex ipari folyamat vezérlő vagy webalkalmazás.
-- érdekel a jövő technológiája: a mesterséges intelligencia, a robotika, az operációs rendszerek és a felhőalapú rendszerek csak néhány olyan terület, amelyeken a számítástechnika szak mérnökei dolgoznak.
-- érdekel a számítógépek vagy a különböző számítástechnikai eszközök (okostelefon, táblagép, mikrovezérlő, jelfeldolgozó processzor, programozható logikai vezérlő) belső felépítése és tervezése.
-- ha rugalmas karrierlehetőségekre vágysz: számítástechnika számos ágazatba nyújt belépési lehetőséget, az egészségügytől a pénzügyön át egészen a játékfejlesztésig.
-## Főbb tantárgyak:
-- programozás és szoftvertervezés;
-- mesterséges intelligencia;
-- mikroprocesszoros rendszerek tervezése és programozása;
-- operációs rendszerek és számítógép architektúrák;
-- számítógép hálózatok.
-## Elhelyezkedési lehetőségek:
-- szoftvertervező, programozó, rendszertesztelő;
-- mikroprocesszoros áramkörök és eszközök tervezője és kivitelezője;
-- számítógép hálózatok tervezője és kivitelezője;
-- mesterséges intelligencia és gépi tanulás ipari alkalmazása;
-- rendszergazda.
-## Tudod-e, hogy...
-- a diákok és tanárok közös kutatások keretében az emberi agy-számítógép-interfész fejlesztésével, az emberi géntérkép elemzésével, robotok építésével, mobiltelefonos alkalmazások fejlesztésével is foglalkoznak?
-- A végzős diákjaink számára mesterképzés lehetőséget biztosítunk két szakon: az Eötvös Lóránd Tudományegyetemmel közösen indított Szoftverfejlesztés mesteri szakon és a Pannon Egyetemmel közösen indított Számítógépes irányítási rendszerek mesteri szakon?
 ## A felvételi jegy összetétele
-- 25% az érettségi vizsga átlaga.
-- 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért jegy, VAGY az írásbeli felvételi vizsgán Matematikából, Informatikából vagy Fizikából elért jegyek közül a legnagyobb.
-- FIGYELEM: az érettségi vizsga Matematika // Informatika // Fizika jegy esetében szorzót használunk.
-(bővebben lásd a felvételi szabályzatot).
+- 25% az érettségi vizsga átlaga
+- 75% az érettségi írásbeli vizsgán Matematikából, Informatikából vagy Fizikából elért legnagyobb jegy vagy írásbeli felvételi ezen tantárgyak valamelyikéből
+FIGYELEM: az érettségi vizsga Matematika // Informatika // Fizika jegy esetében szorzót használunk (bővebben lásd a felvételi szabályzatot (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok)).
+Beiratkozási időszak: 2025. július 1 - 13.
+Szükséges iratok itt (http://www.sapientia.ro/hu/felveteli/szukseges-iratok).
+Számítástechnika mérnöki szak
+Képzési ág: Számítástechnika és információtechnológia
+Szak: Számítástechnika
+Képzés időtartama és formája: 4 éves nappali alapképzés
+Online iratkozás: Online iratkozás (https://felveteli.sapientia.ro/).
+Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek).
+## Neked ajánljuk, ha...
+* szeretnél szoftvert tervezni és fejleszteni, legyen az egyszerű mobil alkalmazás vagy komplex ipari folyamat vezérlő vagy webalkalmazás.
+* érdekel a jövő technológiája: a mesterséges intelligencia, a robotika, az operációs rendszerek és a felhőalapú rendszerek csak néhány olyan terület, amelyeken a számítástechnika szak mérnökei dolgoznak.
+* érdekel a számítógépek vagy a különböző számítástechnikai eszközök (okostelefon, táblagép, mikrovezérlő, jelfeldolgozó processzor, programozható logikai vezérlő) belső felépítése és tervezése.
+* ha rugalmas karrierlehetőségekre vágysz: számítástechnika számos ágazatba nyújt belépési lehetőséget, az egészségügytől a pénzügyön át egészen a játékfejlesztésig.
+## Főbb tantárgyak:
+* programozás és szoftvertervezés.
+* mesterséges intelligencia.
+* mikroprocesszoros rendszerek tervezése és programozása.
+* operációs rendszerek és számítógép architektúrák.
+* számítógép hálózatok.
+## Elhelyezkedési lehetőségek:
+* szoftvertervező, programozó, rendszertesztelő.
+* mikroprocesszoros áramkörök és eszközök tervezője és kivitelezője.
+* számítógép hálózatok tervezője és kivitelezője.
+* mesterséges intelligencia és gépi tanulás ipari alkalmazása.
+* rendszergazda.
+## Tudod-e, hogy...
+A diákok és tanárok közös kutatások keretében az emberi agy-számítógép-interfész fejlesztésével, az emberi géntérkép elemzésével, robotok építésével, mobiltelefonos alkalmazások fejlesztésével is foglalkoznak?
+A végzős diákjaink számára mesterképzés lehetőséget biztosítunk két szakon: az Eötvös Lóránd Tudományegyetemmel közösen indított Szoftverfejlesztés (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szoftverfejlesztes-szak) mesteri szakon és a Pannon Egyetemmel közösen indított Számítógépes irányítási rendszerek (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szamitogepes-iranyitasi-rendszerek-szak) mesteri szakon?
 ## Felvételi kedvezmények
-- lásd: Kari felvételi szabályzat.
+lásd: Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok).
 ## Megjegyzések
-Azok az érettségizett diákok, akik egy Sapientia ECN programozói versenyen az első három helyezést elért középiskolás csapat valamelyikének tagjai voltak, felvételi nélkül tandíjmentes helyre jogosultak az egyetem azon műszaki szakán, amelyre jelentkeznek.
+Azok az érettségizett diákok, akik egy Sapientia ECN programozói versenyen az első három helyezést elért középiskolás csapat valamelyikének tagjai voltak, felvételi nélkül tandíjmentes helyre jogosultak az egyetem azon műszaki szakán (Gépészmérnöki (https://ms.sapientia.ro/hu/felveteli/alapkepzes/gepeszmernoki-szak), Mechatronika (https://ms.sapientia.ro/hu/felveteli/alapkepzes/mechatronika-szak), Automatika és alkalmazott informatika (https://ms.sapientia.ro/hu/felveteli/alapkepzes/automatika-es-alkalmazott-informatika-mernok-szak), Számítástechnika (https://ms.sapientia.ro/hu/felveteli/alapkepzes/szamitastechnika-szak), Távközlés (https://ms.sapientia.ro/hu/felveteli/alapkepzes/infokommunikacios-halozatok-es-rendszerek-tavkozles-szak), Informatika (https://ms.sapientia.ro/hu/felveteli/alapkepzes/informatika-szak)) amelyre jelentkeznek.
 A Kari Felvételi Bizottság a felvételi jegy kiszámításánál figyelembe veszi a különböző tantárgyversenyeken vagy teszteken elért eredményeket.
-A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok mellékleteiben.
+A tantárgyversenyek és tesztek pontos listája, valamint az elért eredmények beszámításának módja elérhető a kari felvételi szabályzatok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok) mellékleteiben.
 A jelentkező a felvételi díj kifizetése alól nem mentesül.
 Amennyiben a jelentkező több szakra is felvételt nyert, csak egy szakot végezhet tandíjmentes helyen.
 ## Mi szükséges a felvételi mappához?
-A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek.
-Linkek a fő tartalomból:
-Online iratkozás (https://felveteli.sapientia.ro/)
-Román nyelvű tanterv (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
-Szoftverfejlesztés mesteri szakon (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szoftverfejlesztes-szak)
-Számítógépes irányítási rendszerek mesteri szakon (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szamitogepes-iranyitasi-rendszerek-szak)
-felvételi szabályzatot (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok)
-Kari felvételi szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok)
-itt felsorolt iratok kellenek. (http://www.sapientia.ro/hu/felveteli/szukseges-iratok)
+A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek. (http://www.sapientia.ro/hu/felveteli/szukseges-iratok)
 # Mesterképzés
 Fejlett mechatronikai rendszerek szak (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/fejlett-mechatronikai-rendszerek-szak)
 Növényorvos szak (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/novenyorvos-szak)
 Számítógépes irányítási rendszerek szak (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szamitogepes-iranyitasi-rendszerek-szak)
 Szoftverfejlesztés szak (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szoftverfejlesztes-szak)
 # Fejlett mechatronikai rendszerek szak
-- Helyek száma: 15 Tandíjmentes hely
-- Helyek száma: 15 Tandíjas hely
-- Teljes tandíj összege: 700 euró/év
-- Képzés időtartama: 2 év
-- A felvételi jegy összetétele: 50% a licensz vizsga átlaga
-- A felvételi jegy összetétele: 50% szóbeli vizsga
-- Beiratkozási időszak: 2025. július 1 - 15.
+## Helyek száma:
+- 15 Tandíjmentes hely
+- 15 Tandíjas hely
+Teljes tandíj összege: 700 euró/év
+Képzés időtartama: 2 év
+## A felvételi jegy összetétele:
+- 50% a licensz vizsga átlaga
+- 50% szóbeli vizsga
+Beiratkozási időszak: 2025. július 1 - 15.
+Szükséges iratok itt (https://sapientia.ro/hu/felveteli/szukseges-iratok)
 **Saját, nemzetköziesített mesteri szak**
-- Partnerintézmény: Nyíregyházi Egyetem, Pannon Egyetem, Veszprém (magyarországi oktatók közreműködésével)
-- Képzési ág: Mechatronika és robotika
-- Szak: Fejlett mechatronikai rendszerek
-- Képzés időtartama és formája: 2 éves nappali képzés
-- Online iratkozás
-## Neked ajánljuk, ha…
-- úgy érzed, hogy tanulhatsz még valamit mechatronikából.
-- mélyebb betekintést szeretnél a rendszerek felépítésébe, működésébe.
-- úgy gondolod, hogy a robotok többre is képesek lehetnek.
-## Főbb tantárgyak:
-- beágyazott elektronikai rendszerek.
-- speciális hajtások a mechatronikában.
-- fejlett PLC-alkalmazások a mechatronikában.
-- gépi látás és formafelismerés.
-- osztott szabályozási rendszerek és ipari kommunikáció.
-- fejlett mechatronikai rendszerek.
-## Elhelyezkedési lehetőségek:
-- mechatronikus mérnök.
-- tervezőmérnök.
-- termékfejlesztő.
-- termelésirendszer-szakember.
-- automatizálási szakember.
-## Tudod-e, hogy...?
-- egyre több cég keresi a gépész- és villamosismeretekkel rendelkező szakembereket?
-## Felvételi kritériumok:
-- 50% a licensz vizsga átlaga.
-- 50% szóbeli vizsga.
-## Mi szükséges a felvételi mappához?
-A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek.
-Dokumentumok és linkek:
-Szükséges iratok (https://sapientia.ro/hu/felveteli/szukseges-iratok)
-Online iratkozás (https://felveteli.sapientia.ro/)
+* **Partnerintézmény:** Nyíregyházi Egyetem, Pannon Egyetem, Veszprém (magyarországi oktatók közreműködésével)
+* **Képzési ág:** Mechatronika és robotika
+* **Szak:** Fejlett mechatronikai rendszerek
+* **Képzés időtartama és formája:** 2 éves nappali képzés
+* Online iratkozás (https://felveteli.sapientia.ro/)
 ROMÁN NYELVŰ TANTERV (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
 Felvételi tematika (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-tematika)
+### Neked ajánljuk, ha…
+* úgy érzed, hogy tanulhatsz még valamit mechatronikából;
+* mélyebb betekintést szeretnél a rendszerek felépítésébe, működésébe;
+* úgy gondolod, hogy a robotok többre is képesek lehetnek.
+### Főbb tantárgyak:
+* beágyazott elektronikai rendszerek;
+* speciális hajtások a mechatronikában;
+* fejlett PLC-alkalmazások a mechatronikában;
+* gépi látás és formafelismerés;
+* osztott szabályozási rendszerek és ipari kommunikáció;
+* fejlett mechatronikai rendszerek.
+### Elhelyezkedési lehetőségek:
+* mechatronikus mérnök;
+* tervezőmérnök;
+* termékfejlesztő;
+* termelésirendszer-szakember;
+* automatizálási szakember.
+### Tudod-e, hogy...?
+* egyre több cég keresi a gépész- és villamosismeretekkel rendelkező szakembereket?
+### Felvételi kritériumok:
+* 50% a licensz vizsga átlaga;
+* 50% szóbeli vizsga.
+### Mi szükséges a felvételi mappához?
+A felvételire való beiratkozáshoz az itt felsorolt iratok kellenek. (http://www.sapientia.ro/hu/felveteli/szukseges-iratok)
 # Növényorvos szak
-## Felvételi Információk
-Helyek száma:
+## Helyek száma:
 - Tandíjmentes hely: 15
 - Tandíjas hely: 5
 Teljes tandíj összege: 500 euró/év
 Képzés időtartama: 2 év
-A felvételi jegy összetétele:
+## A felvételi jegy összetétele:
 - a licensz vizsga átlaga: 30%
 - írásbeli vizsga: 40%
 - személyes meghallgatás eredménye: 30%
 Beiratkozási időszak: 2025. július 1 - 15.
 Szükséges iratok (https://sapientia.ro/hu/felveteli/szukseges-iratok)
-## A szakról
-* Saját, nemzetköziesített mesteri szak
-* Partnerintézmény: Corvinus Egyetem, Kertészettudományi Kar (magyarországi oktatók közreműködésével)
-* Képzési ág: Kertészet
-* Szak: Növényorvos
-* Képzés időtartama és formája: 2 éves nappali képzés
-* Online iratkozás (https://felveteli.sapientia.ro/)
-* ROMÁN NYELVŰ TANTERV (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
-* Felvételi tematika (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-tematika)
-## Neked ajánljuk, ha…
+Saját, nemzetköziesített mesteri szak.
+Partnerintézmény: Corvinus Egyetem, Kertészettudományi Kar (magyarországi oktatók közreműködésével).
+Képzési ág: Kertészet
+Szak: Növényorvos
+Képzés időtartama és formája: 2 éves nappali képzés
+Online iratkozás (https://felveteli.sapientia.ro/)
+ROMÁN NYELVŰ TANTERV (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
+Felvételi tematika (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-tematika)
+### Neked ajánljuk, ha…
 * növényeket szeretnél gyógyítani;
 * érdekel az invazív gyomnövények terjedésének vizsgálata;
 * pontos ismereteket szeretnél a növények betegségeiről és kártevőiről;
 * felelősséget érzel a környezeted jövőjéért.
-## Főbb tantárgyak
+### Főbb tantárgyak
 * herbológia;
 * virológia;
 * növényvédelmi mikrobiológia;
@@ -1526,100 +1523,96 @@ Szükséges iratok (https://sapientia.ro/hu/felveteli/szukseges-iratok)
 * biológiai növényvédelem;
 * gyümölcstermőnövények és szőlőnövényvédelme;
 * zöldségfélék és dísznövények növényvédelme.
-## Elhelyezkedési lehetőségek:
-* növényvédelmi szakember, tanácsadó
-## Tudod-e, hogy...
-növényvédelem nélkül elképzelhetetlen a növénytermesztés?
-a növényvédőszerek egy részét kizárólag növényvédelmi szakember juttathatja ki?
-hajtatott zöldségtermesztésben egyre inkább teret nyer a biológiai növényvédelem?
-a növényvédőszerek ésszerű használatával nagymértékben csökkenthető ezek környezetkárosító hatása?
+### Elhelyezkedési lehetőségek:
+* növényvédelmi szakember, tanácsadó.
+### Tudod-e, hogy...
+* növényvédelem nélkül elképzelhetetlen a növénytermesztés?
+* a növényvédőszerek egy részét kizárólag növényvédelmi szakember juttathatja ki?
+* hajtatott zöldségtermesztésben egyre inkább teret nyer a biológiai növényvédelem?
+* a növényvédőszerek ésszerűhasználatával nagymértékben csökkenthetőezek környezetkárosító hatása?
 # Számítógépes irányítási rendszerek szak
-Helyek száma:
-- 15 Tandíjmentes hely
-- 15 Tandíjas hely
+Helyek száma: 15 Tandíjmentes hely
+Helyek száma: 15 Tandíjas hely
 Teljes tandíj összege: 700 euró/év
 Képzés időtartama: 2 év
+A felvételi jegy összetétele: 50% a licensz vizsga átlaga
+A felvételi jegy összetétele: 50% írásbeli vizsga
 Beiratkozási időszak: 2025. július 1 - 15.
-Saját, nemzetköziesített mesteri szak.
-Partnerintézmény: Pannon Egyetem.
-Képzési ág: Rendszermérnöki.
-Szak: Számítógépes irányítási rendszerek szak.
-Képzés időtartama és formája: 2 éves nappali képzés.
-Online iratkozás.
-## Neked ajánljuk, ha…
-az alapképzésben a rendszerek szabályozása és programozása terén elsajátított alapismereteket tovább szeretnéd bővíteni;
-érdekel az autóiparban használt folyamatirányítás, hogyan lát egy robot, hogyan kommunikálnak az együttműködő robotok, az orvosi berendezésekben használt méréstechnika és képalkotás.
-## Főbb tantárgyak:
-- korszerűirányítási eljárások;
-- autonóm és távvezérelt rendszerek;
-- mesterséges intelligencia;
-- gépi látás;
-- szervohajtások;
-- beágyazott rendszerek;
-- osztott rendszerek és ipari hálózatok;
-- szenzorhálózatok.
-## Elhelyezkedési lehetőségek:
-- kutató az ipari robotok, folyamatirányító rendszerek, automatizálás, számítástechnika, alkalmazott elektronika szakterületeken;
-- tudományos kutatási és fejlesztési szakember;
-- oktató.
-## Tudod-e, hogy…
-a folyamatirányítási mérnök világszerte keresett szakember?
-a mesteri képzés az első lépcsője a kutatói pályának?
-a mesteri szakon a veszprémi Pannon Egyetem vendégtanárai is oktatnak?
-## A felvételi jegy összetétele:
-- 50% a licensz vizsga átlaga;
-- 50% írásbeli vizsga.
-Linkek:
-Szükséges iratok (https://sapientia.ro/hu/felveteli/szukseges-iratok)
+Szükséges iratok itt (https://sapientia.ro/hu/felveteli/szukseges-iratok)
+Saját, nemzetköziesített mesteri szak
+Partnerintézmény: Pannon Egyetem
+Képzési ág: Rendszermérnöki
+Szak: Számítógépes irányítási rendszerek szak
+Képzés időtartama és formája: 2 éves nappali képzés
 Online iratkozás (https://felveteli.sapientia.ro/)
 ROMÁN NYELVŰ TANTERV (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
 Felvételi tematika (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-tematika)
+### Neked ajánljuk, ha…
+* az alapképzésben a rendszerek szabályozása és programozása terén elsajátított alapismereteket tovább szeretnéd bővíteni.
+* érdekel az autóiparban használt folyamatirányítás, hogyan lát egy robot, hogyan kommunikálnak az együttműködő robotok, az orvosi berendezésekben használt méréstechnika és képalkotás.
+### Főbb tantárgyak:
+* korszerűirányítási eljárások
+* autonóm és távvezérelt rendszerek
+* mesterséges intelligencia
+* gépi látás
+* szervohajtások
+* beágyazott rendszerek
+* osztott rendszerek és ipari hálózatok
+* szenzorhálózatok
+### Elhelyezkedési lehetőségek:
+* kutató az ipari robotok, folyamatirányító rendszerek, automatizálás, számítástechnika, alkalmazott elektronika szakterületeken
+* tudományos kutatási és fejlesztési szakember
+* oktató
+### Tudod-e, hogy…
+* a folyamatirányítási mérnök világszerte keresett szakember?
+* a mesteri képzés az első lépcsője a kutatói pályának?
+* a mesteri szakon a veszprémi Pannon Egyetem vendégtanárai is oktatnak?
+### A felvételi jegy összetétele:
+* 50% a licensz vizsga átlaga.
+* 50% írásbeli vizsga.
 # Szoftverfejlesztés szak
 Helyek száma:
-- Tandíjmentes hely: 15
-- Tandíjas hely: 15
-Teljes tandíj összege: 500 euró/év.
-Képzés időtartama: 2 év.
-A felvételi jegy összetétele:
-- a licensz vizsga átlaga: 50%.
-- írásbeli vizsga: 50%.
+* Tandíjmentes hely: 15
+* Tandíjas hely: 15
+Teljes tandíj összege: 500 euró/év
+Képzés időtartama: 2 év
+## A felvételi jegy összetétele:
+* A licensz vizsga átlaga: 50%
+* Írásbeli vizsga: 50%
 Beiratkozási időszak: 2025. július 1 - 15.
-Szükséges iratok (https://sapientia.ro/hu/felveteli/szukseges-iratok).
-Saját, nemzetköziesített mesteri szak.
+Szükséges iratok itt (https://sapientia.ro/hu/felveteli/szukseges-iratok)
+Saját, nemzetköziesített mesteri szak
 Partnerintézmény: Eötvös Loránd Tudományegyetem, Informatika Kar (magyarországi oktatók közreműködésével).
 Képzési ág: Informatika.
 Szak: Szoftverfejlesztés.
 Képzés időtartama és formája: 2 éves nappali képzés.
-Online iratkozás (https://felveteli.sapientia.ro/).
-ROMÁN NYELVŰ TANTERV (https://ms.sapientia.ro/hu/hallgatoknak/tantervek).
-Felvételi tematika (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-tematika).
+Online iratkozás (https://felveteli.sapientia.ro/)
+ROMÁN NYELVŰ TANTERV (https://ms.sapientia.ro/hu/hallgatoknak/tantervek)
+Felvételi tematika (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-tematika)
 ## Neked ajánljuk, ha…
-Szoftverfejlesztési ismereteidet szeretnéd elmélyíteni.
-Minőségi szoftverprojekteket szeretnél menedzselni.
-Újabb szoftverfejlesztési technológiákkal szeretnél megismerkedni.
+* szoftverfejlesztési ismereteidet szeretnéd elmélyíteni
+* minőségi szoftverprojekteket szeretnél menedzselni
+* újabb szoftverfejlesztési technológiákkal szeretnél megismerkedni
 ## Főbb tantárgyak:
-Szoftverprojektek menedzselése.
-Szoftverfejlesztés minőségbiztosítás.
-Modern adatbázis kezelőrendszerek.
-Szoftverrendszerek modellezése.
-Intelligens módszerek.
-Virtuális valóság-modellezés és programozási módszerek.
+* szoftverprojektek menedzselése
+* szoftverfejlesztés minőségbiztosítás
+* modern adatbázis kezelőrendszerek
+* szoftverrendszerek modellezése
+* intelligens módszerek
+* virtuális valóság-modellezés és programozási módszerek
 ## Elhelyezkedési lehetőségek:
-Programtervező.
-Szoftver-projektmenedzser.
-Információtechnológiai szakértő, tanácsadó.
-Informatikatanár.
-Kutató.
+* programtervező
+* szoftver-projektmenedzser
+* információtechnológiai szakértő, tanácsadó
+* informatikatanár
+* kutató
 ## Tudod-e, hogy…
 A budapesti Eötvös Loránd Tudományegyetem oktatóival közreműködve történik az oktatás?
-## A felvételi jegy összetétele:
-A licensz vizsga átlaga: 50%.
-Az írásbeli vizsga: 50%.
 # Felvételi ütemezés
-**Online iratkozás: 2025. július 1 - július 13**
-**Felvételi vizsga: 2025. július 15., kedd, 10 óra**
-**Online iratkozás: 2025. július 1 - július 15**
-**Felvételi vizsga: 2025. július 17., csütörtök**
+Online iratkozás: 2025. július 1 - július 13
+Felvételi vizsga: 2025. július 15., kedd, 10 óra
+Online iratkozás: 2025. július 1 - július 15
+Felvételi vizsga: 2025. július 17., csütörtök
 # Felvételi tudnivalók
 Felvételi ütemezés (https://ms.sapientia.ro/hu/felveteli/felveteli-utemezes)
 Felvételi kritériumok és beiskolázási számok 2025 (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-kriteriumok-es-beiskolazasi-szamok-2025)
@@ -1628,74 +1621,75 @@ Felvételi tematika (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/
 Felvételi szabályzatok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok)
 Lapozható tájékoztató füzet (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/lapozhato-tajekoztato-fuzet)
 Szakcsoportok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/szakcsoportok)
-Külföldi oklevéllel rendelkezők beiratkozása (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/kulfoldi-oklevellel-rendelkezok-beiratkozasa)# Felvételi kritériumok és beiskolázási számok 2025
+Külföldi oklevéllel rendelkezők beiratkozása (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/kulfoldi-oklevellel-rendelkezok-beiratkozasa)
 # Felvételi kritériumok és helyek száma - 2025
 alapképzés (https://ms.sapientia.ro/content/docs/MS/Felveteli/2025/MK_szenatusra_Felveteli_kriteriumok_2025_Alapkepzes.pdf)
 mesterképzés (https://ms.sapientia.ro/content/docs/MS/Felveteli/2025/MK_szenatusra_Felveteli_kriteriumok_2025_Mesteri.pdf)
 # Felvételi mappához szükséges iratok
 Szükséges iratok (https://sapientia.ro/hu/felveteli/szukseges-iratok)
 # Felvételi tematika
-Felvételi tematika, mintafeladatok, mintatételek
-## Alapképzés
-A felvételi vizsga kötelező azon jelentkezők számára, akik nem rendelkeznek érettségi írásbeli vizsga jeggyel matematikából, informatikából vagy fizikából, és az Automatika és alkalmazott informatika, Informatika, Számítástechnika, Infokommunikációs hálózatok és rendszerek (Távközlés), Mechatronika és Gépészmérnöki szakok egyikére jelentkeztek.
+**Felvételi tematika, mintafeladatok, mintatételek**
+**Alapképzés**
+A felvételi vizsga kötelező azon jelentkezők számára, akik nem rendelkeznek érettségi írásbeli vizsga jeggyel matematikából, informatikából vagy fizikából, és az Automatika és alkalmazott informatika, Informatika, Számítástechnika, Infokommunikációs hálózatok és rendszerek (Távközlés), Mechatronika és Gépészmérnöki szakok egyikére jelentkeztek:
 Fizika (https://ms.sapientia.ro/data/Tematika_Fizika_felveteli_2016.pdf)
 Informatika (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/Felveteli_tematika_INFO.pdf)
 Matematika (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/Felveteli%20Tematika.pdf)
-A Fordító-tolmács szakra jelentkezők számára, amennyiben a jelentkező nem rendelkezik a felvételi jegy 2. és/vagy 3. összetevőjével (lásd a Felvételi Szabályzat (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/felveteli-szabalyzatok) 5.7. fejezetét).
+A Fordító-tolmács szakra jelentkezők számára, amennyiben a jelentkező nem rendelkezik a felvételi jegy 2. és/vagy 3. összetevőjével (lásd a Felvételi Szabályzat 5.7. fejezetét):
 Fordító-Tolmács szak tételminta (angol) (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/Sapientia%20EMTE%20Fordito%20tetelminta%20EN%202022.pdf)
 Fordító-Tolmács szak tételminta (magyar) (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/Sapientia%20EMTE%20Fordito%20tetelminta%20HU%202022.pdf)
 Fordító-Tolmács szak tételminta (német) (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/Sapientia%20EMTE%20Fordito%20tetelminta%20DE%202022.pdf)
-Felvételi kritériumok itt (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-kriteriumok-es-beiskolazasi-szamok-2024).
-## Mesterképzés
+Felvételi kritériumok itt (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-kriteriumok-es-beiskolazasi-szamok-2024)
+**Mesterképzés**
 Fejlett mechatronikai rendszerek (https://ms.sapientia.ro/content/docs/MS/Felv%C3%A9teli-tematika-FMR-2024-HU.pdf)
 Növényorvos (https://ms.sapientia.ro/content/docs/MS/Felveteli/2024/Novenyorvos%20MSc%20felveteli%20tematika%202024.pdf)
 Szoftverfejlesztés (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/SZF_Tematika_2022_2023_HU.pdf) / RO (https://ms.sapientia.ro/content/docs/MS/Tematica_2022_2023_RO.pdf)
 Számítógépes irányítási rendszerek (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/SZIR%20mesteri_Tematika_2022_javitott_PDF.pdf) / RO (https://ms.sapientia.ro/content/docs/MS/Szir_tematika_romanul.pdf)
-## Az előző évek felvételi tételei
+**Az előző évek felvételi tételei**
 Fizika 2016 (https://ms.sapientia.ro/data/dokumentumok/felveteli-2018/Fizika%202016(1).pdf)
 Fizika 2017 (https://ms.sapientia.ro/data/dokumentumok/felveteli-2018/Fizika%202017.pdf)
 Fizika 2018 (https://ms.sapientia.ro/data/dokumentumok/zarovizsga%20tematikak/Fizika_2018.pdf)
 Fizika 2019 (https://ms.sapientia.ro/data/Fizika%202019%20nyar.pdf)
-Fizika 2023 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Fizika%20felveteli%20t%C3%A9tel%202023.pdf)
-Fizika 2023 javítókulcs (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Fizika%20felveteli%20javitokulcs%202023.pdf)
+Fizika 2023 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Fizika%20felveteli%20t%C3%A9tel%202023.pdf) (javítókulcs) (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Fizika%20felveteli%20javitokulcs%202023.pdf)
 Informatika 2016 (https://ms.sapientia.ro/data/dokumentumok/felveteli-2018/Informatika%202016.pdf)
 Informatika 2017 (https://ms.sapientia.ro/data/dokumentumok/felveteli-2018/Informatika%202017.pdf)
 Informatika 2018 (https://ms.sapientia.ro/data/javitokulcs%20INFOtetel%202018.pdf)
 Informatika 2019 (https://ms.sapientia.ro/data/Javitokulcs-INFOtetel%202019%20julius.pdf)
-Informatika 2022 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/OsziFelveteli_2022/DOC080922.pdf)
-Informatika 2022 javítókulcs (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/OsziFelveteli_2022/INFOtetel%202022_javitokulcs1_1.pdf)
-Informatika 2023 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/INFOtetel%202023%20szeptember_1.pdf)
-Informatika 2023 javítókulcs (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/javitokulcsINFO2023szeptember_1.pdf)
+Informatika 2022 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/OsziFelveteli_2022/DOC080922.pdf) (javítókulcs) (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/OsziFelveteli_2022/INFOtetel%202022_javitokulcs1_1.pdf)
+Informatika 2023 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/INFOtetel%202023%20szeptember_1.pdf) (javítókulcs) (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/javitokulcsINFO2023szeptember_1.pdf)
 Matematika 2016 (https://ms.sapientia.ro/data/dokumentumok/felveteli-2018/Matematika%202016.pdf)
 Matematika 2017 (https://ms.sapientia.ro/data/dokumentumok/felveteli-2018/Matematika%202017.pdf)
 Matematika 2018 (https://ms.sapientia.ro/data/Felveteli_Matek_2018-A-Varians.pdf)
 Matematika 2019 (https://ms.sapientia.ro/data/Felveteli_Matek19-A-VariansJAVITIKULCS.pdf)
 Matematika 2022 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/felveteli_matematika_honlapra_1.pdf)
-Matematika 2023 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Felveteli_Matek2023SZEPT-B-Varians_1.pdf)
-Matematika 2023 javítókulcs (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Felveteli_Matek2023SZEPT-B-VariansJAVITOKULCS_1.pdf)
-Angol v1 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/felv_23_oszi_4.pdf)
-Angol v2 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/felv_23_oszi_5.pdf)
-Angol v3 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/felv_23_oszi_6.pdf)# Felvételi szabályzatok
-A 2025/2026-os EGYETEMI felvételi szabályzat olvasható (https://sapientia.ro/content/Szabalyzatok/HU/Felveteli-szabalyzat_2025.pdf).
-A Sapientia EMTE Marosvásárhelyi Karának ALAPKÉPZÉSRE vonatkozó felvételi szabályzata érhető el (https://ms.sapientia.ro/content/docs/MS/Felveteli/2025/MK_Alapkepzes_felveteli_szabalyzat_2025-2026_vegleges.pdf).
-A Sapientia EMTE Marosvásárhelyi Karának MESTERKÉPZÉSRE vonatkozó felvételi szabályzata érhető el (https://ms.sapientia.ro/content/docs/MS/MK_Mesterkepzes%20felveteli%20szabalyzat%202025-2026_vegleges_alairva.pdf).
+Matematika 2023 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Felveteli_Matek2023SZEPT-B-Varians_1.pdf) (javítókulcs) (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Felveteli_Matek2023SZEPT-B-VariansJAVITOKULCS_1.pdf)
+Angol v1 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/felv_23_oszi_4.pdf) • v2 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/felv_23_oszi_5.pdf) • v3 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/felv_23_oszi_6.pdf)
+# Felvételi szabályzatok
+A 2025/2026-os EGYETEMI felvételi szabályzat (https://sapientia.ro/content/Szabalyzatok/HU/Felveteli-szabalyzat_2025.pdf) olvasható.
+A Sapientia EMTE Marosvásárhelyi Karának ALAPKÉPZÉSRE vonatkozó felvételi szabályzata (https://ms.sapientia.ro/content/docs/MS/Felveteli/2025/MK_Alapkepzes_felveteli_szabalyzat_2025-2026_vegleges.pdf) érhető el.
+A Sapientia EMTE Marosvásárhelyi Karának MESTERKÉPZÉSRE vonatkozó felvételi szabályzata (https://ms.sapientia.ro/content/docs/MS/MK_Mesterkepzes%20felveteli%20szabalyzat%202025-2026_vegleges_alairva.pdf) érhető el.
 # Lapozható tájékoztató füzet
 A Sapientia EMTE minden évben kiadja felvételi tájékoztató füzetét, mellyel a pályaválasztás előtt állókat szeretné segíteni.
 A kiadványban az egyetemi felvételire készülő diákok megtalálhatják a számukra leginkább tetsző szakot és sok fontos információt a felvételiről.
 # Külföldi oklevéllel rendelkezők beiratkozása
-Külföldi oklevéllel rendelkezők beiratkozása (https://www.sapientia.ro/hu/felveteli/kulfoldi-oklevellel-rendelkezoknek )
+Külföldi oklevéllel rendelkezők beiratkozása (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/kulfoldi-oklevellel-rendelkezok-beiratkozasa)
 # Nyílt Napok
 2025. március pénteki napjain megnyitja kapuit a Marosvásárhelyi Kar az érdeklődők előtt.
 Amennyiben betekintenél az egyetem mindennapjaiba, ne hagyd ki a lehetőséget!
 Kövesd figyelemmel a honlapot és közösségi felületeinket!
-Facebook (https://www.facebook.com/SapientiaMAROS)
-Instagram (https://www.instagram.com/sapientia_ms/)
 Figyelem: A látogatáshoz előzetes regisztráció szükséges!
 Jelentkezési ív (https://forms.gle/UvYbvuDpPipJso8T7)
 Bővebb információk:
 Ungvári Zsuzsi, kari PR-felelős
 ungvari.zsuzsa@ms.sapientia.ro
 0755-142-432
+Facebook (https://www.facebook.com/SapientiaMAROS)
+Instagram (https://www.instagram.com/sapientia_ms/)
+Jelentkezési ív (https://forms.gle/UvYbvuDpPipJso8T7)
+# Virtuális séta
+Csíkszereda (https://sapientia.ro/360/csik)
+Kolozsvár (https://sapientia.ro/360/kv)
+Marosvásárhely (https://sapientia.ro/360/ms)
+Sepsiszentgyörgy (https://sapientia.ro/360/sepsi)
 # Hallgatói tájékoztató
 Általános információk az egyetemről (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/altalanos-informaciok-az-egyetemrol)
 Gólyafüzet 2021 (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/golyafuzet-2021)
@@ -1860,7 +1854,8 @@ A 2018/2019-es tanév őszi kiegészítő vizsgabeosztása (https://ms.sapientia
 # Hallgatói pénzügyek
 Ösztöndíjak (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak)
 Fizetési határidők (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/fizetesi-hataridok)
-Adminisztratív díjak (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-dijak_)# Ösztöndíjak
+Adminisztratív díjak (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-dijak_)
+# Ösztöndíjak
 Ösztöndíjakról általában (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak/osztondijakrol-altalaban)
 Alkalmi ösztöndíjak (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak/alkalmi-osztondijak)
 Érdemösztöndíj (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/osztondijak/erdemosztondij)
@@ -1903,199 +1898,65 @@ Egy hallgató csak egyszer részesülhet Ferber-ösztöndíjban a képzése idej
 Dokumentumlinkek:
 Ferber-ösztöndíj odaítélésének kritérium rendszere (https://ms.sapientia.ro/content/docs/MS/Osztondijak/Ferber%20osztondijhoz%20kriteriumok%20VEGLEGES%202021jun22.pdf)
 # Fizetési határidők
-### **Tandíjak bankon keresztül utalhatóak a következő bankszámlára:**
+## **Tandíjak bankon keresztül utalhatóak a következő bankszámlára:**
 **RO48BTRLRONCRT0039221810**
 UNIVERSITATEA SAPIENTIA, CORUNCA, CF: 14645945
 **Az átutalási bizonylatra kérjük feltüntetni a kifizetés típusát (tandíj/taxa școlarizare), nevet, szakot.**
 **Fizetni online is lehetséges** ITT (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-dijak_)
-## Tandíj befizetési határidők a 2024/2025-ös tanévre, I-II.év
-- **500 euro tandíj hozzájárulás - 2500 RON**
-  - Díj megnevezése: I. félévi tandíj hozzájárulás
-    - Befizetési határidő: július 28.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 600
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: II. félévi tandíj hozzájárulás
-    - Befizetési határidő: október 31.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 650
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: március 31.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 1250
-- **700 euro tandíj hozzájárulás - 3500 RON**
-  - Díj megnevezése: I. félévi differenciált költséghozzájárulás
-    - Befizetési határidő: július 28.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 600
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: október 31.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 275
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: december 15.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 875
-  - Díj megnevezése: II. félévi differenciált költséghozzájárulás
-    - Befizetési határidő: március 31.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 875
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: május 15.
-    * Évfolyam: I-II.
-    * Jelenlegi összeg RON: 875
-- **900 euro tandíj hozzájárulás - 4500 RON**
-  - Díj megnevezése: I. félévi tandíj hozzájárulás - teljes tandíj
-    - Befizetési határidő: július 28.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 600
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: október 31.
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: 525
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: december 15.
-    - Évfolyam: I-II.
-    * Jelenlegi összeg RON: 1125
-  - Díj megnevezése: II. félévi tandíj hozzájárulás - teljes tandíj
-    - Befizetési határidő: március 31.
-    - Évfolyam: I-II.
-    * Jelenlegi összeg RON: 1125
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: május 15.
-    * Évfolyam: I-II.
-    * Jelenlegi összeg RON: 1125
-- **Minden szak**
-  - Díj megnevezése: újra felvett tantárgy díja
-    - Befizetési határidő: tanévkezdés -1 hét
-    - Évfolyam: I-II.
-    - Jelenlegi összeg RON: kreditszám x 50 lej
-    - Mulasztás következménye: nem vizsgázhat
-  - Díj megnevezése: kiegészítő-vizsgadíj
-    - Befizetési határidő: (nincs megadva)
-    - Évfolyam: (nincs megadva)
-    - Jelenlegi összeg RON: 100 lej
-    - Mulasztás következménye: nem vizsgázhat
-  - Díj megnevezése: visszairatkozás az egyetemre
-    - Befizetési határidő: tanévkezdés -1 hét
-    - Évfolyam: (nincs megadva)
-    - Jelenlegi összeg RON: 100 lej
-    - Mulasztás következménye: nem írják vissza
-  - Díj megnevezése: törzskönyvi kivonat kibocsájtása
-    - Befizetési határidő: átvétel előtt
-    - Évfolyam: (nincs megadva)
-    - Jelenlegi összeg RON: 200 lej
-    - Mulasztás következménye: nem adják ki
-- **Felvételi - nyári vagy őszi**
-  - Díj megnevezése: beiratkozási díj
-    - Befizetési határidő: beiratkozáskor
-    - Évfolyam: 0
-    - Jelenlegi összeg RON: 100 lej
-    - Mulasztás következménye: (nincs megadva)
+## Tandíj befizetési határidők a 2024/2025-ös tanévre, I-II. év
+### Tandíj: 500 euro tandíj hozzájárulás - 2500 RON
+Díj megnevezése: I. félévi tandíj hozzájárulás, Befizetési határidő: július 28., Évfolyam: I-II., Jelenlegi összeg RON: 600, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi tandíj hozzájárulás, Befizetési határidő: október 31., Évfolyam: I-II., Jelenlegi összeg RON: 650, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi tandíj hozzájárulás, Befizetési határidő: március 31., Évfolyam: I-II., Jelenlegi összeg RON: 1250, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+### Tandíj: 700 euro tandíj hozzájárulás - 3500 RON
+Díj megnevezése: I. félévi differenciált költséghozzájárulás, Befizetési határidő: július 28., Évfolyam: I-II., Jelenlegi összeg RON: 600, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: I. félévi differenciált költséghozzájárulás, Befizetési határidő: október 31., Évfolyam: I-II., Jelenlegi összeg RON: 275, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: I. félévi differenciált költséghozzájárulás, Befizetési határidő: december 15., Évfolyam: I-II., Jelenlegi összeg RON: 875, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi differenciált költséghozzájárulás, Befizetési határidő: március 31., Évfolyam: I-II., Jelenlegi összeg RON:  875, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi differenciált költséghozzájárulás, Befizetési határidő: május 15., Évfolyam: I-II., Jelenlegi összeg RON: 875, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+### Tandíj: 900 euro tandíj hozzájárulás - 4500 RON
+Díj megnevezése: I. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: július 28., Évfolyam: I-II., Jelenlegi összeg RON: 600, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: I. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: október 31., Évfolyam: I-II., Jelenlegi összeg RON: 525, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: I. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: december 15., Évfolyam: I-II., Jelenlegi összeg RON: 1125, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: március 31., Évfolyam: I-II., Jelenlegi összeg RON: 1125, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: május 15., Évfolyam: I-II., Jelenlegi összeg RON: 1125, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+### Tandíj: Minden szak
+Díj megnevezése: újra felvett tantárgy díja, Befizetési határidő: tanévkezdés -1 hét, Évfolyam: I-II., Jelenlegi összeg RON: kreditszám x 50 lej, Mulasztás következménye: nem vizsgázhat
+Díj megnevezése: kiegészítő-vizsgadíj, Befizetési határidő: (üres), Évfolyam: I-II., Jelenlegi összeg RON: 100 lej, Mulasztás következménye: nem vizsgázhat
+Díj megnevezése: visszairatkozás az egyetemre, Befizetési határidő: tanévkezdés -1 hét, Évfolyam:  I-II., Jelenlegi összeg RON: 100 lej, Mulasztás következménye: nem írják vissza
+Díj megnevezése: törzskönyvi kivonat kibocsájtása, Befizetési határidő: átvétel előtt, Évfolyam:  I-II., Jelenlegi összeg RON: 200 lej, Mulasztás következménye: nem adják ki
+### Tandíj: Felvételi - nyári vagy őszi
+Díj megnevezése: beiratkozási díj, Befizetési határidő: beiratkozáskor, Évfolyam: 0, Jelenlegi összeg RON: 100 lej, Mulasztás következménye: (üres)
+
 ## Tandíj befizetési határidők a 2024/2025-ös tanévre, III-IV. év
-- **400 euro tandíj hozzájárulás - 2000 RON**
-  - Díj megnevezése: I. félévi tandíj hozzájárulás
-    - Befizetési határidő: október 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 1000
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: II. félévi tandíj hozzájárulás
-    - Befizetési határidő: március 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 1000
-- **500 euro tandíj hozzájárulás - 2500 RON**
-  - Díj megnevezése: I. félévi-másodszori beiratkozás utáni tandíj
-    - Befizetési határidő: október 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 1250
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: II. félévi-másodszori beiratkozás utáni tandíj
-    - Befizetési határidő: március 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 1250
-- **600 euro tandíj hozzájárulás - 3000 RON**
-  - Díj megnevezése: I. félévi differenciált költséghozzájárulás
-    - Befizetési határidő: október 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 750
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: december 15.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 750
-  - Díj megnevezése: II. félévi differenciált költséghozzájárulás
-    - Befizetési határidő: március 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 750
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: május 15.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 750
-- **700 euro tandíj hozzájárulás - 3500 RON**
-  - Díj megnevezése: I. félévi-harmadszori beiratkozás utáni tandíj
-    - Befizetési határidő: október 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 875
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: december 15.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 875
-  - Díj megnevezése: II. félévi-harmadszori beiratkozás utáni tandíj
-    - Befizetési határidő: március 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 875
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: május 15.
-    - Évfolyam: III-IV.
-    * Jelenlegi összeg RON: 875
-- **750 euro tandíj hozzájárulás - 3750 RON**
-  - Díj megnevezése: I. félévi tandíj hozzájárulás - teljes tandíj
-    - Befizetési határidő: október 31.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 950
-    - Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: december 15.
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: 925
-  - Díj megnevezése: II. félévi tandíj hozzájárulás - teljes tandíj
-    - Befizetési határidő: március 31.
-    - Évfolyam: III-IV.
-    * Jelenlegi összeg RON: 950
-  - Díj megnevezése: (folytatás)
-    - Befizetési határidő: május 16.
-    - Évfolyam: III-IV.
-    * Jelenlegi összeg RON: 925
-- **Minden szak**
-  - Díj megnevezése: újra felvett tantárgy díja
-    - Befizetési határidő: tanévkezdés - 1 hét
-    - Évfolyam: III-IV.
-    - Jelenlegi összeg RON: kreditszám x 50 lej
-    - Mulasztás következménye: nem vizsgázhat
-  - Díj megnevezése: kiegészítő-vizsgadíj
-    - Befizetési határidő: (nincs megadva)
-    - Évfolyam: (nincs megadva)
-    - Jelenlegi összeg RON: 100 lej
-    - Mulasztás következménye: nem vizsgázhat
-  - Díj megnevezése: visszairatkozás az egyetemre
-    - Befizetési határidő: tanévkezdés - 1 hét
-    - Évfolyam: (nincs megadva)
-    - Jelenlegi összeg RON: 100 lej
-    - Mulasztás következménye: nem írják vissza
-  - Díj megnevezése: törzskönyvi kivonat kibocsájtása
-    - Befizetési határidő: átvétel előtt
-    - Évfolyam: (nincs megadva)
-    - Jelenlegi összeg RON: 200 lej
-    - Mulasztás következménye: nem adják ki
-- **Felvételi - nyári vagy őszi**
-  - Díj megnevezése: beiratkozási díj
-    - Befizetési határidő: beiratkozáskor
-    - Évfolyam: 0
-    - Jelenlegi összeg RON: 100 lej
-    - Mulasztás következménye: (nincs megadva)
+### Tandíj: 400 euro tandíj hozzájárulás - 2000 RON
+Díj megnevezése: I. félévi tandíj hozzájárulás, Befizetési határidő: október 31., Évfolyam: III-IV., Jelenlegi összeg RON: 1000, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi tandíj hozzájárulás, Befizetési határidő: március 31., Évfolyam: III-IV., Jelenlegi összeg RON: 1000, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+### Tandíj: 500 euro tandíj hozzájárulás - 2500 RON
+Díj megnevezése: I. félévi-másodszori beiratkozás utáni tandíj, Befizetési határidő: október 31., Évfolyam: III-IV., Jelenlegi összeg RON: 1250, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi-másodszori beiratkozás utáni tandíj, Befizetési határidő: március 31., Évfolyam: III-IV., Jelenlegi összeg RON: 1250, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+### Tandíj: 600 euro tandíj hozzájárulás - 3000 RON
+Díj megnevezése: I. félévi differenciált költséghozzájárulás, Befizetési határidő: október 31., Évfolyam: III-IV., Jelenlegi összeg RON: 750, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: I. félévi differenciált költséghozzájárulás, Befizetési határidő: december 15., Évfolyam: III-IV., Jelenlegi összeg RON: 750, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi differenciált költséghozzájárulás, Befizetési határidő: március 31., Évfolyam: III-IV., Jelenlegi összeg RON: 750, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi differenciált költséghozzájárulás, Befizetési határidő: május 15., Évfolyam: III-IV., Jelenlegi összeg RON: 750, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+### Tandíj: 700 euro tandíj hozzájárulás - 3500 RON
+Díj megnevezése: I. félévi-harmadszori beiratkozás utáni tandíj, Befizetési határidő: október 31., Évfolyam: III-IV., Jelenlegi összeg RON: 875, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: I. félévi-harmadszori beiratkozás utáni tandíj, Befizetési határidő: december 15., Évfolyam: III-IV., Jelenlegi összeg RON: 875, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi-harmadszori beiratkozás utáni tandíj, Befizetési határidő: március 31., Évfolyam: III-IV., Jelenlegi összeg RON: 875, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi-harmadszori beiratkozás utáni tandíj, Befizetési határidő: május 15., Évfolyam: III-IV., Jelenlegi összeg RON: 875, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+### Tandíj: 750 euro tandíj hozzájárulás - 3750 RON
+Díj megnevezése: I. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: október 31., Évfolyam: III-IV., Jelenlegi összeg RON: 950, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: I. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: december 15., Évfolyam: III-IV., Jelenlegi összeg RON: 925, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: március 31., Évfolyam: III-IV., Jelenlegi összeg RON: 950, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+Díj megnevezése: II. félévi tandíj hozzájárulás - teljes tandíj, Befizetési határidő: május 16., Évfolyam: III-IV., Jelenlegi összeg RON: 925, Mulasztás következménye: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+### Tandíj: Minden szak
+Díj megnevezése: újra felvett tantárgy díja, Befizetési határidő: tanévkezdés - 1 hét, Évfolyam: III-IV., Jelenlegi összeg RON: kreditszám x 50 lej, Mulasztás következménye: nem vizsgázhat
+Díj megnevezése: kiegészítő-vizsgadíj, Befizetési határidő: (üres), Évfolyam: III-IV., Jelenlegi összeg RON: 100 lej, Mulasztás következménye: nem vizsgázhat
+Díj megnevezése: visszairatkozás az egyetemre, Befizetési határidő: tanévkezdés - 1 hét, Évfolyam: III-IV., Jelenlegi összeg RON: 100 lej, Mulasztás következménye: nem írják vissza
+Díj megnevezése: törzskönyvi kivonat kibocsájtása, Befizetési határidő: átvétel előtt, Évfolyam: III-IV., Jelenlegi összeg RON: 200 lej, Mulasztás következménye: nem adják ki
+### Tandíj: Felvételi - nyári vagy őszi
+Díj megnevezése: beiratkozási díj, Befizetési határidő: beiratkozáskor, Évfolyam: 0, Jelenlegi összeg RON: 100 lej, Mulasztás következménye: (üres)
 # Adminisztratív díjak
 Az alábbi webcímen elérhető jegyzék az érvényes adminisztratív díjakat összegzi.
 A díjak kifizetése az adott szolgáltatás igénybevétele előtt történik, beleértve a tantárgy újrafelvételt is.
@@ -2162,78 +2023,6 @@ A Neptun rendszer használatával kapcsolatos kérdéseikkel forduljanak a Dék�
 A rendszerbe való sikertelen belépés esetén az *Elfelejtettem a jelszavam* címszóra kattintva lehet jelszócserét kérni a Felhasználónevet (=Azonosító =Neptunkód) beírva.
 Ebben az esetben az alapértelmezett e-mail-címre küldi a rendszer a visszaállításhoz a linket.
 Amennyiben ez nem sikeres, a neptun@sapientia.ro e-mail-címen kérhetik jelszavuk visszaállítását, az üzenetben feltüntetve Neptunkódjukat (=Felhasználónév, =Azonosító), nevüket, a kart és hallgatók esetén a szakot is.
-# Dokumentumok
-Egyetemi szabályzatok és eljárási rendek (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/szabalyzatok-es-eljarasi-rendek)
-Egyetemi fejlesztési stratégia (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/fejlesztesi-strategia)
-Kari operatív tervek, dékáni jelentések (https://ms.sapientia.ro/hu/a-karrol/dokumentumok_/operativ-tervek-dekani-jelentesek)
-Kari minőségbiztosítási jelentések (https://ms.sapientia.ro/hu/a-karrol/dokumentumok_/minosegbiztositasi-jelentesek)
-Kari dokumentumok (https://ms.sapientia.ro/hu/a-karrol/dokumentumok_/kari-dokumentumok)
-# Oklevelek átvétele
-Azon végzett hallgatók, akik a Sapientia Erdélyi Magyar Tudományegyetem által szervezett államvizsgán/disszertáción vettek részt, személyesen átvehetik egyetemi/mesteri oklevelüket Kolozsváron a Rektori Hivatalban (Mátyás kir. u./str. Matei Corvin 4.szám) hétfőtől csütörtökig 10-13 óra között (csak előzetes időpont egyeztetéssel!).
-Jelentkezni a diploma@sapientia.ro e-mail-címen lehet (a levelekre csak hétköznap 9-17 óra között áll módunkban válaszolni).
-Időpont kéréséhez szükséges adatok:
-* név - születési bizonyítvány alapján – ha változott időközben, kérjük azt is beírni
-* CNP (külföldiek esetében személyi igazolvány száma)
-* kar, szak és záróvizsga éve
-* amennyiben tanárképző modult is végzett, kérjük azt is jelezze
-* Alumni kérdőív kitöltése végén kapott kód (akik posztgraduális tanárképzési oklevelet vesznek át, a következő linken kell kitölteniük a kérdőívet: Alumni kérdőív - Tanárképző)
-* szabad időpontok közül megjelölni az alkalmasat (jelentkezni a tervezett időpont előtt legalább 2 munkanappal) – ITT (https://docs.google.com/spreadsheets/d/1_m5bR3XLGYc13gOQUzG2yPFsaldsel6Pxkb1wFx78M0/edit#gid=0) elérhető az időpontokat tartalmazó táblázat.
-Csakis pontos időbeosztás szerint van lehetőségünk az oklevelek átadására, és csak azokat a végzetteket áll módunkban fogadni, akik előzetesen időpontot kértek, és ezt a Rektori Hivatal munkatársai visszaigazolták.
-Kérjük, elsősorban azok jelentkezzenek, akiknek sürgősen szükségük van az oklevelükre.
-**Jelenleg a 2012-ben, 2013-ban, 2014-ben, 2015-ben, 2016-ban, 2017-ben, 2018-ban, 2019-ben, 2020-ban, 2021-ben, 2022-ben és 2023-ban sikeresen záróvizsgázott hallgatók oklevelei vehetők át.**
-Az oklevél átvételéhez szükséges:
-1. előzetes emailes időpont foglalás (a diploma@sapientia.ro e-mail-címen)
-2. személyazonossági igazolvány
-3. születési bizonyítvány eredetije és egyszerű másolata (ha hiányzik a dossziéból – erről az időpont egyeztetéskor értesítjük a végzettet)
-4. névváltoztatás esetén az ezt igazoló dokumentum (házasságlevél vagy egyéb okirat) eredetije és egyszerű másolata
-5. 2 db. aktuális, színes, 3x4 cm-es fénykép (ha hiányzik a dossziéból, vagy nem megfelelő – erről az időpont egyeztetéskor értesítjük a végzettet)
-6. Alumni kérdőív kitöltve (a kérdőív végén kapott kódot küldjék el az időpont egyeztetéskor e-mailben; posztgraduális tanárképző esetén: Alumni kérdőív - Tanárképző)
-**Figyelem!**
-A Szenátus 2513/2021.06.25. határozata értelmében 2025. január 1-jétől a tanulmányi okmányok tárolási díja a hallgatói jogviszony lezárását követő három éven túl oklevelenként 20 euró (100 lej), ez az összeg minden évben további 5 euróval (25 lej) nő.
-Csakis indokolt esetben vehető át az oklevél közjegyzői felhatalmazással rendelkező személy által.
-Az erre vonatkozó igényt, kérjük jelezze az időpont egyeztetés során.
-A különböző oklevéltípusokat külön fel kell tüntetni a felhatalmazásban (pl. külön licensz oklevél, pedagógia oklevél).
-Ez esetben a közjegyzői felhatalmazás mellett a felhatalmazott személynek fel kell mutatnia a saját személyi igazolványát és az oklevél tulajdonosának személyi másolatát.
-Az erre vonatkozó Románia Hivatalos Közlönyében megjelent rendelkezés:
-*ORDIN nr. 4.156/2020 pentru aprobarea Regulamentului-cadru privind regimul actelor de studii şi al documentelor universitare în sistemul de învăţământ superior*
-Publicat in Monitorul Oficial, Partea I nr. 381 din 12 mai 2020 (https://www.edu.ro/sites/default/files/_fișiere/Legislatie/2020/OMEC_4156_regim%20acte_%20studii_documente%20universitare.pdf)
-Capitolul III, Sectiunea 1, Art. 19.
-(2) În situaţia în care titularul nu se poate prezenta, actul de studii poate fi eliberat împuternicitului acestuia, pe bază de procură autentificată la notariat/împuternicire avocaţială în copie certificată conform cu originalul, în care se menţionează în mod expres faptul că împuternicitul poate ridica acte de studii.
-(3) În cazul în care procura notarială a fost întocmită pe teritoriul altui stat, aceasta se depune în original, fiind însoţită de traducerea legalizată.
-Procura trebuie să fie apostilată sau supralegalizată de autorităţile competente ale statului pe al cărui teritoriu a fost întocmită, cu excepţia celor întocmite în statele care au încheiat cu România convenţii, tratate sau acorduri privind asistenţa juridică în materie civilă, care prevăd scutirea de orice legalizare.
-Se acceptă împuternicirile efectuate la ambasadele vagy consulatele României din diverse state.
-Împuternicirile efectuate sub semnătura ambasadorului/consulului nu trebuie traduse vagy apostilate/supralegalizate.
-(4) Înscrisurile menţionate la alin. (2) şi (3) se păstrează cu termen permanent în arhiva instituţiei care eliberează actul de studii.
-További információk a Rektori Hivatal titkárságán kérhetőek, a diploma@sapientia.ro e-mail címen.
-# Orvosi rendelő
-**A Marosvásárhelyi Kar diákjainak egészségügyi felügyeletét dr. Finna Judit Családorvosi Rendelője (https://www.facebook.com/profile.php?id=100021537022581) (Aleea Cornisa 23-as tömbház, külön bejárat) vállalta fel.**
-**Előzetes bejelentkezés: 0265-212-623**
-online jelentkezés (https://docs.google.com/forms/d/e/1FAIpQLSdmVcCF9T5wmcWjp9YWHZ7frFC20WzqyE6VEWfWd8yGfyfcNg/viewform)
-**Rendelési időpontok:**
-- hétfő, szerda: 9-14 óra
-- kedd, csütörtök: 14-18 óra
-- péntek: 9-13 óra
-Az egyetemen lévő elsősegélynyújtási pont (a főépület alagsorában levő „orvosi rendelő”) jelenleg is jól felszerelve tud segítséget nyújtani.
-Törvényes rendelkezés, hogy a távolabb, más megyében lakó diákokat, csak úgy tudjuk ingyenes, ártámogatott gyógyszerhez juttatni illetve egyéb szakorvoshoz küldeni, ha a mi rendelőnkhöz iratkozik fel.
-Máskülönben a diákok nem részesülhetnek olyan ingyenes szakorvosi ellátásban, ami túllépi a családorvosi rendelő kereteit.
-Igazolások, hivatalos iratok végett írjatok e-mailt: finnajutka@yahoo.com.
-Orvosi igazolást csakis a betegség bejelentésének napjától állíthatunk ki, utólag.
-Az email „subject”-jében tüntessétek fel, hogy a Sapientia hallgatói vagytok.
-**Sürgősségi esetben hívják a lenti telefonszámok egyikét.**
-Üdvözlettel,
-- dr. Finna Judit (0744-339-765)
-- dr. Juhász Imre, szakterület: családorvoslás, gyerekgyógyászat
-- dr. Nagy Bernadett, szakterület: családorvoslás
-- dr. Kis Anna-Bernadett, szakterület: családorvoslás
-- dr. Benedek Orsolya (orsibenedek89@gmail.com), pszichiáter
-**Dr. Benedek Orsolya pszichiáter jóvoltából lehetőségetek van pszichiátriai ellátásban is részesülni konzultáció, tanácsadás formájában.**
-**Jelentkezni: itt (https://forms.gle/NQkxuQCxcJirbv4L6)**# Lelkigondozás
-András Csaba SJ jezsuita szerzetes, katolikus egyetemi lelkész vagyok.
-Keddenként 9 és 12 óra között a bentlakás kápolnájában személyes beszélgetésre várlak titeket.
-Mire számíthatsz?
-Egy meghallgató jelenlétre, ahol nyugodtan kimondhatod mindazt, ami foglalkoztat, és ami talán már régóta bennrekedt, és jó lenne valakinek elmondani.
-Együtt kereshetjük, hogy mi segítene Neked az előrehaladásban és a nagyobb szabadságban.
-Időpontot egyeztetni a következő űrlap kitöltésével lehet: űrlap kitöltésével (https://forms.gle/kD3YxsncqnLHtvcp9)
 # Bentlakás
 Jelentkezni július 31-tól augusztus 7-ig lehetséges (pályázni abban az esetben lehetséges, amennyiben a felvételi során visszaigazolták az elnyert helyüket).
 Bentlakás - Pályázati eredmények a 2024/2025-ös tanévre (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakas-palyazati-eredmenyek-a-20242025-os-tanevre)
@@ -2242,7 +2031,51 @@ Bentlakás jelentkezés a 2024-2025-ös tanévre - II, III, IV évesek (https://
 Fotók a bentlakásról (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/fotok-a-bentlakasrol_)
 Szabályzat (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/szabalyzat_)
 Áraink (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/araink_)
-Bentlakással kapcsolatos költségek kifizetése (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakassal-kapcsolatos-koltsegek-kifizetese_)# Bentlakás jelentkezési kritériumok és szükséges iratok 2024-2025 évre - Első évesek
+Bentlakással kapcsolatos költségek kifizetése (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_/bentlakassal-kapcsolatos-koltsegek-kifizetese_)
+# Bentlakás jelentkezés a 2024-2025-ös tanévre - II, III, IV évesek
+Amennyiben az alább felsorolt, szükséges okiratok közül valamelyik hiányzik / nem beszerezhető, akkor helyette ideiglenesen elfogadunk egy saját felelősségre megírt nyilatkozatot, amelyben szerepeljenek a kért adatok, információk.
+A beköltözéskor természetesen kötelező lesz az eredeti, hivatalos okiratok benyújtása is.
+A pályázatokat a következő e-mail címre kell elküldeni: ocsaba@ms.sapientia.ro
+Jelentkezni július 24-ig lehetséges.
+Szükséges iratok:
+1. a szülők részéről az adóhivatal által kibocsátott igazolás arra vonatkozóan, hogy van-e vagy nincs megadózandó jövedelmük (Adeverință de venit).
+2. a szülők részéről a Polgármesteri Hivatal által kiadott bizonyítvány a tulajdonban lévő földterületről vagy ennek hiányáról.
+Elvált szülők esetén a bírósági végzés másolata, illetve annak a szülőnek az 1., 2. pontban megjelölt iratai, akinek a gyermeket nevelésre odaítélték.
+3. testvérekkel (ha vannak) kapcsolatos iratok: a 18 éven aluli testvérek esetén óvodai vagy iskolai igazolvány, illetve születési bizonyítvány másolata, ha nem óvodás, és nem iskolás.
+A 18 éven felüli testvérek esetén főiskolai vagy egyetemi igazolvány, illetve ha igazoltan munkaképtelen, rokkantsági nyugdíj igazolása.
+4. betegség esetén a törvényben előírt, családorvos/szakorvos által kiállított, 3 hónaposnál nem régebbi bizonyítvány
+5. félárvák esetében az elhunyt szülő halotti bizonyítványának másolata
+6. árvák esetében a szülők halotti bizonyítványának másolata
+7. gyermekotthonban nevelkedők esetében azon intézet által kiállított bizonyítvány, ahol utoljára tartózkodott
+9. személyi igazolvány másolata
+10. születési bizonyítvány másolata
+11. orvosi igazolás a háziorvostól, ami tartalmazza, hogy lakhat bentlakásban (hiánya kizáró jellegű)
+12. erkölcsi bizonyítvány („priusz”, románul „cazier”, hiánya kizáró jellegű)
+13. Felvételi díj befizetése 200 lej,
+Beiratkozási díj a bentlakásba 200 lej.
+Azon személyeknek, akik nem jutottak be a bentlakásba az összeget visszatérítjük.
+Abban az esetben viszont, ha valaki visszalép a bentlakási hely igénylésétől, nem térítjük vissza az iratkozási díjat.
+A beiratkozási díj kifizetése utalással történik, az alábbi adatokkal:
+Universitatea Sapientia
+Cod fiscal: RO14645945
+számlaszám: RO51OTPV320000073814RO11
+(OTP Bank, suc. Tg. Mures.)
+Az összeg utalásánál, a letéti lapra kérjük tüntessék fel az alábbiakat:
+- jelentkező diák neve
+- “contribuție cazare”
+FONTOS!
+Kérjük a számla kivonatát (extras) vagy az átutalási bizonylatot (OP-ordin de plata) is szkennelve küldjék el az alábbi e-mail címre: ocsaba@ms.sapientia.ro
+kérvény (típusnyomtatvány) (https://ms.sapientia.ro/content/docs/MS/Felveteli/Bentlak%C3%A1s/2024-2025/bentlakas%20iratkozashoz%20kerveny%202024_2025re.doc)
+Az elsőéves hallgatók sikeres felvételi után pályázhatnak a bentlakásban számukra fenntartott 120 helyre.
+Áraink- (a kollégiumban nincsenek költségtámogatott, vagy ingyenes helyek):
+Apartman: 3 + 3 ágy, 200 lej/fő + közköltség (fogyasztásmérők szerint) + ebédjegy*
+Garzon: 3 ágy, 240 lej/fő + közköltség (fogyasztásmérők szerint) + ebédjegy*
+Tetőtéri szoba: 2 + 2 ágy, 240 lej/fő + közköltség (fogyasztásmérők szerint) + ebédjegy*
+\* Minden teljes hónapban kötelező 10 darab ebédjegy (220 lej/10 db) megvásárlása melyeket az egyetemi étkezdében lehet felhasználni.
+További információk:
+Osváth Csaba, adminisztrátor
+E-mail cím: ocsaba@ms.sapientia.ro
+# Bentlakás jelentkezési kritériumok és szükséges iratok 2024-2025 évre - Első évesek
 A pályázatokat a következő e-mail címre kell elküldeni: ocsaba@ms.sapientia.ro.
 Jelentkezni július 31-től augusztus 7-ig lehetséges (pályázni abban az esetben lehetséges, amennyiben a felvételi során visszaigazolták az elnyert helyüket).
 A pályázathoz a következő iratok szükségesek.
@@ -2281,9 +2114,9 @@ ITT (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-
 További információk.
 Osváth Csaba, adminisztrátor.
 E-mail cím: ocsaba@ms.sapientia.ro.
-## Szabályzat
+# Szabályzat
 A bentlakás 2024/2025-ös tanévre vonatkozó szabályzata (https://ms.sapientia.ro/content/docs/MS/Regulament%20camin%202024_2025_alairva.pdf) érhető el.
-## Áraink
+# Áraink
 Tanév: 2024/2025
 Éves díj (szobatípusonként):
 - Apartmann (3 + 3 ágy): 200 lej/fő
@@ -2292,13 +2125,26 @@ Szoba díj* (2024/2025):
 - Sapientiás hallgatók: 105 lej/nap
 - Más egyetemek hallgatói: 135 lej/nap
 *Az összeg a szobát igénylők létszámának függvényében osztódik (a szoba befogadóképessége max. 3 személy).
-## Bentlakással kapcsolatos költségek kifizetése
+# Bentlakással kapcsolatos költségek kifizetése
 A bentlakással kapcsolatos költségeket az alábbi bankszámlára lehet utalni:
 **RO72BTRLRONCRT003922180F**
 UNIVERSITATEA SAPIENTIA, CORUNCA, CF: 14645945
 Az átutalási bizonylatra kérjük feltüntetni a nevet, a kifizetés típusát (bentlakás díja/contributie cazare, közköltség/cheltuieli de consum)
 **Fizetni online is lehetséges**
 ITT (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek/adminisztrativ-dijak_)
+# Tanárképzés
+Rólunk (https://sapientia.ro/hu/oktatas/tanarkepzes/rolunk)
+Hasznos információk (https://sapientia.ro/hu/oktatas/tanarkepzes/hasznos-informaciok)
+Felvételi (https://sapientia.ro/hu/oktatas/tanarkepzes/felveteli)
+A pedagógiai gyakorlat megszervezése (https://sapientia.ro/hu/oktatas/tanarkepzes/a-pedagogiai-gyakorlat-megszervezese)
+A záróvizsga metodológiája (https://sapientia.ro/hu/oktatas/tanarkepzes/a-zarovizsga-metodologiaja)
+Tantervek (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/Planuri_invatamant_22_23_antet.pdf)
+Tudományos kutatási tevékenységek (https://sapientia.ro/hu/oktatas/tanarkepzes/tudomanyos-kutatasi-tevekenysegek)
+Törvényi keretek (https://sapientia.ro/hu/oktatas/tanarkepzes/torvenyi-keretek)
+Vezetőség és munkatársak (https://sapientia.ro/hu/oktatas/tanarkepzes/a-tanarkepzo-intezet-vezetosege-es-munkatarsai)
+Mentortanároknak és irányítótanároknak (https://sapientia.ro/hu/oktatas/tanarkepzes/mentortanaroknak-es-iranyitotanaroknak)
+PedPsi Kutatóközpont (https://sapientia.ro/hu/kutatas/kutatokozpontok/tanarkepzo-intezet)
+Álláshirdetések (https://sapientia.ro/hu/oktatas/tanarkepzes/allashirdetesek)
 # Rólunk
 A Sapientia EMTE Tanárképző Intézete (románul: Departamentul de Specialitate cu Profil Psihopedagogic – DSPP) azoknak a hallgatóknak a pszichopedagógiai képzését vállalja fel, akik az egyetemi szakjuknak megfelelő szakképzettség megszerzése mellett a tanári pálya gyakorlásához szükséges szaktudást és didaktikai kompetenciákat is el szeretnék sajátítani.
 A pedagógusi pálya betöltésére, illetve a tanári hivatás gyakorlására feljogosító bizonyítvány – amelyet az alapképzéssel párhuzamosan, az I. szintű pszichopedagógiai modul elvégzésével szerezhetnek meg a hallgatók – lehetőséget kínál arra, hogy szaktanárként a közoktatás elemi és gimnáziumi szakaszaiban (voltaképpen a közoktatás kötelező ciklusában) dolgozzanak.
@@ -2308,7 +2154,8 @@ Megszervezése a Sapientia EMTE-n is az 1/2011-es Oktatási Törvény és a 3850
 A pszichopedagógiai tanulmányok egyetemi tanulmányokkal párhuzamosan megszervezett I. szintjére az egyetem I. vagy II. éves (tehát valamelyik szakra már felvételt nyert) hallgatói iratkozhatnak be.
 A tanárképzési programra történő beiratkozás opcionális.
 Igény szerint az I. szintű tanárképzési program posztgraduális formában is megszervezhető olyan jelentkezők számára, akik már rendelkeznek alapképzési oklevéllel.
-A tanárképzési program II. szintjére mesteri tanulmányaikat folytató hallgatók, illetve a posztgraduális képzésre mesteri oklevéllel rendelkező személyek jelentkezhetnek.# Hasznos információk
+A tanárképzési program II. szintjére mesteri tanulmányaikat folytató hallgatók, illetve a posztgraduális képzésre mesteri oklevéllel rendelkező személyek jelentkezhetnek.
+# Hasznos információk
 ## I. szintű pedagógiai modul
 Az I. szintű pedagógiai modul ingyenes, hogyha a hallgatók párhuzamosan végzik a tanárképzést az alapképzéssel.
 A Tanulmányi szerződés értelmében, amennyiben a hallgató az alapképézés ideje alatt úgy dönt, hogy a pedagógiai modult abba szeretné hagyni, kötelezően vissza kell fizetnie a tandíjat az elvégzett évekre (évi 300 lej).
@@ -2472,7 +2319,7 @@ A pedagógiai gyakorlat keretében a hallgatóknak 3-5 próbatanítást kell meg
 - a különböző oktatási módszerek, eljárások és eszközök hatékony felhasználásának, a felmérési és értékelési technikák megfelelő alkalmazásának felmérése.
 A vizsgatanítás megtartása a záróvizsgán való részvétel előfeltétele.
 # Tudományos kutatási tevékenységek
-# I. A tudományos kutatás általános elvei
+## I. A tudományos kutatás általános elvei
 A Tanárképző Intézet tudományos kutatási terve szervesen illeszkedik a Sapientia EMTE kutatási stratégiájának irányelveihez.
 és összhangban van az intézet általános küldetésének céljaival.
 ## II. Kutatási témák
@@ -2503,70 +2350,43 @@ Ordinul 5191/2019 din 18 septembrie 2019 privind aprobarea listei instituţiilor
 ORDIN Nr. 4129/2018 din 16 iulie 2018 privind modificarea şi completarea anexei la Ordinul ministrului educaţiei naţionale nr. 3.850/2017 pentru aprobarea Metodologiei-cadru de organizare a programelor de formare psihopedagogică prin departamentele de specialitate din cadrul instituţiilor de învăţământ superior acreditate în vederea certificării competenţelor pentru profesia didactică (https://sapientia.ro/content/2011-2021/TKI/Cadrul%20legislativ/b.%20ORDIN%20129-2018.pdf)
 ORDIN Nr. 3850/2017 din 2 mai 2017 pentru aprobarea Metodologiei-cadru de organizare a programelor de formare psihopedagogică în cadrul instituţiilor de învăţământ superior acreditate în vederea certificării competenţelor pentru profesia didactică (https://sapientia.ro/content/2011-2021/TKI/Cadrul%20legislativ/a.%20ORDIN%203850-2017.pdf)
 A tanárképzési programok megszervezésének módszertana (https://sapientia.ro/content/Szabalyzatok/HU/Tanarkepzesi_programok_modszertana.pdf)
+# Vezetőség és munkatársak
 Igazgató: dr. Tódor Erika-Mária, egyetemi tanár : CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/T%C3%B3dor%20Erika-M%C3%A1ria.pdf)
-# Helyi felelősök
-dr. Tódor Erika-Mária, egyetemi tanár – Csíkszereda
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/T%C3%B3dor%20Erika-M%C3%A1ria.pdf)
-dr. Poszet Szilárd, egyetemi adjunktus – Kolozsvár
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Poszet%20Szilard-1.pdf)
-dr. Harangus Katalin, egyetemi docens – Marosvásárhely
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Harangus%20Katalin-1.pdf)
-Barabás Andrea, óraadó oktató – Sepsiszentgyörgy
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Barab%C3%A1s%20Andrea.pdf)
-# Főállású oktatók
-dr. Harangus Katalin, egyetemi docens
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Harangus%20Katalin-1.pdf)
-dr. Horváth Zsófia, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Horv%C3%A1th%20Zs%C3%B3fia-1.pdf)
-dr. Szentes Erzsébet, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Szentes%20Erzs%C3%A9bet.pdf)
-dr. Tódor Imre, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/To%CC%81dor%20Imre.pdf)
-# Társult oktatók
-Barabás Andrea
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Barab%C3%A1s%20Andrea.pdf)
-Bartalis Izabella
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Bartalis%20Izabella.pdf)
-dr. Bálint Emese, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/B%C3%A1lint%20Emese.pdf)
-Benedek Árpád
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Benedek%20Arpad%20.pdf)
-dr. Dégi Zsuzsanna, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/D%C3%A9gi%20Zsuzsanna.pdf)
-dr. Fekete Deák Ildikó
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Fekete%20Deak%20Ildiko.pdf)
-dr. Fodor László, egyetemi docens
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Fodor%20L%C3%A1szl%C3%B3%20.pdf)
-dr. Hégető Katalin
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Hegeto%20Katalin.pdf)
-dr. Kátai Zoltán, egyetemi docens
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Katai%20Zoltan.pdf)
-dr. Kentelky Endre, egyetemi docens
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Kentelky%20Endre.pdf)
-dr. Kommer Erika, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Kommer%20Erika-1.pdf)
-dr. Kovács Gabriella, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Kovacs%20Gabriella-1.pdf)
-dr. Mara Gyöngyvér, egyetemi tanár
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Mara%20Gy%C3%B6ngyv%C3%A9r.pdf)
-dr. Pál Enikő, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/P%C3%A1l%20Enik%C5%91.pdf)
-dr. Székely Melinda, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Szekely%20Melinda-1.pdf)
-dr. Tankó Enikő, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Tank%C3%B3%20Enik%C5%91.pdf)
-dr. Tomonicska Ingrid, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Tomonicska%20Ingrid.pdf)
-dr. Toró Tibor, egyetemi docens
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Tor%C3%B3%20Tibor.pdf)
-dr. Zoller Katalin, egyetemi adjunktus
-CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Zoller%20Katalin-1.pdf)
+## Helyi felelősök
+dr. Tódor Erika-Mária, egyetemi tanár – Csíkszereda CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/T%C3%B3dor%20Erika-M%C3%A1ria.pdf)
+dr. Poszet Szilárd, egyetemi adjunktus – Kolozsvár CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Poszet%20Szilard-1.pdf)
+dr. Harangus Katalin, egyetemi docens – Marosvásárhely CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Harangus%20Katalin-1.pdf)
+Barabás Andrea, óraadó oktató – Sepsiszentgyörgy CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Barab%C3%A1s%20Andrea.pdf)
+## Főállású oktatók
+dr. Harangus Katalin, egyetemi docens, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Harangus%20Katalin-1.pdf)
+dr. Horváth Zsófia, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Horv%C3%A1th%20Zs%C3%B3fia-1.pdf)
+dr. Szentes Erzsébet, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Szentes%20Erzs%C3%A9bet.pdf)
+dr. Tódor Imre, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/To%CC%81dor%20Imre.pdf)
+## Társult oktatók
+Barabás Andrea, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Barab%C3%A1s%20Andrea.pdf)
+Bartalis Izabella, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Bartalis%20Izabella.pdf)
+dr. Bálint Emese, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/B%C3%A1lint%20Emese.pdf)
+Benedek Árpád, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Benedek%20Arpad%20.pdf)
+dr. Dégi Zsuzsanna, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/D%C3%A9gi%20Zsuzsanna.pdf)
+dr. Fekete Deák Ildikó, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Fekete%20Deak%20Ildiko.pdf)
+dr. Fodor László, egyetemi docens, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Fodor%20L%C3%A1szl%C3%B3%20.pdf)
+dr. Hégető Katalin, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Hegeto%20Katalin.pdf)
+dr. Kátai Zoltán, egyetemi docens, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Katai%20Zoltan.pdf)
+dr. Kentelky Endre, egyetemi docens, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Kentelky%20Endre.pdf)
+dr. Kommer Erika, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Kommer%20Erika-1.pdf)
+dr. Kovács Gabriella, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Kovacs%20Gabriella-1.pdf)
+dr. Mara Gyöngyvér, egyetemi tanár, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Mara%20Gy%C3%B6ngyv%C3%A9r.pdf)
+dr. Pál Enikő, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/P%C3%A1l%20Enik%C5%91.pdf)
+dr. Székely Melinda, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Szekely%20Melinda-1.pdf)
+dr. Tankó Enikő, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Tank%C3%B3%20Enik%C5%91.pdf)
+dr. Tomonicska Ingrid, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Tomonicska%20Ingrid.pdf)
+dr. Toró Tibor, egyetemi docens, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Tor%C3%B3%20Tibor.pdf)
+dr. Zoller Katalin, egyetemi adjunktus, CV (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/CV/2024/Zoller%20Katalin-1.pdf)
 Titkár: Onika Orsolya Fogadóóra: hétfő–péntek, 8:00–16:00
 # Mentortanároknak és irányítótanároknak
 Mentortanárok feladatai (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/Mentortanarok_feladatai_2022.pdf)
 Irányítótanárok feladatai (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/Iranyitotanarok_feladatai_2022.pdf)
-# Tanárképző Intézet
-## PedPsi Kutatóközpont
+# PedPsi Kutatóközpont
 A 2022-ben a Tanárképző Intézet berkeiben létrejövő és működő PedPsi Kutatóközpont a legfiatalabb az egyetem kutatóközpontjai közül, amelynek működését a Szenátus 2022/2596-os határozata szabályozza.
 A Kutatóközpont pedagógiai és pszichológiai, szakmódszertani és interdiszciplináris jellegű kutatásokat végez.
 A kutatások elsődleges célja az erdélyi és székelyföldi köz- és felsőoktatás pregnáns és kurrens kérdésköreit analizálni, mindezt Kárpát-medencei kontextusba ágyazottan taglalni.
@@ -2609,7 +2429,14 @@ A kutatóközpont havi rendszerességgel szervezi meg a Tanárok Akadémiája on
 A kutatóközpont tagjai az elmúlt időperiódusban különböző egyéni és csoportos kutatási projektekben, kutatási szerződésben vettek részt kutatásvezetőként vagy tagként.
 **Linkek a fő tartalomból:**
 *   Tanárok Akadémiája (https://sapientia.ro/hu/hirek/tanarok-akademiaja-nevvel-inditunk-online-eloadas-sorozatot)
-*   MŰKÖDÉSI STATÚTUM (RO) (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/Statutul_CC_22.pdf)# Záróvizsga
+*   MŰKÖDÉSI STATÚTUM (RO) (https://sapientia.ro/content/Dokumentumok/Tanarkepzo-Intezet/Statutul_CC_22.pdf)
+# Dokumentumok
+Egyetemi szabályzatok és eljárási rendek (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/szabalyzatok-es-eljarasi-rendek)
+Egyetemi fejlesztési stratégia (https://sapientia.ro/hu/az-egyetemrol/dokumentumok_/fejlesztesi-strategia)
+Kari operatív tervek, dékáni jelentések (https://ms.sapientia.ro/hu/a-karrol/dokumentumok_/operativ-tervek-dekani-jelentesek)
+Kari minőségbiztosítási jelentések (https://ms.sapientia.ro/hu/a-karrol/dokumentumok_/minosegbiztositasi-jelentesek)
+Kari dokumentumok (https://ms.sapientia.ro/hu/a-karrol/dokumentumok_/kari-dokumentumok)
+# Záróvizsga
 Alapképzés - Ütemezés és tematikák 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025)
 Mesterképzés - Ütemezés 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025)
 Nyelvvizsga (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/nyelvvizsga_)
@@ -2630,7 +2457,7 @@ Mechatronika (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utem
 Számítástechnika (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/szamitastechnika)
 Tájépítészet (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/tajepiteszet)
 Tanárképző Intézet (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025/tanarkepzo-intezet-20202021)
-# Automatika és alkalmazott informatika 
+# Automatika és alkalmazott informatika
 Az **Automatika és alkalmazott informatika** szak esetében a záróvizsga két részből áll:
 **I. rész: A diplomaterv nyilvános bemutatása és védése**
 A diplomadolgozat bemutatására minden hallgatónak 10 perc áll a rendelkezésére, ezután következik a diplomadolgozattal kapcsolatos kérdések megválaszolása hozzávetőleg 5 perc alatt.
@@ -2692,9 +2519,9 @@ A záróvizsga akkor számít sikeresnek, ha a hallgató végső jegye elérte a
 Az Informatika szak záróvizsga tematikája (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/Tematika%202022/Tematika_2021_2022_HU_Info.pdf)
 # Kertészmérnöki
 A Kertészmérnöki szak esetében a záróvizsga két részből áll:
-# I. rész: Szakmai ismeretek és kompetenciák ellenőrzése írásbeli teszt formájában
+## I. rész: Szakmai ismeretek és kompetenciák ellenőrzése írásbeli teszt formájában
 A teszt 50 db. nyitott és zárt kérdést fog tartalmazni az integráló jellegű szaktantárgyak (dísznövény-, gyógynövény-, gyümölcs-, szőlő-, borászat és zöldségtermesztés tárgykörök) megadott tematikájából.
-# II. rész: A diplomaterv nyilvános bemutatása és védése
+## II. rész: A diplomaterv nyilvános bemutatása és védése
 Az államvizsgázó diákok szakdolgozataikat power point típusú háttérszemléltetéssel kb. 10 perc alatt kell bemutassák, megvédjék.
 Ezt követően a Bizottság szakdolgozathoz kötődő kérdéseire kell válaszoljanak.
 Megjegyzés: A záróvizsgára való jelentkezéshez a hallgatónak nyelvvizsgával kell rendelkeznie.
@@ -2702,12 +2529,12 @@ A záróvizsga időpontja: 2025. július 7., 231-es terem
 A Kertészmérnöki szak záróvizsga tematikája (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/Tematika%20a%20Kert%C3%A9szm%C3%A9rn%C3%B6ki.pdf) tölthető le.
 # Kommunikáció és közkapcsolatok
 A Kommunikáció és közkapcsolatok szak esetében a záróvizsga két részből áll.
-# I. rész: Írásbeli dolgozat megadott tematika és szakirodalom alapján
+## I. rész: Írásbeli dolgozat megadott tematika és szakirodalom alapján
 Az írásbeli dolgozatra a megadott tematika és szakirodalom alapján kell felkészülni.
 A vizsga formája: egyválaszos és többválaszos kérdésekből álló rácsteszt.
 Az értékelés előre megállapított pontozási rendszer alapján történik (teszt-típusú értékelés).
 Az írásbeli nyelve magyar.
-# II. rész: Szakdolgozat nyilvános megvédése az államvizsga bizottság előtt
+## II. rész: Szakdolgozat nyilvános megvédése az államvizsga bizottság előtt
 A szakdolgozathoz csatolni kell a hallgató és az irányító tanár által is aláírt eredetiségi nyilatkozatot.
 A szakdolgozat nyilvános védése magyar nyelven történik.
 A bizottsági tagok kérdéseire a kérdés megfogalmazásának nyelvén kell válaszolni.
@@ -2796,19 +2623,19 @@ Szoftverfejlesztés (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterke
 Számítógépes irányítási rendszerek (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/szamitogepes-iranyitasi-rendszerek)
 Növényorvos (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/novenyorvos)
 Fejlett mechatronikai rendszerek (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/fejlett-mechatronikai-rendszerek)
-## Szoftverfejlesztés
+# Szoftverfejlesztés
 ### A záróvizsga időpontja: 2025. július 3., 131-es terem
 A disszertáció vizsga a mesteri disszertáció bizottság előtt történő bemutatásából és védéséből áll.
 A mesteri disszertáció védése nyilvános, a bizottság és a vizsgázó ugyanazon helyen való egyidejű jelenlétében történik.
-## Számítógépes irányítási rendszerek
+# Számítógépes irányítási rendszerek
 ### A záróvizsga időpontja: 2025. július 10., 230-as terem
 A disszertáció vizsga a mesteri disszertáció bizottság előtt történő bemutatásából és védéséből áll.
 A mesteri disszertáció védése nyilvános, a bizottság és a vizsgázó ugyanazon helyen való egyidejű jelenlétében történik.
-## Növényorvos
+# Növényorvos
 ### A záróvizsga időpontja: 2025. július 2., 231-es terem. 
 A disszertáció vizsga a mesteri disszertáció bizottság előtt történő bemutatásából és védéséből áll.
 A mesteri disszertáció védése nyilvános, a bizottság és a vizsgázó ugyanazon helyen való egyidejű jelenlétében történik.
-## Fejlett mechatronikai rendszerek
+# Fejlett mechatronikai rendszerek
 ### A záróvizsga időpontja: 2025. július 8., 15 óra, 217-es terem
 A disszertáció vizsga a mesteri disszertáció bizottság előtt történő bemutatásából és védéséből áll.
 A mesteri disszertáció védése nyilvános, a bizottság és a vizsgázó ugyanazon helyen való egyidejű jelenlétében történik.
@@ -2861,7 +2688,7 @@ II.
 *   Iratkozás a tanszékeken 2025. február 10-21 között.
 *   2025. MÁRCIUS 11. (kedd): NÉMET nyelv (Minden szak.)
 *   Iratkozás a tanszékeken 2025. február 10-21 között.
-# PÓTVIZSGÁK (fizetős vizsgaalkalmak)
+## PÓTVIZSGÁK (fizetős vizsgaalkalmak)
 III.
 *   2025. ÁPRILIS 8. (kedd): ANGOL nyelv (Minden szak.)
 *   Iratkozás a tanszékeken 2025. március 17-28 között.
@@ -2894,12 +2721,6 @@ II. ÍRÁSBELI (24 pont):
 *   Fogalmazás (6 pont).
 Maximális pontszám: 30, a minimális átmenő 15 pont - a Sapientia államvizsgára valamint mesteri képzésre való jelentkezéshez egyaránt.
 A nyelvvizsga bizonyítvány érvényessége meghatározatlan időre szól!
-Alapképzés - Ütemezés és tematikák 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025)
-Mesterképzés - Ütemezés 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025)
-Nyelvvizsga (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/nyelvvizsga_)
-Záróvizsga bizottságok (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-bizottsagok)
-Záróvizsga készítési útmutatók (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok)
-Szabályzatok és iratok (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/szabalyzatok-es-iratok)
 # Záróvizsga készítési útmutatók
 Alkalmazott Nyelvészeti Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-nyelveszeti-tanszek__)
 Alkalmazott Társadalomtudományi Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-tarsadalomtudomanyi-tanszek_)
@@ -2908,42 +2729,57 @@ Kertészmérnöki Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/z
 Matematika-Informatika Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/matematika-informatika-tanszek__)
 Villamosmérnöki Tanszék (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__)
 Tanárképző Intézet (https://sapientia.ro/hu/oktatas/tanarkepzes/a-zarovizsga-metodologiaja)
-Alapképzés - Ütemezés és tematikák 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/alapkepzes-utemezes-es-tematikak-20242025)
-Mesterképzés - Ütemezés 2024/2005 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025)
-Nyelvvizsga (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/nyelvvizsga_)
-Nyelvvizsga 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/nyelvvizsga-20242025)
-Záróvizsga bizottságok (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-bizottsagok)
-Szabályzatok és iratok (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/szabalyzatok-es-iratok)
+# Alkalmazott Nyelvészeti Tanszék
+Fordító és tolmács szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-nyelveszeti-tanszek__/fordito-es-tolmacs-szak)
 # Fordító és tolmács szak
-Alkalmazott Nyelvészeti Tanszék útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/03%20Szakdolgozat-keszitesi%20utmutato%202025.pdf)# Kommunikáció és közkapcsolatok szak
-Kommunikáció és közkapcsolatok szak (https://ms.sapientia.ro/data/Szakdolgozat%20ATT%20Kommunikacio.pdf)
-## Közegészségügyi szolgáltatások és politikák szak
-Szakdolgozat ATT Kozegeszseguegy (https://ms.sapientia.ro/data/Szakdolgozat%20ATT%20Koezegeszseguegy.pdf)
-## Gépészmérnöki szak
+Alkalmazott Nyelvészeti Tanszék útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025
+03%20Szakdolgozat-keszitesi%20utmutato%202025.pdf)
+# Alkalmazott Társadalomtudományi Tanszék
+Kommunikáció és közkapcsolatok szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-tarsadalomtudomanyi-tanszek_/kommunikacio-es-kozkapcsolatok-szak)
+Közegészségügyi szolgáltatások és politikák szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-tarsadalomtudomanyi-tanszek_/kozegeszsegugyi-szolgaltatasok-es-politikak-szak)
+# Kommunikáció és közkapcsolatok szak
+Szakdolgozat útmutató (https://ms.sapientia.ro/data/Szakdolgozat%20ATT%20Kommunikacio.pdf)
+# Közegészségügyi szolgáltatások és politikák szak
+Közegészségügyi szolgáltatások és politikák szak (https://ms.sapientia.ro/data/Szakdolgozat%20ATT%20Koezegeszseguegy.pdf)
+# Gépészmérnöki Tanszék
+Gépészmérnöki szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/gepeszmernoki-tanszek__/gepeszmernoki-szak)
+Mechatronika szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/gepeszmernoki-tanszek__/mechatronika-szak)
+# Gépészmérnöki szak
 Gépészmérnöki szak (https://ms.sapientia.ro/data/Szakdolgozat%20GMT%20Gepeszmernoek.docx)
-## Mechatronika szak
-Szakdolgozat GMT Mechatronika (https://ms.sapientia.ro/data/Szakdolgozat%20GMT%20Mechatronika.doc)
-## Kertészmérnöki szak
+# Mechatronika szak
+Mechatronika szak (https://ms.sapientia.ro/data/Szakdolgozat%20GMT%20Mechatronika.doc)
+# Kertészmérnöki Tanszék
+Kertészmérnöki szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/kerteszmernoki-szak)
+Tájépítészet szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/tajepiteszet-szak)
+Növényorvos mesteri szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/kerteszmernoki-tanszek__/novenyorvos-mesteri-szak)
+# Kertészmérnöki szak
 Kertészmérnöki szak útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/Szakdolgozat%20KMT%20Kerteszmernoki%202025_01_17.pdf)
-## Tájépítészet szak
-Tájépítészet szak útmutatója:
+# Tájépítészet szak
+**Tájépítészet szak útmutatója:**
 útmutató (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/Diplomamunka%20utmutato_%20tajepiteszet%202024-2025.pdf)
 poszter (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/Poszter%202024.psd)
 tervlap (https://drive.google.com/file/d/1NHt8QHPZ2-5U44-RYeKB76ylNOkq3zr0/view?usp=sharing)
-## Növényorvos mesteri szak
-Növényorvos mesteri szak útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/Szakdolgozat%20KMT%20N%C3%B6v%C3%A9nyorvosi%202025_01_17.pdf)
-## Informatika szak
+# Növényorvos mesteri szak
+Növényorvos mesteri szak útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/Szakdolgozat%20KMT%20N%C3%B6v%C3%A9nyorvosi%202025_01_17.pdf)```markdown
+# Matematika-Informatika Tanszék
+Informatika szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/matematika-informatika-tanszek__/informatika-szak)
+Szoftverfejlesztés mesterszak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/matematika-informatika-tanszek__/szoftverfejlesztes-mesterszak)
+# Informatika szak
 Matematika-Informatika Tanszék útmutatója (https://ms.sapientia.ro/content/2011-2021/Szakdolgozat%20MIT%20Informatika.pdf)
 Informatika alapszak államvizsgasablon (https://ms.sapientia.ro/content/docs/MS/Diplomadolgozat.zip)
-## Szoftverfejlesztés mesterszak
+# Szoftverfejlesztés mesterszak
 Matematika-Informatika Tanszék útmutatója (https://ms.sapientia.ro/content/2011-2021/Szakdolgozat%20MIT%20Informatika.pdf)
 Szoftverfejlesztés mesterszak államvizsgasablon (https://ms.sapientia.ro/content/docs/MS/DisszertDolgozat_sablon.zip)
-## Automatika és alkalmazott informatika szak
-Automatika és alkalmazott informatika szak (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/Keszitesi%20utmutato_2022/Szakdolgozat%20VMT%20Automatika_2022.doc)
-## Infokommunikációs hálózatok és rendszerek szak
+# Villamosmérnöki Tanszék
+Automatika és alkalmazott informatika szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/automatika-es-alkalmazott-informatika-szak)
+Infokommunikációs hálózatok és rendszerek szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/infokommunikacios-halozatok-es-rendszerek-szak)
+Számítástechnika szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/szamitastechnika-szak)
+# Automatika és alkalmazott informatika szak
+Automatika és alkalmazott informatika szak (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/Keszitesi%20utmutato_2022/Szakdolgozat%20VMT%20Automatika%20_2022.doc)
+# Infokommunikációs hálózatok és rendszerek szak
 Infokommunikációs hálózatok és rendszerek szak (https://ms.sapientia.ro/data/Szakdolgozat%20VMT%20Tavkoezles.doc)
-## Számítástechnika szak
-Szakdolgozat útmutató (Számítástechnika szak) (https://ms.sapientia.ro/data/Szakdolgozat%20VMT%20Szamitastechnika.doc)
+# Számítástechnika szak
+Záróvizsga útmutató (Számítástechnika szak) (https://ms.sapientia.ro/data/Szakdolgozat%20VMT%20Szamitastechnika.doc)
 # A záróvizsga metodológiája a tanárképzési programnak
 A tanárképzési program mind az I., mind a II. szint esetében vizsgával zárul.
 ## 1. A záróvizsgára jelentkezés alapfeltétele:
@@ -3028,6 +2864,74 @@ Az eredeti példányt a másolat helyszínen történő hitelesítése nyomán a
 * **Egyetemi oklevél eredetije és a beiratkozás során hitelesített másolata** (mesteri szakok végzettjei esetében), valamint esetenként a **honosítási okirat**;
 * **Idegennyelvvizsga-bizonyítvány másolata.**
 Más nyelvvizsgaközpontok által kibocsátott bizonyítványok esetében a LinguaSap Központ általi elismerés is szükséges.
+# Oklevelek átvétele
+Azon végzett hallgatók, akik a Sapientia Erdélyi Magyar Tudományegyetem által szervezett államvizsgán/disszertáción vettek részt, személyesen átvehetik egyetemi/mesteri oklevelüket Kolozsváron a Rektori Hivatalban (Mátyás kir. u./str. Matei Corvin 4.szám) hétfőtől csütörtökig 10-13 óra között (csak előzetes időpont egyeztetéssel!).
+Jelentkezni a diploma@sapientia.ro e-mail-címen lehet (a levelekre csak hétköznap 9-17 óra között áll módunkban válaszolni).
+Időpont kéréséhez szükséges adatok:
+* név - születési bizonyítvány alapján – ha változott időközben, kérjük azt is beírni
+* CNP (külföldiek esetében személyi igazolvány száma)
+* kar, szak és záróvizsga éve
+* amennyiben tanárképző modult is végzett, kérjük azt is jelezze
+* Alumni kérdőív kitöltése végén kapott kód (akik posztgraduális tanárképzési oklevelet vesznek át, a következő linken kell kitölteniük a kérdőívet: Alumni kérdőív - Tanárképző)
+* szabad időpontok közül megjelölni az alkalmasat (jelentkezni a tervezett időpont előtt legalább 2 munkanappal) – ITT (https://docs.google.com/spreadsheets/d/1_m5bR3XLGYc13gOQUzG2yPFsaldsel6Pxkb1wFx78M0/edit#gid=0) elérhető az időpontokat tartalmazó táblázat.
+Csakis pontos időbeosztás szerint van lehetőségünk az oklevelek átadására, és csak azokat a végzetteket áll módunkban fogadni, akik előzetesen időpontot kértek, és ezt a Rektori Hivatal munkatársai visszaigazolták.
+Kérjük, elsősorban azok jelentkezzenek, akiknek sürgősen szükségük van az oklevelükre.
+**Jelenleg a 2012-ben, 2013-ban, 2014-ben, 2015-ben, 2016-ban, 2017-ben, 2018-ban, 2019-ben, 2020-ban, 2021-ben, 2022-ben és 2023-ban sikeresen záróvizsgázott hallgatók oklevelei vehetők át.**
+Az oklevél átvételéhez szükséges:
+1. előzetes emailes időpont foglalás (a diploma@sapientia.ro e-mail-címen)
+2. személyazonossági igazolvány
+3. születési bizonyítvány eredetije és egyszerű másolata (ha hiányzik a dossziéból – erről az időpont egyeztetéskor értesítjük a végzettet)
+4. névváltoztatás esetén az ezt igazoló dokumentum (házasságlevél vagy egyéb okirat) eredetije és egyszerű másolata
+5. 2 db. aktuális, színes, 3x4 cm-es fénykép (ha hiányzik a dossziéból, vagy nem megfelelő – erről az időpont egyeztetéskor értesítjük a végzettet)
+6. Alumni kérdőív kitöltve (a kérdőív végén kapott kódot küldjék el az időpont egyeztetéskor e-mailben; posztgraduális tanárképző esetén: Alumni kérdőív - Tanárképző)
+**Figyelem!**
+A Szenátus 2513/2021.06.25. határozata értelmében 2025. január 1-jétől a tanulmányi okmányok tárolási díja a hallgatói jogviszony lezárását követő három éven túl oklevelenként 20 euró (100 lej), ez az összeg minden évben további 5 euróval (25 lej) nő.
+Csakis indokolt esetben vehető át az oklevél közjegyzői felhatalmazással rendelkező személy által.
+Az erre vonatkozó igényt, kérjük jelezze az időpont egyeztetés során.
+A különböző oklevéltípusokat külön fel kell tüntetni a felhatalmazásban (pl. külön licensz oklevél, pedagógia oklevél).
+Ez esetben a közjegyzői felhatalmazás mellett a felhatalmazott személynek fel kell mutatnia a saját személyi igazolványát és az oklevél tulajdonosának személyi másolatát.
+Az erre vonatkozó Románia Hivatalos Közlönyében megjelent rendelkezés:
+*ORDIN nr. 4.156/2020 pentru aprobarea Regulamentului-cadru privind regimul actelor de studii şi al documentelor universitare în sistemul de învăţământ superior*
+Publicat in Monitorul Oficial, Partea I nr. 381 din 12 mai 2020 (https://www.edu.ro/sites/default/files/_fișiere/Legislatie/2020/OMEC_4156_regim%20acte_%20studii_documente%20universitare.pdf)
+Capitolul III, Sectiunea 1, Art. 19.
+(2) În situaţia în care titularul nu se poate prezenta, actul de studii poate fi eliberat împuternicitului acestuia, pe bază de procură autentificată la notariat/împuternicire avocaţială în copie certificată conform cu originalul, în care se menţionează în mod expres faptul că împuternicitul poate ridica acte de studii.
+(3) În cazul în care procura notarială a fost întocmită pe teritoriul altui stat, aceasta se depune în original, fiind însoţită de traducerea legalizată.
+Procura trebuie să fie apostilată sau supralegalizată de autorităţile competente ale statului pe al cărui teritoriu a fost întocmită, cu excepţia celor întocmite în statele care au încheiat cu România convenţii, tratate sau acorduri privind asistenţa juridică în materie civilă, care prevăd scutirea de orice legalizare.
+Se acceptă împuternicirile efectuate la ambasadele vagy consulatele României din diverse state.
+Împuternicirile efectuate sub semnătura ambasadorului/consulului nu trebuie traduse vagy apostilate/supralegalizate.
+(4) Înscrisurile menţionate la alin. (2) şi (3) se păstrează cu termen permanent în arhiva instituţiei care eliberează actul de studii.
+További információk a Rektori Hivatal titkárságán kérhetőek, a diploma@sapientia.ro e-mail címen.
+# Orvosi rendelő
+**A Marosvásárhelyi Kar diákjainak egészségügyi felügyeletét dr. Finna Judit Családorvosi Rendelője (https://www.facebook.com/profile.php?id=100021537022581) (Aleea Cornisa 23-as tömbház, külön bejárat) vállalta fel.**
+**Előzetes bejelentkezés: 0265-212-623**
+online jelentkezés (https://docs.google.com/forms/d/e/1FAIpQLSdmVcCF9T5wmcWjp9YWHZ7frFC20WzqyE6VEWfWd8yGfyfcNg/viewform)
+**Rendelési időpontok:**
+- hétfő, szerda: 9-14 óra
+- kedd, csütörtök: 14-18 óra
+- péntek: 9-13 óra
+Az egyetemen lévő elsősegélynyújtási pont (a főépület alagsorában levő „orvosi rendelő”) jelenleg is jól felszerelve tud segítséget nyújtani.
+Törvényes rendelkezés, hogy a távolabb, más megyében lakó diákokat, csak úgy tudjuk ingyenes, ártámogatott gyógyszerhez juttatni illetve egyéb szakorvoshoz küldeni, ha a mi rendelőnkhöz iratkozik fel.
+Máskülönben a diákok nem részesülhetnek olyan ingyenes szakorvosi ellátásban, ami túllépi a családorvosi rendelő kereteit.
+Igazolások, hivatalos iratok végett írjatok e-mailt: finnajutka@yahoo.com.
+Orvosi igazolást csakis a betegség bejelentésének napjától állíthatunk ki, utólag.
+Az email „subject”-jében tüntessétek fel, hogy a Sapientia hallgatói vagytok.
+**Sürgősségi esetben hívják a lenti telefonszámok egyikét.**
+Üdvözlettel,
+- dr. Finna Judit (0744-339-765)
+- dr. Juhász Imre, szakterület: családorvoslás, gyerekgyógyászat
+- dr. Nagy Bernadett, szakterület: családorvoslás
+- dr. Kis Anna-Bernadett, szakterület: családorvoslás
+- dr. Benedek Orsolya (orsibenedek89@gmail.com), pszichiáter
+**Dr. Benedek Orsolya pszichiáter jóvoltából lehetőségetek van pszichiátriai ellátásban is részesülni konzultáció, tanácsadás formájában.**
+**Jelentkezni: itt (https://forms.gle/NQkxuQCxcJirbv4L6)**
+# Lelkigondozás
+András Csaba SJ jezsuita szerzetes, katolikus egyetemi lelkész vagyok.
+Keddenként 9 és 12 óra között a bentlakás kápolnájában személyes beszélgetésre várlak titeket.
+Mire számíthatsz?
+Egy meghallgató jelenlétre, ahol nyugodtan kimondhatod mindazt, ami foglalkoztat, és ami talán már régóta bennrekedt, és jó lenne valakinek elmondani.
+Együtt kereshetjük, hogy mi segítene Neked az előrehaladásban és a nagyobb szabadságban.
+Időpontot egyeztetni a következő űrlap kitöltésével lehet: űrlap kitöltésével (https://forms.gle/kD3YxsncqnLHtvcp9)
+
 # Oktatás
 Tanévszerkezet (https://ms.sapientia.ro/hu/oktatas/tanevszerkezet)
 Órarend (https://ms.sapientia.ro/hu/oktatas/orarend)
@@ -3047,7 +2951,7 @@ Tantárgyi leírások (https://ms.sapientia.ro/hu/oktatas/tantargyi-leirasok)
 2016/2017-es tanév szerkezete (https://ms.sapientia.ro/content/2011-2021/hallgatok/Tanevszerkezet/5%20melleklet%20-%20tanevszerkezet%202016-17.pdf)
 A dokumentum a páros és páratlan tanítási heteket, a vizsga- és vakációs időszakokat, valamint a hivatalos ünnepnapokat tartalmazza.
 # Órarend
-# A 2024/2025-ös tanév II. félévének órarendje:
+## A 2024/2025-ös tanév II. félévének órarendje:
 * https://sapientia-emte.edupage.org/timetable/? (https://sapientia-emte.edupage.org/timetable/)
 **A 2024/2025-ös tanév szerkezete (https://ms.sapientia.ro/content/docs/MS/tan%C3%A9vszerkezet%202024-25_.pdf) olvasható.**
 # Tantárgyi adatlapok
@@ -3067,76 +2971,74 @@ A dokumentum a páros és páratlan tanítási heteket, a vizsga- és vakációs
 * Szoftverfejlesztés (https://drive.google.com/file/d/1FzhVcwuDtwh4h7oHz98647kNeRxqpLFK/view?usp=drive_link)
 * Fejlett mechatronika rendszerek (https://drive.google.com/file/d/1nGI3ZtuaLrMrVKFnyLOdSW_fgL8AWeWp/view?usp=sharing)
 * Számítógépes irányítási rendszerek (https://drive.google.com/file/d/1jJNn_Xe6WBtWpRoRSby0VpELfnHA6fuV/view?usp=drive_link)
-* Növényorvos (https://drive.google.com/file/d/1zc6UVbiLNTzF7v0u0Yu3Xq1Q49TrBNsT/view?usp=drive_link)# Tantervek
-### Alapképzés
-*   Szak: Informatika
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBInfo_2024.pdf)
-    *   II. év: 2023_2024_I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBInfo_2023.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Informatika_2022_2023_II%20ev.pdf)
-    *   IV. év: Nincs adat
-*   Szak: Mechatronika
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBMech_2024_Magyar.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Tanterv_MMECH_2023.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/mechatronika_2022_2023_II%20ev.pdf)
-    *   IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/mechatronika_2021_2022_I%20ev.pdf)
-*   Szak: Számítástechnika
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitastechnika%202024-2025.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitastechnika%202023-2024%20(1).pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/szamitastechnika_2022_2023_II%20ev.pdf)
-    *   IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/szamitastechnika_2021_2022_I%20ev.pdf)
-*   Szak: Automatika és alkalmazott informatika
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Automatika_es_alkalmazott_informaika_2024-2025.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Automatika_es_alkalmazott_informaika_2023-2024%20(1).pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/automatizalas_2022_2023_II%20ev.pdf)
-    *   IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/automatizalas_2021_2022_I%20ev.pdf)
-*   Szak: Gépészmérnöki
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBTCM_2024_Magyar.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Tanterv_MTCM_2023.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/gepesz_2022_2023_II%20ev.pdf)
-    *   IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/gepesz_2021_2022_I%20ev.pdf)
-*   Szak: Távközlés
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Infokummunikacios_halozatok_es_rendszerek_2024-2025_1.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/minta_MBTK_2023_HU.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/tavkozles_2022_2023_II%20ev.pdf)
-    *   IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/tavkozles_2021_2022_I%20ev.pdf)
-*   Szak: Kertészmérnöki
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKer_2024.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKer_2023.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Anexa%20II.3.1%20-%20Plan%20de%20invatamant%20HORT%202022-2023.pdf)
-    *   IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/kertesz_2021_2022_I%20ev.pdf)
-*   Szak: Kommunikáció és közkapcsolatok
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKom_2024.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKom_2023.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/kommunikacio_2022_2023_II%20ev.pdf)
-    *   IV. év: Nincs adat
-*   Szak: Közegészségügyi szolgáltatások és politikák
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBEg_2024.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBEg_2023.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/kozeg_2022_2023_II%20ev.pdf)
-    *   IV. év: Nincs adat
-*   Szak: Fordító és tolmács
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBFord_2024%20HU.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBFord_2023_%20Magyar%202023_11_16.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/fordito_2022_2023_II%20ev.pdf)
-    *   IV. év: Nincs adat
-*   Szak: Tájépítészet
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBTaj_2024.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBTaj_2023-24_SZL%20m%C3%A1rc%2005_forditas%20VE_SZL.pdf)
-    *   III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/tajepiteszet_2022_2023_II%20ev.pdf)
-    *   IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/tajepiteszet_2021_2022_I%20ev.pdf)
+* Növényorvos (https://drive.google.com/file/d/1zc6UVbiLNTzF7v0u0Yu3Xq1Q49TrBNsT/view?usp=drive_link)
+# Tantervek
+## Alapképzés
+Szak: Informatika
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBInfo_2024.pdf)
+* II. év: 2023_2024_I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBInfo_2023.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Informatika_2022_2023_II%20ev.pdf)
+Szak: Mechatronika
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBMech_2024_Magyar.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Tanterv_MMECH_2023.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/mechatronika_2022_2023_II%20ev.pdf)
+* IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/mechatronika_2021_2022_I%20ev.pdf)
+Szak: Számítástechnika
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitastechnika%202024-2025.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitastechnika%202023-2024%20(1).pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/szamitastechnika_2022_2023_II%20ev.pdf)
+* IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/szamitastechnika_2021_2022_I%20ev.pdf)
+Szak: Automatika és alkalmazott informatika
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Automatika_es_alkalmazott_informaika_2024-2025.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Automatika_es_alkalmazott_informaika_2023-2024%20(1).pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/automatizalas_2022_2023_II%20ev.pdf)
+* IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/automatizalas_2021_2022_I%20ev.pdf)
+Szak: Gépészmérnöki
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBTCM_2024_Magyar.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Tanterv_MTCM_2023.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/gepesz_2022_2023_II%20ev.pdf)
+* IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/gepesz_2021_2022_I%20ev.pdf)
+Szak: Távközlés
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Infokummunikacios_halozatok_es_rendszerek_2024-2025_1.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/minta_MBTK_2023_HU.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/tavkozles_2022_2023_II%20ev.pdf)
+* IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/tavkozles_2021_2022_I%20ev.pdf)
+Szak: Kertészmérnöki
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKer_2024.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKer_2023.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Anexa%20II.3.1%20-%20Plan%20de%20invatamant%20HORT%202022-2023.pdf)
+* IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/kertesz_2021_2022_I%20ev.pdf)
+Szak: Kommunikáció és közkapcsolatok
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKom_2024.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBKom_2023.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/kommunikacio_2022_2023_II%20ev.pdf)
+Szak: Közegészségügyi szolgáltatások és politikák
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBEg_2024.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBEg_2023.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/kozeg_2022_2023_II%20ev.pdf)
+* IV. év: Nincs adat
+Szak: Fordító és tolmács
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBFord_2024%20HU.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBFord_2023_%20Magyar%202023_11_16.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/fordito_2022_2023_II%20ev.pdf)
+Szak: Tájépítészet
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBTaj_2024.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MBTaj_2023-24_SZL%20m%C3%A1rc%2005_forditas%20VE_SZL.pdf)
+* III. év: 2022_2023 I év (https://ms.sapientia.ro/content/docs/MS/Tantervek/tajepiteszet_2022_2023_II%20ev.pdf)
+* IV. év: 2021_2022 I év (https://ms.sapientia.ro/content/content_photos/Karok/MS/Hallgat%C3%B3knak/Tantervek/2021-2022/tajepiteszet_2021_2022_I%20ev.pdf)
 ### Mesterképzés
-*   Szak: Szoftverfejlesztés
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMSZF_2024.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMSZF_2023.pdf)
-*   Szak: Növényorvos
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMNOV_2024.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMNOV_2023_SZL%20m%C3%A1rc.27.pdf)
-*   Szak: Számítógépes irányítási rendszerek
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitogepes_iranyitasi_rendszerek_2024-2025%201.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitogepes_iranyitasi_rendszerek_2023-2024%20(1).pdf)
-*   Szak: Fejlett mechatronikai rendszerek
-    *   I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMFMR_2024_Magyar.pdf)
-    *   II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Tanterv_FMR_2023.pdf)
+Szak: Szoftverfejlesztés
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMSZF_2024.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMSZF_2023.pdf)
+Szak: Növényorvos
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMNOV_2024.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMNOV_2023_SZL%20m%C3%A1rc.27.pdf)
+Szak: Számítógépes irányítási rendszerek
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitogepes_iranyitasi_rendszerek_2024-2025%201.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/VMT_Szamitogepes_iranyitasi_rendszerek_2023-2024%20(1).pdf)
+Szak: Fejlett mechatronikai rendszerek
+* I. év: 2024_2025_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/MMFMR_2024_Magyar.pdf)
+* II. év: 2023_2024_I_év (https://ms.sapientia.ro/content/docs/MS/Tantervek/Tanterv_FMR_2023.pdf)
 # Oktatói versenyvizsgák
 Meghatározott időre szóló tanársegédi állások 2024/2025 (https://ms.sapientia.ro/hu/oktatas/oktatoi-versenyvizsgak/meghatarozott-idore-szolo-tanarsegedi-allasok-20242025)
 Óraadói állások 2024/2025 (https://ms.sapientia.ro/hu/oktatas/oktatoi-versenyvizsgak/oraadoi-allasok-20242025)
@@ -3180,12 +3082,6 @@ A pályázatoknak, amelyeket az office@ms.sapientia.ro címre lehet küldeni, a 
 Tel.: +40-265-208170, +40-723-193989, fax: +40-265-206211,
 E-mail: office@ms.sapientia.ro
 # Tantárgyi leírások
-Oktatás (https://ms.sapientia.ro/hu/oktatas)
-Tanévszerkezet (https://ms.sapientia.ro/hu/oktatas/tanevszerkezet)
-Órarend (https://ms.sapientia.ro/hu/oktatas/orarend)
-Tantárgyi adatlapok (https://ms.sapientia.ro/hu/oktatas/tantargyi-adatlapok)
-Tantervek (https://ms.sapientia.ro/hu/oktatas/tantervek)
-Oktatói versenyvizsgák (https://ms.sapientia.ro/hu/oktatas/oktatoi-versenyvizsgak)
 Tantárgyi leírások (https://ms.sapientia.ro/hu/oktatas/tantargyi-leirasok)
 # Kutatás
 Kutatóközpontok (https://ms.sapientia.ro/hu/kutatas/kutatokozpontok)
@@ -3321,7 +3217,7 @@ Statutum (https://ms.sapientia.ro/content/docs/MS/Kutatokozpontok/IMAF/Anexa%201
 Tagok listája (https://ms.sapientia.ro/content/docs/MS/Kutatokozpontok/IMAF/Anexa%2010.3.2c%20Membrii%20centrului%20de%20cercetare%20IIFA.pdf)
 Kutatási terv (https://ms.sapientia.ro/content/docs/MS/Kutatokozpontok/IMAF/Anexa%2010.3.2b%20Planul%20de%20cercetare%20IIFA.pdf)
 Kutatási jelentés (https://ms.sapientia.ro/content/docs/MS/Kutatokozpontok/IMAF/Anexa%2010.3.2f%20Raport_IIFA%202020.pdf)
-# DAMERG Nyelvészeti Kutatóközpont
+# DAMERG Nyelvészeti Kutatóközpont 
 A DAMERG kutatóközpont elsősorban az alkalmazott nyelvészet területén fejti ki tevékenységét: fő kutatási irányai közé tartoznak a terminológiai, szaknyelvi vizsgálatok, az audiovizuális és online sajtó nyelvhasználati sajátosságai, a fordítás- és tolmácsolástudományi elemzések (különös tekintettel az új technológiákra és az interkulturális vonatkozásokra), illetve a szociolingvisztikai vizsgálódások (kétnyelvűség, nyelvi tájkép, kisebbségi nyelvhasználat, antropológiai nyelvészeti kutatások).
 ## A kutatóközpont tagjai
 Elnök: Dr. Suba Réka, docens
@@ -3375,6 +3271,8 @@ Kutatócsoport (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-t
 Tagok listája (https://ms.sapientia.ro/content/docs/MS/Kutatokozpontok/Egeszsegfejlesztes/Tagok%20list%C3%A1ja_%C9letmin%C5%91s%C3%A9g%20kutat%C3%B3k%C3%B6zpont.pdf)
 kutatási terv (https://ms.sapientia.ro/content/docs/MS/Kutatokozpontok/Egeszsegfejlesztes/Plan_cercetare.pdf)
 kutatási jelentés (https://ms.sapientia.ro/content/docs/MS/Kutatokozpontok/Egeszsegfejlesztes/Raport_activitate.pdf)
+# Alkalmazott Nyelvészeti Tanszék
+DAMERG (Alkalmazott Nyelvészeti Kutatóközpont) (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-nyelveszeti-tanszek_/damerg)
 # DAMERG
 A DAMERG kutatóközpont a Sapientia EMTE Alkalmazott Nyelvészeti Tanszékének oktatóit, valamint a különböző kutatási területekhez csatlakozott külső szakembereket tömörítő intézmény.
 A központ kutatási irányai közé az alábbiak tartoznak:
@@ -3396,7 +3294,7 @@ Tagok:
 - Dr. Sárosi-Márdirosz Krisztina, adjunktus
 - Dr. Suciu Sorin, adjunktus
 - Barabás Blanka, tanársegéd
-# A kutatócsoport partnerintézményei
+## A kutatócsoport partnerintézményei
 *   Eötvös Lóránd Tudományegyetem, Fordító- és Tolmácsképző Tanszék, Budapest (http://www.elteftt.hu/en/)
 *   George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Târgu-Mureș, Romania (https://www.umfst.ro/en/home.html)
 *   Babeș-Bolyai University, Cluj-Napoca, Romania (http://www.ubbcluj.ro)
@@ -3562,6 +3460,9 @@ Tagok:
 *   Suba Réka, Pragmatic Elements in Hungarian Radio Texts. In: Iulian Boldea, Cornel Sigmirean (szerk.): Multicultural Representation. Literature and Discours as Form of Dialogue, Marosvásárhely / Tîrgu Mureş, ARHIEPAG XXI PRESS, 2016, pp. 46–50., ISBN 978-606-8624-16-7
 *   Suba Réka, Limbaj vs. normativitate în presa audiovizuală de limbă maghiară din România. In: Mediamorfoze II. In: Cătălin Negoiță (szerk.): Mediamorfoze II, Presa minorităților etnice din România, Bucuresti, Tritonic, 2016, pp. 519–533.
 *   Suba Réka, Fenomene de contact lingvistic în cazul textelor jurnalistice de limbă maghiară. In: Cătălin Negoiță (szerk.): Mediamorfoze II, Presa minorităților etnice din România, Bucuresti, Tritonic, 2016, pp. 497–519.
+# Alkalmazott Társadalomtudományok Tanszék
+Új média kutatócsoport (Kommunikáció és közkapcsolatok szak) (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-tarsadalomtudomanyok-tanszek/uj-media-kutatocsoport)
+Az egészségi állapot és az életminőség vizsgálata (Közegészségügyi szolgáltatások és politikák szak) (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/alkalmazott-tarsadalomtudomanyok-tanszek/az-egeszsegi-allapot-es-az-eletminoseg-vizsgalata)
 # Új média kutatócsoport
 ## Témakörök
 2021-2025 Digitális léthelyzetek. 
@@ -3664,7 +3565,7 @@ Tőkés Gyöngyvér, Ethical and Methodological Challenges in Assessment of Smal
 ## Kutatási látogatások
 *   2017. április, 2018. szeptember, 2019. május, 2019. november: a Debreceni Egyetem Egészségügyi Kar kutatói szakmai tanácskozásra látogattak intézményünkbe
 *   2019. július 28-31., Pädagogische Hochschule Freiburg, szakmai tanácskozás, publikáció előkészítése
-# Konferenciák
+## Konferenciák
 ## Általunk szervezett konferenciák
 *   2016. április 16.: Egészség és életstílus - Második közegészségügyi konferencia, Sapientia EMTE Marosvásárhelyi Kar
 *   2017. április 6.: Ifjúság és egészség - Harmadik közegészségügyi konferencia, Sapientia EMTE Marosvásárhelyi Kar
@@ -3713,13 +3614,8 @@ Tőkés Gyöngyvér, Ethical and Methodological Challenges in Assessment of Smal
 *   Lukács-Márton Réka, Sántha Ágnes, Kiss János, Majer Réka, Mohácsi Bernadett, Kovács János, Sárváry Andrea (2020) A Sapientia EMTE Marosvásárhelyi Kar hallgatóinak egészségmagatartása és mentális állapota. Acta Medicina et Sociologica 11, 31, 26-38. ISSN 2062-0284
 *   Szabó Árpád, Zsigmond István, Krizbai Timea (2020) A boldogságkutatások mikro/ és makrogazdasági vonatkozásai. DUNAKAVICS 8, 2, 25-37. ISSN 2064-5007
 *   Santha A., Bittlingmayer, U.H., Bollweg, T.M., Gerdes, J., Okan, O., Ökcu, G., Pinheiro, P., Osipov, I., Sahrai, D. (2021): Health Literacy and its Determinants in 11 and 12-year-old School Children in Germany. In: Saboga-Nunes L.A., Bittlingmayer U.H., Okan O., Sahrai D. (eds) New Approaches to Health Literacy. Gesundheit und Gesellschaft. 183-199. Springer VS, Wiesbaden. doi: 10.1007/978-3-658-30909-1\_10
-## Publikációk linkjei
-*   Social, Demographic and Labour Market Related Determinants of Health in the Adult European Population (https://doi.org/10.23979/fypr.56932)
-*   Work-Family Balance in the Active Age Ethnic Hungarian Population in Romania (https://doi.org/10.3390/socsci8020059)
-*   Maternal health literacy of ethnic Hungarian mothers in Romania (http://dx.doi.org/10.32725/kont.2019.011)
-*   The Health Literacy of Ethnic Hungarian Mothers in Eastern Europe (http://dx.doi.org/10.14658/pupj-ijse-2020-3-5)
-*   Burnout and Depression in Medical Assistants in State-Owned Healthcare Institutions in Romania (http://dx.doi.org/10.2478/aussoc-2020-0006)
-*   Health Literacy and its Determinants in 11 and 12-year-old School Children in Germany (http://dx.doi.org/10.1007/978-3-658-30909-1_10)
+# Gépészmérnöki Tanszék
+Alkalmazott Fizika és Gépészeti Tudományok Kutatóközpont (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/gepeszmernoki-tanszek_/alkalmazott-fizika-es-gepeszeti-tudomanyok-kutatokozpont)
 # Alkalmazott Fizika és Gépészeti Tudományok Kutatóközpont
 A kutatóközpont neve román nyelven: Centrul de Cercetare în Domeniul Inginerie Industrială şi Fizică Aplicată
 ## A kutatóközpont tagjai a 2016-2021 időszakra
@@ -3743,6 +3639,8 @@ A kutatóközpont neve román nyelven: Centrul de Cercetare în Domeniul Inginer
 *   18. Kutató neve: Hodgyai Norbert (Tagság kezdete: 2020)
 *   19. Kutató neve: dr. Máté Márton (Tagság kezdete: 2012)
 További részletek (https://ms.sapientia.ro/content/content_photos/Tartalom/GMT%20Alkalmazott%20Fizika%20es%20Gepeszeti%20Tudomanyok%20Kutatokoezpont.pdf)
+# Kertészmérnöki Tanszék
+PPGroup (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/kerteszmernoki-tanszek_/ppgroup)
 # PPGroup
 ## Növényvédelmi Kutatócsoport
 ### Témakörök
@@ -3791,6 +3689,11 @@ BÁLINT J., LOXDALE H. D., KOVÁCS E., ÁBRAHÁM B., BALOG A.\* (2018): How host
 BALOG A., LOXDALE H. D., BÁLINT J., BENEDEK K., SZABÓ K-A., JÁNOSI-RANCZ K.-T., DOMOKOS E. (2017): The arbuscular mycorrhizal fungus Rhizophagus irregularis affects arthropods colonization on sweet pepper in both the field and greenhouse, Journal of Pest Science, 90(3): 935–946. (IF. 4,402). Scimago rank D1.
 BÁLINT J., SZABÓ K-A., TÓFALVI B., PUIA C., BALOG A. (2016): Comparing disease resistance of local and international plum cultivars (Prunus domestica) from Eastern Transylvania, Romania, Journal of Plant Diseases and Protection, 123: 317-320. (IF. 0,485). Scimago rank Q3.
 BÁLINT J., ZYTYNSKA S., SALAMON R., MEHRPARVAR M.,; WEISSER W., SCHMITZ O. J., BENEDEK K., BALOG A. (2016): Intraspecific differences in plant chemotype determines the structure of arthropod food webs, Oecologia, 180(3): 797-807. (IF. 3,130). Scimago rank D1.
+# Matematika-Informatika Tanszék
+Biointelligencia Kutatócsoport (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/biointelligencia-kutatocsoport)
+CAL-Sapientia (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/cal-sapientia)
+CIRG (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/cirg)
+Research group in Mathematics (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/matematika-informatika-tanszek_/research-group-in-mathematics)
 # Biointelligencia Kutatócsoport
 Biointelligencia alatt a gépi tanulás és orvosbiológia határterületét értjük.
 A Biointelligencia Csoport gépi tanulási eljárásokat fejleszt és adaptál biológiai és biometrikai feladatokra. Ebbe beletartozik idősorok (EKG, EEG, más biometrikus jelek) osztályozása, képi adatokhoz (röntgen, fMRI) kapcsolódó felismerési feladatok és orvosbiológiai hálózatok elemzése (pl. interakciók predikciója, csoportkeresés hálózatokban).
@@ -3953,9 +3856,9 @@ UMFST Tg. Mureş, Sándor M. Szilágyi
 1.  Győrfi Á, Szilágyi L, Kovács L: A fully automatic procedure for brain tumor segmentation from multi-spectral MRI records using ensemble learning and atlas-based data enhancement. Applied Sciences 11(2):564, pp. 1–24, 2021.
 2.  Szilágyi L, Lefkovits Sz, Szilágyi SM: Self-tuning possibilistic c-means clustering models. International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems 27(Suppl. 1): 143-159, 2019.
 3.  Antal M, Egyed-Zsigmond E: Intrusion detection using mouse dynamics, IET Biometrics, 8(5):285-294, 2019, IET Digital Library, IF: 1.836.
-4.  Lehotsky Á, Szilágyi L, Bánsághi Sz, Szerémy P, Wéber Gy, Haidegger T: Towards objective hand hygiene technique assessment – validation of the UV dye based hand rubbing quality assessment procedure. Journal of Hospital Infection 97(1):26-29, 2017, ISSN 0195-6701, IF: 3.126\*
-5.  Lehotsky Á, Morvai J, Szilágyi L, Bánsághi Sz, Benkó A, Haidegger T: Hand hygiene technique assessment using electronic equipment in 26 Hungarian healthcare institutes (Hungarian). Orvosi Hetilap 158(29):1151-1156, 2017, ISSN 0030-6002, IF: 0.346\*
-6.  Frigy A, Magdás A, Moga VD, Coteţ OG, Kozlovszky M, Szilágyi L: Increase of short-term heart rate variability induced by blood pressure measurements during ambulatory blood pressure monitoring. Computational and Mathematical Methods in Medicine, article ID 5235319, pp. 1–5, 2017, ISSN 1748-6718, IF: 0.937\*
+4.  Lehotsky Á, Szilágyi L, Bánsághi Sz, Szerémy P, Wéber Gy, Haidegger T: Towards objective hand hygiene technique assessment – validation of the UV dye based hand rubbing quality assessment procedure. Journal of Hospital Infection 97(1):26-29, 2017, ISSN 0195-6701, IF: 3.126
+5.  Lehotsky Á, Morvai J, Szilágyi L, Bánsághi Sz, Benkó A, Haidegger T: Hand hygiene technique assessment using electronic equipment in 26 Hungarian healthcare institutes (Hungarian). Orvosi Hetilap 158(29):1151-1156, 2017, ISSN 0030-6002, IF: 0.346
+6.  Frigy A, Magdás A, Moga VD, Coteţ OG, Kozlovszky M, Szilágyi L: Increase of short-term heart rate variability induced by blood pressure measurements during ambulatory blood pressure monitoring. Computational and Mathematical Methods in Medicine, article ID 5235319, pp. 1–5, 2017, ISSN 1748-6718, IF: 0.937
 7.  Antal M, Szabó LZs, Tordai T: Online Signature Verification on MOBISIG Finger-Drawn Signature Corpus. MOBILE INFORMATION SYSTEMS, Volume 2018 (2018), Article ID 3127042, 15 pages
 8.  Balog A, Loxdale H, Bálint J, Benedek K, Szabó KA, Jánosi-Rancz KT, Domokos E: The arbuscular mycorrhizal fungus Rhizophagus irregularis affects arthropod colonization on sweet pepper in both the field and greenhouse, JOURNAL OF PEST SCIENCE,  2017, Volume 90, Issue 3, pp 935–946
 9.  Varga V, Jánosi-Rancz KT, Kálmán B: Conceptual Design of Document NoSQL Database with Formal Concept Analysis, ACTA POLYTECHNICA HUNGARICA, Journal of Applied Sciences, Volume 13, Number 2, p. 229-248, 2016
@@ -4054,6 +3957,12 @@ E. Horobeț:
 P. Kupán:
 1. A.P., Kupán, Gy. Márton, R. Szász, A result regarding monotonicity of the Gamma function, ACTA UNIVERSITATIS SAPIENTIAE, MATHEMATICA, 9/2, (2017), 291−302.
 2. A.P. Kupán, About strong starlikeness conditions, FILOMAT, 32/6, (2018), 2035-2042.
+# Villamosmérnöki Tanszék
+APEMBSYS (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/apembsys)
+CIRG (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/cirg_)
+NARC (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/narc)
+PEDIMCo (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/pedimco)
+PRRG (https://ms.sapientia.ro/hu/kutatas/kutatocsoportok/villamosmernoki-tanszek_/prrg)
 # APEMBSYS
 Kutatócsoportunk az újrakonfigurálható áramkörökre illetve mikrovezérlőkre épülő, digitális áramkörökön megvalósított beágyazott rendszerek tervezésével, implementációjával és tesztelésével foglalkozik. 
 Az érintett főbb témakörök a következők:
@@ -4195,7 +4104,7 @@ Fontosabb kutatási témáink: klaszterező és részlegesen felügyelt klaszter
 *   Collegium Talentum Fellowship (Tímea Fülöp), 2019/09-2020/07, 1.5m HUF
 *   Székely Előfutár Fellowship (Zoltán Kapás, 2016-2017, 1000 USD), (Bálint Borsos, 2018-2019, 1000 USD)
 *   Accenture Student Research Fellowship (Zsófia Szabó, 2018, 4000 RON), (Bálint Borsos, 2018, 4000 RON)
-# Konferencia szervezés
+## Konferencia szervezés
 *   INES 2021 ¬– Program Committee Co-chair: László Szilágyi
 *   INES 2020 ¬– Program Committee Co-chair: László Szilágyi
 *   ICONIP 2019 – Program Committee members: László Szilágyi, David Iclănzan
@@ -4405,7 +4314,16 @@ Két fő irányvonallal foglalkozunk. Az egyik különböző acélok hőkezelés
 # Pályázatok
 Pályázatok oktatóknak (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak)
 Pályázatok hallgatóknak (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-hallgatoknak_)
-## Collegium Talentum 2024/2025
+# Rendszeres pályázatok
+Collegium Talentum 2024/2025 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/collegium-talentum-20242025)
+Horizont Európa Program (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/horizont-europa-program)
+KAB pályázatok (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok)
+Sapientia pályázatok (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/sapientia-palyazatok)
+UEFISCDI pályázatok Hírek, újdonságok, pályázati kiirások (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/uefiscdi-palyazatok)
+KPI pályázatok (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kpi-palyazatok)
+MTA pályázatok (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok)
+Communitas Alapítvány pályázatai (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/communitas-alapitvany-palyazatai)
+# Collegium Talentum 2024/2025
 A Sapientia Hungariae Alapítvány kuratóriuma a tanulmányaikat a felsőoktatásban végző külhoni magyar hallgatók szakmai munkáját, az értelmiségi pályán való előrehaladásukat segítendő, pályázatot hirdet a Collegium Talentum 2024/2025-ös tanévi programjában való részvételre.
 Pályázati feltétel, hogy a 2024–2025-ös tanév első félévétől a pályázó rendelkezzék elsődlegesen PhD/DLA, esetleg MA/MSc jogviszonnyal. A pályázati eljárás során prioritást élveznek a PhD/DLA jogviszonnyal rendelkezők. A pályázatot kizárólag elektronikus úton lehet benyújtani. A pályázat benyújtása regisztrációhoz kötött. A „Pályázok” menüpontra kattintva tud regisztrálni és pályázatot beküldeni.
 A beküldött pályázatokról e-mailben visszaigazolást küldünk a pályázati határidő lejárta után.
@@ -4413,13 +4331,25 @@ A beküldött pályázatokról e-mailben visszaigazolást küldünk a pályázat
 A pályázat beküldésével, a pályázati eljárással kapcsolatos kérdésekben a Collegium Talentum Programiroda ad további felvilágosítást a ct@sha.hu címen és a +36 20 425 5053 telefonszámon.
 A felhívás teljes szövege és a pályázati mellékletek letölthetőek (http://ct.sha.hu/dokumentumok/megjelent-a-2024-2025-os-tanev-palyazati-kiirasa?fbclid=IwZXh0bgNhZW0CMTAAAR2Tp8rppgT3H8nA0wLPuqz7EuwkL1AZczB_6kKqNCVoIWhy-7sMkmtTRQ0_aem_dnk_qUhX8aj47WgXOawI6Q)
 # Horizont Európa Program
-## KAB pályázatok
+Horizont Európa – MSCA PF és COFUND 2024 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/horizont-europa-program/horizont-europa-msca-pf-es-cofund-2024)
+Horizont Európa - MSCA – Kutatócsere program 2022 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/horizont-europa-program/horizont-europa-msca-kutatocsere-program-2022)
+# KAB pályázatok
 KAB pályázat - 2024. II. félév (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok/kab-palyazat-2024-ii-felev)
 KAB pályázat - 2024. I. félév (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok/kab-palyazat-2024-i-felev)
 KAB pályázat - 2023. I. félév (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok/kab-palyazat-2023-i-felev)
 KAB pályázat - 2022. II. félév (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok/kab-palyazat-2022-ii-felev)
 KAB pályázat - Publikációs támogatás (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kab-palyazatok/kab-palyazat-publikacios-tamogatas)
-## Pályázat kari oktatói minősítési pótlék megítélésére a 2025-ös évre
+# Sapientia pályázatok
+Pályázat kari oktatói minősítési pótlék megítélésére a 2025-ös évre (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/sapientia-palyazatok/palyazat-kari-oktatoi-minositesi-potlek-megitelesere-a-2025-os-evre)
+Pályázati felhívás tudományos, illetve oktatási kiválósági eredményekre megítélhető minősítési bérkiegészítésre – 2025 (https://sapientia.ro/hu/hirek/palyazati-felhivas-tudomanyos-illetve-oktatasi-kivalosagi-eredmenyekre-megitelheto-minositesi-berkiegeszitesre-2025)
+Pályázat kari oktatói minősítési pótlék megítélésére a 2024-es évre (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/sapientia-palyazatok/palyazat-kari-oktatoi-minositesi-potlek-megitelesere-a-2024-es-evre)
+A Sapientia EMTE Marosvásárhelyi Kara pályázatot hirdet az oktatók minősítési bérkiegészítésére.
+Pályázati felhívás tudományos, illetve oktatási kiválósági eredményekre megítélhető minősítési bérkiegészítésre – 2024 (https://sapientia.ro/hu/oktatas/oktatoknak/palyazatok-oktatoknak/kivalosagi-berkiegeszites/palyazati-felhivas-tudomanyos-illetve-oktatasi-kivalosagi-eredmenyekre-megitelheto-minositesi-berkiegeszitesre-2024_)
+Pályázati felhívás tudományos, illetve oktatási kiválósági eredményekre megítélhető minősítési bérkiegészítésre - 2023 (https://sapientia.ro/hu/oktatas/oktatoknak/palyazatok-oktatoknak/kivalosagi-berkiegeszites/palyazati-felhivas-tudomanyos-illetve-oktatasi-kivalosagi-eredmenyekre-megitelheto-minositesi-berkiegeszitesre-2023)
+PÁLYÁZAT nemzetközi tudományos konferenciákon, művészeti fesztiválokon és kiállításokon való részvétel támogatására – 2022 (https://sapientia.ro/hu/hirek/palyazat-nemzetkozi-tudomanyos-konferenciakon-muveszeti-fesztivalokon-es-kiallitasokon-valo-reszvetel-tamogatasara-2022)
+PÁLYÁZAT rangos nemzetközi (D1, Q1, Q2-es) szakmai folyóiratban közölt cikkek publikálási költségeinek a térítésére – 2022 (https://sapientia.ro/hu/hirek/palyazat-rangos-nemzetkozi-d1-q1-q2-es-szakmai-folyoiratban-kozolt-cikkek-publikalasi-koltsegeinek-a-teritesere-2022)
+Pályázati felhívás tudományos, illetve oktatási kiválósági eredményekre megítélhető minősítési bérkiegészítésre – 2022 (https://sapientia.ro/hu/hirek/palyazati-felhivas-tudomanyos-illetve-oktatasi-kivalosagi-eredmenyekre-megitelheto-minositesi-berkiegeszitesre)
+# Pályázat kari oktatói minősítési pótlék megítélésére a 2025-ös évre
 A Sapientia EMTE Marosvásárhelyi Kara pályázatot hirdet az oktatók minősítési bérkiegészítésére.
 A differenciált bérezési rendszer az oktatási, kutatási és az egyetem érdekében kifejtett adminisztrációs jellegű tevékenységek ösztönzése céljából jött létre. A differenciált bérezési rendszer abban áll, hogy ennek keretében a kiválóan teljesítő oktatók pótbérezésben részesülhetnek. A differenciált bérezést megvalósító többletjuttatást pályázat útján lehet elnyerni.
 A pályázat szabályzata (https://ms.sapientia.ro/content/docs/MS/Kari%20okt%20potlek%20palyaz%20szab%202025.pdf ) tölthető le.
@@ -4443,6 +4373,39 @@ PTE projektek (Lejárt benyújtási határidő) (https://ms.sapientia.ro/hu/kuta
 PCE projektek (Lejárt pályázási határidő) (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/uefiscdi-palyazatok/pce-projektek-lejart-palyazasi-hatarido)
 Posztdoktori és fiatal kutatói csapatokat támogató kiírások (Lejárt pályázási határidő) (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/uefiscdi-palyazatok/posztdoktori-es-fiatal-kutatoi-csapatokat-tamogato-kiirasok-lejart-palyazasi-hatarido)
 M-ERA.NET-3-2021 pályázati felhívás (Lejárt pályázási határidő) (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/uefiscdi-palyazatok/m-eranet-3-2021-palyazati-felhivas-lejart-palyazasi-hatarido)
+# KPI pályázatok
+PÁLYÁZAT nemzetközi tudományos konferenciákon, művészeti fesztiválokon és kiállításokon való részvétel támogatására - 2024 (https://sapientia.ro/hu/hirek/palyazat-nemzetkozi-tudomanyos-konferenciakon-muveszeti-fesztivalokon-es-kiallitasokon-valo-reszvetel-tamogatasara-2024)
+PÁLYÁZAT nemzetközi tudományos konferenciákon, művészeti fesztiválokon és kiállításokon való részvétel támogatására - 2023 (https://sapientia.ro/hu/hirek/palyazat-nemzetkozi-tudomanyos-konferenciakon-muveszeti-fesztivalokon-es-kiallitasokon-valo-reszvetel-tamogatasara-2023)
+Egyetemi Kutatási Program – 2022/2023 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kpi-palyazatok/egyetemi-kutatasi-program-20222023)
+PÁLYÁZAT nemzetközi tudományos konferenciákon, művészeti fesztiválokon és kiállításokon való részvétel támogatására – 2021 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/kpi-palyazatok/palyazat-nemzetkozi-tudomanyos-konferenciakon-muveszeti-fesztivalokon-es-kiallitasokon-valo-reszvetel-tamogatasara-2021)
+# MTA pályázatok
+Domus szülőföldi ösztöndíjpályázat 2025 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-szulofoldi-osztondijpalyazat-2025)
+Domus magyarországi ösztöndíjpályázat – 2025 tavasz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-magyarorszagi-osztondijpalyazat-2025-tavasz)
+Domus alkotói ösztöndíjpályázat 2025 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-alkotoi-osztondijpalyazat-2025)
+Pályázat a Magyar Tudományos Akadémia Bolyai János Kutatási Ösztöndíjának elnyerésére 2025-ben (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/palyazat-a-magyar-tudomanyos-akademia-bolyai-janos-kutatasi-osztondijanak-elnyeresere-2025-ben)
+Magyarországi ösztöndíjpályázat – 2024 ősz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/magyarorszagi-osztondijpalyazat-2024-osz)
+Domus könyvkiadás-támogatási pályázat 2024 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-konyvkiadas-tamogatasi-palyazat-2024)
+Domus szülőföldi ösztöndíjpályázat 2024 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-szulofoldi-osztondijpalyazat-2024)
+Magyarországi ösztöndíjpályázat – 2024 tavasz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/magyarorszagi-osztondijpalyazat-2024-tavasz)
+Domus alkotói ösztöndíjpályázat 2024 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-alkotoi-osztondijpalyazat-2024)
+MTA Vendégkutatói program (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/mta-vendegkutatoi-program)
+Világviszonylatban is kiemelkedő külföldi kutatók bevonása a hazai kutatócsoportok munkájába – ez a fő célja a Magyar Tudományos Akadémia Vendégkutatói Programjának, amelyre október 27-ig lehet benyújtani a pályázatokat.
+Magyarországi ösztöndíj pályázat – 2023 ősz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/magyarorszagi-osztondij-palyazat-2023-osz)
+Az MTA Domus ösztöndíjprogramja senior és junior ösztöndíjakkal kívánja támogatni a külföldi kutatók szakmai munkásságát, magyarországi tevékenységét, segítve bekapcsolódásukat a magyarországi tudományos életbe, akadémiai és egyetemi kutatásokba, magyarországi szakmai partnerek, témavezetők közreműködésével.
+Az MTA Domus nemzetközi publikáció támogatása költségtérítés pályázati felhívása 2023 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/az-mta-domus-nemzetkozi-publikacio-tamogatasa-koltsegterites-palyazati-felhivasa)
+Az MTA Domus pályázati felhívása nemzetközi konferencián való aktív részvétel támogatására 2023 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/az-mta-domus-palyazati-felhivasa-nemzetkozi-konferencian-valo-aktiv-reszvetel-tamogatasara)
+Az MTA Domus könyvkiadás-támogatási pályázati felhívása 2023 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/az-mta-domus-konyvkiadas-tamogatasi-palyazati-felhivasa)
+Domus alkotói ösztöndíjpályázat 2023 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-alkotoi-osztondijpalyazat-2023)
+Domus szülőföldi ösztöndíjpályázat 2023 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-szulofoldi-osztondijpalyazat-2023)
+Magyarországi ösztöndíjpályázat – 2023 tavasz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/magyarorszagi-osztondijpalyazat-2023-tavasz)
+Magyarországi ösztöndíjpályázat – 2022 ősz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/magyarorszagi-osztondijpalyazat-2022-osz)
+II. Az MTA Domus pályázati felhívása szülőföldi ösztöndíjak elnyerésére 2022 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/ii-az-mta-domus-palyazati-felhivasa-szulofoldi-osztondijak-elnyeresere-2022)
+Magyarországi ösztöndíjpályázat - 2022 tavasz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/-magyarorszagi-osztondijpalyazat-2022-tavasz)
+Bolyai János Kutatási Ösztöndíj (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/bolyai-janos-kutatasi-osztondij)
+Magyarországi ösztöndíjpályázat - 2021 ősz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/magyarorszagi-osztondijpalyazat-2021-osz)
+Domus kiadvány- és nemzetközi publikációs pályázatok (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/domus-kiadvany-es-nemzetkozi-publikacios-palyazatok)
+Az MTA Domus pályázati felhívása szülőföldi ösztöndíjak elnyerésére 2021 (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/az-mta-domus-palyazati-felhivasa-szulofoldi-osztondijak-elnyeresere-2021)
+Magyarországi ösztöndíjpályázat - 2021 tavasz (https://ms.sapientia.ro/hu/kutatas/palyazatok/palyazatok-oktatoknak/rendszeres-palyazatok/mta-palyazatok/magyarorszagi-osztondijpalyazat-2021-tavasz)
 # Domus szülőföldi ösztöndíjpályázat 2025
 Marosvásárhely
 Az Akadémia Domus ösztöndíjprogramja **senior és csoportos ösztöndíjakkal** segíti a szülőföldi magyar nyelvű és tárgyú kutatások folyatását, a Kárpát-medencei magyar kutatók együttműködését.
@@ -4464,19 +4427,20 @@ A pályázatot **2025. március 14-én** **14 óráig** az Akadémiai Adattárho
 Senior pályázat benyújtási link (https://palyazatok.mta.hu/domus_szulofoldi_senior_2025/)
 Csoportos pályázat benyújtási link (https://palyazatok.mta.hu/domus_szulofoldi_csoportos_2025/)
 A Domus szülőföldi ösztöndíjpályázat teljes tavaszi kiírása (https://mta.hu/data/cikkek/105/1055/cikk-105505/Domus_szulofoldi_osztondij_palyazati_felhivas.pdf) érhető el.
-A Domus ösztöndíjról további részletek (https://mta.hu/domus-osztondij/a-domus-osztondij-105505) olvashatók.# Domus magyarországi ösztöndíjpályázat – 2025 tavasz
+A Domus ösztöndíjról további részletek (https://mta.hu/domus-osztondij/a-domus-osztondij-105505) olvashatók.
+# Domus magyarországi ösztöndíjpályázat – 2025 tavasz
 Az MTA Domus ösztöndíjprogramja **senior és junior ösztöndíjakkal** kívánja támogatni a külföldi kutatók szakmai munkásságát, magyarországi tevékenységét, segítve bekapcsolódásukat a magyarországi tudományos életbe, akadémiai és egyetemi kutatásokba, magyarországi szakmai partnerek, témavezetők közreműködésével.
 Az ösztöndíj tudományos kutatómunka végzésére, anyaggyűjtésre, konferencián való részvételre, konzultációra stb. használható fel, a benyújtott és elfogadott pályázatban megfogalmazott szakmai terv szerint.
-# 1. A pályázat jellege, a pályázat benyújtására jogosultak köre
+## 1. A pályázat jellege, a pályázat benyújtására jogosultak köre
 A pályázati támogatás nyílt pályázati eljárás útján nyerhető el.
 **Senior ösztöndíj** elnyerésére pályázatot nyújthatnak be az Akadémiának az Alapszabály 12. § (3) bekezdése szerinti külső tagjai, valamint az Alapszabály 23. § (1) bekezdése szerinti köztestületi külső tagok.
 **Junior ösztöndíj**ra pályázhatnak a tudományos fokozattal nem rendelkező külföldi kutatók közül azok, akik rendelkeznek Master szintű diplomával és tudományos munkásságuk a magyar nyelvű és/vagy tárgyú kutatások terén dokumentálható.
-# 2. Az elnyerhető költségvetési támogatás mértékének alsó és felső határa
+## 2. Az elnyerhető költségvetési támogatás mértékének alsó és felső határa
 A megpályázható **senior** ösztöndíj összege heti 100.000 forint, a **junior** ösztöndíj összege heti 80.000 forint. A megpályázható ösztöndíjak időtartama 1 héttől 8 hétig terjedhet.
 A támogatás formája: vissza nem térítendő támogatás, amennyiben a pályázatban megjelölt kutatási terv megvalósul, és a kutatási beszámolót a Magyar Tudományosság Külföldön Elnöki Bizottság (MTK EB) által létrehozott Kuratórium elfogadja.
-# 3. A támogatási időszak
+## 3. A támogatási időszak
 Jelen pályázat keretében a 2025. július 1. és 2025. december 31. között megvalósuló ösztöndíjas tevékenység támogatható.
-# 4. A pályázat benyújtása, tartalmi és formai követelmények
+## 4. A pályázat benyújtása, tartalmi és formai követelmények
 A pályázatot **2025. március 14-én 14 óráig**, az Akadémiai Adattárhoz kapcsolt Domus pályázati rendszeren keresztül kell benyújtani az alábbi linkeken:
 **Élő-és élettelen természettudományok és matematika**
 Junior pályázók esetében (https://palyazatok.mta.hu/domus_junior_tt_2025_tavasz/)
@@ -4485,7 +4449,8 @@ Senior pályázók esetében (https://palyazatok.mta.hu/domus_senior_tt_2025_tav
 Junior pályázók esetében (https://palyazatok.mta.hu/domus_junior_ht_2025_tavasz/)
 Senior pályázók esetében (https://palyazatok.mta.hu/domus_senior_ht_2025_tavasz/)
 A Domus magyarországi ösztöndíjpályázat teljes tavaszi kiírása (https://mta.hu/data/cikkek/105/1055/cikk-105505/Domus_magyarorszagi_osztondij_palyazati_felhivas_tavasz.pdf)
-További részletek a Domus ösztöndíjról (https://mta.hu/domus-osztondij/a-domus-osztondij-105505)# Domus alkotói ösztöndíjpályázat 2025
+További részletek a Domus ösztöndíjról (https://mta.hu/domus-osztondij/a-domus-osztondij-105505)
+# Domus alkotói ösztöndíjpályázat 2025
 Az Akadémia Domus alkotói ösztöndíjprogramja a Kárpát-medencében oktatói és kutatói munkakörben dolgozók tudományos kutatásainak előmozdítását, a tudományos előmenetelük elősegítését célozza meg.
 1. **A pályázat jellege, a pályázat benyújtására jogosultak köre**
 A pályázati támogatás nyílt pályázati eljárás útján nyerhető el.
@@ -4560,8 +4525,13 @@ Tudományos szakmai lapok (ISI Journals) (https://ms.sapientia.ro/hu/kutatas/pal
 *   Egészségfejlesztés Szakkollégium (https://ms.sapientia.ro/hu/kutatas/szakkollegiumok/egeszsegfejlesztes-szakkollegium)
     Az Egészségfejlesztés Szakkolégium támogatója az Emberi Erőforrások Támogatáskezelő Nemzeti Tehetség Program (NTP-SZKOLL-19-0072)
 *   Kiss Elemér Szakkollégium (https://ms.sapientia.ro/hu/kutatas/szakkollegiumok/kiss-elemer-szakkollegium)
-    A Kiss Elemér Szakkollégium 2010. novemberében alakult a Sapientia Erdélyi Magyar Tudományegyetem Marosvásárhelyi Karán a MITIS Egyesület keretében.# Történeti ismertető
-### Kiss Elemér Szakkollégium
+    A Kiss Elemér Szakkollégium 2010. novemberében alakult a Sapientia Erdélyi Magyar Tudományegyetem Marosvásárhelyi Karán a MITIS Egyesület keretében.
+# Kiss Elemér Szakkollégium
+Előadások (https://ms.sapientia.ro/hu/kutatas/szakkollegiumok/kiss-elemer-szakkollegium/eloadasok_kiss_elemer_szakkollegium)
+Táborok (https://ms.sapientia.ro/hu/kutatas/szakkollegiumok/kiss-elemer-szakkollegium/taborok-kiss-elemer-szakkollegium)
+Történeti ismertető (https://ms.sapientia.ro/hu/kutatas/szakkollegiumok/kiss-elemer-szakkollegium/torteneti-ismerteto)
+# Történeti ismertető
+## Kiss Elemér Szakkollégium
 A Sapientia EMTE Marosvásárhelyi Karán működő tehetséggondozó fórum szakkollégiuma.
 A Kiss Elemér Szakkollégium 2010. novemberében alakult a Sapientia Erdélyi Magyar Tudományegyetem Marosvásárhelyi Karán a MITIS Egyesület keretében. Mindjárt megalakulása után együttműködési szerződést kötött a budapesti Eötvös Collegiummal.
 ### Néhány szó a névadónkról
@@ -4581,11 +4551,12 @@ Kutatói munkája eredményeként a Magyar Tudományos Akadémia 2001-ben küls�
 2006. augusztus 23-án halt meg Marosvásárhelyen.
 # Nemzetközi kapcsolatok
 Erasmus+ (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus)
+Dokumentumok, szabályzatok (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/dokumentumok-szabalyzatok)
 Makovecz Hallgatói Ösztöndíjprogram (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program)
 Partnerek (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/partnerek)
 Nemzetközi hallgatók (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/nemzetkozi-hallgatok)
 Kapcsolat (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/kapcsolat-nemzetkozi-kapcsolatok)
-## Erasmus+
+# Erasmus+
 Pályázati felhívások (hallgatók) (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok)
 Pályázati felhívások (oktatók és felsőoktatási munkatársak) (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-oktatok-es-felsooktatasi-munkatarsak)
 Erasmus+ kiutazó diákok (beszámolók) (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok)
@@ -4594,12 +4565,39 @@ Erasmus+ Partnerek (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/er
 Erasmus+ Projektek (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-projektek)
 Dokumentumok, szabályzatok (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/dokumentumok-szabalyzatok)
 Hasznos információk (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok)
+# Pályázati felhívások (hallgatók)
+Erasmus+ pályázati felhívások (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok)
+BIP pályázati felhívások (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok/bip-palyazati-felhivasok)
+# Hallgatók
+Erasmus+ hallgatói pályázati felhívás: szakmai gyakorlat mobilitás (2025 nyara) és tanulmányi mobilitás (2025/26-os tanév) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/erasmus-hallgatoi-palyazati-felhivas-szakmai-gyakorlat-mobilitas-2025-nyara-es-tanulmanyi-mobilitas-202526-os-tanev)
+Pályázati felhívás: Erasmus+ hallgatói tanulmányi mobilitás a 2024/25-ös tanév II. félévében (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-tanulmanyi-mobilitas-a-202425-os-tanev-ii-feleveben)
+Erasmus+ hallgatói pályázati felhívás: szakmai gyakorlat mobilitás (2024 nyara) és tanulmányi mobilitás (2024/25-ös tanév) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/erasmus-hallgatoi-palyazati-felhivas-szakmai-gyakorlat-mobilitas-2024-nyara-es-tanulmanyi-mobilitas-202425-os-tanev)
+Pályázati felhívás: Erasmus+ hallgatói tanulmányi mobilitás a 2023/24-es tanév II. félévében (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-tanulmanyi-mobilitas-a-202324-es-tanev-ii-feleveben)
+Erasmus+ hallgatói pályázati felhívás: szakmai gyakorlat mobilitás (2023 nyara) és tanulmányi mobilitás (2023/24-es tanév) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/erasmus-hallgatoi-palyazati-felhivas-szakmai-gyakorlat-mobilitas-2023-nyara-es-tanulmanyi-mobilitas-a-202324-as-tanevben)
+Pályázati felhívás: Erasmus+ hallgatói tanulmányi mobilitás a 2022/23-as tanév II. félévében (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-tanulmanyi-mobilitas-a-202223-as-tanev-ii-feleveben)
+Erasmus+ hallgatói pályázati felhívás: szakmai gyakorlat mobilitás (2022 nyara) és tanulmányi mobilitás (a 2022/23-as tanév első féléve) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/erasmus-hallgatoi-palyazati-felhivas-szakmai-gyakorlat-mobilitas-2022-nyara-es-tanulmanyi-mobilitas-a-202223-es-tanev-elso-feleve)
+Pályázati felhívás: Erasmus+ hallgatói mobilitási program, szakmai gyakorlat (2021 nyara) és tanulmányi mobilitás (2021/22-es tanév) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-mobilitasi-program-szakmai-gyakorlat-2021-nyara-es-tanulmanyi-mobilitas-202122-es-tanev)
+Pályázati felhívás: Erasmus+ hallgatói tanulmányi mobilitás a 2021/22-es tanév II. félévében (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-tanulmanyi-mobilitas-a-202122-es-tanev-ii-feleveben)
+Pályázati felhívás: Erasmus+ hallgatói tanulmányi mobilitás a 2020/21-es tanév II. félévében (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-tanulmanyi-mobilitas-a-202021-es-tanev-ii-feleveben)
+ÚJRA MEGNYITVA! Pályázati felhívás: Erasmus+ hallgatói mobilitási program, szakmai gyakorlat (2020 nyara) és tanulmányi mobilitás (2020/21-es tanév) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/ujra-megnyitva-palyazati-felhivas-erasmus-hallgatoi-mobilitasi-program-szakmai-gyakorlat-2020-nyara-es-tanulmanyi-mobilitas-202021-es-tanev)
+Pályázati felhívás: Erasmus+ hallgatói tanulmányi mobilitás a 2019/20-as tanév II. félévében (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-tanulmanyi-mobilitas-a-201920-as-tanev-ii-feleveben)
+Pályázati felhívás: Erasmus+ hallgatói mobilitási program, szakmai gyakorlat (2019 nyara) és tanulmányi mobilitás (2019/20-as tanév) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-mobilitasi-program-szakmai-gyakorlat-2019-nyara-es-tanulmanyi-mobilitas-201920-as-tanev)
+Beszámolók (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/beszamolok)
+Pályázati felhívás: Erasmus+ hallgatói tanulmányi mobilitás a 2018/19-es tanév II. félévében (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-tanulmanyi-mobilitas-a-201819-es-tanev-ii-feleveben)
+Pályázati felhívás: Erasmus+ hallgatói mobilitási program, szakmai gyakorlat (2018 nyara) és tanulmányi mobilitás (2018/19-es tanév) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-mobilitasi-program-szakmai-gyakorlat-2018-nyara-es-tanulmanyi-mobilitas-201819-es-tanev)
+Pályázati felhívás: Erasmus+ hallgatói tanulmányi mobilitás a 2017/18-as tanév II. félévében (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-tanulmanyi-mobilitas-a-201718-as-tanev-ii-feleveben)
+Pályázati felhívás: Erasmus+ hallgatói mobilitási program, szakmai gyakorlat (2017 nyara) és tanulmányi mobilitás (2017/18-as tanév) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-mobilitasi-program-szakmai-gyakorlat-2017-nyara-es-tanulmanyi-mobilitas-201718-as-tanev)
+Pályázati felhívás: Erasmus+ hallgatói mobilitási pályázat, tanulmányi mobilitás, 2016/2017-es tanév II. félév (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-mobilitasi-palyazat-tanulmanyi-mobilitas-20162017-es-tanev-ii-felev)
+Erasmus+ hallgatói pályázati felhívás: tanulmányi mobilitás – 2016/2017-es tanév, szakmai gyakorlat mobilitás – 2016. nyár (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/erasmus-hallgatoi-palyazati-felhivas-tanulmanyi-mobilitas-20162017-es-tanev-szakmai-gyakorlat-mobilitas-2016-nyar)
+Pályázati felhívás: Erasmus+ hallgatói mobilitási pályázat, 2015/2016-os tanév II. félév (tanulmányi és szakmai gyakorlat) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-mobilitasi-palyazat-20152016-os-tanev-ii-felev-tanulmanyi-es-szakmai-gyakorlat)
+Pályázati felhívás: ERASMUS+ hallgatói tanulmányi mobilitási program, 2015/2016-os tanév (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-tanulmanyi-mobilitasi-program-20152016-os-tanev)
+Pályázati felhívás: ERASMUS+ hallgatói mobilitási program, 2014/15-ös tanév (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/palyazati-felhivas-erasmus-hallgatoi-mobilitasi-program-201415-os-tanev)
+Pótpályázati felhívás: ERASMUS+ hallgatói mobilitási program, 2014/15-ös tanév II. félév (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/potpalyazati-felhivas-erasmus-hallgatoi-mobilitasi-program-201415-os-tanev-ii-felev)
 # Erasmus+ hallgatói pályázati felhívás: szakmai gyakorlat mobilitás (2025 nyara) és tanulmányi mobilitás (2025/26-os tanév)
 **SAPIENTIA – 12 ÉVE AZ ERASMUS+ PROGRAMBAN!**
 **A Sapientia EMTE pályázatot hirdet az Európai Unió Erasmus+ Programjának támogatásával hallgatók számára szakmai gyakorlat mobilitáson való részvételre 2025 nyarán, és hosszú (egyetemi féléves) tanulmányi mobilitáson való részvételre a 2025/2026-os tanévben.**
-**1. A pályázat általános célja**
-A pályázat általános célja a hallgatók nemzetközi mobilitásának támogatása, lehetővé téve oktatási, nyelvi, szakmai és kulturális tapasztalatok megszerzését külföldi felsőoktatási vagy egyéb intézményben.
-Jelen pályázati felhívás célja az alábbi tevékenységek támogatása:
+**1. A pályázat általános célja** a hallgatók nemzetközi mobilitásának támogatása, lehetővé téve oktatási, nyelvi, szakmai és kulturális tapasztalatok megszerzését külföldi felsőoktatási vagy egyéb intézményben.
+**Jelen pályázati felhívás célja** az alábbi tevékenységek támogatása:
 * Hallgatók **szakmai gyakorlat** célú mobilitása 2025 nyarán: pályázni rövid vegyes mobilitásra (5-30 nap, kötelező virtuális komponenssel kombinálva), valamint hosszú mobilitásra (2 hónap, végzősök esetén maximum 4 hónap) lehet.
 A mobilitás **fizikai** része feltételezi a fogadó országba történő kiutazást és ott-tartózkodást a mobilitás teljes ideje alatt, és le kell zárulnia a következő tanév kezdetéig, végzett hallgatók esetén 2026. április 24-ig.
 Jelen felhívás keretében adott pályázó csak egy szakmai gyakorlat mobilitást teljesíthet, annak hosszától függetlenül.
@@ -4612,98 +4610,103 @@ A kiutazáskor kapott előleg mértéke 80%, a maradék összeg elszámolás ut�
 • A **megélhetési támogatás** összege a mobilitás típusa, a fogadó intézmény országa és a teljesített fizikai mobilitási napok száma alapján kerül kiszámításra.
 Hosszú mobilitások esetén a résztvevők havi ösztöndíjat kapnak, rövid mobilitások esetén az ösztöndíj kiszámolása meghatározott napidíj alapján történik.
 • A megélhetési támogatás mértéke:
-Megélhetési támogatás
-* Országok: Uniós tagállamok és a programhoz társult harmadik országok: Ausztria, Belgium, Dánia, Finnország, Franciaország, Németország, Írország, Izland, Olaszország, Liechtenstein, Luxemburg, Norvégia, Svédország, Hollandia, Csehország, Ciprus, Észtország, Görögország, Lettország, Málta, Portugália, Szlovákia, Szlovénia, Spanyolország
-    * Hosszú tanulmányi mobilitás: 674 EUR / hónap (+250 hátrányos helyzetű hallgatók számára)
-    * Hosszú szakmai gyakorlat mobilitás: 824 EUR / hónap (60 napra 1648, hátrányos helyzetű hallgatók esetében 60 napra 2148)
-    * Rövid szakmai gyakorlat mobilitás: 79 EUR/nap az első 14 napon, és 56 EUR/nap a 15-30 napokra
-* Országok: Uniós tagállamok és a programhoz társult harmadik országok: Bulgária, Horvátország, Litvánia, Észak-Macedónia, Lengyelország, Szerbia, Törökország, Magyarország
-    * Hosszú tanulmányi mobilitás: 606 EUR / hónap (+250 hátrányos helyzetű hallgatók számára)
-    * Hosszú szakmai gyakorlat mobilitás: 756 EUR / hónap (60 napra 1512, hátrányos helyzetű hallgatók esetében 60 napra 2012)
-    * Rövid szakmai gyakorlat mobilitás: 79 EUR/nap az első 14 napon, és 56 EUR/nap a 15-30 napokra
-* Országok: A programhoz nem társult harmadik országok (13-14 régió): Andorra, Monaco, San Marino, Vatikán, Svájc, Feröer szigetek, Egyesült Királyság
-    * Hosszú tanulmányi mobilitás: -
-    * Hosszú szakmai gyakorlat mobilitás: 824 EUR / hónap (60 napra 1648, hátrányos helyzetű hallgatók esetében 60 napra 2148)
-    * Rövid szakmai gyakorlat mobilitás: 79 EUR/nap az első 14 napon, és 56 EUR/nap a 15-30 napokra
-* Országok: A programhoz nem társult harmadik országok (1-12 régió): minden más ország a fentieken kívül
-    * Hosszú tanulmányi mobilitás: -
-    * Hosszú szakmai gyakorlat mobilitás: 700 EUR / hónap (60 napra 1400, hátrányos helyzetű hallgatók esetében 60 napra 1900)
-    * Rövid szakmai gyakorlat mobilitás: 79 EUR/nap az első 14 napon, és 56 EUR/nap a 15-30 napokra
-• A *hátrányos helyzetű hallgatók* hosszú mobilitás esetén *havi 250 euró kiegészítő támogatást* kapnak, úgy tanulmányi mobilitás, mind szakmai gyakorlat mobilitás esetén; 5-14 napos rövid vegyes mobilitás esetén a kiegészítő támogatás mértéke *egyszeri 100 EUR*, 15-30 napos rövid vegyes mobilitás esetén a kiegészítő támogatás mértéke *egyszeri 150 EUR* – a fenti táblázatban zárójelben feltüntetett értékek tartalmazzák ezt a kiegészítő támogatást is.
-Hátrányos helyzetű hallgató az, aki megfelel a 6463/2023 sz. tanügyminisztériumi rendelet (https://www.edu.ro/sites/default/files/OM_6463_2023_0.pdf) 10. cikkelye 9. paragrafusában felsorolt kritériumok valamelyikének, vagy megfelel Erasmus+ program romániai lebonyolítását végző országos ügynökség által meghatározott egyéb kritériumoknak, amelyek felsorolása Hátrányos helyzetű hallgatók kritériumai (https://sapientia.ro/content/Erasmus%202021-2027/SM%20paly202502/hatranyos%20helyzetuek.docx) érhető el.
-A kiegészítő támogatásra való **jogosultság megállapítását** a pozitív pályázati döntés kézhezvétele után **a lehető legrövidebb időn belül kérvényezni kell** (legkésőbb 20 munkanappal a mobilitás kezdete előtt), mellékelve a szükséges iratokat, az EMTE hallgatói mobilitási szabályzata (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/5%20melleklet%20-%20Erasmus%20hallgatoi%20szabalyzat_2022_mod.pdf) VI. sz. melléklete szerint.
+Megélhetési támogatás mértéke (EUR):
+- Országok: Uniós tagállamok és a programhoz társult harmadik országok: Ausztria, Belgium, Dánia, Finnország, Franciaország, Németország, Írország, Izland, Olaszország, Liechtenstein, Luxemburg, Norvégia, Svédország, Hollandia, Csehország, Ciprus, Észtország, Görögország, Lettország, Málta, Portugália, Szlovákia, Szlovénia, Spanyolország
+    - Hosszú tanulmányi mobilitás / hónap: 674 (+250 hátrányos helyzetű hallgatók számára)
+    - Hosszú szakmai gyakorlat mobilitás / hónap: 824 (60 napra 1648, hátrányos helyzetű hallgatók esetében 60 napra 2148)
+    - Rövid szakmai gyakorlat mobilitás: 79 EUR/nap az első 14 napon, és 56 EUR/nap a 15-30 napokra
+- Országok: Uniós tagállamok és a programhoz társult harmadik országok: Bulgária, Horvátország, Litvánia, Észak-Macedónia, Lengyelország, Szerbia, Törökország, Magyarország
+    - Hosszú tanulmányi mobilitás / hónap: 606 (+250 hátrányos helyzetű hallgatók számára)
+    - Hosszú szakmai gyakorlat mobilitás / hónap: 756 (60 napra 1512, hátrányos helyzetű hallgatók esetében 60 napra 2012)
+    - Rövid szakmai gyakorlat mobilitás: Nincs adat
+- Országok: A programhoz nem társult harmadik országok (13-14 régió): Andorra, Monaco, San Marino, Vatikán, Svájc, Feröer szigetek, Egyesült Királyság
+    - Hosszú tanulmányi mobilitás / hónap: Nincs adat
+    - Hosszú szakmai gyakorlat mobilitás / hónap: 824 (60 napra 1648, hátrányos helyzetű hallgatók esetében 60 napra 2148)
+    - Rövid szakmai gyakorlat mobilitás: Nincs adat
+- Országok: A programhoz nem társult harmadik országok (1-12 régió): minden más ország a fentieken kívül, a listát lásd ITT
+    - Hosszú tanulmányi mobilitás / hónap: Nincs adat
+    - Hosszú szakmai gyakorlat mobilitás / hónap: 700 (60 napra 1400, hátrányos helyzetű hallgatók esetében 60 napra 1900)
+    - Rövid szakmai gyakorlat mobilitás: Nincs adat
+A hátrányos helyzetű hallgatók hosszú mobilitás esetén havi 250 euró kiegészítő támogatást kapnak, úgy tanulmányi mobilitás, mind szakmai gyakorlat mobilitás esetén.
+5-14 napos rövid vegyes mobilitás esetén a kiegészítő támogatás mértéke egyszeri 100 EUR, 15-30 napos rövid vegyes mobilitás esetén a kiegészítő támogatás mértéke egyszeri 150 EUR – a fenti táblázatban zárójelben feltüntetett értékek tartalmazzák ezt a kiegészítő támogatást is.
+Hátrányos helyzetű hallgató az, aki megfelel a 6463/2023 sz. tanügyminisztériumi rendelet (https://www.edu.ro/sites/default/files/OM_6463_2023_0.pdf) 10. cikkelye 9. paragrafusában felsorolt kritériumok valamelyikének, vagy megfelel Erasmus+ program romániai lebonyolítását végző országos ügynökség által meghatározott egyéb kritériumoknak, amelyek felsorolása (https://sapientia.ro/content/Erasmus%202021-2027/SM%20paly202502/hatranyos%20helyzetuek.docx) érhető el.
+A kiegészítő támogatásra való **jogosultság megállapítását** a pozitív pályázati döntés kézhezvétele után **a lehető legrövidebb időn belül kérvényezni kell** (legkésőbb 20 munkanappal a mobilitás kezdete előtt), mellékelve a szükséges iratokat, az EMTE hallgatói mobilitási szabályzatának VI. sz. melléklete szerint.
 • Támogatás *speciális igények* esetén: a fogyatékkal élő résztvevők kiegészítő támogatásban részesülhetnek a tényleges költségek alapján, az Erasmus+ program romániai lebonyolítását végző ügynökség külön jóváhagyásával, amennyiben előkészítő látogatásra van szükségük a mobilitás megszervezésének érdekében, és/vagy csak kísérő segítségével tudnak mobilitásra utazni.
 Nyertes pályázat esetén kérjük az értesítés kézhezvétele után azonnal jelezni az igénylést a kari Erasmus+ koordinátornál.
 • A megélhetési támogatás minden résztvevő esetén kiegészül **utazási támogatással**, amely a küldő kar székhelye és a fogadó intézmény közötti egyirányú út légvonalban mért távolsága alapján kerül kiszámításra egy specifikus távolság-kalkulátorral:
-Utazási támogatás
-* Távolság (a kalkulátor alapján): 100-499 km
-    * Zöld utazás („green travel”): 285 EUR / résztvevő
-    * Nem zöld utazás: 211 EUR / résztvevő
-* Távolság (a kalkulátor alapján): 500-1999 km
-    * Zöld utazás („green travel”): 417 EUR / résztvevő
-    * Nem zöld utazás: 309 EUR / résztvevő
-* Távolság (a kalkulátor alapján): 2000-2999 km
-    * Zöld utazás („green travel”): 535 EUR / résztvevő
-    * Nem zöld utazás: 395 EUR / résztvevő
-* Távolság (a kalkulátor alapján): 3000-3999 km
-    * Zöld utazás („green travel”): 785 EUR / résztvevő
-    * Nem zöld utazás: 580 EUR / résztvevő
-\*A zöld utazás („green travel”) olyan utazás, amely az utazás fő része során – azaz az út több, mint fele esetében! – alacsony károsanyag kibocsátású közlekedési eszközöket (buszt, vonatot vagy közös autóhasználatot) vesz igénybe.
+Utazási támogatás (EUR / résztvevő):
+- Távolság (a kalkulátor alapján): 100-499 km
+    - Zöld utazás („green travel”)*: 285
+    - Nem zöld utazás: 211
+- Távolság (a kalkulátor alapján): 500-1999 km
+    - Zöld utazás („green travel”)*: 417
+    - Nem zöld utazás: 309
+- Távolság (a kalkulátor alapján): 2000-2999 km
+    - Zöld utazás („green travel”)*: 535
+    - Nem zöld utazás: 395
+- Távolság (a kalkulátor alapján): 3000-3999 km
+    - Zöld utazás („green travel”)*: 785
+    - Nem zöld utazás: 580
+*A zöld utazás („green travel”) olyan utazás, amely az utazás fő része során – azaz az út több, mint fele esetében! – alacsony károsanyag kibocsátású közlekedési eszközöket (buszt, vonatot vagy közös autóhasználatot) vesz igénybe.
 Közös autóhasználat (*carpooling*) esetén ugyanazon gépkocsival egyidőben minimum két olyan résztvevőnek kell utaznia ugyanazon az útvonalon, akik saját mobilitásra mennek és/vagy saját mobilitásról jönnek haza.
 • Az Erasmus+ ösztöndíj hozzájárul a mobilitás megvalósításához, de **előfordulhat, hogy nem fedezi teljes egészében** a kiutazás és a kint tartózkodás költségeit, ezért – esetenként – szükség lehet egyéni vagy más anyagi hozzájárulásra is.
 Megengedett bármely egyéb, nem Európai Uniós finanszírozási forrásból származó támogatás igénybevétele, és nyertes pályázat esetén nyilatkozni kell arról, hogy a pályázó a mobilitás ideje alatt nem részesül más uniós támogatásban.
 **3. Általános pályázati feltételek**
-* Alapképzésben és mesteri képzésben részt vevő hallgatóink pályázhatnak, **kizárólag azon a képzési cikluson belül megvalósuló mobilitásra lehet pályázni, amelyre a hallgató a pályázás pillanatában be van iratkozva**.
-* **Hogyha a hallgató párhuzamosan több** szakra van beiratkozva, akkor mindegyik szakhoz kötődően pályázhat, de csak az egyik szakhoz kötődően nyerhet el mobilitási támogatást.
-* **Kiegészítő éves hallgató nem pályázhat** Erasmus+ ösztöndíjra.
-* A 2024/25-ös tanévben **újra beiratkozott hallgató nem pályázhat** jelen felhívás keretében Erasmus+ ösztöndíjra.
-* Nem pályázhat az a hallgató, aki korábbi, azonos ciklusban megvalósított Erasmus+ mobilitása alatt nem teljesítette az előírt kreditszámot vagy valamely más szerződéses kötelezettségét (kivéve, hogyha a szerződésben vállaltak *vis maior* okokból nem teljesülhettek).
-* **A pályázó olyan alapképzésben vagy mesteri képzésben részt vevő hallgató lehet**, aki:
-    * aktív hallgatói jogviszonyban van a Sapientia EMTE-vel (vagyis a folyó tanévben beiratkozott, aktív félévre regisztrált a Neptun rendszerben és Tanulmányi szerződést kötött a szakkoordinátorral való egyeztetés szerint), és teljesíti a pályázat speciális részvételi feltételeit;
-    * román állampolgár vagy Romániában érvényes letelepedési, illetve tartózkodási engedéllyel rendelkezik;
-    * legalább középfokú nyelvtudással rendelkezik abból a nyelvből, amelyen a mobilitási tevékenység zajlik a fogadó intézményben, és ezt igazolni is tudja (amennyiben nem a magyar a képzés nyelve);
-    * a tervezett külföldi szakmai/tanulmányi program beilleszkedik a tantervébe (évet halasztani Erasmus+ ösztöndíj miatt nem lehet);
-    * nyilatkozza, hogy ismeri és elfogadja a Sapientia EMTE Erasmus+ hallgatói mobilitás szabályzatát, amely elérhető a karok honlapjainak Erasmus+ oldalain, valamint az egyetem honlapján EMTE hallgatói mobilitási szabályzata (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/5%20melleklet%20-%20Erasmus%20hallgatoi%20szabalyzat_2022_mod.pdf);
-    * eleget tesz a kari Erasmus bizottság által meghatározott egyéb pályázati feltételeknek.
-* Adott képzési ciklusban a hallgató összesített mobilitási időtartama **nem haladhatja meg** az Erasmus+ ösztöndíj-kalkulátorral számolt 12 hónapot, azaz 360 napot, beleértve a zero grantos periódusokat és a rövid mobilitásokat is (az Erasmus+ programon belül minden hónap egységesen 30 naposnak számít).
-* A kari Erasmus Bizottság pozitív döntése nem jelenti automatikusan az ösztöndíj folyósítását, ahhoz a támogatási szerződés megkötése szükséges.
+• Alapképzésben és mesteri képzésben részt vevő hallgatóink pályázhatnak, **kizárólag azon a képzési cikluson belül megvalósuló mobilitásra lehet pályázni, amelyre a hallgató a pályázás pillanatában be van iratkozva**.
+• **Hogyha a hallgató párhuzamosan több** szakra van beiratkozva, akkor mindegyik szakhoz kötődően pályázhat, de csak az egyik szakhoz kötődően nyerhet el mobilitási támogatást.
+• **Kiegészítő éves hallgató nem pályázhat** Erasmus+ ösztöndíjra.
+• A 2024/25-ös tanévben **újra beiratkozott hallgató nem pályázhat** jelen felhívás keretében Erasmus+ ösztöndíjra.
+• Nem pályázhat az a hallgató, aki korábbi, azonos ciklusban megvalósított Erasmus+ mobilitása alatt nem teljesítette az előírt kreditszámot vagy valamely más szerződéses kötelezettségét (kivéve, hogyha a szerződésben vállaltak *vis maior* okokból nem teljesülhettek).
+• **A pályázó olyan alapképzésben vagy mesteri képzésben részt vevő hallgató lehet**, aki:
+* aktív hallgatói jogviszonyban van a Sapientia EMTE-vel (vagyis a folyó tanévben beiratkozott, aktív félévre regisztrált a Neptun rendszerben és Tanulmányi szerződést kötött a szakkoordinátorral való egyeztetés szerint), és teljesíti a pályázat speciális részvételi feltételeit;
+* román állampolgár vagy Romániában érvényes letelepedési, illetve tartózkodási engedéllyel rendelkezik;
+* legalább középfokú nyelvtudással rendelkezik abból a nyelvből, amelyen a mobilitási tevékenység zajlik a fogadó intézményben, és ezt igazolni is tudja (amennyiben nem a magyar a képzés nyelve);
+* a tervezett külföldi szakmai/tanulmányi program beilleszkedik a tantervébe (évet halasztani Erasmus+ ösztöndíj miatt nem lehet);
+* nyilatkozza, hogy ismeri és elfogadja a Sapientia EMTE Erasmus+ hallgatói mobilitás szabályzatát, amely elérhető a karok honlapjainak Erasmus+ oldalain, valamint az egyetem honlapján (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/5%20melleklet%20-%20Erasmus%20hallgatoi%20szabalyzat_2022_mod.pdf);
+* eleget tesz a kari Erasmus bizottság által meghatározott egyéb pályázati feltételeknek.
+• Adott képzési ciklusban a hallgató összesített mobilitási időtartama **nem haladhatja meg** az Erasmus+ ösztöndíj-kalkulátorral számolt 12 hónapot, azaz 360 napot, beleértve a zero grantos periódusokat és a rövid mobilitásokat is (az Erasmus+ programon belül minden hónap egységesen 30 naposnak számít).
+• A kari Erasmus Bizottság pozitív döntése nem jelenti automatikusan az ösztöndíj folyósítását, ahhoz a támogatási szerződés megkötése szükséges.
 A mobilitás lebonyolítása **a támogatási szerződés megkötésének pillanatában a finanszírozást biztosító projektre érvényes** hallgatói Erasmus+ szabályzat szerint fog történni.
 **3.1 Erasmus+ szakmai gyakorlat (SMT) mobilitás pályázat speciális részvételi feltételei**
-* Alap- és mesterképzésben részt vevő, nem utolsó éves hallgatók esetén a szakmai gyakorlat célú mobilitás **megvalósítási periódusa**: **2025. június 23. és 2025. szeptember 12.** között.
+• Alap- és mesterképzésben részt vevő, nem utolsó éves hallgatók esetén a szakmai gyakorlat célú mobilitás **megvalósítási periódusa**: **2025. június 23. és 2025. szeptember 12.** között.
 Végzett hallgatók esetén a megvalósítás végső határideje 2026. április 24.
-* A nyertes pályázók jelen pályázati felhívás megvalósítási periódusán belül **csak egy** szakmai gyakorlat mobilitáson vehetnek részt, függetlenül a fizikai mobilitási periódus hosszától.
-* Úgy a hosszú, mind a rövid mobilitás fizikai jelenlétet feltételez a fogadó országban.
+• A nyertes pályázók jelen pályázati felhívás megvalósítási periódusán belül **csak egy** szakmai gyakorlat mobilitáson vehetnek részt, függetlenül a fizikai mobilitási periódus hosszától.
+• Úgy a hosszú, mind a rövid mobilitás fizikai jelenlétet feltételez a fogadó országban.
 A ***hosszú mobilitás*** időtartama 2 egymást követő hónap ugyanazon fogadó intézményben, végzettek esetében a fogadó intézmény kifejezett kérésére lehet maximum 4 hónap.
 A ***rövid vegyes mobilitás*** időtartama 5-30 nap, és ki kell egészülnie egy olyan **kötelező virtuális komponenssel**, amely lehetővé teszi az együttműködésen alapuló online tanulást és csapatmunkát – ösztöndíj azonban csak a fizikai mobilitási napokra jár.
-* **Végzett hallgatók** nyári szakmai gyakorlat mobilitása kizárólag a záróvizsga dolgozat/mesteri disszertáció **sikeres megvédése után** kezdődhet.
+• **Végzett hallgatók** nyári szakmai gyakorlat mobilitása kizárólag a záróvizsga dolgozat/mesteri disszertáció **sikeres megvédése után** kezdődhet.
 Az a végzett hallgató, aki nem tesz sikeres záróvizsgát/disszertáció vizsgát az adott szak első záróvizsga időszakában (június/július), **elveszíti a megnyert Erasmus+ szakmai gyakorlat ösztöndíjhoz való jogát** a vizsgaeredmények közzétételének pillanatában.
-* **Végzett hallgató** esetében az ösztöndíj folyósításának feltétele lesz, hogy legyen olyan, állandó jövedelemmel rendelkező kezese, aki közjegyző előtt tett nyilatkozatban kötelezettséget vállal arról, hogy a támogatási szerződésben foglalt feltételek megszegése esetén visszatéríti a kiutalt ösztöndíjat.
-* A szakmai gyakorlat olyan intézményekben hajtható végre, amelyekben a hallgató a szakjához kötődő feladatokat láthat el, de nem támogatható az EU intézményeiben megvalósuló szakmai gyakorlat (teljes lista: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles\_en).
+• **Végzett hallgató** esetében az ösztöndíj folyósításának feltétele lesz, hogy legyen olyan, állandó jövedelemmel rendelkező kezese, aki közjegyző előtt tett nyilatkozatban kötelezettséget vállal arról, hogy a támogatási szerződésben foglalt feltételek megszegése esetén visszatéríti a kiutalt ösztöndíjat.
+• A szakmai gyakorlat olyan intézményekben hajtható végre, amelyekben a hallgató a szakjához kötődő feladatokat láthat el, de nem támogatható az EU intézményeiben megvalósuló szakmai gyakorlat (teljes lista: https://european-union.europa.eu/institutions-law-budget/institutions-and-bodies/institutions-and-bodies-profiles_en).
 Adott szakmai gyakorlatnak egyetlen intézmény keretén belül kell teljesülnie, a mobilitásnak nem lehet több fogadó intézménye, és a gyakorlat nem teljesíthető Romániában, még részlegesen sem.
-* A fogadó intézmény kereséséhez segítséget nyújtó weboldalak javasolt listája és az 1-12 régióba tartozó, a programhoz nem társult harmadik országok listája Fogadó intézmény kereséséhez segítség és nem társult harmadik országok listája (https://sapientia.ro/content/Erasmus%202021-2027/SM%20paly202502/szakmai_gyakorlat_web_2025.doc) érhető el.
-* Az Erasmus+ szakmai gyakorlat mobilitás ösztöndíjat nyert hallgatóknak **2025. május 23. péntekkel bezárólag kell bemutatniuk a szakmai gyakorlatra őket fogadó cég/intézmény szándéknyilatkozatát** (*Letter of Intent*), **ellenkező esetben elveszítik a megnyert ösztöndíjat**.
+• A fogadó intézmény kereséséhez segítséget nyújtó weboldalak javasolt listája és az 1-12 régióba tartozó, a programhoz nem társult harmadik országok listája (https://sapientia.ro/content/Erasmus%202021-2027/SM%20paly202502/szakmai_gyakorlat_web_2025.doc) érhető el.
+• Az Erasmus+ szakmai gyakorlat mobilitás ösztöndíjat nyert hallgatóknak **2025. május 23. péntekkel bezárólag kell bemutatniuk a szakmai gyakorlatra őket fogadó cég/intézmény szándéknyilatkozatát** (*Letter of Intent*), **ellenkező esetben elveszítik a megnyert ösztöndíjat**.
 A mobilitás nem lehet hosszabb, mint a fogadó intézmény által a szándéknyilatkozatban megjelölt periódus.
 A nyilatkozat mintáját a pályázók a kari Erasmus+ koordinátortól fogják megkapni.
 **3.2 Az Erasmus+ hosszú tanulmányi célú (SMS) mobilitás pályázat speciális részvételi feltételei**
-* Kizárólag I. félévben megvalósuló tanulmányi mobilitásra pályázhat az, aki a 2025/2026-os tanévben végzős lesz azon a szakon, amelyhez kapcsolódóan mobilitásra pályázik.
-* A megpályázható helyek jegyzéke a kari Erasmus+ koordinátornál és Megpályázható helyek jegyzéke (https://sapientia.ro/content/Erasmus%202021-2027/SM%20paly202502/Sapientia_SMS_helyek_2025_26.xls) érhető el.
-* A mobilitás fizikai jelenlétet feltételez a fogadó országban, időtartama egy egyetemi félév vagy évharmad ugyanabban a fogadó intézményben (a fogadó egyetem tanévbeosztása szerint, magába foglalva a vizsgaidőszakot is), minimum 2 egymást követő hónap.
-* A tanulmányi időszak magába foglalhat egy *kiegészítő* szakmai gyakorlat periódust, amennyiben ezt az adott intézményközi szerződés lehetővé teszi.
+• Kizárólag I. félévben megvalósuló tanulmányi mobilitásra pályázhat az, aki a 2025/2026-os tanévben végzős lesz azon a szakon, amelyhez kapcsolódóan mobilitásra pályázik.
+• A megpályázható helyek jegyzéke a kari Erasmus+ koordinátornál (https://sapientia.ro/content/Erasmus%202021-2027/SM%20paly202502/Sapientia_SMS_helyek_2025_26.xls)
+ érhető el.
+• A mobilitás fizikai jelenlétet feltételez a fogadó országban, időtartama egy egyetemi félév vagy évharmad ugyanabban a fogadó intézményben (a fogadó egyetem tanévbeosztása szerint, magába foglalva a vizsgaidőszakot is), minimum 2 egymást követő hónap.
+• A tanulmányi időszak magába foglalhat egy *kiegészítő* szakmai gyakorlat periódust, amennyiben ezt az adott intézményközi szerződés lehetővé teszi.
 A hallgatónak igazolnia kell, hogy a két tevékenységet ugyanazon fogadó felsőoktatási intézmény felügyelete alatt végzi el.
 A kombinált mobilitás teljes periódusára vonatkozóan a havi támogatási összeg megegyezik a havi tanulmányi ösztöndíjjal.
-* A pályázónak kiutazáskor legalább két befejezett félévvel, és félévente legalább 20-20 teljesített kredittel kell rendelkeznie a kötelező és kötelezően választandó tárgyakból azon a szakon, amelyhez kötődően mobilitásra fog utazni.
+• A pályázónak kiutazáskor legalább két befejezett félévvel, és félévente legalább 20-20 teljesített kredittel kell rendelkeznie a kötelező és kötelezően választandó tárgyakból azon a szakon, amelyhez kötődően mobilitásra fog utazni.
 **4. A pályázat beküldésének módja**
 * A pályázati űrlap és nyilatkozatok kitöltése és benyújtása, valamint a szükséges kötelező és opcionális iratok csatolása **kizárólag** **a Neptun webes felületén**, a kérvény modulon keresztül történik.
-Ennek használatához segédlet a Neptun belépő felületén a *Letölthető dokumentumok* között található, címe *NEPTUN\_Kérvények\_HWEB.pdf*.
+Ennek használatához segédlet a Neptun belépő felületén a *Letölthető dokumentumok* között található, címe *NEPTUN_Kérvények_HWEB.pdf*.
 * A Neptun ETR-be azonosítóval (Neptun kód) történő belépést követően a Sapientia EMTE eljárásaiban feltételezi, hogy az azonosító tulajdonosa járt el, ugyanakkor nem vizsgálja a jelszó kiadásából származó panaszokat, kifogásokat.
 * **Kérjük a pályázat beküldésének folyamatában fokozottan figyelni az alábbiakra:**
-    * csak PDF csatolmány tölthető fel;
-    * egy adott típusú melléklethez (pl. publikációk) több PDF is feltölthető;
-    * egy azonosítóval egy képzéshez kapcsolódóan típusonként csak egy pályázat küldhető be, ezért hogyha a már beküldött pályázata javításra szorul, akkor pályázati határidőn belül eső utolsó munkanappal bezárólag kérje meg kari Erasmus+ koordinátorát, hogy küldje vissza javításra a pályázatot;
-    * a pályázat (kérvény) kitöltését meg lehet szakítani a *Kitöltés felfüggesztése* gombbal, a kitöltés ezután bármikor folytatható;
-    * a pályázatot a *Kérvény leadása* gomb megnyomásával lehet beküldeni, elkészített, de be nem küldött pályázatokat nem fogunk figyelembe venni;
-    * fontos a benyújtott pályázat (kérvény) státusának napi szintű követése a Neptun felületen, mivel hiányos vagy hibás pályázatok esetén a javításra visszaküldésről szóló határidős üzenetek kizárólag a Neptunban fognak megjelenni;
-    * a Neptun felületén csak a beküldött pályázatnak a szakkoordinátor általi jóváhagyása, valamint a pályázat befogadása történik meg, az ún. döntés következtében megjelenő *Elfogadva* státus ezt jelzi; a pályázat tartalmáról szóló pontozás és döntéshozatal a Neptun felületén kívül történik, és a Kari Erasmus Bizottság végzi.
+– csak PDF csatolmány tölthető fel;
+– egy adott típusú melléklethez (pl. publikációk) több PDF is feltölthető;
+– egy azonosítóval egy képzéshez kapcsolódóan típusonként csak egy pályázat küldhető be, ezért hogyha a már beküldött pályázata javításra szorul, akkor pályázati határidőn belül eső utolsó munkanappal bezárólag kérje meg kari Erasmus+ koordinátorát, hogy küldje vissza javításra a pályázatot;
+– a pályázat (kérvény) kitöltését meg lehet szakítani a *Kitöltés felfüggesztése* gombbal, a kitöltés ezután bármikor folytatható;
+– a pályázatot a *Kérvény leadása* gomb megnyomásával lehet beküldeni, elkészített, de be nem küldött pályázatokat nem fogunk figyelembe venni;
+– fontos a benyújtott pályázat (kérvény) státusának napi szintű követése a Neptun felületen, mivel hiányos vagy hibás pályázatok esetén a javításra visszaküldésről szóló határidős üzenetek kizárólag a Neptunban fognak megjelenni;
+– a Neptun felületén csak a beküldött pályázatnak a szakkoordinátor általi jóváhagyása, valamint a pályázat befogadása történik meg, az ún. döntés következtében megjelenő *Elfogadva* státus ezt jelzi; a pályázat tartalmáról szóló pontozás és döntéshozatal a Neptun felületén kívül történik, és a Kari Erasmus Bizottság végzi.
+A Neptun csak akkor engedi a pályázat beküldését, hogyha minden kötelező csatolmány fel van töltve!
+A hiányzó iratok pótlására a javításra visszaküldésről szóló üzenetben megjelölt határidőn belül van lehetőség.
+Tanulmányi mobilitás esetén a helyek elfoglalása a pályázatra kapott pontszámok csökkenő sorrendjében történik, viszont adott helyre történő túljelentkezés esetén hátrányban lesz az a hallgató, aki az állandó lakhelye szerinti országban szeretné végrehajtani mobilitását.
 **5. A pályázat anyaga** (a csatolmányok PDF-ben tölthetők fel):
 1. *Pályázati űrlap (Fişa candidatului)*: kizárólag a Neptun webes felületén tölthető ki.
 2. *Nyilatkozat Erasmus+ mobilitásról – Declaraţie mobilitate Erasmus+*: kizárólag a Neptun webes felületén tölthető ki, a pályázati űrlap része.
@@ -4718,647 +4721,260 @@ A hiányzó iratok pótlására a javításra visszaküldésről szóló üzenet
 Tanulmányi mobilitás esetén a helyek elfoglalása a pályázatra kapott pontszámok csökkenő sorrendjében történik, viszont adott helyre történő túljelentkezés esetén hátrányban lesz az a hallgató, aki az állandó lakhelye szerinti országban szeretné végrehajtani mobilitását.
 **6. Bírálati szempontrendszer**
 A pályázatokat a Kari Erasmus Bizottság bírálja el, amelynek összetétele és a pontozási kritériumok megtalálhatók a kari honlapokon:
-Csíkszeredai Kar: https://csik.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok
-Kolozsvári Kar: https://kv.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok
-Marosvásárhelyi Kar: https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok
-Sepsiszentgyörgyi Kar: https://sepsi.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok
+Bírálati szempontrendszer (Csíkszeredai Kar) (https://csik.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok)
+Bírálati szempontrendszer (Kolozsvári Kar) (https://kv.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok)
+Bírálati szempontrendszer (Marosvásárhelyi Kar) (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok)
+Bírálati szempontrendszer (Sepsiszentgyörgyi Kar) (https://sepsi.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok)
 **A pályázatok beküldésének periódusa: 2025. február 24. hétfő déli 12,00 órától 2025. március 17. hétfő déli 12,00 óráig.**
 További információk a kari Erasmus+ koordinátoroknál:
-* Csíkszeredai Kar: Bors Hortenzia, borshortenzia@uni.sapientia.ro
-* Kolozsvári Kar: Sipos Ottilia, kv.erasmus@kv.sapientia.ro
-* Marosvásárhelyi Kar: Biblia Csilla, sapierasmus@ms.sapientia.ro
-* Sepsiszentgyörgyi Kar: Csibi Márta, sepsi.erasmus@uni.sapientia.ro
-Kolozsvár, 2025. február 19.# Erasmus+ pályázati felhívás felsőoktatási munkatársak képzési célú mobilitására (STT) az uniós tagállamokban, valamint a programhoz társult és nem társult harmadik országokban a 2024-2025-ös tanévben (KA131)
-2024. május 6.
-# I. A pályázat célja
-lehetőség biztosítása az EMTE felsőoktatási munkatársai számára **képzési** **célú mobilitás** (STT) megvalósítására az Európai Unió Erasmus+ programja keretén belül.
+Csíkszeredai Kar: Bors Hortenzia, borshortenzia@uni.sapientia.ro
+Kolozsvári Kar: Sipos Ottilia, kv.erasmus@kv.sapientia.ro
+Marosvásárhelyi Kar: Biblia Csilla, sapierasmus@ms.sapientia.ro
+Sepsiszentgyörgyi Kar: Csibi Márta, sepsi.erasmus@uni.sapientia.ro
+Kolozsvár, 2025. február 19.
+# Pályázati felhívások (oktatók és felsőoktatási munkatársak)
+Erasmus+ pályázati felhívások (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok)
+BIP pályázati felhívások (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip)
+# Oktatók és felsőoktatási munkatársak
+Erasmus+ pályázati felhívás felsőoktatási munkatársak képzési célú mobilitására (STT) az uniós tagállamokban, valamint a programhoz társult és nem társult harmadik országokban a 2025/2026-os tanévben (KA131) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-kepzesi-celu-mobilitasara-stt-az-unios-tagallamokban-valamint-a-programhoz-tarsult-es-nem-tarsult-harmadik-orszagokban-a-20252026-os-tanevben-ka131)
+Erasmus+ pályázati felhívás az uniós tagállamokban, valamint a programhoz társult és nem társult harmadik országokban megvalósuló oktatási célú mobilitásra (STA) a 2025/2026-os tanévben (KA131) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-az-unios-tagallamokban-valamint-a-programhoz-tarsult-es-nem-tarsult-harmadik-orszagokban-megvalosulo-oktatasi-celu-mobilitasra-sta-a-20252026-os-tanevben-ka131)
+Erasmus+ pályázati felhívás felsőoktatási munkatársak képzési célú mobilitására (STT) az uniós tagállamokban, valamint a programhoz társult és nem társult harmadik országokban a 2024-2025-ös tanévben (KA131) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-kepzesi-celu-mobilitasara-stt-az-unios-tagallamokban-valamint-a-programhoz-tarsult-es-nem-tarsult-harmadik-orszagokban-a-2024-2025-os-tanevben-ka131)
+Erasmus+ pályázati felhívás az uniós tagállamokban, valamint a programhoz társult és nem társult harmadik országokban megvalósuló oktatási célú mobilitásra (STA) a 2024-2025-ös tanévben (KA131) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-az-unios-tagallamokban-valamint-a-programhoz-tarsult-es-nem-tarsult-harmadik-orszagokban-megvalosulo-oktatasi-celu-mobilitasra-sta-a-2024-2025-os-tanevben-ka131)
+Erasmus+ pályázati felhívás felsőoktatási munkatársak képzési célú mobilitására (STT) az uniós tagállamokban, valamint a programhoz társult és nem társult harmadik országokban a 2023-2024-es tanévben (KA131) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-kepzesi-celu-mobilitasara-stt-az-unios-tagallamokban-valamint-a-programhoz-tarsult-es-nem-tarsult-harmadik-orszagokban-a-2023-2024-es-tanevben-ka131)
+Erasmus+ pályázati felhívás az uniós tagállamokban, valamint a programhoz társult és nem társult harmadik országokban megvalósuló oktatási célú mobilitásra (STA) a 2023-2024-es tanévben (KA131) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-az-unios-tagallamokban-valamint-a-programhoz-tarsult-es-nem-tarsult-harmadik-orszagokban-megvalosulo-oktatasi-celu-mobilitasra-sta-a-2023-2024-es-tanevben-ka131)
+Kiegészítő Erasmus+ pályázati felhívás felsőoktatási munkatársak programországban megvalósuló képzési célú mobilitására (STT) a 2022/2023-as tanévben (KA103) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/kiegeszito-erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-programorszagban-megvalosulo-kepzesi-celu-mobilitasara-stt-a-20222023-as-tanevben-ka103)
+Kiegészítő Erasmus+ pályázati felhívás programországban megvalósuló oktatási célú mobilitásra (STA) a 2022/2023-as tanévben (KA103) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/kiegeszito-erasmus-palyazati-felhivas-programorszagban-megvalosulo-oktatasi-celu-mobilitasra-sta-a-20222023-as-tanevben-ka103)
+Erasmus+ pályázati felhívás felsőoktatási munkatársak képzési célú mobilitására az uniós tagállamokban és a programhoz társult harmadik országokban (STT) 2022-2023-ban (KA131) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-kepzesi-celu-mobilitasara-az-unios-tagallamokban-es-a-programhoz-tarsult-harmadik-orszagokban-stt-2022-2023-ban-ka131)
+Erasmus+ pályázati felhívás az uniós tagállamokban és a programhoz társult harmadik országokban megvalósuló oktatási célú mobilitásra (STA) 2022-2023-ban (KA131) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-az-unios-tagallamokban-es-a-programhoz-tarsult-harmadik-orszagokban-megvalosulo-oktatasi-celu-mobilitasra-sta-2022-2023-ban-ka131)
+Kiegészítő Erasmus+ pályázati felhívás programországban megvalósuló oktatási célú mobilitásra (STA) a 2021/2022-es tanévben (KA103) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/kiegeszito-erasmus-palyazati-felhivas-programorszagban-megvalosulo-oktatasi-celu-mobilitasra-sta-a-20212022-es-tanevben-ka103-okt-erasmus)
+A Sapientia EMTE kiegészítő pályázatot hirdet oktatási célú Erasmus+ mobilitási támogatás elnyerésére a 2021/2022-es tanévben azoknak, akik 2020-ban nem pályáztak.
+Kiegészítő Erasmus+ pályázati felhívás felsőoktatási munkatársak programországban megvalósuló képzési célú mobilitására (STT) a 2021/2022-es tanévben (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/kiegeszito-erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-programorszagban-megvalosulo-kepzesi-celu-mobilitasara-stt-a-20212022-es-tanevben-okt-erasmus)
+A Sapientia EMTE kiegészítő pályázatot hirdet programországban megvalósuló képzési célú Erasmus+ mobilitási támogatás elnyerésére a 2021/2022-es tanévben azon felsőoktatási munkatársaknak, akik 2020-ban nem pályáztak.
+Erasmus+ pályázati felhívás programországban megvalósuló oktatási célú mobilitásra (STA) a 2020/2021-es tanévben (KA103) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-programorszagban-megvalosulo-oktatasi-celu-mobilitasra-sta-a-20202021-es-tanevben-ka103-okt-erasmus)
+A Sapientia EMTE pályázatot hirdet oktatási célú Erasmus+ mobilitási támogatás elnyerésére a 2020/2021-es tanévben.
+Erasmus+ pályázati felhívás felsőoktatási munkatársak programországban megvalósuló képzési célú mobilitására (STT) a 2020/2021-es tanévben (KA103) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-programorszagban-megvalosulo-kepzesi-celu-mobilitasara-stt-a-20202021-es-tanevben-ka103-okt-erasmus)
+A Sapientia EMTE pályázatot hirdet felsőoktatási munkatársak számára programországban megvalósuló képzési célú Erasmus+ mobilitási támogatás elnyerésére a 2020/2021-es tanévben.
+Erasmus+ pályázati felhívás Kárpátalján megvalósuló oktatási célú mobilitásra (STA) a 2019/2020-as tanévben (KA107) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-karpataljan-megvalosulo-oktatasi-celu-mobilitasra-sta-a-20192020-as-tanevben-ka107-okt-erasmus)
+A Sapientia EMTE pályázatot hirdet oktatók számára partnerországban (Ukrajnában, Kárpátalján) megvalósuló oktatási célú Erasmus+ mobilitási támogatás elnyerésére a 2019/2020-as tanévben.
+Erasmus+ pályázati felhívás programországban megvalósuló oktatási célú mobilitásra (STA) a 2019/2020-as tanévben (KA103) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-programorszagban-megvalosulo-oktatasi-celu-mobilitasra-sta-a-20192020-as-tanevben-ka103-okt-erasmus)
+A Sapientia EMTE pályázatot hirdet oktatási célú Erasmus+ mobilitási támogatás elnyerésére a 2019/2020-as tanévben.
+Erasmus+ pályázati felhívás felsőoktatási munkatársak programországban megvalósuló képzési célú mobilitására (STT) a 2019/2020-as tanévben (KA103) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-programorszagban-megvalosulo-kepzesi-celu-mobilitasara-stt-a-20192020-as-tanevben-ka103-okt-erasmus)
+A Sapientia EMTE pályázatot hirdet felsőoktatási munkatársak számára programországban megvalósuló képzési célú Erasmus+ mobilitási támogatás elnyerésére a 2019/2020-as tanévben.
+Erasmus+ pályázati felhívás Kárpátalján megvalósuló oktatási és képzési célú mobilitásra (STA, STT) a 2018/2019-es tanév II. félévében (KA107) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-karpataljan-megvalosulo-oktatasi-es-kepzesi-celu-mobilitasra-sta-stt-a-20182019-es-tanev-ii-feleveben-ka107-okt-erasmus)
+A Sapientia EMTE pályázatot hirdet felsőoktatási munkatársak számára partnerországban (Ukrajnában) megvalósuló oktatási és képzési célú Erasmus+ mobilitási támogatás elnyerésére a 2018/2019-es tanév második félévében.
+Erasmus+ pályázati felhívás Ukrajnában megvalósuló oktatási és képzési célú mobilitásra (STA, STT) a 2018/2019-es tanév első félévében (KA107) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-ukrajnaban-megvalosulo-oktatasi-es-kepzesi-celu-mobilitasra-sta-stt-a-20182019-es-tanev-elso-feleveben-ka107-okt-erasmus)
+A Sapientia EMTE pályázatot hirdet felsőoktatási munkatársak számára partnerországban megvalósuló oktatási és képzési célú Erasmus+ mobilitási támogatás elnyerésére a 2018/2019-es tanév első félévében.
+Erasmus+ pályázati felhívás programországban megvalósuló oktatási célú mobilitásra (STA) a 2018/2019-es tanévben (KA103) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-programorszagban-megvalosulo-oktatasi-celu-mobilitasra-sta-a-20182019-es-tanevben-ka103-okt-erasmus)
+A Sapientia EMTE pályázatot hirdet oktatási célú Erasmus+ mobilitási támogatás elnyerésére a 2018/2019-es tanévben.
+Erasmus+ pályázati felhívás felsőoktatási munkatársak programországban megvalósuló képzési célú mobilitására (STT) a 2018/2019-es tanévben (KA103) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-programorszagban-megvalosulo-kepzesi-celu-mobilitasara-stt-a-20182019-es-tanevben-ka103-okt-erasmus)
+A Sapientia EMTE pályázatot hirdet felsőoktatási munkatársak számára programországban megvalósuló képzési célú Erasmus+ mobilitási támogatás elnyerésére a 2018/2019-es tanévben.
+Eredményhirdetés - STA és STT, KA107 (Ukrajna), 2017/2018, II. félév (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/eredmenyhirdetes-sta-es-stt-ka107-ukrajna-20172018-ii-felev-okt-erasmus)
+Az Erasmus+ pályázati felhívás Ukrajnában megvalósuló oktatási és képzési célú mobilitásra (STA, STT) a 2017/2018-as tanév II. félévében (KA107) c. felhívás eredményhirdetése.
+Erasmus+ pályázati felhívás Ukrajnában megvalósuló oktatási és képzési célú mobilitásra (STA, STT) a 2017/2018-as tanév II. félévében (KA107) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-ukrajnaban-megvalosulo-oktatasi-es-kepzesi-celu-mobilitasra-sta-stt-a-20172018-as-tanev-ii-feleveben-ka107-okt-erasmus)
+A Sapientia EMTE pályázatot hirdet felsőoktatási munkatársak számára partnerországban megvalósuló oktatási és képzési célú Erasmus+ mobilitási támogatás elnyerésére a 2017/2018-as tanév második félévében.
+Eredményhirdetés - Erasmus+ oktatási mobilitások (STA), KA103, 2017/2018 (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/eredmenyhirdetes-erasmus-oktatasi-mobilitasok-sta-ka103-20172018-okt-erasmus)
+Az Erasmus+ pályázati felhívás programországban megvalósuló oktatási célú mobilitásra (STA) a 2017/2018-as tanévben (KA103) c. kiírás eredménye.
+Eredményhirdetés - adminisztratív munkatársak Erasmus+ képzési célú mobilitásai (STT), KA103, 2017/2018 (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/eredmenyhirdetes-adminisztrativ-munkatarsak-erasmus-kepzesi-celu-mobilitasai-stt-ka103-20172018-okt-erasmus)
+Az Erasmus+ pályázati felhívás felsőoktatási munkatársak programországban megvalósuló képzési célú mobilitására (STT) a 2017/2018-as tanévben (KA103) c. kiírás eredményhirdetése.
+Erasmus+ pályázati felhívás programországban megvalósuló oktatási célú mobilitásra (STA) a 2017/2018-as tanévben (KA103) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-programorszagban-megvalosulo-oktatasi-celu-mobilitasra-sta-a-20172018-as-tanevben-ka103-okt-erasmus)
+A Sapientia EMTE pályázatot hirdet oktatási célú Erasmus+ mobilitási támogatás elnyerésére a 2017/2018-as tanévben.
+Erasmus+ pályázati felhívás felsőoktatási munkatársak programországban megvalósuló képzési célú mobilitására (STT) a 2017/2018-as tanévben (KA103) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-programorszagban-megvalosulo-kepzesi-celu-mobilitasara-stt-a-20172018-as-tanevben-ka103-okt-erasmus)
+A Sapientia EMTE pályázatot hirdet felsőoktatási munkatársak számára programországban megvalósuló képzési célú Erasmus+ mobilitási támogatás elnyerésére a 2017/2018-as tanévben.
+Eredményhirdetés - Erasmus+ oktatási mobilitások (STA) 2016/2017 (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/eredmenyhirdetes-erasmus-oktatasi-mobilitasok-sta-20162017-okt-erasmus)
+Az Erasmus+ pályázati felhívás oktatási célú mobilitásra (STA) a 2016/2017-es tanévben pályázati felhívás eredménye.
+Eredményhirdetés - adminisztratív munkatársak Erasmus+ képzési célú mobilitásai (STT) 2016/2017 (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/eredmenyhirdetes-adminisztrativ-munkatarsak-erasmus-kepzesi-celu-mobilitasai-stt-20162017-okt-erasmus)
+Az Erasmus+ pályázati felhívás felsőoktatási munkatársak képzési célú mobilitására (STT) a 2016/2017-es tanévben c. pályázati felhívás eredménye.
+Erasmus+ pályázati felhívás oktatási célú mobilitásra (STA) a 2016/2017-es tanévben (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-oktatasi-celu-mobilitasra-sta-a-20162017-es-tanevben-okt-erasmus)
+A Sapientia EMTE pályázatot hirdet oktatási célú Erasmus+ mobilitási támogatás elnyerésére a 2016/2017-es tanévben.
+Erasmus+ pályázati felhívás felsőoktatási munkatársak képzési célú mobilitására (STT) a 2016/2017-es tanévben (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-kepzesi-celu-mobilitasara-stt-a-20162017-es-tanevben-okt-erasmus)
+A Sapientia EMTE pályázatot hirdet felsőoktatási munkatársak számára képzési célú Erasmus+ mobilitási támogatás elnyerésére a 2016/2017-es tanévben.
+Eredményhirdetés STA 2015/2016 (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/eredmenyhirdetes-sta-20152016-okt-erasmus)
+Az Erasmus+ pályázati felhívás oktatási célú mobilitásra (STA) a 2015/2016-os tanévben pályázati felhívás eredménye.
+Eredményhirdetés STT 2015/2016 (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/eredmenyhirdetes-stt-20152016-okt-erasmus)
+Az Erasmus+ pályázati felhívás felsőoktatási munkatársak képzési célú mobilitására (STT) a 2015/2016-os tanévben pályázati felhívás eredménye.
+Erasmus+ pályázati felhívás oktatási célú mobilitásra (STA) a 2015/2016-os tanévben (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-oktatasi-celu-mobilitasra-sta-a-20152016-os-tanevben-okt-erasmus)
+A Sapientia EMTE oktatói pályázatot hirdet a 2015/2016-os tanévre.
+Erasmus+ pályázati felhívás felsőoktatási munkatársak képzési célú mobilitására (STT) a 2015/2016-os tanévben (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-kepzesi-celu-mobilitasara-stt-a-20152016-os-tanevben-okt-erasmus)
+A pályázat célja: Erasmus+ program keretén belül megvalósuló képzési célú mobilitási lehetőség biztosítása az egyetem oktatói és felsőoktatási munkatársai számára.
+Pótpályázati felhívás oktatói mobilitásra az Erasmus+ Program keretén belül (2014/2015) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/potpalyazati-felhivas-oktatoi-mobilitasra-az-erasmus-program-kereten-belul-20142015-okt-erasmus)
+A Sapientia EMTE oktatói pótpályázatot hirdet a 2014/2015-ös tanévre.
+Pályázati felhívás oktatói mobilitásra a 2014/2015-ös tanévre az Erasmus+ Program keretén belül (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/palyazati-felhivas-oktatoi-mobilitasra-a-20142015-os-tanevre-az-erasmus-program-kereten-belul-okt-erasmus)
+Pályázati felhívás oktatói mobilitásra a 2014/2015-ös tanévre az Erasmus+ Program keretén belül.
+Erasmus+ pályázati felhívás felsőoktatási munkatársak képzési célú mobilitására (2014/2015) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/oktatok/erasmus-palyazati-felhivas-felsooktatasi-munkatarsak-kepzesi-celu-mobilitasara-20142015-okt-erasmus)
+A Sapientia EMTE új pályázatot hirdet az Erasmus+ Program keretén belül a 2014/2015-ös tanévre.
+# Erasmus+ pályázati felhívás felsőoktatási munkatársak képzési célú mobilitására (STT) az uniós tagállamokban, valamint a programhoz társult és nem társult harmadik országokban a 2025/2026-os tanévben (KA131)
+2025. május 13.
+**SAPIENTIA – 12 ÉVE AZ ERASMUS+ PROGRAMBAN!**
+**I. A pályázat célja:** lehetőség biztosítása az EMTE felsőoktatási munkatársai számára **képzési** **célú mobilitás** (STT) megvalósítására az Európai Unió Erasmus+ programja keretén belül.
 A képzési tevékenység támogatott formái: képzési célú eseményen való részvétel a fogadó intézményben (pl. továbbképző, tanfolyam, Erasmus+ nemzetközi hét, kivéve kutatás és konferencia-részvétel), szakmai látogatás, részvétel közvetlen munkahelyi megfigyelésen, szakmai képzés.
 **Oktatók esetében az EMTE elsősorban az oktatási mobilitást támogatja, amely tartalmazhat pedagógiai és tanterv-fejlesztési készségek fejlesztését célzó képzési összetevőt is**.
-Képzési célú mobilitás folytatható **fogadólevél/meghívó alapján** az uniós tagállamok vagy a programhoz társult illetve nem társult harmadik országok **bármely** felsőoktatási vagy szakmai jellegű intézményében (ez utóbbi lehet a munkaerőpiacon vagy az oktatás, a képzés, az ifjúság, a kutatás és az innováció területén tevékenykedő állami vagy magán intézmény, pl. vállalkozás, közintézmény, kereskedelmi kamara, non-profit szervezet, alapítvány, egyesület, kutatóközpont, könyvtár, pályaválasztási tanácsadó szerv stb.).
+Képzési célú mobilitás folytatható az uniós tagállamok vagy a programhoz társult illetve nem társult harmadik országok **bármely** felsőoktatási vagy szakmai jellegű intézményében (ez utóbbi lehet a munkaerőpiacon vagy az oktatás, a képzés, az ifjúság, a kutatás és az innováció területén tevékenykedő állami vagy magán intézmény, pl. vállalkozás, közintézmény, kereskedelmi kamara, non-profit szervezet, alapítvány, egyesület, kutatóközpont, könyvtár, pályaválasztási tanácsadó szerv stb.).
 A képzési mobilitás hozzájárul a munkatársak személyes és szakmai fejlődéséhez, gyakorlati tudásuk fejlesztéséhez, lehetőséget nyújt továbbképzésre, tapasztalatcserére, bevált gyakorlatok átvételére, hallgatók szakmai gyakorlatának előkészítésére, elősegíti az intézményi együttműködést és erősíti a gazdasági szférával kialakított kapcsolatokat.
 **A mobilitás kizárólag fizikai mobilitás lehet, azaz feltételezi a kiutazást a fogadó országba.**
-Az EMTE mobilitási szabályzata szerint **adott tanévben csak egy mobilitás teljesíthető**, kivéve a vegyes intenzív programokhoz (Blended intensive programmes, BIP) kötődő mobilitásokat, amelyeket időszakosan hirdetünk, a partnerektől érkező felkérések függvényében.
-## II. Ösztöndíj
-A résztvevők a mobilitás ideje alatt Erasmus+ ösztöndíjban részesülnek a 2023-as KA131 mobilitási projektből, amely *megélhetési támogatást* és *útiköltség támogatást* foglal magába.
+Az EMTE mobilitási szabályzata szerint **adott tanévben ugyanazon pályázó csak egy Erasmus+ mobilitást teljesíthet az illető tanévre hirdetett rendes mobilitási pályázat keretében**.
+Ugyanakkor adott munkatárs tanévente maximum további két Erasmus+ mobilitáson vehet részt rövid vegyes Erasmus+ mobilitást teljesítő hallgatói csoportok kísérőjeként (vegyes intenzív programok (BIP-ek) keretében, vagy azokon kívül), és/vagy tanulóként vagy közreműködőként vegyes intenzív programok (BIP-ek) keretében, ezekre folyamatos, illetve alkalmi pályázati felhívások keretében lehet jelentkezni a tanév során.
+**II. Ösztöndíj:** A résztvevők a mobilitás ideje alatt Erasmus+ ösztöndíjban részesülnek a 2024-es KA131 mobilitási projektből, amely *megélhetési támogatást* és *útiköltség támogatást* foglal magába.
 *Megélhetési támogatás* a fizikai mobilitási napokra adható, mértéke a fogadó országtól függően:
-Megélhetési támogatás EUR / nap
-- 180 EUR / nap: Dánia, Finnország, Írország, Izland, Liechtenstein, Luxemburg, Norvégia, Svédország; A programhoz nem társult harmadik országok, 14. régió: Svájc, Feröer Szigetek, Egyesült Királyság; A programhoz nem társult harmadik országok, 1-12. régió
-- 160 EUR / nap: Ausztria, Belgium, Ciprus, Németország, Görögország, Franciaország, Olaszország, Málta, Hollandia, Portugália, Spanyolország; A programhoz nem társult harmadik országok, 13. régió: Andorra, Monaco, San Marino, Vatikán
-- 140 EUR / nap: Bulgária, Cseh Köztársaság, Horvátország, Észtország, Lettország, Litvánia, Észak-Macedónia, Lengyelország, Szerbia, Szlovákia, Szlovénia, Törökország, Magyarország
+Megélhetési támogatás mértéke:
+Ország: Ausztria, Belgium, Dánia, Finnország, Franciaország, Németország, Írország, Izland, Olaszország, Liechtenstein, Luxemburg, Norvégia, Svédország, Hollandia A programhoz nem társult harmadik országok 1-14 régió, EUR / nap: 190
+Ország: Csehország, Ciprus, Észtország, Görögország, Lettország, Málta, Portugália, Szlovákia, Szlovénia, Spanyolország, EUR / nap: 170
+Ország: Bulgária, Horvátország, Litvánia, Észak-Macedónia, Lengyelország, Szerbia, Törökország, Magyarország, EUR / nap: 148
 A programhoz nem társult harmadik országokba irányuló mobilitások értéke a mobilitási keret maximum 20%-át teheti ki.
-Amennyiben a fogadó ország nem Magyarország, akkor a résztvevő a támogatott mobilitási napokon felül egy **igazolt** utazási napra is jogosult megélhetési támogatást kapni, szükség szerint.
+Amennyiben a fogadó ország nem Magyarország, akkor a résztvevő a támogatott mobilitási napokon felül **indokolt esetben** egy utazási napra is kaphat megélhetési támogatást.
+Indokolt esetnek az tekinthető, amikor az utazás a mobilitási napoktól eltérő napo(ko)n valósul meg, az indokoltságot igazolni kell az utazás bizonylataival.
 Az *útiköltség támogatás* egyszeri összeg, amely az EMTE székhelye (Kolozsvár) és a fogadó intézmény közötti egyirányú útnak az Európai Bizottság által kijelölt távolságkalkulátorral mért távolsága alapján kerül kiszámításra:
-Útiköltség támogatás
-- Távolság (a kalkulátor alapján): 100-499 km
-  - Standard utazás: 180 EUR/fő
-  - Zöld utazás („green travel”): 210 EUR/fő
-- Távolság (a kalkulátor alapján): 500-1999 km
-  - Standard utazás: 275 EUR/fő
-  - Zöld utazás („green travel”): 320 EUR/fő
-- Távolság (a kalkulátor alapján): 2000-2999 km
-  - Standard utazás: 360 EUR/fő
-  - Zöld utazás („green travel”): 410 EUR/fő
-*Zöld utazás („green travel”)*: az az utazás, amely az utazás fő részéhez (azaz több, mint feléhez) alacsony károsanyag-kibocsátású közlekedési eszközöket – úgymint buszt, vonatot vagy közös autóhasználatot – vesz igénybe.
-A zöld utazást bizonyos esetekben a program kiegészítő támogatásban részesíti, a résztvevő nyilatkozata és az utazás megtörténtének bizonyítása alapján, további információk az EMTE vonatkozó mobilitási szabályzatában.
+Útiköltség támogatás:
+Távolság (a kalkulátor alapján): 100-499 km, Zöld utazás („green travel”): 285 EUR/fő, Nem zöld utazás („non-green travel”): 211 EUR/fő
+Távolság (a kalkulátor alapján): 500-1999 km, Zöld utazás („green travel”): 417 EUR/fő, Nem zöld utazás („non-green travel”): 309 EUR/fő
+Távolság (a kalkulátor alapján): 2000-2999 km, Zöld utazás („green travel”): 535 EUR/fő, Nem zöld utazás („non-green travel”): 395 EUR/fő
+Távolság (a kalkulátor alapján): 3000-3999 km, Zöld utazás („green travel”): 785 EUR/fő, Nem zöld utazás („non-green travel”): 580 EUR/fő
+*Zöld utazás („green travel”)*: az az utazás, amely az utazás fő része során („main part of the travel”) alacsony károsanyag-kibocsátású közlekedési eszközöket – úgymint buszt, vonatot vagy közös autóhasználatot – vesz igénybe.
+A zöld utazást bizonyos esetekben a program kiegészítő támogatásban részesíti, a résztvevő nyilatkozata és az utazás megtörténtének bizonyítása alapján, további információk az EMTE vonatkozó mobilitási szabályzatában (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/9%20melleklet%20-%20Erasmus_ST_szabalyzat_2021_2027_modositas.pdf ).
 Az Erasmus+ támogatás hozzájárul a mobilitás megvalósításához, de **előfordulhat, hogy nem fedezi teljes egészében** a kiutazás és a kint tartózkodás költségeit, ezért – esetenként – szükség lehet egyéni vagy más anyagi hozzájárulásra is.
 Megengedett bármely egyéb, nem Európai Uniós finanszírozási forrásból származó támogatás igénybevétele, és nyertes pályázat esetén nyilatkozni kell arról, hogy a pályázó a mobilitás ideje alatt nem részesül más uniós támogatásban.
-## III. A mobilitás megvalósításának periódusa
-Jelen pályázat keretében **2024. szeptember 16. és 2025. július 25. között megvalósuló képzési mobilitásra** lehet pályázni.
-1. Képzési mobilitás keretében megélhetési támogatás kizárólag a fogadó országban munkanapnak minősülő napokra adható.
+**III. A képzési célú mobilitás megvalósítása**
+**1**.
+**A mobilitás megvalósításának periódusa**: jelen pályázat keretében **2025. szeptember 15. és 2026. július 27. között megvalósuló képzési mobilitásra** lehet pályázni.
+Képzési mobilitás keretében megélhetési támogatás kizárólag **a fogadó országban munkanapnak minősülő napokra** adható.
 A fogadó ország munkaszüneti- és szabadnapjain teljesített mobilitási napok csak zero grantos-ak lehetnek.
 Minden nyertes pályázónak egyéni felelőssége idejében tájékozódni afelől, hogy melyek a fogadó intézményben a tényleges munkanapok.
 A képzési mobilitás érvényességének feltétele a személyes jelenlét a fogadó országban, intézményben.
-2. A mobilitás lebonyolítása a támogatási szerződés megkötésének pillanatában érvényes Erasmus+ mobilitási szabályzat szerint fog történni, a pályázati felhívásban foglaltak figyelembe vételével.
-## IV. A pályázás feltételei
-1. Erasmus+ képzési mobilitásra pályázatot nyújthat be:
-- a Sapientia EMTE román állampolgárságú, vagy Romániában érvényes letelepedési, illetve tartózkodási engedéllyel rendelkező, **főállású** (azaz határozatlan időre szóló munkaszerződéssel foglalkoztatott), vagy **teljes állást betöltő, meghatározott időre** kötött munkaszerződéssel alkalmazott **oktatási kisegítő munkatársa** („personal didactic auxiliar”) vagy **gazdasági-adminisztratív munkatársa** („personal administrativ”); kivételesen indokolt esetben a szervezeti egységek vezetői egyénenként dönthetnek egyes egyéb kisegítő munkaköröket betöltő munkatársak („personal de întreţinere şi operaţional”) pályázatának befogadásáról;
-- a Sapientia EMTE **főállású** oktatói, akik a fogadó intézményben adminisztratív munkájukkal kapcsolatos képzésen vennének részt (adott tanévben csak akkor vehetnek részt képzési mobilitáson, hogyha nem vesznek részt oktatási mobilitáson).
+**2**.
+A mobilitás lebonyolítása a támogatási szerződés megkötésének pillanatában érvényes Erasmus+ mobilitási szabályzat szerint fog történni, a pályázati felhívásban foglaltak figyelembe vételével.
+**A mobilitás kizárólagos feltétele**, hogy az ösztöndíj-előleg utalásához szükséges mobilitási dossziénak teljes egészében be kell érkeznie elektronikusan az intézményi Erasmus+ koordinátorhoz **legkésőbb tíz munkanappal a mobilitás első napja előtt** – az előleg-utalás és a mobilitás megkezdése csak ezen feltétel teljesülése esetén történhet meg.
+**IV. A pályázás feltételei**
+**1**.
+Erasmus+ képzési mobilitásra pályázatot nyújthat be:
+– a Sapientia EMTE román állampolgárságú, vagy Romániában érvényes letelepedési, illetve tartózkodási engedéllyel rendelkező, **főállású** (azaz határozatlan időre szóló munkaszerződéssel foglalkoztatott), vagy **teljes állást betöltő, meghatározott időre** kötött munkaszerződéssel alkalmazott **oktatási kisegítő munkatársa** („personal didactic auxiliar”) vagy **gazdasági-adminisztratív munkatársa** („personal administrativ”);
+kivételesen indokolt esetben a szervezeti egységek vezetői egyénenként dönthetnek egyes egyéb kisegítő munkaköröket betöltő munkatársak („personal de întreţinere şi operaţional”) pályázatának befogadásáról;
+– a Sapientia EMTE **főállású** oktatói, akik a fogadó intézményben adminisztratív munkájukkal kapcsolatos képzésen vennének részt (adott tanévben csak akkor vehetnek részt képzési mobilitáson, hogyha nem vesznek részt oktatási mobilitáson).
 Nyertes pályázat esetén támogatási szerződés kizárólag **aktív** munkaszerződéssel rendelkező alkalmazottal köthető.
-2. A pályázónak a programban való részvételhez megfelelő nyelvtudással kell rendelkeznie.
-3. Az egyéni pályázatban megfogalmazott munkatervnek összhangban kell lennie a mobilitás céljával és a pályázó munkakörével.
+**2**.
+A pályázónak a programban való részvételhez megfelelő nyelvtudással kell rendelkeznie.
+**3**.
+Az egyéni pályázatban megfogalmazott munkatervnek összhangban kell lennie a mobilitás céljával és a pályázó munkakörével.
 A képzési mobilitás célja kizárólag a saját munkakörrel kapcsolatos továbbképzési tevékenység lehet, az Erasmus+ mobilitási program **nem támogat konferencia-részvételt és kutatási tevékenységet**.
-4. Nem lehet pályázatot benyújtani Romániában vagy a résztvevő állandó lakhelye szerinti országban lévő intézményben megvalósuló képzési tevékenységre.
-A fogadóintézmény **utólagos módosítására nincs** lehetőség.
-5. A képzési célú mobilitás időtartama minimum 2 egymást követő munkanap, programhoz nem társult harmadik országok esetében minimum 5 egymást követő munkanap.
+**4**.
+Nem lehet pályázatot benyújtani Romániában vagy a résztvevő állandó lakhelye szerinti országban lévő intézményben megvalósuló képzési tevékenységre.
+**5**.
+A képzési célú mobilitás időtartama minimum 2 egymást követő munkanap, programhoz nem társult harmadik országok esetében minimum 5 egymást követő munkanap.
 A minimális periódusnak teljes egészében ösztöndíjasnak kell lennie, ezért hogyha az elnyert támogatás **5 napnál rövidebb** időre szól, akkor a mobilitás nem teljesíthető programhoz nem társult harmadik országban.
 A mobilitás periódusába **az utazási napok nem számítanak** **bele**.
-## V. Pályázati dokumentumok
+**V. Pályázati dokumentumok**
 A pályázatot elektronikusan kérjük elkészíteni, és nyomtatott formában, a szükséges aláírásokkal ellátva, egy eredetei példányban kell benyújtani az illetékes Erasmus+ koordinátornak.
 A pályázati dossziénak a következő dokumentumokat kell tartalmaznia:
-1. Kitöltött pályázati űrlap, a pályázó által aláírva (II. sz. melléklet).
+**1****. Kitöltött pályázati űrlap, a pályázó által aláírva** (*II. sz. melléklet*).
 A dékán / felettes jóváhagyása igénylésének módja:
-- **a karokon dolgozó** munkatársak esetében: a dékán aláírásának nem kell rajta lennie a benyújtott űrlapon, a pályázás dékán általi jóváhagyását a kari Erasmus+ koordinátor fogja igényelni, és csak az a pályázat kerül befogadásra, amelyet a dékán jóváhagyott;
-- **a központi szervezeti egységek** munkatársai esetében: a közvetlen felettes aláírását a pályázónak kell igényelnie, és csak az a pályázat kerül befogadásra, amelyet az illetékes felettes jóváhagyott.
-2. **Angol nyelven kitöltött** *Erasmus+ Mobility Agreement Staff Mobility for Training* típusnyomtatvány (mobilitási egyezmény, munkaterv, III. sz. melléklet).
+– **a karokon dolgozó** munkatársak esetében: a dékán aláírásának nem kell rajta lennie a benyújtott űrlapon, a pályázás dékán általi jóváhagyását a kari Erasmus+ koordinátor fogja igényelni, és csak az a pályázat kerül befogadásra, amelyet a dékán jóváhagyott;
+**2****. Angol nyelven kitöltött** *Erasmus+ Mobility Agreement - Staff Mobility for Training* típusnyomtatvány (mobilitási egyezmény, munkaterv, *III. sz. melléklet*).
 Maximum két intézmény pályázható, és hogyha intézményenként eltérő a képzési terv, akkor az *I. Proposed Mobility Programme* részt mindkét megpályázott intézményre vonatkozóan kérjük külön kitölteni.
 Pályázati fázisban elégséges a pályázó aláírása.
+**Kizárólag a jelen felhívás III. sz. mellékletében található nyomtatvány használható!**
 **A pályázati felhívás mellékletei** innen tölthetők le:
-- I. sz. melléklet: az EMTE intézményközi szerződéseinek listája kari bontásban (STT mobilitásokra vonatkozóan), de bármely más felsőoktatási vagy szakmai jellegű intézmény is megpályázható (https://sapientia.ro/content/Erasmus%202021-2027/STT%20paly%202024/I_jav_STT_2024_2025.xls)
-- II. sz. melléklet: Pályázati űrlap 2024-2025 (KA131, STT) (https://sapientia.ro/content/Erasmus%202021-2027/STT%20paly%202024/II_Palyazati_Urlap_STT_2024_2025.doc)
-- III. sz. melléklet: Erasmus+ Mobility Agreement Staff Mobility for Training (STT munkaterv) (https://sapientia.ro/content/Erasmus%202021-2027/STT%20paly%202024/III_Mobility%20Agreement%20STT_2024_25.docx)
+I. sz. melléklet: az EMTE intézményközi szerződéseinek listája kari bontásban (https://sapientia.ro/content/Erasmus%202021-2027/STT%20paly%202025/I_STT_2025_2026.xls ) (STT mobilitásokra vonatkozóan), de bármely más felsőoktatási vagy szakmai jellegű intézmény is megpályázható;
+II. sz. melléklet: Pályázati űrlap STT 2025/2026 (KA131, STT) (https://sapientia.ro/content/Erasmus%202021-2027/STT%20paly%202025/II_Palyazati_Urlap_STT_2025_2026.doc );
+III. sz. melléklet: Erasmus+ Mobility Agreement - Staff Mobility for Training (STT munkaterv), 2024-es projekt (https://sapientia.ro/content/Erasmus%202021-2027/STT%20paly%202025/III_Mobility%20Agreement%20STT_2025_26.docx ).
 **A pályázati feltételeknek nem megfelelő, vagy határidő után érkező pályázatokat nem fogadunk el.**
 A hiányzó iratok pótlására a felszólítás kiküldését követő 2 munkanapon belül van lehetőség, a felszólítást a pályázati űrlapon megadott e-mail címre küldi az illetékes kari koordinátor.
-## VI. Bírálati szempontrendszer
-Az elbírálás során alkalmazott kritériumok:
-- korábbi részvétel Erasmus mobilitásokon;
-- a Sapientia EMTE-n töltött szolgálati idő;
-- hozzájárulás az Erasmus+ mobilitási és egyéb nemzetközi projektek lebonyolításához;
-- munkaterv (Mobility Agreement);
-- a szervezeti egység vezetője általi értékelés.
-A részletes szempontrendszer [itt érhető el](https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/VT_Erasmus_pontozas_EEB_2022_2023_jovahagyva.pdf).
-## VII. A pályázatok benyújtásának időszaka: 2024. május 02. csütörtök – 2024. május 22. szerda.
+**VI. Bírálati szempontrendszer**
+Az Egyetemi Erasmus Bizottság (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/honlapra_EEB_20250306.pdf ) által az elbírálás során alkalmazott kritériumok:
+– korábbi részvétel Erasmus mobilitásokon;
+– a Sapientia EMTE-n töltött szolgálati idő;
+– hozzájárulás az Erasmus+ mobilitási és egyéb nemzetközi projektek lebonyolításához;
+–  munkaterv (Mobility Agreement);
+– a szervezeti egység vezetője általi értékelés.
+A részletes szempontrendszer (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/VT_Erasmus_pontozas_EEB_2022_2023_jovahagyva.pdf ) itt érhető el.
+**VII. A pályázatok benyújtásának időszaka: 2025. május 12., hétfő – 2025. május 30., péntek 16 óra.**
 **Jelentkezni** az illetékes Erasmus+ koordinátornál lehet:
-Csíkszeredai Kar: Bors Hortenzia, borshortenzia@uni.sapientia.ro
-Kolozsvári Kar: Sipos Ottilia, kv.erasmus@kv.sapientia.ro
-Marosvásárhelyi Kar: Biblia Csilla, sapierasmus@ms.sapientia.ro
-Sepsiszentgyörgyi Kar: Csibi Márta, sepsi.erasmus@uni.sapientia.ro
-Központi szervezeti egységek: Páll Zita, erasmus@sapientia.ro
-Kolozsvár, 2024. április 24.# Erasmus+ pályázati felhívás az uniós tagállamokban, valamint a programhoz társult és nem társult harmadik országokban megvalósuló oktatási célú mobilitásra (STA) a 2024-2025-ös tanévben (KA131)
-2024. július 31.
-SAPIENTIA – 11 ÉVE AZ ERASMUS+ PROGRAMBAN!
-## I. A pályázat célja:
-lehetőség biztosítása az EMTE **oktatói** számára **közreműködőként (*trainer*)** való részvételre az Erasmus+ program keretében megvalósuló ***vegyes intenzív programban*** (*Blended intensive programme*, BIP).
-Azon oktatók részvétele támogatott, akik meghívást kapnak valamely partner által szervezett BIP keretében oktatási tevékenység végzésére.
-A *trainer* jellegű részvétel külföldi **fizikai mobilitásként** valósítható meg, **Erasmus+ oktatási mobilitás** (STA) formájában, , amely lehet vegyes (blended, azaz virtuális komponenssel kiegészített fizikai mobilitás), vagy hagyományos.
-A mobilitások az EMTE munkatársainak mobilitási szabályzatában, valamint BIP-szabályzatában leírt módon teljesíthetők.
-## II. Ösztöndíj:
-A résztvevők a mobilitás ideje alatt Erasmus+ ösztöndíjban részesülnek valamely KA131 mobilitási projektből, amely *megélhetési támogatást* és *útiköltség támogatást* foglal magába.
-*Megélhetési támogatás* a fizikai mobilitási napokra adható, mértéke a fogadó országtól függ:
-Megélhetési támogatás:
-*   Ország: Dánia, Finnország, Írország, Izland, Liechtenstein, Luxemburg, Norvégia, Svédország -> EUR / nap: 180
-*   Ország: Ausztria, Belgium, Ciprus, Németország, Görögország, Franciaország, Olaszország, Málta, Hollandia, Portugália, Spanyolország -> EUR / nap: 160
-*   Ország: Bulgária, Cseh Köztársaság, Horvátország, Észtország, Lettország, Litvánia, Észak-Macedónia, Lengyelország, Szerbia, Szlovákia, Szlovénia, Törökország, Magyarország -> EUR / nap: 140
-Az *útiköltség támogatás* egyszeri összeg, amely az EMTE székhelye (Kolozsvár) és a fogadó intézmény közötti egyirányú útnak az Európai Bizottság által kijelölt távolságkalkulátorral mért távolsága alapján kerül kiszámításra:
-Útiköltség támogatás:
-*   Távolság (a kalkulátor alapján): 100-499 km -> Standard utazás: 180 EUR/fő -> Zöld utazás („green travel”): 210 EUR/fő
-*   Távolság (a kalkulátor alapján): 500-1999 km -> Standard utazás: 275 EUR/fő -> Zöld utazás („green travel”): 320 EUR/fő
-*   Távolság (a kalkulátor alapján): 2000-2999 km -> Standard utazás: 360 EUR/fő -> Zöld utazás („green travel”): 410 EUR/fő
-Az Erasmus+ támogatás hozzájárul a mobilitás megvalósításához, de **előfordulhat, hogy nem fedezi teljes egészében** a kiutazás és a külföldi tartózkodás költségeit, ezért – esetenként – szükség lehet egyéni vagy más anyagi hozzájárulásra is.
-Megengedett bármely egyéb, nem Európai Uniós finanszírozási forrásból származó támogatás igénybevétele, és nyertes pályázat esetén nyilatkozni kell arról, hogy a pályázó a mobilitás ideje alatt nem részesül más uniós támogatásban.
-## III. A közreműködői (trainer) jellegű oktatási mobilitás megvalósítása
-1. A mobilitás megvalósításának periódusa:
-jelen pályázati felhívás keretében **2025. szeptember 27-el bezárólag megvalósuló közreműködő (trainer) jellegű *oktatási mobilitásra*** lehet pályázni.
-2. Egy munkatárs tanévente maximum két BIP-mobilitáson vehet részt kísérőként, tanulóként és/vagy közreműködőként.
-3. A közreműködői mobilitás időtartama minimum két egymást követő nap, a meghívó szerint pályázható.
-A mobilitás periódusába **az utazási napok nem számítanak** **bele**.
-Öt napnál hosszabb mobilitás esetén az Egyetemi Erasmus Bizottság korlátot állapíthat meg a támogatott napok számának tekintetében, a rendelkezésre álló keretek függvényében.
-4. Bármely Erasmus+ fizikai mobilitás érvényességének feltétele a személyes jelenlét a fogadó országban, intézményben.
-A mobilitás lebonyolítása a támogatási szerződés megkötésének pillanatában a támogatást biztosító mobilitási projektre érvényes Erasmus+ mobilitási szabályzat szerint fog történni.
-5. A közreműködői jellegű oktatási (STA) mobilitásra is a hagyományos STA mobilitás feltételei érvényesek, azaz az oktatási órák száma 5-7 napos fizikai mobilitás esetén minimum 8 óra, és ha a mobilitás periódusa hosszabb, mint egy hét, akkor a töredék munkahétre számolt minimális oktatási óraszámnak arányban kell lennie az előírt *8 óra/5 munkanap* oktatási óraszámmal.
-6. Egy adott BIP keretében trainerként részt vevő oktató kísérői szerepet is betölthet, de ebben az esetben párhuzamosan nem pályázhat kísérői mobilitásra is.
-## IV. A pályázás feltételei
-1. Oktatási mobilitás (STA) kizárólag olyan külföldi partnerintézményben teljesíthető, amellyel az EMTE-nek oktatási mobilitást is magába foglaló érvényes Erasmus+ intézményközi egyezménye van az adott szakterületre a mobilitás megkezdésekor, ezért megfelelő intézményközi egyezmény hiányában azzal a feltétellel hagyható jóvá a pályázat, hogy az érintett oktató közbenjárásával a mobilitás megkezdése előtt létrejön a szükséges megállapodás.
-2. Közreműködői (trainer) jellegű Erasmus+ *oktatási mobilitásra* (STA) pályázatot nyújthat be a Sapientia EMTE román állampolgárságú vagy Romániában érvényes letelepedési, illetve tartózkodási engedéllyel rendelkező főállású (azaz határozatlan időre kötött munkaszerződéssel alkalmazott), vagy teljes állást betöltő, meghatározott időre kötött munkaszerződéssel alkalmazott társult oktatója.
-Nyertes pályázat esetén támogatási szerződés kizárólag **aktív** munkaszerződéssel rendelkező oktatóval köthető.
-3. A pályázónak a programban való részvételhez megfelelő nyelvtudással kell rendelkeznie.
-4. Csak az a fogadóintézmény pályázható, ahol a BIP fizikai része megvalósul a BIP leírása szerint.
-Ugyanakkor nem lehet pályázatot benyújtani Romániában vagy a pályázó állandó lakhelye szerinti országban lévő intézményben megvalósuló mobilitási tevékenységre.
-## V. Pályázati dokumentumok
-A pályázatot elektronikusan kérjük elkészíteni, és nyomtatott formában, a szükséges aláírásokkal ellátva, egy eredeti példányban kell benyújtani az illetékes Erasmus+ koordinátornak, **minimum 40 nappal a mobilitás kezdete előtt**.
-A pályázati dossziénak a következő dokumentumokat kell tartalmaznia:
-## 1. Kitöltött, a szükséges aláírásokkal ellátott pályázati űrlap (I. sz. melléklet).
-Tanszékvezető pályázónak is fel kell tüntetnie saját nevét a megfelelő helyen, de csak a dékántól szükséges jóváhagyás az űrlapjára.
-## 2. A fogadó intézmény által kiállított meghívó.
-amely tartalmazza a BIP címét, a mobilitás típusát, a mobilitás konkrét periódusát és helyszínét is.
-Lehet postai vagy elektronikus úton érkező formális fogadólevél, vagy e-mailben, hivatali e-mail címekről lebonyolított egyeztetés.
-Minden esetben tartalmaznia kell az iratot kiállító személy nevét, elérhetőségét és funkcióját/beosztását a fogadó intézmény keretén belül.
-## 3. A BIP leírása.
-amelyet a vegyes intenzív programot koordináló intézmény állít össze.
-## 4. Angol nyelven kitöltött, a pályázó és dékán által aláírt Mobility Agreement – Staff Mobility for Teaching (mobilitási egyezmény, munkaterv, II. sz. melléklet).
-Az egyezményt aláíratás előtt az illetékes kari Erasmus koordinátor segítségével kell véglegesíteni, formai hibás egyezmény nem fogadható el!
-## A pályázati felhívás mellékletei innen tölthetők le:
-I. sz. melléklet: Pályázati űrlap – BIP, közreműködő (trainer), 2024-2025 (KA131, STA) (https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2024%20julius_2024_25/I_Palyazati_Urlap_BIP_STA_trainer_2024_25.doc)
-II. sz. melléklet: Mobility Agreement – Staff Mobility for Teaching (STA munkaterv) (https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2024%20julius_2024_25/II_STA_MA_BIP_trainer_2024_25.docx)
-A pályázati feltételeknek nem megfelelő, vagy határidő után érkező pályázatokat nem fogadunk el.
-## VI. Bírálati szempontrendszer
-A pályázatokat az Egyetemi Erasmus Bizottság bírálja el, a pályázati dosszié teljessége alapján, a pályázó által az adott tanévre korábban benyújtott nyertes BIP-mobilitási pályázatok számának figyelembe vételével.
-## VII. A pályázatok benyújtásának időszaka:
-a 2024/2025-ös tanévben **folyamatos, minimum 40 nappal a mobilitás kezdete előtt.**
-## Jelentkezni az illetékes Erasmus+ koordinátornál lehet:
-Csíkszeredai Kar: Bors Hortenzia, borshortenzia@uni.sapientia.ro
-Kolozsvári Kar: Sipos Ottilia, kv.erasmus@kv.sapientia.ro
-Marosvásárhelyi Kar: Biblia Csilla, sapierasmus@ms.sapientia.ro
-Sepsiszentgyörgyi Kar: Csibi Márta, sepsi.erasmus@uni.sapientia.ro
-Tanárképző Intézet: Páll Zita, erasmus@sapientia.ro
-## További információk az intézményi Erasmus+ koordinátortól igényelhetők:
-Páll Zita, erasmus@sapientia.ro
-Kolozsvár, 2024. április 24.
-## Linkek a fő tartalomból:
-mobilitási szabályzat (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/Erasmus_ST_szabalyzat_2021-2027.pdf)
-BIP-szabályzat (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/3.%20melleklet%20-%20Erasmus%20BIP%20szabalyzat_2022.pdf)
-I. sz. melléklet: Pályázati űrlap – BIP, közreműködő (trainer), 2024-2025 (KA131, STA) (https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2024%20julius_2024_25/I_Palyazati_Urlap_BIP_STA_trainer_2024_25.doc)
-II. sz. melléklet: Mobility Agreement – Staff Mobility for Teaching (STA munkaterv) (https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2024%20julius_2024_25/II_STA_MA_BIP_trainer_2024_25.docx)
-# Vendégek
-*   Isten hozott az egyetemünkre! (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/isten-hozott-az-egyetemunkre)
-*   Üdvözlünk Erdélyben! (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/udvozlunk-erdelyben)
-*   Röviden az Egyetemről (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/roviden-az-egyetemrol)
-*   Egyetemi kampuszok (https://sapientia.ro/hu/az-egyetemrol/oktatasi-helyszinek)
-*   Tárgylisták (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/targylistak)
-*   Jó tudni (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/jo-tudni)
-*   Jelentkezés (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/jelentkezes)
-## Isten hozott az egyetemünkre!
-Kedves Cserediákok!
-A Sapientia szó bölcsességet jelent, más szóval értő tanulmányozást és a tudásmegfontolt alkalmazását.
-A Sapientia Erdélyi Magyar Tudományegyetem 2001-ben azzal a fő céllal alakult, hogy magas színvonalú, versenyképes oktatást biztosítson, ugyanakkor megfeleljen a nemzetközi elvárásoknak és olyan szakembereket képezzen, akik a tanulmányaik befejezését követően akár otthon, akár külföldön szakmájukban érvényesülnek.
-Az egyetem akkreditációját követően örömmel veszünk részt az európai mobilitási programokban, melyek lehetőséget biztosítanak hatékony partneri kapcsolatok kiépítésére, ugyanakkor biztosítják az egyetem számára az Európai Felsőoktatási Rendszerhez való csatlakozást.
-Szeretettel várunk a Sapientia Erdélyi Magyar Tudományegyetemre!
-**Dr. Tonk Márton**, rektor
-## Üdvözlünk Erdélyben!
-Rövid történelmi bemutató
-* A 12. és 16. század közötti időszakban csaknem háromezer erdélyi fiatal akademizáns tanul nyugat-európai egyetemeken, élő kapcsolatot teremtve Erdély és a nyugat-európai universitasok tudósai között.
-* 1568-ben az Erdélyi Fejedelemségben – politikai döntésként – törvényerőre helyezik a vallásszabadságot, először a történelemben.
-* 1581: Báthory István megszervezte Kolozsváron a jezsuiták segítségével az első erdélyi főiskolát, amely Báthory halálával és a jezsuiták elűzése után megszűnik.
-* 1622-ben: Bethlen Gábor fejedelem megalapítja Gyulafehérváron a Collegium Academicumot, amely a század második felében a török támadások következtében bezárja kapuit, s később Nagyenyeden kezdi újra működését, ahol 300 éven át a reformáció védőbástyája volt.
-* 1768-ban a jezsuiták újra felállítják a főiskolát Kolozsváron, ahol 1774-1775 között bevezetik a jog- és orvostudomány oktatását is.
-* 1786-ban II. Habsburg József lefokozza a kolozsvári főiskolát kollégiumi szintre és a német nyelvű oktatást teszi kötelezővé.
-A jogtudomány, a művészet, bölcsészet és az orvostudomány a líceum részeként működnek.
-* 1857-ben Kolozsváron létrejön az Erdélyi Múzeum-Egyesületet, amely a későbbi egyetem alapjául szolgál.
-Az egyesület mind a mai napig Erdély legfontosabb akadémiai szervezete.
-* 1872-ben létrehozzák Kolozsváron az I. Ferencz József Tudományegyetemet, amelynek négy önálló karán magyar nyelven folyt az oktatás, a Bölcsészettudományi Karon egy román tanszékkel.
-* 1919-1920 között a történelmi magyar egyházak vezetői egy felekezetközi magyar egyetem létrehozását határozták el, mivel az első világháború után, amikor Erdély a román állam részévé vált, megszűnt a magyar oktatás Kolozsváron.
-Ezt a román hatóságok nem engedélyezik.
-Kolozsváron megnyílt a kizárólag román tannyelvű I. Ferdinánd Király Egyetem.
-* A II. világháború idején, a második bécsi döntés után az I. Ferencz József Tudományegyetem ismét megkezdheti működését Kolozsváron.
-* 1945-1959 között a romániai tanügyi törvények engedélyezik az önálló magyar Bolyai Egyetemet Kolozsváron.
-Az orvosi és gyógyszerészeti intézet, valamint a zene és színi akadémia Marosvásárhelyre költözik, és önálló intézetként működnek tovább.
-* Az 1956-os magyarországi forradalom leverése után megkezdődik a magyar tannyelvű oktatási hálózat elsorvasztása az erdélyi egyetemeken.
-* 1959-ben a magyar tanárok és hallgatók tragikus tiltakozása ellenére, a nemzeti-kommunista hatalom kikényszerítette a magyar tannyelvű Bolyai és a román Babeş Egyetem egyesítését Babeş-Bolyai Tudományegyetem néven, melyet a terror és a személyes megfélemlítések periódusa követett.
-* 1959 és 1989 között a Babeş-Bolyai Tudományegyetem csak névlegesen kétnyelvű, csökkentik vagy megszüntetik a magyar tanszékeket és drasztikusan csökken a magyar diákok száma a romániai felsőoktatási intézményekben.
-* AZ 1989-es romániai események után a magyar kisebbség vezetői csatlakoznak az új kormányhoz és bejelentik szándékukat, hogy visszaállítsák az önálló magyar állami egyetemet.
-* 1995-ben félmillió romániai magyar aláírással kérvényezi az 1959-ben megsemmisített egyetemét.
-* 1990-1999 között minden ígéret ellenére a román kormányok nem alkottak olyan törvényt, amely engedélyezné az önálló magyar egyetemet.
-* 2000-ben a négy erdélyi magyar történelmi egyház vezetői létrehozzák a Sapientia Alapítványt.
-A Sapientia Alapítvány kurátorai feladata a romániai magyar nyelvű felsőoktatást támogató Alapítvány céljainak meghatározása és megvalósítása.
-A Magyar Kormány megszavazza, hogy anyagi keretet különít el (7 millió dollárt) a Sapientia Erdélyi Magyar Tudományegyetem létrehozásának érdekében.
-* 2001: Három erdélyi városban fogadja az elsőéves hallgatóit a Sapientia EMTE: Kolozsváron, Marosvásárhelyen és Csíkszeredában.
-* 2012: A Sapientia EMTE-t végleges akkreditációt szerez.
-### Tudod-e hogy?
-**Hunyadi János**(1407 körül–1456):
-Vajdahunyadon született, hadvezér, a Magyar Királyság kormányzója, Hunyadi Mátyás apja.
-Nevéhez fűződik az 1456-os nándorfehérvári diadal, amikor serege fényes győzelmet aratott a török szultán túlerőben lévő seregein.
-A győzelem tiszteletére III. Kallixtusz pápa elrendelte, hogy minden délben, Európa szerte meghúzzák a harangokat.
-**Hunyadi Mátyás** (1443–1490):
-Kolozsváron született, magyar király.
-Harminckét éves uralkodása alatt a Magyar Királyságot Európa egyik legerősebb országává tette.
-Uralkodása nevezetes sikeres katonai hadműveleteiről (győzelmeiről a törökök és Habsburg seregek felett – 1490-ben Bécset is bevette), de a művészetek támogatásáról is.
-Udvarába olyan híres humanista művészeket és történészeket hívott meg, mint Galeotto Marzio, Janus Pannonius, Petrus Ransanus és Antonio Bonfini.
-Könyvtárat alapít, amely nagyobb mint a firenzei Medicieké, de sajnos a török pusztítások során az ott lévő Corvinák elvesznek.
-**Dávid Ferenc** (1510-1579):
-prédikátor, Kolozsváron született.
-A felekezetközi viták idején megalapítja az erdélyi Antitrinitárius Egyházat.
-Hozzájárult ahhoz, hogy az 1568. január 6–13-i tordai országgyűlésen – politikai döntésként – kihirdessék a vallásszabadságot, elsőként Európában.
-**Apáczai Csere János**(1625-1659):
-helvét hitvallású evangélikus (református) tudós, író.
-A háromszéki Apáczán születt, egyetemi tanulmányait Franekerben kezdi, majd Leidenben és Utrechtben folytatja.
-1651-ben megszerzi a Harderwijki Egyetemen a teológiai doktori titulust.
-1653-ban kiadja fő művét, a Magyar Encyclopaediát, amelyben korának tudását magyarul foglalja össze.
-Ő az első református peregrinus, aki holland nőt vesz feleségül (Aletta van der Maet), ki hűségesen követi férjét Gyulafehérvárra és Kolozsvárra.
-**Kőrösi Csoma Sándor**(1784-1842):
-a háromszéki Kőrösön született, majd a göttingeni tanulmányai után Ázsiába utazik, hogy felkutassa a magyarok őshazáját.
-Nyelvtudós, a tibetológia megalapítója, az első Tibeti-Angol szótár létrehozója.
-**Bolyai János**(1802-1860):
-kolozsvári születésű matematikus, kilenc nyelven olvasott – beleértve a kínait és a tibetit is.
-A komplex számok, a számelmélet, illetve az algebra-egyenletek témakörében folytatott kutatásokat.
-1832-ben megjelent Appendix című művével megalkotta a nemeuklideszi geometriát, amely nélkülözhetetlen alapot jelentett a 20. század matematikai és fizikai elméletei számára.
-**Arany János** (1817-1882):
-Nagyszalontán született, a magyar irodalom kiemelkedő epikus költője, a Kisfaludy Társaság igazgatója, a Magyar Tudományos Akadémia tagja és főtitkára.
-Verseit a magyar népi hagyományból merítette.
-Átérezte korának nagy világnézeti válságát, s lélektani hatását lírájában a nagy művészet nyelvén tudta kifejezni.
-Shakespearet és Aristophanest magyar nyelvre fordítja.
-A Toldi trilógia, a magyar irodalom legszebb elbeszélő költeményének szerzője.
-**Teleki Samu**(1845-1916):
-Sáromberkén született, felfedező, a Kenya északi részébe indult első európai expedíció vezetője.
-Ő fedezte fel és nevezte el (Rudolf trónörökösről) a Rudolf-tavat (ma Turkana-tó is) és (Rudolf feleségéről, Stefánia belga hercegnőről) a Stefánia-tavat (ma Chew Bahiraaa-tó).
-Dédunokája volt Teleki Sámuelnek (1739–1822), az erdélyi kancellárnak, aki 40 ezer kötetes könyvtárával megalapította a marosvásárhelyi Teleki Tékát, az egyik első magyar közkönyvtárat (1802).
-**Ady Endre** (1877-1919):
-Érdmindszenten született, a huszadik század egyik legjelentősebb magyar lírai költője.
-Forradalmiason szakít Arany és Petőfi hagyományával, alkotásait a francia szimbolizmus hatja át.
-Költészetének témái az emberi lét minden jelentős területére kiterjednek.
-**Bartók Béla**(1881-1945):
-Nagyszentmiklóson született, zeneszerző, zongoraművész, népzenekutató, a közép-európai népzene nagy gyűjtője, a Zeneakadémiatanára.
-Számos versenymű, kamarazene, zongoramű, zenekari mű szerzője.
-**Tamási Áron**(1897-1966):
-Farkaslakán született, Kossuth-díjas magyar író, a Nemzetgyűlés tiszteletből meghívott képviselője.
-Leggyakrabban az ún. népi írók közé sorolják.
-Műveit székely népballadák, népdalok és népi mókák ihlették (Ábel-trilógia).
-**Brassaï**, eredeti nevén Halász Gyula (1899-1984):
-brassói származású fotó- és filmművész, festő, író.
-A fotóművészet mellett képzőművészként és íróként is sikeres volt, kapcsolatot tartott Pablo Picassoval, Joan Miróval, Salvador Dalíval.
-A graffitinak, a falakra karcolt és írt képeknek, szavaknak, mondatoknak, a párizsi utca folklórjának képviselője.# Röviden az Egyetemről
-A Sapientia Erdélyi Magyar Tudományegyetem az erdélyi magyar nyelvű felsőoktatás önálló, akkreditált intézménye.
-A magyar állam támogatásával 2001-ben létrejött intézmény négy városban működik: Csíkszeredában, Kolozsváron, Marosvásárhelyen és Sepsiszentgyörgyön.
-A négy, sajátos jelleggel rendelkező oktatási helyszín egységes egyetemi szerkezetet alkot.
-A Sapientia EMTE küldetéseként az anyanyelvű, versenyképes oktatás és kutatás biztosítását, az erdélyi magyar oktatás hagyományainak folytatását vállalja fel.
-Az intézményben folyó tevékenységet a keresztényi és egyetemes emberi értékek érvényesítése mellett a magyar kultúra értékeinek tisztelete és átadása határozza meg.
-Az állami egyetemekhez hasonlóan a Sapientia EMTE tandíjmentes és költségtérítéses helyeket hirdet meg.
-A hallgatók három típusú ösztöndíjra lehetnek jogosultak: érdem-, tanulmányi és szociális ösztöndíjra.
-A 2013/2014-es tanévtől az Egyetemen beindult az ERASMUS mobilitási program is, amely révén évente több mint száz hallgató és hetven egyetemi munkatárs vesz részt különböző európai partner egyetemeken végzett mobilitásokban, illetve egyre növekvő számban érkeznek intézményünkbe a partner egyetemek oktatói és hallgatói.
-Az Egyetemen folyó jelentős kutatási tevékenység finanszírozása az európai uniós, illetve a román kutatási szakhatóság által meghirdetett projektekből, illetve a Kutatási Programok Intézete által biztosított egyetemi kutatási pályázatokból történik.
-Ezeket számos más egyéni kutatási ösztöndíj és egyéb, kisebb volumenű kutatási projekt egészíti ki.
-Az Acta Universitatis Sapientiae az egyetem angol nyelvű szakfolyóirata, amely 12 tudományterületen publikálja a legújabb tudományos kutatási eredményeket.
-# Karok
-Csíkszeredai Kar (https://sapientia.ro/hu/az-egyetemrol/oktatasi-helyszinek/csikszeredai-kar)
-Kolozsvári Kar (https://sapientia.ro/hu/az-egyetemrol/oktatasi-helyszinek/kolozsvari-kar)
-Marosvásárhelyi Kar (https://sapientia.ro/hu/az-egyetemrol/oktatasi-helyszinek/marosvasarhelyi-kar)
-Sepsiszentgyörgyi Kar (https://sapientia.ro/hu/az-egyetemrol/oktatasi-helyszinek/sepsiszentgyorgyi-kar)
-# Tárgylisták
-A Sapientia Erdélyi Magyar Tudományegyetemen az oktatás nyelve magyar.
-Kivételt képeznek a román és angol nyelven oktatott szaktantárgyak.
-A részletes tantárgylapokat kérésre küldjük.
-### TÁRGYLISTÁK 2024/2025, I-II. félév:
-Kolozsvári Kar – Média Tanszék: angol nyelven oktatott tárgyak (https://sapientia.ro/content/Erasmus%202021-2027/t%C3%A1rgylist%C3%A1k/24-25_ErasmusCoursesMediaDept.pdf) bejövő Erasmus-diákok számára.
-Sapientia EMTE:
-Az I. féléves tárgylista elérhető itt (https://sapientia.ro/content/Erasmus%202021-2027/t%C3%A1rgylist%C3%A1k/2024_25_1_targylista_mobilitashoz.xlsx).
-A II. féléves tárgylista elérhető itt (https://sapientia.ro/content/Erasmus%202021-2027/t%C3%A1rgylist%C3%A1k/2024_25_2_targylista_mobilitashoz.xlsx).
-Az első oszlop a karok kódjait tartalmazza:
-CSK = Csíkszeredai Kar
-TMK = Kolozsvári Kar
-MHK = Marosvásárhelyi Kar
-SSZK = Sepsiszentgyörgyi Kar
-A korábbi tárgylisták lentebb találhatóak.
-### KÉPZÉSEK
-### Csíkszeredai Kar
-Gazdaságtudományi képzések
-Alapképzés (BSc)
-- Agrár- és élelmiszer-gazdaság / Agroalimentary Economics (CBAEG)
-- Általános közgazdaság / General Economics (CBAK)
-- Gazdasági informatika / Economic Informatics (CBGInf)
-- Könyvelés és gazdálkodási informatika / Accounting and Information Systems (CBKGI)
-- Marketing / Marketing (CBMk)
-Mesterképzés (MSc)
-- Alkalmazott közgazdaságtan és pénzügy / Applied Economics and Finance (CMAKP)
-- Vezetés és szervezés / Management and Leadership (CMVSZ)
-Humántudományi képzések
-Alapképzés (BSc)
-- Román nyelv és irodalom - angol nyelv és irodalom / Romanian Language and Literature - English Language and Literature (CBRA)
-- Világ- és összehasonlító irodalom - angol nyelv és irodalom / Universal and Compared Literature - English Language and Literature (CBVIA)
-Mesterképzés (MSc)
-- Fordító és tolmács / Translation and Interpretation (CMFTO)
-Mérnöki képzések
-Alapképzés (BSc)
-- Turisztikai mérnök-menedzser / Engineering and Management in Catering and Agrotourism (CBMM)
-- Élelmiszeripari mérnök / Food Products Engineering (CBEM)
-- Génsebészet / Genetic Engineering (CBGS)
-Mesterképzés (MSc)
-- Fenntartható biotechnológiák / Sustainable Biotechnologies (CMFBT)
-Társadalomtudományi képzések
-Alapképzés (BSc)
-- Szociológia / Sociology (CBSzoc)
-- Humánerőforrás / Human Resources (CBHE)
-- Kommunikáció és PR / Communication and Public Relations (CBKom)
-Mesterképzés (MSc)
-- Kommunikáció és közkapcsolatok / Communication and Public Relations (CMKMP)
-### Kolozsvári Kar
-Környezettudományi képzések
-Alapképzés (BSc)
-- Környezettudomány / Environmental Science (KBKT)
-Mesterképzés (MSc)
-- Környezetvédelem és monitoring / Protection and Monitoring of the Environment (KMKVM)
-Művészeti képzések
-Alapképzés (BSc)
-- Filmművészet, fotóművészet, média / Cinematography, Photography, Media (KBFFM)
-- Táncművészet /Coreography (KBT, KBTM)
-Mesterképzés (MSc)
-- Filmtudomány / Film Studies (KMFT)
-Társadalomtudományi képzések
-Alapképzés (BSc)
-- Nemzetközi kapcsolatok és európai tanulmányok / International Relations and European Studies (KBEU)
-- Jog / Law (KBJ)
-Mesterképzés (MSc)
-- Diplomácia és interkulturális tanulmányok / Diplomacy and Intercultural Studies (KMDIT)
-- Jogász életpályák / Judicial Career (KMJE)
-### Marosvásárhelyi Kar
-Agrártudományi képzések
-Alapképzés (BSc)
-- Kertészmérnöki / Horticulture (MBKer)
-- Tájépítészet / Landscape Architecture (MBTaj)
-Mesterképzés (MSc)
-- Növényorvos / Plant Protection (MMNOV)
-Humántudományi képzések
-Alapképzés (BSc)
-- Fordító és tolmács / Translation and Interpretation (MBFord)
-Informatika és mérnöki képzések
-Alapképzés (BSc)
-- Informatika / Computer Science (MBInfo)
-- Automatika és alkalmazott informatika / Automation and Applied Informatics (MBAut)
-- Mechatronika / Mechatronics (MBMech)
-- Számítástechnika / Computer Science (MBSzam)
-- Gépészmérnöki / Machine Manufacturing Technology (MBTCM)
-- Infokommunikációs hálózatok és rendszerek (Távközlés) / Telecommunication Systems and Technologies (MBTK)
-Mesterképzés (MSc)
-- Fejlett mechatronikai rendszerek / Advanced Mechatronic Systems (MMFMR)
-- Szoftverfejlesztés / Software Engineering (MMSZF)
-- Számítógépes irányítási rendszerek / Intelligent Control Systems (MMSIR)
-Társadalomtudományi képzések
-Alapképzés (BSc)
-- Kommunikáció és közkapcsolatok / Communication and Public Relations (MBKom)
-- Közegészségügyi szolgáltatások és politikák / Public Health Services and Policies (MBEg)
-Sepsiszentgyörgyi Kar
-Agrártudományi képzések
-Alapképzés (BSc)
-- Agrármérnöki / Agriculture (SBAg)
-Erdészeti képzések
-Alapképzés (BSc)
-- Erdőmérnöki / Forestry (SBEr)
-Testnevelés és sport képzések
-Alapképzés (BSc)
-- Sport és edzőképző / Sport and Motor Performance (SBSE)
-### KORÁBBI TÁRGYLISTÁK
-### TÁRGYLISTÁK 2023/2024, I-II. félév:
-Kolozsvári Kar – Média Tanszék: angol nyelven oktatott tárgyak (https://sapientia.ro/content/Erasmus%202021-2027/t%C3%A1rgylist%C3%A1k/23-24_ErasmusCoursesMediaDept.pdf) bejövő Erasmus-diákok számára.
-Sapientia EMTE:
-Az I. féléves tárgylista elérhető itt (https://sapientia.ro/content/Erasmus%202021-2027/t%C3%A1rgylist%C3%A1k/2023_24_1_targylista_mobilitashoz.xlsx).
-A II. féléves tárgylista elérhető itt (https://sapientia.ro/content/Erasmus%202021-2027/t%C3%A1rgylist%C3%A1k/2023_24_2_targylista_mobilitashoz.xlsx).
-### TÁRGYLISTÁK 2022/2023, I-II. félév:
-Az I. féléves tárgylista elérhető itt (https://sapientia.ro/content/Erasmus%202021-2027/t%C3%A1rgylist%C3%A1k/2022_23_1_targylista_mobilitashoz.xlsx).
-A II. féléves tárgylista elérhető itt (https://sapientia.ro/content/Erasmus%202021-2027/t%C3%A1rgylist%C3%A1k/2022_23_2_targylista_mobilitashoz.xlsx).
-### 2021/2022, I-II. félév:
-Az I. féléves tárgylista elérhető itt (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/karonkenti%20targylistak/2021_2022/2021_22_1_targylista_mobilitashoz.xlsx).
-A II. féléves tárgylista elérhető itt (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/karonkenti%20targylistak/2021_2022/2021_22_2_targylista_mobilitashoz.xlsx).
-Kolozsvári Kar – Média Tanszék: angol nyelven oktatott tárgyak (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/karonkenti%20targylistak/2021_2022/ErasmusCoursesMediaSapientia21-22fin.pdf) bejövő Erasmus-diákok számára.
-### 2020/2021, I-II. félév:
-Az I. féléves tárgylista elérhető itt (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/karonkenti%20targylistak/2020-2021%20I-II.%20felev/2020-2021_1_targylista_mobilitashoz.xlsx).
-A II. féléves tárgylista elérhető itt (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/karonkenti%20targylistak/2020-2021%20I-II.%20felev/2020-2021_2_targylista_mobilitashoz.xlsx).
-### 2019/2020, I-II. félév:
-Az I. féléves tárgylista elérhető itt (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/karonkenti%20targylistak/2019_2020%20I-II.%20felev/2019-2020_1_targylista_mobilitashoz.xlsx).
-A II. féléves tárgylista elérhető itt (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/karonkenti%20targylistak/2019_2020%20I-II.%20felev/2019-2020_2_targylista_mobilitashoz.xlsx).
-### 2018/2019, I-II. félév:
-Az I. féléves tárgylista elérhető itt (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/karonkenti%20targylistak/2018_2019%20I-II.%20felev/2018_2019_1_targylista_mobilitashoz.xlsx).
-A II. féléves tárgylista elérhető itt (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/karonkenti%20targylistak/2018_2019%20I-II.%20felev/2018_2019_2_targylista_mobilitashoz.xlsx).
-### 2017/2018, II. félév:
-A tárgylista elérhető itt (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/karonkenti%20targylistak/2017_2018%20II.%20felev/2017-18-2_mobilitashoz.xlsx).
-### 2016/2017, II. félév:
-Csíkszeredai Kar
-Kari tantárgylista (https://sapientia.ro/content/2011-2021/erasmus/2016_17_2_Csikszeredai%20Kar.xlsx)
-Kolozsvári Kar
-Kari tantárgylista (https://sapientia.ro/content/2011-2021/erasmus/2016_17_2_Kolozsvari%20Kar.xlsx)
-Angol nyelven oktatott kurzusok listája (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/Erasmus_kiutazo_diakok/2016%20marcius/Course%20list%20Cluj%20Napoca%20English.pdf)
-Marosvásárhelyi Kar
-Kari tantárgylista (https://sapientia.ro/content/2011-2021/erasmus/2016_17_2_Marosvasarhelyi%20Kar.xlsx)Íme a megtisztított szöveg, a kért formázással:
-# Jó tudni
-Hasznos információk a vendégeink számára.
-## Lakhely regisztrálása az EU-ból érkező hallgatók esetében
-Azoknak a diákoknak, akik az Európai Unió, illetve az Európai Gazdasági Térség állampolgárai, és több mint 3 hónapot maradnak Romániában, be kell jelentkezniük az idegenrendészeti hivatalnál (Inspectoratului General pentru Imigrări), abban a megyében, ahol tartózkodnak.
-A Sapientia EMTE külföldi állandó lakhelyű hallgatói a következő helyszíneken jelenthetik be romániai lakcímüket:
-Csíkszereda: Tudor Vladimirescu u. 34-36 sz., tel.: 0266-310936, fax: 0266-371751, e-mail: hr.igi@mai.gov.ro
-Kolozsvár: Alexandru Vaida Voievod u. 51-53 sz. (a Iulius Mall bevásárlóközpont földszintje), tel.: 0264-555656, fax: 0264-555656, e-mail: cj.igi@mai.gov.ro
-Marosvásárhely: Mihail Kogălniceanu u. 14. sz., I. emelet, tel. 0265-202363, fax: 0265-202596, e-mail: ms.igi@mai.gov.ro
-A lakhely regisztrálásához szükséges iratok:
-1. kérvény - formanyomtatvány, (http://igi.mai.gov.ro/sites/all/themes/multipurpose_zymphonies_theme/images/Circulatie/10_Cerere%20certificat%20inregistare%20cetateni%20UE(14).pdf)
-2. személyi igazolvány vagy útlevél (eredeti és fénymásolat),
-3. akkreditált egyetem által kiállított igazolás (http://igi.mai.gov.ro/sites/all/themes/multipurpose_zymphonies_theme/images/Circulatie/document%20certifi.pdf) vagy diákigazolvány,
-4. igazolás jövedelmekről (http://igi.mai.gov.ro/sites/all/themes/multipurpose_zymphonies_theme/images/Circulatie/dovada%20intretinere%20eng.pdf);
-5. egészségügyi biztosítás igazolása (http://igi.mai.gov.ro/sites/all/themes/multipurpose_zymphonies_theme/images/Circulatie/The%20health%20insurance%20may%20be%20proven%20by.pdf).
-További információk angol nyelven: http://igi.mai.gov.ro/en/content/2011-2021/registered-residence (http://igi.mai.gov.ro/en/content/2011-2021/registered-residence).
-# Az Európai Unión és Európai Gazdasági Térségen kívülről érkező hallgatók figyelmébe!
-Jelentkezésüknek a fogadó intézmény által történő visszaigazolása után hosszú távú tanulmányi vízumot kell igényelniük (long stay visa for studies, D/SD típus) Románia valamely külképviseletén (http://www.mae.ro/en/romanian-missions).
-A vízum díja 120 EUR.
-A Romániába való belépés után a megyei idegenrendészeti hivatalnál (Inspectoratului General for Imigrări, elérhetőségek fentebb) személyesen vagy online (https://portaligi.mai.gov.ro/portaligi/) kérvényezni kell a tartózkodási engedély kibocsátását, és egyben a tartózkodás meghosszabbítását a tanulmányok teljes idejére, legkésőbb 30 nappal a vízum által jóváhagyott periódus lejárta előtt.
-A kérvények elbírálásának határideje 30 nap, amely különleges esetben 15 nappal meghosszabbítható.
-Információk a hosszú távú tanulmányi (long stay típusú) vízumról és a tartózkodási engedély (residence permit) megszerzéséről itt (http://igi.mai.gov.ro/en/content/2011-2021/studies).
-Vízumkérések online benyújtása: eVisa portál (http://evisa.mae.ro/).
-Azon országok listája, amelyek állampolgárai csak vízummal utazhatnak be Romániába, itt (https://www.mae.ro/sites/default/files/file/anul_2019/2019_pdf/anexa_1_en.pdf) érhető el.
-Kivételek és további információk: itt (https://www.mae.ro/en/node/2040).
-Információk a vízumtípusokról itt (http://www.mae.ro/en/node/2035).
-A romániai tanügyminisztérium vízumokkal kapcsolatos tájékoztatója angol nyelven (2019.03.29.) itt érhető el (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/dokumentumok/RO_visa_info_2019.03.29.pdf).
-## Egészségbiztosítás
-Az Európai Unió területéről érkező hallgatóknak rendelkezniük kell a saját állanadó lakhelyük szerinti ország által kiállított Európai Egészségbiztosítási Kártyával és/vagy privát egészségügyi biztosítással itt-tartózkodásuk egész idejére.
-Az EU-n kívüli országokból érkező hallgatóknak rendelkeziük kell privát egészségbiztosítással itt-tartózkodásuk teljes periódusára.
-# Osztályzatok, jegyek, kreditek
-Sapientia Erdélyi Magyar Tudományegyetem az oktatás megszervezésében az Európai Kreditátviteli Rendszert (ECTS) alkalmazza, amely által az egyetemi képzésben a végzettséget igazoló oklevél megszerzésének feltételéül előírt minden, tanulmányi munkaidő ráfordítással járó követelmény teljesítését kreditben méri.
-A kreditallokáció az európai egyetemi gyakorlatnak megfelelően történik, mely szerint egy kredit 26-30 hallgatói munkaórának, illetve egy egyetemi félévre jutó normál munkamennyiség 30 kreditnek felel meg.
-Osztályozás és ECTS Besorolás:
-*   10 (Kitűnő): kiemelkedő teljesítmény, hibátlan vagy csak apró hibákkal (ECTS: A)
-*   9 (Nagyon jó): kiemelkedő teljesítmény, csak apró hibákkal (ECTS: B)
-*   8 (Jó): átlagszint feletti teljesítmény, egy-két hibával (ECTS: C)
-*   7: elfogadható teljesítmény néhány hibával
-*   6 (Megfelelt): jó, de alapvető hiányosságai vannak (ECTS: D)
-*   5 (Elégséges): a teljesítmény a minimális kritériumnak felel meg (ECTS: E)
-*   4 (Elégtelen): majdnem elégséges, de bizonyos korrekcióra még szükség van a kredit eléréséhez (ECTS: Fx, F)
-*   3: jelentős mennyiségű további munka szükséges
-*   2: nincs tárgyi ismeret
-*   1: csalás
-# Jelentkezés
-## Külföldi diákok jelentkezése.
-Az ERASMUS+ programról a küldő egyeteme Nemzetközi Kapcsolatok Irodájától kérhet bővebb felvilágosítást, valamint az ESN diákszervezet is segítséget nyújthat (Erasmus Student Network, www.esn.org (http://www.esn.org/)).# Partnerintézmények
-### Külföldi felsőoktatási intézmények és kutatóintézetek
-**2003**
-Debreceni Egyetem (http://unideb.hu/) (HU)
-Budapesti Corvinus Egyetem (http://www.uni-corvinus.hu/index.php?id=474) (HU)
-Eszterházy Károly Katolikus Egyetem (http://www.ektf.hu/) (Eger, HU)
-**2004**
-Pécsi Tudományegyetem (http://www.pte.hu/)(HU)
-Tokyio Institute of Technology (http://www.titech.ac.jp/) (Japán)
-**2006**
-Eötvös Loránd Tudományegyetem (http://www.elte.hu/) (Budapest, HU) 
-Pázmány Péter Katolikus Egyetem (http://www.ppke.hu/) (Budapest, HU)
-Neumann János Egyetem (http://www.kefo.hu/) (Kecskemét, HU)
-**2007**
-Budapesti Műszaki és Gazdaságtudományi Egyetem (http://portal.bme.hu/default.aspx) (HU)
-Selye János Egyetem (http://www.selyeuni.sk/index.php?lang=hu) (Révkomárom, SK)
-Nyíregyházi Egyetem (http://www.nyf.hu/) (HU)
-**2008**
-Università degli Studi della Tuscia (http://www.unitus.it/) (Viterbo, I)
-Soproni Egyetem (http://www.nyme.hu/) (Sopron, HU)
-**2010**
-Miskolci Egyetem (http://www.uni-miskolc.hu/public/) (HU)
-Pannon Egyetem (http://www.uni-pannon.hu/) (Veszprém, HU)
-Budapesti Gazdasági Egyetem (http://www.bgf.hu/) (HU)
-**2011**
-Szent István Egyetem (http://www.szie.hu/) – 2021 óta Magyar Agrár- és Élettudományi Egyetem (Gödöllő, HU)
-**2012**
-Kodolányi János Főiskola (http://www.kodolanyi.hu/) (HU)
-National Institute of Radiological Sciences (http://www.nirs.go.jp/ENG/) (Japán)
-II. Rákóczi Ferenc Kárpátaljai Magyar Főiskola (http://www.kmf.uz.ua/) (Beregszász, UKR)
-**2013**
-Nemzeti Közszolgálati Egyetem (http://uni-nke.hu/) (HU)
-**2014**
-Széchenyi István Egyetem (http://uni.sze.hu/kezdolap) (Győr, HU)
-Szegedi Tudományegyetem (http://www.u-szeged.hu/) (HU)
-**2015**
-Technische Universität Ilmenau (https://www.tu-ilmenau.de/) (Németország)
-Universidad Técnica del Norte (http://www.utn.edu.ec/) (Ibarra, Ecuador)
-**2016**
-Kaposvári Egyetem (https://uni-mate.hu/) – 2021 óta a Magyar Agrár- és Élettudományi Egyetem része (HU)
-**2018**
-Magyar Táncművészeti Egyetem (http://mte.eu/) (HU)
-**2019**
-Óbudai Egyetem (http://uni-obuda.hu/) (HU)
-**2020**
-Testnevelési Egyetem (https://tf.hu) (HU)
-**2022**
-Tokaj-Hegyalja Egyetem (https://unithe.hu/) (HU)
-Budapesti Metropolitan Egyetem (https://www.metropolitan.hu/) (HU)
-Baptista Teológiai Akadémia (https://www.bta.hu/) (HU)
-Baptista Szeretetszolgálat (https://www.baptistasegely.hu/) (HU)
-Semmelweis Egyetem (https://semmelweis.hu/) (HU)
-**2024**
-Kárpát-medencei Tehetségkutató Alapítvány (https://www.kmta.hu/) (HU)
-Kosárlabda Specifikus Módszertani Központ (https://ksmk.hu/) (HU)
-## Hazai intézmények
-**2003**
-Erdélyi Múzeum-Egyesület (http://www.eme.ro/index.jsp) (Kolozsvár)
-**2004**
-Brassói Transilvania Egyetem (http://unitbv.ro/)
-**2005**
-Bukaresti Műszaki Egyetem (http://www.pub.ro/index.html)
-**2007**
-A Román Akadémia Gazdasági Prognózis Intézete (http://www.ipe.ro/romain.html) (Bukarest)
-**2008**
-Petru Maior Egyetem (http://www.upm.ro/) (Marosvásárhely) – 2019-től Marosvásárhelyi Orvosi, Gyógyszerészeti, Tudomány- és Technológiai Egyetem (MOGYTTE)
-Nemzeti Villamosmérnöki Kutatás-fejlesztési Intézet (http://www.icpe-ca.ro/) (Bukarest)
-**2015**
-Ovidius Egyetem (http://www.univ-ovidius.ro/) (Konstanca, RO)
-**2017**
-Ion Mincu Építészeti és Urbanisztikai Egyetem (https://www.uauim.ro/) (Bukarest)
-**2022**
-I. Mihály király Agrártudományi és Állatorvosi Egyetem (https://usab-tm.ro/) (Temesvár)
-„1 Decembrie 1918” Egyetem (https://www.uab.ro/) (Gyulafehérvár)
-**2025**
-Kolozsvári Művészeti és Formatervezési Egyetem (https://www.uad.ro/)
-Székely Gazdaszervezetek Egyesülete (https://szekelygazda.ro/)
-# Makovecz Program
-A Makovecz Hallgatói Ösztöndíjprogram teljes szemeszteres részképzéseket, valamint részképzős tanulmányutakat kínál a hallgatók számára más, határon túli magyar nyelvű felsőoktatási intézményekben.
-Az ösztöndíjból fedezhetők a megélhetési, a lakhatási, az egyszeri oda-vissza utazási és az utasbiztosítási költségek.
-Aktuális pályázati felhívás: 2024/25-ös tanév (https://sapientia.ro/hu/hirek/megjelent-a-makovecz-hallgatoi-osztondijprogram-202425-os-tanev-ii-felevere-szolo-felhivasa)
-Hallgatói beszámolók (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program/hallgatoi-beszamolok)
-Dokumentumok, formanyomtatványok (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program/dokumentumok-formanyomtatvanyok)
-Tárgylisták (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/targylistak)
-Partnerintézmények (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program/partnerintezmenyek)
-Korábbi felhívások (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program/korabbi-felhivasok)
-# Nemzetközi hallgatóknak
-A Sapientia EMTE nemzetközi hallgatói útmutatója (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/International-student-guide-Sapientia.pdf)
-Külföldi állampolgárok beiratkozása (https://sapientia.ro/hu/felveteli/kulfoldi-oklevellel-rendelkezoknek)
-Karonkénti tárgylista (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/targylistak)
-Erasmus+ vendégek (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek)
-A CEEPUS programokban részt vevő szakok tantervei:
-Automatika és alkalmazott informatika (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/curriculum-aut.pdf)
-Számítástechnika (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/curriculum-szamtech.pdf)
-Mechatronika (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/curriculum-mech.pdf)
-Informatika (https://sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/curriculum-info.pdf)
-Környezetmérnöki (http://www.sapientia.ro/hu/erasmus/erasmus-vendegek/karonkenti-targylistak)
-# BIP pályázati felhívások
-Meghívásos Erasmus+ hallgatói mobilitás pályázati felhívás rövid vegyes tanulmányi mobilitáson való részvétel vegyes intenzív program (BIP) keretében (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok/bip-palyazati-felhivasok/meghivasos-erasmus-hallgatoi-mobilitas-palyazati-felhivas-rovid-vegyes-tanulmanyi-mobilitason-valo-reszvetel-vegyes-intenziv-program-bip-kereteben)
-A Sapientia EMTE pályázatot hirdet hallgatók számára az Európai Unió Erasmus+ Programjának támogatásával rövid vegyes tanulmányi mobilitáson való részvételre a CYBERSECURITY IN PUBLIC SERVICE című vegyes intenzív program (BIP) keretében.
-Erasmus+ hallgatói mobilitás pályázati felhívás német szakirányú fordító és tolmács szakosok számára (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok/bip-palyazati-felhivasok/erasmus-hallgatoi-mobilitas-palyazati-felhivas-nemet-szakiranyu-fordito-es-tolmacs-szakosok-szamara)
-Erasmus+ hallgatói mobilitás pályázati felhívás Közegészségügyi szolgáltatások és politikák szakosok számára (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok/bip-palyazati-felhivasok/erasmus-hallgatoi-mobilitas-palyazati-felhivas-kozegeszsegugyi-szolgaltatasok-es-politikak-szakosok-szamara)
-Erasmus+ hallgatói mobilitás pályázati felhívás Fordító és tolmács szakosok számára (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok/bip-palyazati-felhivasok/erasmus-hallgatoi-mobilitas-palyazati-felhivas-fordito-es-tolmacs-szakosok-szamara)
-Erasmus+ hallgatói mobilitás kommunikáció szakosok számára (BIP) (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok/bip-palyazati-felhivasok/erasmus-hallgatoi-mobilitas-kommunikacio-szakosok-szamara-bip)
-A Sapientia EMTE Marosvásárhelyi és Csíkszeredai Kara pályázatot hirdet Kommunikáció és közkapcsolatok szakos, Kommunikáció és PR szakos, valamint Kommunikáció és közkapcsolatok mesterképzés szakos hallgatók számára az Európai Unió Erasmus+ Programjának támogatásával rövid vegyes tanulmányi mobilitáson való részvételre vegyes intenzív program (BIP) keretében.
-Erasmus+ mobilitás pályázati felhívás vegyes intenzív programban (BIP) részt vevő hallgatói csoportot kísérő oktatók és adminisztratív munkatársak számára a 2023-2024-es tanévben (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-mobilitas-palyazati-felhivas-vegyes-intenziv-programban-bip-reszt-vevo-hallgatoi-csoportot-kisero-oktatok-es-adminisztrativ-munkatarsak-szamara-a-2023-2024-e)
+Csíkszeredai Kar: Bors Hortenzia
+Kolozsvári Kar: Sipos Ottilia
+Marosvásárhelyi Kar: Biblia Csilla
+Sepsiszentgyörgyi Kar: Csibi Márta
+Központi szervezeti egységek: Páll Zita
+Kolozsvár, 2025. május 07.
+# Vegyes intenzív programok (BIP)
+ERASMUS+ HALLGATÓI MOBILITÁS PÁLYÁZATI FELHÍVÁS TANÁRKÉPZÉSBEN IS RÉSZT VEVŐK SAJÁT HALLGATÓK SZÁMÁRA: Rövid vegyes tanulmányi mobilitáson való részvétel vegyes intenzív program (BIP) keretében (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-hallgatoi-mobilitas-palyazati-felhivas-tanarkepzesben-is-reszt-vevok-sajat-hallgatok-szamara-rovid-vegyes-tanulmanyi-mobilitason-valo-reszvetel-vegyes-intenziv-program-bip-kereteben)
+Erasmus+ mobilitás pályázati felhívás: BIP keretében, vagy BIP-hez nem kapcsolódóan rövid vegyes mobilitást teljesítő hallgatói csoportot kísérő munkatársak számára a 2025/2026-os tanévben (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-mobilitas-palyazati-felhivas-bip-kereteben-vagy-bip-hez-nem-kapcsolodoan-rovid-vegyes-mobilitast-teljesito-hallgatoi-csoportot-kisero-munkatarsak-szamara-a-20252026-os-tanevben)
+Erasmus+ mobilitás pályázati felhívás oktatók számára közreműködőként (trainer) való részvételre vegyes intenzív programokban (BIP) a 2025/2026-os tanévben (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-mobilitas-palyazati-felhivas-oktatok-szamara-kozremukodokent-trainer-valo-reszvetelre-vegyes-intenziv-programokban-bip-a-20252026-os-tanevben)
+Erasmus+ pályázati felhívás rövid vegyes intenzív programok (Blended intensive programmes, BIP) megszervezésére a 2025/2026-os tanévben (a 2024-es KA131 mobilitási projekt keretében) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-palyazati-felhivas-rovid-vegyes-intenziv-programok-blended-intensive-programmes-bip-megszervezesere-a-20252026-os-tanevben-a-2024-es-ka131-mobilitasi-projekt-kereteben)
+Erasmus+ mobilitás pályázati felhívás oktatók számára közreműködőként (trainer) való részvételre vegyes intenzív programokban (BIP) a 2024-2025-ös tanévben (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-mobilitas-palyazati-felhivas-oktatok-szamara-kozremukodokent-trainer-valo-reszvetelre-vegyes-intenziv-programokban-bip-a-2024-2025-os-tanevben)
+Erasmus+ mobilitás pályázati felhívás vegyes intenzív programban (BIP) részt vevő hallgatói csoportot kísérő oktatók és adminisztratív munkatársak számára a 2024-2025-ös tanévben (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-mobilitas-palyazati-felhivas-vegyes-intenziv-programban-bip-reszt-vevo-hallgatoi-csoportot-kisero-oktatok-es-adminisztrativ-munkatarsak-szamara-a-2024-2025-os-tanevben)
+Erasmus+ pályázati felhívás rövid vegyes intenzív programok (Blended intensive programmes, BIP) megszervezésére a 2024-2025-ös tanévben (a 2023-as KA131 mobilitási projekt keretében) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-palyazati-felhivas-rovid-vegyes-intenziv-programok-blended-intensive-programmes-bip-megszervezesere-a-2024-2025-os-tanevben-a-2023-as-ka131-mobilitasi-projekt-kereteben)
+Erasmus+ mobilitás pályázati felhívás a Kolozsvári Kar oktatói számára (BIP, Gdansk) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-mobilitas-palyazati-felhivas-a-kolozsvari-kar-oktatoi-szamara-bip-gdansk)
+Erasmus+ mobilitás pályázati felhívás vegyes intenzív programban (BIP) részt vevő hallgatói csoportot kísérő oktatók és adminisztratív munkatársak számára a 2023-2024-es tanévben (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-mobilitas-palyazati-felhivas-vegyes-intenziv-programban-bip-reszt-vevo-hallgatoi-csoportot-kisero-oktatok-es-adminisztrativ-munkatarsak-szamara-a-2023-2024-es-tanevben)
 Erasmus+ mobilitás pályázati felhívás oktatók számára közreműködőként (trainer) való részvételre vegyes intenzív programokban (BIP) a 2023-2024-es tanévben (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-mobilitas-palyazati-felhivas-oktatok-szamara-kozremukodokent-trainer-valo-reszvetelre-vegyes-intenziv-programokban-bip-a-2023-2024-es-tanevben)
-Erasmus+ pályázati felhívás rövid vegyes intenzív programok (Blended intensive programmes, BIP) megszervezésére a 2023-2024-as tanévben (a 2022-es KA131 mobilitási projekt keretében (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-palyazati-felhivas-rovid-vegyes-intenziv-programok-blended-intensive-programmes-bip-megszervezesere-a-2023-2024-as-tanevben-a-2022-es-ka131-mobilitasi-projek)
-Erasmus+ hallgatói mobilitás pályázati felhívás (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/palyazati-felhivasok-hallgatok/bip-palyazati-felhivasok/erasmus-hallgatoi-mobilitas-palyazati-felhivas-gepeszmernoki-es-mechatronika-mernoki-szakosok-szamara-rovid-vegyes-tanulmanyi-mobilitason-valo-reszvetel-vegyes-intenziv-program-bip-kereteben)
-A Sapientia EMTE Marosvásárhelyi Kara pályázatot hirdet gépészmérnöki, valamint mechatronika mérnöki szakos hallgatók számára az Európai Unió Erasmus+ Programjának támogatásával rövid vegyes tanulmányi mobilitáson való részvételre vegyes intenzív program (BIP) keretében.
-# Meghívásos Erasmus+ hallgatói mobilitás pályázati felhívás rövid vegyes tanulmányi mobilitáson való részvétel vegyes intenzív program (BIP) keretében
-A Sapientia EMTE pályázatot hirdet hallgatók számára az Európai Unió Erasmus+ Programjának támogatásával rövid vegyes tanulmányi mobilitáson való részvételre a CYBERSECURITY IN PUBLIC SERVICE című vegyes intenzív program (BIP) keretében.
-Azok a hallgatók pályázhatnak, akiknek a Nemzeti Közszolgálati Egyetem elfogadta a jelentkezését, a lehetőséget a kari honlapokon hirdettük meg:
-Csíkszeredai Kar felhívása (https://csik.sapientia.ro/hu/hirek/-cybersecurity-bip-erasmus-felhivas-hallgatoknak).
-Kolozsvári Kar felhívása (https://kv.sapientia.ro/hu/hirek/cybersecurity-bip-erasmus-felhivas-hallgatoknak).
-Marosvásárhelyi Kar felhívása (https://ms.sapientia.ro/hu/hirek/cybersecurity-bip-erasmus-felhivas-hallgatoknak).
-##  1. A pályázat célja
-Azon hallgatók részvételének támogatása a Nemzeti Közszolgálati Egyetem (NKE) által szervezett CYBERSECURITY IN PUBLIC SERVICE vegyes intenzív programban, akik ezt a lehetőséget sikeresen megpályázták a NKE-nél.
-A részvétel formája: rövid vegyes mobilitás, amely virtuális komponenssel kiegészülő 5 napos fizikai mobilitásból áll, mindkét komponens teljesítése kötelező, azonban ösztöndíj csak a fizikai mobilitás periódusára jár.
-A BIP nyelve az angol, minimum B2-es nyelvtudást javasolnak a szervezők, a megszerezhető kreditek száma 3 ECTS kredit.
-A virtuális komponens periódusa: 2025. június 02-06.
-A fizikai mobilitás periódusa: 2025. május 26-30. (hétfő-péntek), ebbe az utazási napok nem számítanak bele.
-A fizikai mobilitás fogadó intézménye: Nemzeti Közszolgálati Egyetem, Államtudományi és Nemzetközi Tanulmányok Kar (Faculty of Public Governance and International Studies), Budapest, Magyarország.
-Utazás: egyénileg vagy csoportos szervezésben történik, a részleteket az illetékes kari Erasmus+ koordinátorral kell egyeztetni.
-Szállás, étkezés: egyéni szervezésben (kollégiumot nem tud biztosítani a szervező, hanem Airbnb vagy más lehetőséget javasol felkutatni a közeli Corvin-negyedben).
-## 2. A pályázattal elnyerhető ösztöndíj
-A résztvevők a fizikai mobilitás ideje alatt Erasmus+ ösztöndíjban részesülnek a 2023-as KA131 mobilitási projektből.
+Erasmus+ pályázati felhívás rövid vegyes intenzív programok (Blended intensive programmes, BIP) megszervezésére a 2023-2024-es tanévben (a 2022-es KA131 mobilitási projekt keretében) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-palyazati-felhivas-rovid-vegyes-intenziv-programok-blended-intensive-programmes-bip-megszervezesere-a-2023-2024-as-tanevben-a-2022-es-ka131-mobilitasi-projekt-kereteben)
+Erasmus+ pályázati felhívás oktatók számára közreműködőként (trainer) való részvételre vegyes intenzív programokban (Blended intensive programmes, BIP) a 2022-2023-as tanévben (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-palyazati-felhivas-oktatok-szamara-kozremukodokent-trainer-valo-reszvetelre-vegyes-intenziv-programokban-blended-intensive-programmes-bip-a-2022-2023-as-tanevben)
+Erasmus+ pályázati felhívás oktatók és adminisztratív munkatársak számára hallgatói csoport kísérőjeként való részvételre vegyes intenzív programokban (Blended intensive programmes, BIP) a 2022-2023-as tanévben (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-palyazati-felhivas-oktatok-es-adminisztrativ-munkatarsak-szamara-hallgatoi-csoport-kiserojekent-valo-reszvetelre-vegyes-intenziv-programokban-blended-intensive-programmes-bip-a-2022-2023-as-tanevben)
+Erasmus+ pályázati felhívás vegyes intenzív programok (Blended intensive programmes, BIP) megszervezésére a 2022-2023-as tanévben (a 2021-es KA131 mobilitási projekt keretében) (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vegyes-intenziv-programok-bip/erasmus-palyazati-felhivas-vegyes-intenziv-programok-blended-intensive-programmes-bip-megszervezesere-a-2022-2023-as-tanevben-a-2021-es-ka131-mobilitasi-projekt-kereteben)
+# ERASMUS+ HALLGATÓI MOBILITÁS PÁLYÁZATI FELHÍVÁS TANÁRKÉPZÉSBEN IS RÉSZT VEVŐK SAJÁT HALLGATÓK SZÁMÁRA: Rövid vegyes tanulmányi mobilitáson való részvétel vegyes intenzív program (BIP) keretében
+2025. május 15.
+A Sapientia EMTE pályázatot hirdet *tanárképzésben is részt vevő saját hallgatói számára* az Európai Unió Erasmus+ Programjának támogatásával **rövid vegyes tanulmányi** **mobilitáson való részvételre vegyes intenzív program (BIP) keretében**.
+**1. A pályázat célja** a hallgatók részvételének támogatása az **Apor Vilmos Katolikus Főiskola** által szervezett vegyes intenzív programban, amelynek címe *A hely szelleme és a pedagógia (The spirit of the place and pedagogy)*.
+A BIP leírása [ITT](https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2025%20majus%20Apor%20Vilmos/A%20hely%20szelleme_BIP_2025_infosheet.pdf ) érhető el.
+*Megpályázható helyek száma*: **8** hallgatói hely (karonként 2 hely, a jelentkezések függvényében módosulhat).
+*A részvétel formája*: rövid vegyes mobilitás, amely virtuális komponenssel kiegészülő 6 napos fizikai mobilitásból áll, mindkét komponens teljesítése kötelező, azonban ösztöndíj csak a fizikai mobilitás periódusára jár.
+A BIP nyelve a **magyar**, a megszerezhető kreditek száma **3** ECTS kredit.
+A ***virtuális** (online) komponens* tartalma: elméleti felvezetés, pedagógia gyakorlatok, tevékenységi terv készítése korosztályok számára legalább 3 módszer alkalmazásával; időzítése: a fizikai mobilitás előtt, **2025. október 10-én pénteken.**
+A ***fizikai** mobilitás* periódusa: **2025. október 13-18**.
+(hétfő-szombat), 6 nap, ebbe az utazási napok nem számítanak bele.
+*A fizikai mobilitás fogadó intézménye*: **Apor Vilmos Katolikus Főiskola**, Hittudományi, Társadalomtudományi és Romológiai Tanszék, Vác.
+*Utazás*: egyéni vagy csoportos szervezésben történik, a részleteket az akadémiai kapcsolattartó tanárokkal, dr. Harangus Katalinnal, illetve dr. Tódor Imrével kell egyeztetniük a nyertes hallgatóknak.
+*Szállás*: kollégium elhelyezés 2x2 ágyas, illetve 3 vagy 4 ágyas szobákban, 10-15 EUR/fő/éj.
+*Étkezés*: a főiskola menzáján a menü ára kb. 5 EUR.
+**2.** **A pályázattal elnyerhető ösztöndíj**
+• A résztvevők a fizikai mobilitás ideje alatt Erasmus+ ösztöndíjban részesülnek a 2024-es KA131 mobilitási projektből.
 Az ösztöndíj folyósításának pénzneme az euró.
 Az ösztöndíj megélhetési támogatásból, és esetenként (kiegészítő) utazási támogatásból áll.
 A kiutazáskor kapott előleg mértéke 80%, a maradék összeg elszámolás után kerül utalásra.
-Megélhetési támogatás: 79 EUR/nap, azaz 5 napra összesen 395 EUR.
-Zöld utazás* esetén, hogyha indokolt és szükségessége bizonyított, akkor plusz egy napra jár megélhetési támogatás mindazoknak, akik nem jogosultak utazási támogatásra, hanem csak kiegészítő utazási támogatást (zöld utazási top-up) kapnak.
-Hátrányos helyzetű**, illetve roma származású*** résztvevők további, egyszeri 100 EUR kiegészítő megélhetési támogatásra (megélhetési top-up) jogosultak.
-Utazási támogatásra jogosultak a hátrányos helyzetű**, illetve roma származású*** hallgatók, a támogatás mértéke a távolság függvényében a Csíkszeredai Kar diákjai számára egyszeri 275 EUR, zöld utazás* esetén egyszeri 320 EUR, a Kolozsvári Kar és a Marosvásárhelyi Kar diákjai számára egyszeri 180 illetve 210 EUR.
-Kiegészítő utazási támogatásra (top-up) jogosultak mindazok, akiknek nem jár utazási támogatás, de zöld utazást* választanak, a top-up mértéke egyszeri 50 EUR, egyéni nyilatkozat alapján.
-Az utazás megtörténését minden esetben igazolni kell, akkor is, hogyha a résztvevő nem jogosult kiegészítő utazási támogatásra.
-További információk az EMTE hallgatói mobilitási szabályzat (https://sapientia.ro/content/Erasmus 2021-2027/Mindenfelek/5 melleklet - Erasmus hallgatoi szabalyzat_2022_mod.pdf).
-*Zöld utazás („green travel”): az az utazás, amely az utazás fő részéhez (tehát több, mint feléhez) alacsony károsanyag-kibocsátású közlekedési eszközöket – úgymint buszt, vonatot vagy közös autóhasználatot – vesz igénybe.
-**Hátrányos helyzetű hallgató: szociális ösztöndíjban részesülő, vagy a 6463/2023 sz. minisztériumi rendelet (https://www.edu.ro/sites/default/files/OM_6463_2023_0.pdf) felsorolt kritériumok szerint szociális ösztöndíjra jogosult hallgató.
-***Roma származású hallgató az, aki erről valamely törvényesen bejegyzett romániai roma szervezet által kiállított román nyelvű igazolást tud felmutatni.
-A hátrányos helyzetű és a roma származású pályázóktól a jogosultságra vonatkozó iratokat 2025. május 9. péntek délig várjuk, határidőn túl érkező iratokat nem áll módunkban figyelembe venni!
-A szükséges iratokról az illetékes kari Erasmus+ koordinátortól lehet felvilágosítást kérni.
-### Összefoglalva az ösztöndíj kategóriákat:
-*   **Résztvevő kategória: Nem hátrányos helyzetű, nem zöld utazást választó résztvevő**
-    *   Ösztöndíj: 395 EUR
-    *   Ösztöndíj összetevői: megélhetési támogatás: 79 EUR x 5 nap
-*   **Résztvevő kategória: Nem hátrányos helyzetű, zöld utazást választó résztvevő**
-    *   Ösztöndíj: 524 EUR
-    *   Ösztöndíj összetevői: megélhetési támogatás: 79 EUR x 5 nap; megélhetési támogatás 1 utazási napra (indokolt esetben): 79 EUR; zöld utazási top-up: 50 EUR
-*   **Résztvevő kategória: Hátrányos helyzetű ill. roma származású, nem zöld utazást választó résztvevő**
-    *   Ösztöndíj: 675 (KV, MV) vagy 770 (CS) EUR
-    *   Ösztöndíj összetevői: megélhetési támogatás: 79 EUR x 5 nap; megélhetési top-up:100 EUR; utazási támogatás: 180 vagy 275 EUR
-*   **Résztvevő kategória: Hátrányos helyzetű ill. roma származású, zöld utazást választó résztvevő**
-    *   Ösztöndíj: 705 (KV, MV) vagy 815 (CS) EUR
-    *   Ösztöndíj összetevői: megélhetési támogatás: 79 EUR x 5 nap; megélhetési top-up:100 EUR; zöld utazási támogatás: 210 vagy 320 EUR
+• *Megélhetési támogatás*: 79 EUR/nap, azaz 6 napra összesen 474 EUR.
+Zöld utazás\* esetén, hogyha indokoltsága bizonyított, akkor további maximum két napra kaphatnak megélhetési támogatást.
+Indokolt esetnek az tekinthető, amikor az utazás a mobilitási napoktól eltérő napo(ko)n valósul meg.
+A hátrányos helyzetű\*\* résztvevők további, egyszeri 100 EUR kiegészítő megélhetési támogatásra (megélhetési top-up) jogosultak.
+•*Utazási támogatás*: a küldő kar székhelye és a fogadó intézmény között egyirányú út távolsága alapján kerül kiszámításra az Európai Bizottság által előírt távolság-kalkulátorral, a támogatás mértéke egyszeri 211 vagy 309 EUR, zöld utazás\* esetén egyszeri 285 vagy 417 EUR.
+Az utazás megtörténését minden esetben igazolni kell, további információk az EMTE [hallgatói mobilitási szabályzat](https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/5%20melleklet%20-%20Erasmus%20hallgatoi%20szabalyzat_2022_mod.pdf )ában.
+\*Zöld utazás („green travel”): az az utazás, amely az utazás fő részéhez (tehát több, mint feléhez) alacsony károsanyag-kibocsátású közlekedési eszközöket – úgymint buszt, vonatot vagy közös autóhasználatot – vesz igénybe.
+\*\*Hátrányos helyzetű hallgató: aki a 6463/2023 sz. minisztériumi rendeletben (https://www.edu.ro/sites/default/files/OM_6463_2023_0.pdf ) felsorolt kritériumok szerint szociális ösztöndíjra volna jogosult, vagy megfelel az EMTE hallgatói mobilitási szabályzatának VI. sz. mellékletében foglalt feltételeknek (pl. első egyetemi hallgató a családban), amelyeknek rövid kivonata [ITT](https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2025%20majus%20Apor%20Vilmos/hatranyos%20helyzetuek.docx ) érhető el.
+**A hátrányos helyzetű pályázóktól a jogosultságra vonatkozó iratokat 2025. szeptember 23. kedd délig várjuk, határidőn túl érkező iratokat nem áll módunkban figyelembe venni**!
+A szükséges iratokról a kari Erasmus+ koordinátortól lehet felvilágosítást kérni.
+## Táblázat adatok:
+Résztvevő kategória: Nem hátrányos helyzetű, nem zöld utazást választó résztvevő
+Ösztöndíj: CS, SEPSI: 783 EUR; KV, MV: 685 EUR
+Ösztöndíj összetevői:
+- megélhetési támogatás 474 EUR (= 79 EUR x 6 nap)
+- utazási támogatás a Csíkszeredai Kar, valamint a Sepsiszentgyörgyi Kar diákjai számára: 309 EUR
+- utazási támogatás a Marosvásárhelyi Kar, valamint a Kolozsvári Kar diákjai számára: 211 EUR
+Résztvevő kategória: Nem hátrányos helyzetű, zöld utazást választó résztvevő
+Ösztöndíj: CS, SEPSI: 891 EUR + maximum további 2x79 EUR; KV, MV: 759 EUR + maximum további 2x79 EUR
+Ösztöndíj összetevői:
+- megélhetési támogatás 474 EUR (= 79 EUR x 6 nap)
+- utazási támogatás a Csíkszeredai Kar, valamint a Sepsiszentgyörgyi Kar diákjai számára: 417 EUR
+- utazási támogatás a Marosvásárhelyi Kar, valamint a Kolozsvári Kar diákjai számára: 285 EUR
+A **hátrányos helyzetű**\*\* résztvevők a karnak és az utazás módjának megfelelő fenti összegekhez képest **további, egyszeri 100 EUR** kiegészítő megélhetési támogatást (megélhetési top-up-ot) kapnak.
+***Speciális igényű*** hallgató az, akinek fizikai, mentális vagy egészségügyi állapota miatt a projektben/mobilitási tevékenységben való részvétele járulékos pénzügyi támogatás vagy egyéb támogatás nélkül nem lenne lehetséges.
+*Támogatás speciális igények esetén*: a fogyatékkal élő résztvevők kiegészítő támogatásban részesülhetnek a tényleges költségek alapján, az Erasmus+ program romániai lebonyolítását végző ügynökség külön jóváhagyásával, amennyiben csak kísérő segítségével tudnak mobilitásra utazni.
+Nyertes pályázat esetén azonnal jelezni szükséges az igénylést a kari Erasmus+ koordinátornál.
 Az Erasmus+ támogatás hozzájárul a mobilitás megvalósításához, de előfordulhat, hogy nem fedezi teljes egészében a kiutazás és a kint tartózkodás költségeit, ezért – esetenként – szükség lehet egyéni vagy más anyagi hozzájárulásra is.
 Megengedett bármely egyéb, nem Európai Uniós finanszírozási forrásból származó támogatás igénybevétele, és nyertes pályázat esetén nyilatkozni kell arról, hogy a pályázó a mobilitás ideje alatt nem részesül más uniós támogatásban.
-## 3. Általános pályázati feltételek
-Adott képzési ciklusban a hallgató összesített mobilitási időtartama nem haladhatja meg az Erasmus+ ösztöndíj-kalkulátorral számolt 12 hónapot, azaz 360 napot a megpályázott mobilitás időtartamával együtt (beleértve a zero grantos periódusokat is).
+**3. Általános pályázati feltételek**
+• Adott képzési ciklusban a hallgató összesített mobilitási időtartama **nem haladhatja meg** az Erasmus+ ösztöndíj-kalkulátorral számolt 12 hónapot, azaz 360 napot a megpályázott mobilitás időtartamával együtt (beleértve a zero grantos periódusokat is).
 Az Erasmus+ programon belül minden hónap egységesen 30 naposnak számít.
-Kizárólag azok a hallgatók pályázhatnak, akiknek a jelentkezését a szóban forgó BIP-re elfogadta a Nemzeti Közszolgálati Egyetem.
-A pályázó olyan hallgató lehet, aki:
-– aktív hallgatói jogviszonyban van a Sapientia EMTE-vel, vagyis a folyó tanévben beiratkozott, aktív félévre regisztrált a Neptun rendszerben és Tanulmányi szerződést kötött a szakkoordinátorral való egyeztetés szerint;
+**• Kizárólag azok a hallgatók pályázhatnak, akik a Sapientia EMTE alap- vagy mesterképzős hallgatói, és mellette jelenleg végzik a Sapienti EMTE által nyújtott pedagógia modult, valamint a 2025/26-os tanév első félévében is hallgatói jogviszonyban lesznek az EMTE-vel és az EMTE Tanárképző Intézetével**.
+• A pályázó olyan hallgató lehet, aki:
+– aktív hallgatói jogviszonyban van a Sapientia EMTE-vel, vagyis a folyó tanévben beiratkozott, aktív félévre regisztrált a Neptun rendszerben és Tanulmányi szerződést kötött a szakkoordinátorral való egyeztetés szerint, és nem utolsó éves ahhoz a szakhoz kötődően, amelynek kiegészítéseként végzi a pedagógiai modult;
 – román állampolgár vagy Romániában érvényes letelepedési, illetve tartózkodási engedéllyel rendelkezik;
-– legalább középfokú nyelvtudással rendelkezik angol nyelvből, és ezt igazolni is tudja (nyelvvizsga oklevéllel, saját Sapientiás nyelvtanár által kiállított igazolással, vagy ingyenes online OLS nyelvteszttel, amelynek hozzáférési adatait a kari Erasmus+ koordinátortól lehet igényelni);
-– nyilatkozza, hogy ismeri és elfogadja a Sapientia EMTE Erasmus+ hallgatói mobilitás és BIP szabályzatát, amelyek elérhetők az egyetem honlapján ezen a helyen (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/dokumentumok-szabalyzatok).
-Nem pályázhat:
-– a 2024/25-ös tanévben újra beiratkozott hallgató;
-– az a hallgató, aki valamely korábbi, azonos ciklusban megvalósított Erasmus+ mobilitása alatt nem teljesítette az előírt kreditszámot vagy más szerződéses kötelezettségét.
-Aki a megpályázott mobilitás fizikai részével egyidőben más Erasmus+ fizikai mobilitáson is részt vesz, az csak akkor mehet adott BIP-hez kapcsolódó rövid vegyes mobilitásra, hogyha a másik mobilitást a BIP fizikai tevékenységének idejére megszakítja.
-A kari Erasmus Bizottság pozitív döntése nem jelenti automatikusan az ösztöndíj folyósítását, ahhoz a támogatási szerződés megkötése szükséges.
-A mobilitás lebonyolítása a támogatási szerződés megkötésének pillanatában a finanszírozást biztosító projektre érvényes hallgatói Erasmus+ szabályzat (https://sapientia.ro/content/Erasmus 2021-2027/Mindenfelek/5 melleklet - Erasmus hallgatoi szabalyzat_2022_mod.pdf) szerint fog történni.
-Ha a pályázást követően vagy a támogatási szerződés megkötése után, annak érvényességi idején belül megszűnik a hallgatói jogviszony, akkor a pályázat, illetve a támogatási szerződés érvényét veszíti.
-## 4. A pályázat beküldésének módja
-A pályázati űrlap és nyilatkozatok kitöltése és benyújtása, valamint a szükséges kötelező és opcionális iratok csatolása kizárólag a Neptun webes felületén, a kérvény modulon keresztül történik.
-Ennek használatához segédlet a Neptun belépő felületén a Letölthető dokumentumok között található, címe NEPTUN_Kérvények_HWEB.pdf.
-A Neptun ETR-be azonosítóval (Neptun kód) történő belépést követően a Sapientia EMTE eljárásaiban feltételezi, hogy az azonosító tulajdonosa járt el, ugyanakkor nem vizsgálja a jelszó kiadásából származó panaszokat, kifogásokat.
-Kérjük a pályázat beküldésének folyamatában fokozottan figyelni az alábbiakra:
-– csak PDF csatolmány tölthető fel;
+– nyilatkozza, hogy ismeri és elfogadja a Sapientia EMTE Erasmus+ hallgatói mobilitás és BIP szabályzatát, amelyek elérhetők az egyetem honlapján [ezen a helyen](https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/dokumentumok-szabalyzatok );
+– eleget tesz a kari Erasmus bizottság által meghatározott egyéb pályázati követelményeknek.
+**• Nem pályázhat**:
+– a 2024/25-ös tanévben **újra beiratkozott hallgató;**– az a hallgató, aki valamely korábbi, azonos ciklusban megvalósított Erasmus+ mobilitása alatt **nem teljesítette** az előírt kreditszámot vagy más szerződéses kötelezettségét.
+• Aki a megpályázott mobilitás fizikai részével egyidőben más Erasmus+ fizikai mobilitáson is részt vesz, az csak akkor mehet adott BIP-hez kapcsolódó rövid vegyes mobilitásra, hogyha a másik mobilitást a BIP fizikai tevékenységének idejére megszakítja.
+• A kari Erasmus Bizottság pozitív döntése nem jelenti automatikusan az ösztöndíj folyósítását, ahhoz a támogatási szerződés megkötése szükséges.
+A mobilitás lebonyolítása **a támogatási szerződés megkötésének pillanatában a finanszírozást biztosító projektre érvényes** hallgatói Erasmus+ szabályzat szerint fog történni.
+**Támogatás szerződés kizárólag azzal a nyertes hallgatóval lesz köthető,** **aki a 2025/26-os tanévben is aktív hallgatói jogviszonyban lesz az EMTE-vel, és** **az EMTE Tanárképző Intézetével** **is, tehát végezni fogja a pedagógiai modult is****.**• Ha a pályázást követően a pályázó nem létesít hallgatói jogviszonyt a 2025/26-os tanévre nézve az EMTE-vel és az EMTE Tanárképző Intézetével, vagy a támogatási szerződés megkötése után, annak érvényességi idején belül megszűnik valamelyik vagy mindkét felsorolt hallgatói jogviszony, akkor a pályázat, illetve a támogatási szerződés érvényét veszíti.
+**4. A pályázat beküldésének módja**
+• A pályázati űrlap és nyilatkozatok kitöltése és benyújtása, valamint a szükséges kötelező és opcionális iratok csatolása **kizárólag** **a Neptun webes felületén**, a kérvény modulon keresztül történik.
+Ennek használatához segédlet a Neptun belépő felületén a Letölthető dokumentumok között található, címe **NEPTUN\_Kérvények\_HWEB.pdf.**• A Neptun ETR-be azonosítóval (Neptun kód) történő belépést követően a Sapientia EMTE eljárásaiban feltételezi, hogy az azonosító tulajdonosa járt el, ugyanakkor nem vizsgálja a jelszó kiadásából származó panaszokat, kifogásokat.
+• **Kérjük a pályázat beküldésének folyamatában fokozottan figyelni az alábbiakra:**– csak PDF csatolmány tölthető fel;
 – egy adott típusú melléklethez (pl. tudományos tevékenység) szükség esetén több PDF is feltölthető;
 – egy azonosítóval egy képzéshez kapcsolódóan csak egy pályázat küldhető be, ezért ha úgy gondolja, hogy a már beküldött pályázata javításra szorul, akkor pályázati határidőn belül kérje meg kari Erasmus+ koordinátorát, hogy küldje vissza javításra a pályázatot;
 – a pályázat (kérvény) kitöltését bármikor meg lehet szakítani a Kitöltés felfüggesztése gombbal, a kitöltés ezután bármikor folytatható;
@@ -5366,26 +4982,245 @@ Kérjük a pályázat beküldésének folyamatában fokozottan figyelni az aláb
 – elkészített, de be nem küldött pályázatokat nem fogunk figyelembe venni;
 – fontos a benyújtott pályázat (kérvény) státusának napi szintű követése a Neptun felületen, mivel hiányos vagy hibás pályázatok esetén a javításra visszaküldésről szóló határidős üzenetek kizárólag a Neptunban fognak megjelenni;
 – a Neptun felületén csak a beküldött pályázatnak a szakkoordinátor általi jóváhagyása, valamint a pályázat befogadása történik meg, az ún. döntés következtében megjelenő Elfogadva státus ezt jelzi; a pályázat tartalmáról szóló pontozás és döntéshozatal a Neptun felületén kívül történik, és a Kari Erasmus Bizottság végzi.
-## 5. A pályázat anyaga (a csatolmányok PDF-ben tölthetők fel):
-1. Pályázati űrlap (Fişa candidatului): kizárólag a Neptun webes felületén tölthető ki.
-2. Kötelező csatolmány: érvényes személyi igazolvány másolata; nem román állampolgárok esetén szükséges az érvényes tartózkodási/letelepedési engedély másolata is (Certificat de înregistrare).
-3. Kötelező csatolmány: Curriculum Vitae – angol nyelven, Europass modell (https://europa.eu/europass/eportfolio/screen/cv-editor?lang=en).
-4. Kötelező csatolmány: a jelentkezés elfogadását igazoló email másolata.
-5. Kötelező csatolmány: angol nyelvtudás igazolása (ez lehet: nyelvvizsga oklevél, saját Sapientiás nyelvtanár által kiállított magyar nyelvű igazolás arra nézve, hogy az adott hallgató angol nyelvtudása elegendő az adott BIP-ben való részvételre, vagy ingyenes online OLS nyelvteszt-igazolás, amelynek hozzáférési adatait a kari Erasmus+ koordinátortól lehet igényelni).
-6. Opcionális csatolmány: egyetemi tudományos és extrakurrikuláris tevékenységekre vonatkozó iratok, igazolások, oklevelek (pl. egyetemi tudományos tevékenység, TDK részvétel, publikációk – ez esetben az első és az utolsó oldalnak, valamint a megjelenés helyéül szolgáló kiadvány címlapjának másolata szükséges –, más szakmai tevékenység, társadalmi tevékenység).
+**5. A pályázat anyaga** (a csatolmányok PDF-ben tölthetők fel):
+1.
+*Pályázati űrlap (Fişa candidatului)*: kizárólag a Neptun webes felületén tölthető ki.
+2.
+*Kötelező csatolmány*: érvényes *személyi igazolvány* másolata; nem román állampolgárok esetén szükséges az érvényes tartózkodási/letelepedési engedély másolata is (Certificat de înregistrare).
+3.
+*Kötelező csatolmány*: *Curriculum Vitae* – magyar nyelven, Europass modell szerint ([https://europa.eu/europass/eportfolio/screen/cv-editor?lang=hu]).
+4.
+*Kötelező csatolmány: Motivációs levél* – max. 2000 leütés, magyar nyelven.
+5.
+*Opcionális csatolmány*: egyetemi tudományos és extrakurrikuláris tevékenységekre vonatkozó iratok, igazolások, oklevelek (pl. egyetemi tudományos tevékenység, TDK részvétel, publikációk – ez esetben az első és az utolsó oldalnak, valamint a megjelenés helyéül szolgáló kiadvány címlapjának másolata szükséges –, más szakmai tevékenység, társadalmi tevékenység).
 A Neptun csak akkor engedi a pályázat beküldését, hogyha minden kötelező csatolmány fel van töltve!
 A hiányzó iratok pótlására a javításra visszaküldésről szóló üzenetben megjelölt határidőn belül van lehetőség.
-A pályázatok beküldésének időszaka: 2025. április 11. péntek 12,00 órától – április 17. csütörtök déli 12,00 óráig.
-## 6. Bírálati szempontrendszer
-A pályázatokat a Kari Erasmus Bizottság bírálja el.
-A Csíkszeredai Kar bizottságának összetétele és pontozási kritériumai itt érhetők el (https://csik.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok).
-A Kolozsvári Kar bizottságának összetétele és pontozási kritériumai itt érhetők el (https://kv.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok).
-A Marosvásárhelyi Kar bizottságának összetétele és pontozási kritériumai itt érhetők el (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok).
-További információk az illetékes kari Erasmus+ koordinátortól igényelhetők:
-Csíkszeredai Kar: Bors Hortenzia, borshortenzia@uni.sapientia.ro (https://ms.sapientia.ro/el_remover_borshortenzia%3Ci%20class='fa%20fa-at'%3E%3C/i%3Euni.sapientia.ro).
-Kolozsvári Kar: Sipos Ottilia, erasmus@kv.sapientia.ro (https://ms.sapientia.ro/el_remover_erasmus%3Ci%20class='fa%20fa-at'%3E%3C/i%3Ekv.sapientia.ro).
-Marosvásárhelyi Kar: Biblia Csilla, sapierasmus@ms.sapientia.ro (https://ms.sapientia.ro/el_remover_sapierasmus%3Ci%20class='fa%20fa-at'%3E%3C/i%3Ems.sapientia.ro).
-Kolozsvár, 2025. április 09.
+A helyek elfoglalása a pályázatra kapott pontszámok csökkenő sorrendjében történik.
+**A pályázatok beküldésének időszaka: 2025. május 16. péntek déli 12,00 órától 2025. május 27. kedd déli 12,00 óráig.**
+**6. Bírálati szempontrendszer**
+A pályázatokat a Kari Erasmus Bizottság bírálja el, amelynek összetétele és a pontozási kritériumok megtalálhatók a kari honlapokon:
+Csíkszeredai Kar: [ITT](https://csik.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok )
+Kolozsvári Kar: [ITT](https://kv.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok )
+Marosvásárhelyi Kar: [ITT](https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok )
+Sepsiszentgyörgyi Kar: [ITT](https://sepsi.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok )
+A kari Erasmus+ koordinátorok elérhetőségei:
+Csíkszeredai Kar: Bors Hortenzia, [borshortenzia@uni.sapientia.ro]
+Kolozsvári Kar: Sipos Ottilia, [erasmus@kv.sapientia.ro]
+Marosvásárhelyi Kar: Biblia Csilla, [sapierasmus@ms.sapientia.ro]
+Sepsiszentgyörgyi Kar: Csibi Márta, [erasmus@uni.sapientia.ro]
+További információk az akadémiai kapcsolattartó tanártokól, dr. Harangus Katalintól [katalin@ms.sapientia.ro], illetve dr. Tódor Imrétől igényelhetők [todorimre@uni.sapientia.ro]
+Kolozsvár, 2025. május 14.
+# Erasmus+ mobilitás pályázati felhívás: BIP keretében, vagy BIP-hez nem kapcsolódóan rövid vegyes mobilitást teljesítő hallgatói csoportot kísérő munkatársak számára a 2025/2026-os tanévben
+2025. május 13.
+**SAPIENTIA – 12 ÉVE AZ ERASMUS+ PROGRAMBAN!**
+**I. A pályázat célja:** lehetőség biztosítása az EMTE **oktatói**, valamint **nem oktatói munkakörben dolgozó munkatársai** számára olyan Erasmus+ mobilitásra, amelyet **vegyes intenzív program** (Blended intensive programme, BIP) **keretében**, vagy **BIP-hez nem kapcsolódóan** rövid (5-30 napos) vegyes fizikai mobilitást teljesítő hallgatói csoport **kísérőjeként** valósíthatnak meg.
+BIP keretében megvalósuló hallgatói mobilitásokhoz kapcsolódóan elsősorban azon oktatók mobilitása támogatott, akik akadémiai kapcsolattartó személyek az adott BIP vonatkozásában.
+A kísérői jellegű részvétel külföldön megvalósuló **fizikai mobilitásként** teljesíthető: *BIP esetében* Erasmus+ oktatási mobilitás (STA) vagy munkatársak képzési mobilitása (STT) formájában; *BIP-hez nem kapcsolódó* rövid vegyes tanulmányi vagy szakmai gyakorlat mobilitáson részt vevő hallgatói csoportok kísérte képzési célú (STT) mobilitás keretében lehetséges.
+A mobilitások az EMTE munkatársainak mobilitási szabályzatában (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/9%20melleklet%20-%20Erasmus_ST_szabalyzat_2021_2027_modositas.pdf), valamint BIP-szabályzatában (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/6%20melleklet%20-%20%20Erasmus%20BIP%20szabalyzat_2022_mod.pdf) leírt módon teljesíthetők.
+**II. Ösztöndíj:** A résztvevők a mobilitás ideje alatt Erasmus+ ösztöndíjban részesülnek a 2024-es (illetve 2026. július 31. után véget érő mobilitás esetén a 2025-ös) KA131 mobilitási projektből, amely *megélhetési támogatást* és *útiköltség támogatást* foglal magába.
+*Megélhetési támogatás* a fizikai mobilitási napokra adható, mértéke a fogadó országtól függ:
+Ország: Ausztria, Belgium, Dánia, Finnország, Franciaország, Németország, Írország, Izland, Olaszország, Liechtenstein, Luxemburg, Norvégia, Svédország, Hollandia A programhoz nem társult harmadik országok 1-14 régió, EUR / nap: 190
+Ország: Csehország, Ciprus, Észtország, Görögország, Lettország, Málta, Portugália, Szlovákia, Szlovénia, Spanyolország, EUR / nap: 170
+Ország: Bulgária, Horvátország, Litvánia, Észak-Macedónia, Lengyelország, Szerbia, Törökország, Magyarország, EUR / nap: 148
+Az *útiköltség támogatás* egyszeri összeg, amely az EMTE székhelye (Kolozsvár) és a fogadó intézmény közötti egyirányú útnak az Európai Bizottság által kijelölt távolságkalkulátorral mért távolsága alapján kerül kiszámításra:
+Távolság (a kalkulátor alapján): 100-499 km, Zöld utazás („green travel”): 285 EUR/fő, Nem zöld utazás („non-green travel”): 211 EUR/fő
+Távolság (a kalkulátor alapján): 500-1999 km, Zöld utazás („green travel”): 417 EUR/fő, Nem zöld utazás („non-green travel”): 309 EUR/fő
+Távolság (a kalkulátor alapján): 2000-2999 km, Zöld utazás („green travel”): 535 EUR/fő, Nem zöld utazás („non-green travel”): 395 EUR/fő
+Távolság (a kalkulátor alapján): 3000-3999 km, Zöld utazás („green travel”): 785 EUR/fő, Nem zöld utazás („non-green travel”): 580 EUR/fő
+Az Erasmus+ támogatás hozzájárul a mobilitás megvalósításához, de **előfordulhat, hogy nem fedezi teljes egészében** a kiutazás és a külföldi tartózkodás költségeit, ezért – esetenként – szükség lehet egyéni vagy más anyagi hozzájárulásra is.
+Megengedett bármely egyéb, nem Európai Uniós finanszírozási forrásból származó támogatás igénybevétele, és nyertes pályázat esetén nyilatkozni kell arról, hogy a pályázó a mobilitás ideje alatt nem részesül más uniós támogatásban.
+**III. A kísérői jellegű ST mobilitás megvalósítása**
+**1. A mobilitás megvalósításának periódusa**: jelen pályázati felhívás keretében **2025. szeptember 15. – 2026. szeptember 13. periódusban megvalósuló kísérői jellegű oktatási (STA) vagy képzési (STT) mobilitásra** lehet pályázni.
+**2.** Adott munkatárs **tanévente maximum két Erasmus+ mobilitáson** vehet részt rövid vegyes Erasmus+ mobilitást teljesítő hallgatói csoportok **kísérőjeként** (vegyes intenzív programok (BIP-ek) keretében, vagy azokon kívül), **és/vagy tanulóként vagy közreműködőként** vegyes intenzív programok (BIP-ek) keretében.
+**3.** Azon oktató részvétele, aki egy hallgatók számára szervezett BIP-ben akadémiai kapcsolattartó személy, és a BIP keretében nem vesz részt oktatási tevékenységben közreműködőként, viszont **elkísérné az EMTE-n pályázati úton mobilitást nyert hallgatói csoportot** a fizikai tevékenységre, egyszerű vagy képzési komponenssel kombinált oktatási mobilitás (STA), vagy képzési mobilitás (STT) formájában támogatható, a fogadó intézménnyel történt megegyezés szerint.
+**4.** *BIP-hez nem kapcsolódó* rövid vegyes tanulmányi vagy szakmai gyakorlat mobilitáson részt vevő hallgatói csoportok kísérete képzési célú mobilitás (STT) keretében lehetséges, és megpályázható bármely, a pályázati feltételeknek megfelelő munkatárs részéről.
+**5**. A kísérői jellegű ST mobilitás időtartama igazodik a kísért hallgatói csoport fizikai mobilitásának időtartamához, amely minimum 5 nap.
+**A mobilitás periódusába az utazási napok nem számítanak** **bele**.
+Öt napnál hosszabb mobilitás esetén az Egyetemi Erasmus Bizottság korlátot állapíthat meg a támogatott napok számának tekintetében, a rendelkezésre álló keretek függvényében.
+**6.** Bármely Erasmus+ mobilitás érvényességének feltétele a személyes jelenlét a fogadó országban, intézményben.
+A mobilitás lebonyolítása a támogatási szerződés megkötésének pillanatában a támogatást biztosító mobilitási projektre érvényes Erasmus+ mobilitási szabályzat szerint fog történni.
+**7.** Az oktatási mobilitás (STA) formájában megvalósuló kísérői jellegű mobilitásra is a hagyományos STA mobilitás feltételei érvényesek, azaz az oktatási órák száma 5-7 napos fizikai mobilitás esetén minimum 8 óra, és ha a mobilitás periódusa hosszabb, mint egy hét, akkor a töredék munkahétre számolt minimális oktatási óraszámnak arányban kell lennie az előírt *8 óra/5 munkanap* oktatási óraszámmal.
+Azonban hogyha a mobilitás kombinált, azaz magába foglal egy képzési komponenst is, akkor az előírt minimális oktatási óraszám az előzőekben feltüntetettnek a fele (*4 óra/5 munkanap*).
+**IV. A pályázás feltételei**
+**1.** Az EMTE BIP-szabályzatának (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/6%20melleklet%20-%20%20Erasmus%20BIP%20szabalyzat_2022_mod.pdf) és a munkatársak mobilitási szabályzatának (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/9%20melleklet%20-%20Erasmus_ST_szabalyzat_2021_2027_modositas.pdf) értelmében:
+- BIP esetében 2-5 főből álló hallgatói csoportot **egy oktató kísérhet**, 6 vagy ennél több főből álló hallgatói csoportot maximum **két oktató kísérhet** „kísérői” mobilitás keretében; a 6 fős vagy ennél nagyobb hallgatói csoport **második kísérője indokolt esetben lehet adminisztratív munkatárs is**, akinek a részvétele képzési mobilitás (STT) formájában támogatható;
+- BIP-en kívüli rövid vegyes mobilitást teljesítő hallgatói csoportok esetében 2-5 főből álló hallgatói csoportot **egy munkatárs** (oktató, segédtanszemélyzet, adminisztratív személyzet) kísérhet, 6 vagy ennél több főből álló hallgatói csoportot **maximum két munkatárs** kísérhet.
+**2.** Csak az a fogadóintézmény pályázható, ahol a kapcsolódó hallgatói csoport fizikai mobilitása megvalósul .
+Ugyanakkor nem lehet pályázatot benyújtani Romániában vagy a pályázó állandó lakhelye szerinti országban lévő intézményben megvalósuló mobilitási tevékenységre.
+**3.** Oktatási mobilitás (STA) kizárólag olyan külföldi partnerintézményben teljesíthető, amellyel az EMTE-nek oktatási mobilitásra is érvényes Erasmus+ intézményközi egyezménye van az adott szakterületre a mobilitás megkezdésekor, ezért megfelelő intézményközi egyezmény hiányában azzal a feltétellel hagyható jóvá a pályázat, hogy az érintett oktató közbenjárásával a mobilitás megkezdése előtt létrejön a szükséges megállapodás.
+**4.** Kísérői jellegű Erasmus+ **oktatási mobilitásra** (STA) pályázatot nyújthat be a Sapientia EMTE román állampolgárságú vagy Romániában érvényes letelepedési, illetve tartózkodási engedéllyel rendelkező főállású (azaz határozatlan időre kötött munkaszerződéssel alkalmazott), vagy teljes állást betöltő, meghatározott időre kötött munkaszerződéssel alkalmazott társult oktatója.
+Nyertes pályázat esetén támogatási szerződés kizárólag **aktív** munkaszerződéssel rendelkező oktatóval köthető.
+**5.** Kísérői jellegű Erasmus+ **képzési mobilitásra** (STT) pályázatot nyújthat be:
+– a Sapientia EMTE azon oktatója, aki megfelel a jelen felhívás IV.4. pontjában leírt feltételeknek;
+– a Sapientia EMTE román állampolgárságú, vagy Romániában érvényes letelepedési, illetve tartózkodási engedéllyel rendelkező, főállású (azaz határozatlan időre szóló munkaszerződéssel foglalkoztatott), vagy teljes állást betöltő, meghatározott időre kötött munkaszerződéssel alkalmazott segédtanszemélyzete („personal didactic auxiliar”) vagy gazdasági-adminisztratív munkatársa („personal administrativ”).
+Nyertes pályázat esetén támogatási szerződés kizárólag **aktív** munkaszerződéssel rendelkező alkalmazottal köthető.
+**6.** A pályázónak a programban való részvételhez megfelelő nyelvtudással kell rendelkeznie.
+**V. Pályázati dokumentumok**
+A pályázatot elektronikusan kérjük elkészíteni, és nyomtatott formában, a szükséges aláírásokkal ellátva, egy eredetei példányban kell benyújtani az illetékes Erasmus+ koordinátornak, **minimum 45 nappal a fizikai mobilitás kezdete előtt**.
+A pályázati dossziénak a következő dokumentumokat kell tartalmaznia:
+**1****.** **Kitöltött, a szükséges aláírásokkal ellátott pályázati űrlap** (I. sz. melléklet).
+Minden pályázó esetében elengedhetetlen a dékáni jóváhagyás, oktatók esetében kell a tanszékvezető jóváhagyása is.
+Tanszékvezető pályázónak is fel kell tüntetnie saját nevét a megfelelő helyen, de csak a dékántól szükséges jóváhagyás az űrlapjára.
+**2.** **BIP esetében annak leírása és programja**, amelyet a vegyes intenzív programot koordináló intézmény állít össze (szükséges a kapcsolódó hallgatói csoport résztvevőinek kiválasztását szolgáló pályázati felhíváshoz is).
+**3****.****Angol nyelven kitöltött, a pályázó, a dékán (központi egységek esetében az illetékes felettes) és a fogadó intézmény által aláírt *Erasmus+ Mobility Agreement*** *– Staff Mobility for Teaching/Training* (mobilitási egyezmény, munkaterv, II.a vagy II.b sz. melléklet).
+Az egyezményt aláíratás előtt az illetékes kari Erasmus koordinátor segítségével kell véglegesíteni, formai hibás egyezmény nem fogadható el!
+**A pályázati felhívás mellékletei** innen tölthetők le:
+I. sz. melléklet: Pályázati űrlap – kísérői jellegű STA/STT mobilitás, 2025/2026 (KA131) (https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2025%20majus/I_Palyazati_Urlap_ST_kiseroi_2025_26.doc);
+II.a. sz. melléklet: Erasmus+ Mobility Agreement – Staff Mobility for Teaching (STA munkaterv) (https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2025%20majus/II.a_STA_MA_BIP_kiseroi_2025_26.docx);
+II.b. sz. melléklet: Erasmus+ Mobility Agreement – Staff Mobility for Training (STT munkaterv) (https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2025%20majus/II.b_STT_MA_BIP_kiseroi_2025_26.docx).
+**A pályázati feltételeknek nem megfelelő pályázatokat nem fogadunk el.**
+**VI. Bírálati szempontrendszer**
+A pályázatokat az Egyetemi Erasmus Bizottság (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/honlapra_EEB_20250306.pdf) bírálja el, a pályázati dosszié teljessége alapján, a pályázó által az adott tanévre korábban benyújtott nyertes Erasmus+ kísérői, BIP-tanuló és BIP-közreműködő jellegű ST mobilitási pályázatok számának figyelembe vételével, a kísérni szándékozott hallgatói csoport létszámának megfelelően.
+Előnyt élveznek azok a pályázók, aki kapcsolattartó személyek az EMTE részéről az adott BIP-ben, és/vagy hozzájárulnak a hallgatói csoport megszervezéséhez.
+A kísérői jellegű ST mobilitásokra vonatkozó pályázati döntések meghozatala csak a kapcsolódó *hallgatói csoportra vonatkozó kari szintű pályázati döntés meghozatala után* esedékes!
+**VII. A pályázatok benyújtásának időszaka:** a 2025/2026-os tanévben **folyamatos, minimum 45 nappal a mobilitás kezdete előtt.**
+**Jelentkezni** az illetékes Erasmus+ koordinátornál lehet:
+Csíkszeredai Kar: Bors Hortenzia, borshortenzia@uni.sapientia.ro
+Kolozsvári Kar: Sipos Ottilia, kv.erasmus@kv.sapientia.ro
+Marosvásárhelyi Kar: Biblia Csilla, sapierasmus@ms.sapientia.ro
+Sepsiszentgyörgyi Kar: Csibi Márta, sepsi.erasmus@uni.sapientia.ro
+Tanárképző Intézet: Páll Zita, erasmus@sapientia.ro
+További információk az intézményi Erasmus+ koordinátortól igényelhetők: Páll Zita, erasmus@sapientia.ro
+Kolozsvár, 2025. május 07.
+# Erasmus+ mobilitás pályázati felhívás oktatók számára közreműködőként (trainer) való részvételre vegyes intenzív programokban (BIP) a 2025/2026-os tanévben
+2025. május 13.
+SAPIENTIA – 12 ÉVE AZ ERASMUS+ PROGRAMBAN!
+I. A pályázat célja: lehetőség biztosítása az EMTE oktatói számára közreműködőként (trainer) való részvételre az Erasmus+ program keretében megvalósuló vegyes intenzív programban (Blended intensive programme, BIP).
+Azon oktatók részvétele támogatott, akik meghívást kapnak valamely partner által szervezett BIP keretében oktatási tevékenység végzésére.
+A trainer jellegű részvétel külföldi fizikai mobilitásként valósítható meg, Erasmus+ oktatási mobilitás (STA) formájában, amely lehet vegyes (blended, azaz virtuális komponenssel kiegészített fizikai mobilitás), vagy hagyományos.
+A mobilitások az EMTE munkatársainak mobilitási szabályzatában (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/9%20melleklet%20-%20Erasmus_ST_szabalyzat_2021_2027_modositas.pdf), valamint BIP-szabályzatában (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/6%20melleklet%20-%20%20Erasmus%20BIP%20szabalyzat_2022_mod.pdf) leírt módon teljesíthetők.
+II. Ösztöndíj: A résztvevők a mobilitás ideje alatt Erasmus+ ösztöndíjban részesülnek a 2024-es (illetve 2026. július 31. után véget érő mobilitás esetén a 2025-ös) KA131 mobilitási projektből, amely megélhetési támogatást és útiköltség támogatást foglal magába.
+Megélhetési támogatás a fizikai mobilitási napokra adható, mértéke a fogadó országtól függ:
+Ország: Ausztria, Belgium, Dánia, Finnország, Franciaország, Németország, Írország, Izland, Olaszország, Liechtenstein, Luxemburg, Norvégia, Svédország, Hollandia A programhoz nem társult harmadik országok 1-14 régió - EUR / nap: 190
+Ország: Csehország, Ciprus, Észtország, Görögország, Lettország, Málta, Portugália, Szlovákia, Szlovénia, Spanyolország - EUR / nap: 170
+Ország: Bulgária, Horvátország, Litvánia, Észak-Macedónia, Lengyelország, Szerbia, Törökország, Magyarország - EUR / nap: 148
+Az útiköltség támogatás egyszeri összeg, amely az EMTE székhelye (Kolozsvár) és a fogadó intézmény közötti egyirányú útnak az Európai Bizottság által kijelölt távolságkalkulátorral mért távolsága alapján kerül kiszámításra:
+Távolság (a kalkulátor alapján): 100-499 km - Zöld utazás („green travel”): 285 EUR/fő - Nem zöld utazás („non-green travel”): 211 EUR/fő
+Távolság (a kalkulátor alapján): 500-1999 km - Zöld utazás („green travel”): 417 EUR/fő - Nem zöld utazás („non-green travel”): 309 EUR/fő
+Távolság (a kalkulátor alapján): 2000-2999 km - Zöld utazás („green travel”): 535 EUR/fő - Nem zöld utazás („non-green travel”): 395 EUR/fő
+Távolság (a kalkulátor alapján): 3000-3999 km - Zöld utazás („green travel”): 785 EUR/fő - Nem zöld utazás („non-green travel”): 580 EUR/fő
+Az Erasmus+ támogatás hozzájárul a mobilitás megvalósításához, de előfordulhat, hogy nem fedezi teljes egészében a kiutazás és a külföldi tartózkodás költségeit, ezért – esetenként – szükség lehet egyéni vagy más anyagi hozzájárulásra is.
+Megengedett bármely egyéb, nem Európai Uniós finanszírozási forrásból származó támogatás igénybevétele, és nyertes pályázat esetén nyilatkozni kell arról, hogy a pályázó a mobilitás ideje alatt nem részesül más uniós támogatásban.
+III. A közreműködő (trainer) jellegű oktatási mobilitás megvalósítása
+1. A mobilitás megvalósításának periódusa: jelen pályázati felhívás keretében 2025. szeptember 15. – 2026. szeptember 13. periódusban megvalósuló közreműködő (trainer) jellegű oktatási mobilitásra lehet pályázni.
+2. Adott munkatárs tanévente maximum két Erasmus+ mobilitáson vehet részt rövid vegyes Erasmus+ mobilitást teljesítő hallgatói csoportok kísérőjeként (vegyes intenzív programok (BIP-ek) keretében, vagy azokon kívül), és/vagy tanulóként vagy közreműködőként vegyes intenzív programok (BIP-ek) keretében.
+3. A közreműködői mobilitás időtartama minimum két egymást követő nap, a meghívó szerint pályázható.
+A mobilitás periódusába az utazási napok nem számítanak bele.
+Öt napnál hosszabb mobilitás esetén az Egyetemi Erasmus Bizottság korlátot állapíthat meg a támogatott napok számának tekintetében, a rendelkezésre álló keretek függvényében.
+4. Bármely Erasmus+ fizikai mobilitás érvényességének feltétele a személyes jelenlét a fogadó országban, intézményben.
+A mobilitás lebonyolítása a támogatási szerződés megkötésének pillanatában a támogatást biztosító mobilitási projektre érvényes Erasmus+ mobilitási szabályzat szerint fog történni.
+5. A közreműködői jellegű oktatási (STA) mobilitásra is a hagyományos STA mobilitás feltételei érvényesek, azaz az oktatási órák száma 5-7 napos fizikai mobilitás esetén minimum 8 óra, és ha a mobilitás periódusa hosszabb, mint egy hét, akkor a töredék munkahétre számolt minimális oktatási óraszámnak arányban kell lennie az előírt 8 óra/5 munkanap oktatási óraszámmal.
+6. Egy adott BIP keretében trainerként részt vevő oktató kísérői szerepet is betölthet, de ebben az esetben párhuzamosan nem pályázhat kísérői mobilitásra is.
+IV. A pályázás feltételei
+1. Oktatási mobilitás (STA) kizárólag olyan külföldi partnerintézményben teljesíthető, amellyel az EMTE-nek oktatási mobilitást is magába foglaló érvényes Erasmus+ intézményközi egyezménye van az adott szakterületre a mobilitás megkezdésekor, ezért megfelelő intézményközi egyezmény hiányában azzal a feltétellel hagyható jóvá a pályázat, hogy az érintett oktató közbenjárásával a mobilitás megkezdése előtt létrejön a szükséges megállapodás.
+2. Közreműködői (trainer) jellegű Erasmus+ oktatási mobilitásra (STA) pályázatot nyújthat be a Sapientia EMTE román állampolgárságú vagy Romániában érvényes letelepedési, illetve tartózkodási engedéllyel rendelkező főállású (azaz határozatlan időre kötött munkaszerződéssel alkalmazott), vagy teljes állást betöltő, meghatározott időre kötött munkaszerződéssel alkalmazott társult oktatója.
+Nyertes pályázat esetén támogatási szerződés kizárólag aktív munkaszerződéssel rendelkező oktatóval köthető.
+3. A pályázónak a programban való részvételhez megfelelő nyelvtudással kell rendelkeznie.
+4. Csak az a fogadóintézmény pályázható, ahol a BIP fizikai része megvalósul a BIP leírása szerint.
+Ugyanakkor nem lehet pályázatot benyújtani Romániában vagy a pályázó állandó lakhelye szerinti országban lévő intézményben megvalósuló mobilitási tevékenységre.
+V. Pályázati dokumentumok
+A pályázatot elektronikusan kérjük elkészíteni, és nyomtatott formában, a szükséges aláírásokkal ellátva, egy eredeti példányban kell benyújtani az illetékes Erasmus+ koordinátornak, minimum 45 nappal a mobilitás kezdete előtt.
+A pályázati dossziénak a következő dokumentumokat kell tartalmaznia:
+1. Kitöltött, a szükséges aláírásokkal ellátott pályázati űrlap (I. sz. melléklet).
+Tanszékvezető pályázónak is fel kell tüntetnie saját nevét a megfelelő helyen, de csak a dékántól szükséges jóváhagyás az űrlapjára.
+2. A BIP leírása, amelyet a vegyes intenzív programot koordináló intézmény állít össze.
+3. Angol nyelven kitöltött, a pályázó, a dékán (központi egységek esetében az illetékes felettes) és a fogadó intézmény által aláírt Erasmus+ Mobility Agreement – Staff Mobility for Teaching (mobilitási egyezmény, munkaterv, II. sz. melléklet).
+Az egyezményt aláíratás előtt az illetékes kari Erasmus koordinátor segítségével kell véglegesíteni, formai hibás egyezmény nem fogadható el!
+A pályázati felhívás mellékletei innen tölthetők le:
+I. sz. melléklet: Pályázati űrlap – BIP közreműködő (trainer) STA mobilitás, 2025/2026 (KA131, STA) (https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2025%20majus/I_Palyazati_Urlap_BIP_STA_trainer_2025_26.doc)
+II. sz. melléklet: Erasmus+ Mobility Agreement – Staff Mobility for Teaching (STA munkaterv) (https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2025%20majus/II_STA_MA_BIP_trainer_2025_26.docx)
+A pályázati feltételeknek nem megfelelő, vagy határidő után érkező pályázatokat nem fogadunk el.
+VI. Bírálati szempontrendszer
+A pályázatokat az Egyetemi Erasmus Bizottság (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/honlapra_EEB_20250306.pdf) bírálja el, a pályázati dosszié teljessége alapján, a pályázó által az adott tanévre korábban benyújtott nyertes Erasmus+ kísérői, BIP-tanuló és BIP-közreműködő mobilitási pályázatok számának figyelembe vételével.
+VII. A pályázatok benyújtásának időszaka: a 2025/2026-os tanévben folyamatos, minimum 45 nappal a mobilitás kezdete előtt.
+Jelentkezni az illetékes Erasmus+ koordinátornál lehet:
+Csíkszeredai Kar: Bors Hortenzia, borshortenzia@uni.sapientia.ro (mailto:borshortenzia@uni.sapientia.ro)
+Kolozsvári Kar: Sipos Ottilia, kv.erasmus@kv.sapientia.ro (mailto:kv.erasmus@kv.sapientia.ro)
+Marosvásárhelyi Kar: Biblia Csilla, sapierasmus@ms.sapientia.ro (mailto:sapierasmus@ms.sapientia.ro)
+Sepsiszentgyörgyi Kar: Csibi Márta, sepsi.erasmus@uni.sapientia.ro (mailto:sepsi.erasmus@uni.sapientia.ro)
+Tanárképző Intézet: Páll Zita, erasmus@sapientia.ro (mailto:erasmus@sapientia.ro)
+További információk az intézményi Erasmus+ koordinátortól igényelhetők: Páll Zita, erasmus@sapientia.ro (mailto:erasmus@sapientia.ro)
+Kolozsvár, 2025. május 07.
+# Erasmus+ pályázati felhívás rövid vegyes intenzív programok (Blended intensive programmes, BIP) megszervezésére a 2025/2026-os tanévben (a 2024-es KA131 mobilitási projekt keretében)
+2025. május 13.
+**SAPIENTIA – 12 ÉVE AZ ERASMUS+ PROGRAMBAN!**
+**I. A pályázat célja:** **lehetőség biztosítása tanszékek és a Tanárképző Intézet számára rövid *vegyes intenzív programok*** (intenzív kurzusok) **kidolgozására és megvalósítására** külföldi felsőoktatási partnerintézményekkel együtt létrehozott BIP-partnerségek keretében, az Európai Unió Erasmus+ programjának támogatásával.
+A BIP-nek hozzáadott értéket kell teremtenie a részt vevő felsőoktatási intézmények által kínált meglévő kurzusokhoz vagy képzésekhez képest, ugyanakkor a megvalósításnak innovatívnak kell lennie az oktatási és tanulási módozatok tekintetében, kihasználva a digitális lehetőségeket.
+Jelen pályázati felhívás keretében **hat** darab,  **2026. július 27-el bezárólag megvalósuló** vegyes intenzív program (BIP) szervezési támogatása nyerhető el:
+– **négy** olyan BIP szervezése pályázható, amelynek esetében **minimum 10, maximum 14 incoming tanuló** (learner) részvétele szükséges, a támogatás értéke 4000 EUR/BIP;
+– további **két** olyan BIP szervezése pályázható, amelynek esetében **minimum 15, maximum 19 incoming tanuló** (learner) részvétele szükséges, a támogatás értéke 6000 EUR/BIP.
+A megnyert BIP szervezési támogatása a nyertes kart/tanszéket/intézetet illeti, az adott BIP költségvetése szerint.
+A támogatás kizárólag akkor jár, hogyha a nyertes egység érvényes BIP-et szervez, amely minimum 10 illetve 15 tanuló (*learner*) incoming mobilitását vonzza be.
+BIP szervezhető hallgatók számára, vagy pedig felsőoktatási munkatársak (oktatók és/vagy adminisztratív munkatársak) számára, a minimális létszámba beleszámító incoming mobilitásokat mindig a küldő intézmény fizeti saját KA131 mobilitási keretéből.
+**II. A *vegyes intenzív programok* rövid leírása**
+A BIP-partnerségben **legalább 3, Erasmus Felsőoktatási Chartával (ECHE) rendelkező felsőoktatási intézménynek** kell részt vennie (az EMTE-t beleértve), **legalább 3 különböző uniós tagállamból és a programhoz társult harmadik országból** (ez utóbbiak: Észak-Macedónia, Izland, Liechtenstein, Norvégia, Szerbia, Törökország).
+A rövid vegyes intenzív tanulási, oktatási és képzési programok vagy csak hallgatók, vagy csak oktatók és/vagy adminisztratív munkatársak csoportjainak szervezhetők.
+Ők a BIP szempontjából a *tanulók (learners)*, akik az intenzív programban egy *virtuális* komponenssel kiegészített rövid vegyes *fizikai mobilitás* (5-30 nap) formájában vesznek részt.
+A *virtuális tevékenység* időtartamát az Erasmus+ program nem írja elő, a tanulóknak a virtuális elem segítségével online módon közösen és egyidőben kell dolgozniuk olyan konkrét feladatokon, amelyek a BIP részét képezik, és beleszámítanak az adott program leírásában foglalt átfogó tanulási eredményekbe (*learning outcomes*).
+A virtuális komponens elősegíti a kollaboratív online tanulást/csapatmunkát, időzítése: a fizikai mobilitás előtt, után, vagy előtt és után.
+A BIP-ben részt vevő hallgatóknak – akár *incoming tanulók*, akár saját hallgatók – **kötelezően minimum 3 ECTS kreditet** kell kapniuk a virtuális és fizikai komponensek teljesítése esetén.
+Jelen pályázat keretében nyertes BIP-projektek koordináló intézménye a Sapientia EMTE, fogadó egysége a nyertes BIP fizikai komponensének helyszínét biztosító kar vagy az általa kijelölt külföldi fogadó partner intézmény.
+A *BIP szervezési támogatás*ra való jogosultsághoz az adott vegyes intenzív program fogadó intézményének, azaz jelen esetben az EMTE nyertes egységének legalább **10 illetve 15, Erasmus+ mobilitási tevékenységben részt vevő incoming *tanulót (learner)* kell bevonnia** (hallgatók tanulmányi vagy munkatársak képzési mobilitásának formájában) a BIP-partnerség ECHE-vel rendelkező felsőoktatási intézményeiből, akiknek mobilitásai a küldő intézmények KA131-es projektjeiből kerülnek támogatásra.
+Hogyha a Sapientia EMTE a BIP fogadó egysége, akkor a Sapientia saját diákjai és munkatársai nem számítanak bele a minimumkövetelménybe, a legkevesebb 10 illetve 15 *tanuló*nak ECHE-vel rendelkező külföldi felsőoktatási partnerintézményekből kell érkeznie!
+Minden BIP-nek rendelkeznie kell egy EMTE-n belüli **szakmai koordinátor**ral, aki összehangolja és átfogja a szervezési és kivitelezési tevékenységeket, és kapcsolatot tart úgy a partnerekkel, mint az illetékes kari és az intézményi Erasmus+ koordinátorral.
+A BIP szakmai koordinátora honoráriumot kaphat a BIP szervezési támogatásból.
+A vegyes intenzív programok **bővebb leírása** *A Sapientia EMTE Erasmus+ Vegyes intenzív programok szabályzata (Blended intensive programmes, BIP, 2021-2027-es projektek)* c. szabályzat II., III. és V. fejeztében található, amely elérhető az EMTE honlapján [ITT](https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/6%20melleklet%20-%20%20Erasmus%20BIP%20szabalyzat_2022_mod.pdf ).
+**III. A pályázás feltételei**
+BIP megszervezésére pályázatot nyújthat be *szakmai koordinátori* minőségben az EMTE bármely oktatási vagy adminisztratív munkakörben alkalmazott munkatársa, akit ebben az illetékes tanszék/intézet vezetője és a BIP fizikai komponensének helyszínét biztosító kar dékánja támogat.
+A pályázati folyamat előtt a szakmai koordinátornak ellenőriznie kell, hogy:
+– a tervezett BIP-partnerség potenciális tagjainak van-e lehetőségük saját mobilitási keretükből adott számú *tanuló* résztvevőt küldeni 5 napos fizikai mobilitásra\*;
+a pályázati csomag részét képező BIP-leírásban csak azok a partnerintézmények tüntethetők fel, akikkel megtörtént ez az egyeztetés, és van lehetőségük saját mobilitási keretükből támogatott tanulókkal részt venni a programban;
+– a tervezett BIP-partnerség tagjaival van-e az EMTE-nek Erasmus+ intézményközi egyezménye (*Inter-institutional Agreement*) legalább vegyes tanulmányi, valamint oktatási mobilitásokra az adott szakterület vonatkozásában;
+amennyiben nincs, akkor *nyertes BIP-projekt esetén* az intézményi Erasmus+ koordinátor közreműködésével az adott vegyes intenzív program indulásáig meg kell kötni a hiányzó egyezményeket, digitális kétoldalú vagy papír alapú többoldalú *intézményközi egyezmény* formájában.
+\*Napok száma: logisztikai és technikai okokból (pl. szállás, a partnerek mobilitási keretei) ajánlatos a minimális 5 napos fizikai mobilitásnál hosszabbat nem tervezni;
+tanulók száma: a külföldi partnereknek együtt biztosítanuk kell a min. 10 illetve 15 résztvevőt, megegyezés szerinti arányban.
+**IV. Pályázati dokumentumok**
+A pályázatot elektronikusan kérjük elkészíteni, és nyomtatott formában, a szükséges aláírásokkal ellátva, egy eredeti példányban kell benyújtani a kari Erasmus+ koordinátornak.
+*A pályázatot a BIP szakmai koordinátora nyújtja be,* a tanszék/intézetvezető és a helyszínt biztosító kar dékánjának jóváhagyásával.
+A **pályázati csomagnak tartalmaznia kell** a következőket:
+**1. A BIP leírásának tervezete (programterv) a BIP nyelvén**, a tanszék/intézet vezetőjének és a helyszín szerint illetékes dékánnak a jóváhagyásával.
+A leírásnak magába kell foglalnia minimum a következőket: a BIP célcsoportját, célkitűzéseit, szakmai részének leírását (fizikai és virtuális komponensekre bontva, beleértve az időtartamot/periódust is), a BIP nyelvét és helyszínét, hallgatóknak szervezett BIP esetében a kreditszámot, tudományterületet, képzési ciklust is, tanulási eredményeket (*learning outcomes*), az incoming tanuló résztvevők létszámát (legkevesebb 10 illetve 15 fő), a BIP-be bevonni tervezett partnerintézményeket (minimum 2, ők küldik a *tanuló*kat).
+Formailag jelen felhívás I. sz. mellékletében található nyomtatványminta használata ajánlatos, amely azonban igény szerint alakítható, bővíthető.
+**2. A BIP megszervezésében részt vevő szervezeti egységek és kollégák** listája, valamint a BIP kivitelezését megvalósító közreműködő (*trainer*) oktatók, szakemberek felsorolása (feltüntetve a küldő intézményt és annak országát is) – a szakmai koordinátor aláírásával, a tanszék/intézet vezetőjének láttamozásával és a helyszín szerint illetékes dékán jóváhagyásával.
+**3. Költségvetés-tervezet** – a szakmai koordinátor aláírásával, a tanszék/intézet vezetőjének láttamozásával és a helyszín szerint illetékes dékán jóváhagyásával.
+A BIP szervezési támogatás a BIP megtervezésével, előkészítésével, megvalósításával és utókövetésével kapcsolatos kiadások fedezésére használható fel.
+**Ajánlatos arra törekedni, hogy a BIP külföldi közreműködői** (a külföldi trainerek) saját intézményük által fizetett Erasmus+ oktatási mobilitás keretében érkezzenek.
+**Incoming Erasmus+ mobilitás keretében érkező *tanulók, trainerek* számára tilos BIP szervezési támogatásból ideutazást és hazautazást, valamint szállást és étkezést fizetni, mert ez kettős finanszírozásnak minősül!**
+A költségvetés-tervezetnek magába kell foglalnia:
+– a kötelező egyetemi hozzájárulást (10%),
+– valamint az alábbi költségeket (ha felmerülnek, a bruttót kérjük feltüntetni):
+– honoráriumok azon közreműködő (trainer) oktatók, szakemberek számára, akik esetében a részvétel nem oldható meg incoming oktatási mobilitásként, beleértve a saját oktatóinkat is;
+– esetenként a szakmai koordinátor tiszteletdíja;
+– azon trainerek utazása, szállása, étkezése, akik nem incoming mobilitás keretében érkeznek;
+– catering azon résztvevők számára, akik nem incoming mobilitás keretében érkeznek (pl. saját diákok, tanárok, Romániából érkező trainer szakemberek);
+– esetenként fotós tiszteletdíja;
+– esetenként grafikus, PR-os tiszteletdíja (pl. poszter-tervezés és kivitelezés);
+– esetenként tolmács, idegenvezető városnézéshez/kiránduláshoz;
+– bérleti díjak (tételesen felsorolni, pl. terembérlés, eszközbérlés, kiránduláshoz autóbusz);
+– kari költségek (pl. fogyóanyag, névkitűzők csíptethető vagy nyakba akasztható változatban, Sapientiás PR anyag résztvevőknek);
+– egyéb szükséges szolgáltatások, belépti díjak (pl. múzeum), felmerülő költségek (tételesen felsorolni).
+A támogatás felhasználható oktatási anyagok létrehozására, kirándulások és terepgyakorlat megszervezésére is.
+Az EMTE mint koordináló és fogadó intézmény *megszervezheti* a BIP-résztvevők (tanulók, trainerek, kísérők) egészének vagy egy részének elszállásolását, étkeztetését, helyi szállítását, kulturális és egyéb tevékenységeit, és kérheti tőlük ezen szolgáltatások ellenértékét, azonban nem teheti kötelezővé ezen szolgáltatások igénybevételét, és nem kérhet tandíjat BIP-ben való részvételért.
+A költségvetés tervezéséhez segítséget nyújt *A Sapientia EMTE Erasmus+ Vegyes intenzív programok szabályzata (Blended intensive programmes, BIP, 2021-2027-es projektek)* c. szabályzat II., III. és V. fejezete, a szabályzat elérhető az EMTE honlapján **[ITT](https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/6%20melleklet%20-%20%20Erasmus%20BIP%20szabalyzat_2022_mod.pdf ).**
+• **A pályázati felhívás melléklete** innen tölthető le:
+I. sz. melléklet: [Projekttervezet vegyes intenzív program (BIP) megvalósítására az Erasmus+ programon belül a 2025/2026-os tanévben / Project draft for implementing a Blended Intensive Programme (BIP) within the Erasmus+ Programme, 2025/2026](https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2025%20majus/I%20BIP%20projekttervezet%2025_26.docx )
+A pályázati feltételeknek nem megfelelő, vagy határidő után érkező pályázatokat nem fogadunk el.
+A Sapientia EMTE fenntartja a jogot, hogy 6-nál több nyertes pályázat esetében a 2025-ös KA131 mobilitási projekt terhére is hirdessen nyertes(eke)t, érkezési sorrendben.
+**V. Bírálati szempontrendszer**
+Az elbírálás során alkalmazott kritériumokat jelen felhívás [II. sz. melléklete](https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2025%20majus/II%20BIP%20ertekeles%2025_26.pdf ) tartalmazza.
+**VI. A pályázatok folyamatosan benyújthatók 2026. április 30. csütörtökkel bezárólag, minimum 60 nappal a BIP kezdete előtt.**
+**A pályázati dossziét** az illetékes Erasmus+ koordinátornál lehet benyújtani:
+Csíkszeredai Kar: Bors Hortenzia, borshortenzia@uni.sapientia.ro
+Kolozsvári Kar: Sipos Ottilia, kv.erasmus@kv.sapientia.ro
+Marosvásárhelyi Kar: Biblia Csilla, sapierasmus@ms.sapientia.ro
+Sepsiszentgyörgyi Kar: Csibi Márta, sepsi.erasmus@uni.sapientia.ro
+Tanárképző Intézet: Páll Zita, erasmus@sapientia.ro
+További információkat az intézményi Erasmus+ koordinátortól lehet igényelni: Páll Zita, erasmus@sapientia.ro
+Kolozsvár, 2025. május 07.
+Dokumentum linkek:
+A Sapientia EMTE Erasmus+ Vegyes intenzív programok szabályzata (Blended intensive programmes, BIP, 2021-2027-es projektek) (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/6%20melleklet%20-%20%20Erasmus%20BIP%20szabalyzat_2022_mod.pdf)
+I. sz. melléklet: Projekttervezet vegyes intenzív program (BIP) megvalósítására az Erasmus+ programon belül a 2025/2026-os tanévben / Project draft for implementing a Blended Intensive Programme (BIP) within the Erasmus+ Programme, 2025/2026 (https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2025%20majus/I%20BIP%20projekttervezet%2025_26.docx)
+II. sz. melléklete (https://sapientia.ro/content/Erasmus%202021-2027/BIP%20felhivasok/2025%20majus/II%20BIP%20ertekeles%2025_26.pdf)
 # Erasmus+ kiutazó diákok (beszámolók)
 Rövid szakmai gyakorlatok (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/rovid-szakmai-gyakorlatok)
 Szakmai gyakorlat mobilitás 2024 nyara (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/szakmai-gyakorlat-mobilitas-2024-nyara)
@@ -5406,13 +5241,6 @@ Szakmai gyakorlat mobilitás 2017 nyara (https://ms.sapientia.ro/hu/nemzetkozi-k
 Tanulmányi mobilitás 2016/2017-es tanév (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/tanulmanyi-mobilitas-20162017-es-tanev)
 Szakmai gyakorlat mobilitás 2016. nyara (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/szakmai-gyakorlat-mobilitas-2016-nyara)
 Tanulmányi Mobilitás 2015/2016-os tanév (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/tanulmanyi-mobilitas-20152016-os-tanev)
-# Rövid szakmai gyakorlatok
-Nagy Nikoletta 2024/2025/I Bad Kissingen (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/rovid-szakmai-gyakorlatok/nagy-nikoletta)
-Péter Anita 2024/2025/I Bad Kissingen (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/rovid-szakmai-gyakorlatok/peter-anita)
-Papp Péter 2024/2025/I Bad Kissingen (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/rovid-szakmai-gyakorlatok/papp-peter__)
-Markus Emese-Erika 2024/2025/I Bad Kissingen (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/rovid-szakmai-gyakorlatok/markus-emese-erika)
-Bartha Örs Csaba 2024/2025/I Bad Kissingen (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/rovid-szakmai-gyakorlatok/bartha-ors-csaba)
-Asztalos Vivien-Katalin 2024/2025/I Bad Kissingen (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-kiutazo-diakok-beszamolok/rovid-szakmai-gyakorlatok/asztalos-vivien-katalin)
 # BIP mobilitások (beszámolók)
 Act on Sustainability 2023/2024/II Miskolc (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/bip-mobilitasok-2022-2023/act-on-sustainability)
 Circularity of Regional Fashion - textile meetup 2023/2024/II Budapest (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/bip-mobilitasok-2022-2023/circularity-of-regional-fashion-textile-meetup)
@@ -5421,7 +5249,7 @@ JvNU tool design 2022/2023/I Kecskemét (https://ms.sapientia.ro/hu/nemzetkozi-k
 A Sapientia EMTE felsőoktatási partnerintézményei az ERASMUS+ mobilitási programban:
 Andrássy Universität Budapest (https://www.andrassyuni.eu/)
 Biznesa Augstskola Turiba (Turiba University) (http://turiba.lv/en/)
-Buda pesti Corvinus Egyetem (Corvinus University of Budapest) (http://www.uni-corvinus.hu)
+Budapesti Corvinus Egyetem (Corvinus University of Budapest) (http://www.uni-corvinus.hu)
 Budapesti Gazdasági Egyetem (Budapest Business School) (https://www.uni-bge.hu/)
 Budapesti Metropolitan Egyetem (Budapest Metropolitan University) (http://www.metropolitan.hu/)
 Budapesti Műszaki és Gazdaságtudományi Egyetem (BME, Budapest University of Technology and Economics) (https://www.bme.hu/)
@@ -5450,7 +5278,7 @@ Nyíregyházi Egyetem (College of Nyíregyháza) (http://www.nye.hu/)
 Pannon Egyetem (University of Pannonia) (http://www.uni-pannon.hu/)
 Pécsi Tudományegyetem (University of Pécs) (http://pte.hu/)
 Ruhr-Universität Bochum (https://www.rub.de/)
-Sapienza Universita di Roma (https://www.uniroma1.it/it/pagina-strutturale/home)
+Sapienza Universita di Roma (https://www.uniroma1.it/it/pagina-struttural/home)
 Selye János Egyetem (Univerzita J. Selyeho) (http://ujs.sk/hu)
 Semmelweis Egyetem (Semmelweis University) (http://semmelweis.hu/)
 Soproni Egyetem (University of Sopron) (http://uni-sopron.hu/kezdolap)
@@ -5458,7 +5286,7 @@ Szegedi Tudományegyetem (University of Szeged) (http://www2.u-szeged.hu/erasmus
 Szent István Egyetem (Szent István University) (http://sziu.hu/)
 Széchenyi István Egyetem (Széchenyi István University) (http://uni.sze.hu/kezdolap)
 SZFE Színház- és Filmművészeti Egyetem (University of Theatre and Film Arts Budapest) (http://szfe.hu/)
-Technische Universitat Dortmund (http://www.tu-dortmund.de/uni/International/University/)
+TU Technische Universitat Dortmund (http://www.tu-dortmund.de/uni/International/University/)
 Universidade Portucalense (http://www.upt.pt/)
 Universidade de Vigo (https://uvigo.gal/)
 Universita degli Studi di Salerno (https://www.unisa.it/)
@@ -5470,7 +5298,7 @@ Uniwersytet Rzeszowski (University of Rzeszów) (http://www.ur.edu.pl/en)
 Vilnius Gediminas Technical University (https://www.vgtu.lt/index.php?lang=2)
 Wesley János Lelkészképző Főiskola (http://www.wesley.hu/)
 II. Rákóczi Ferenc Kárpátaljai Magyar Főiskola (Ferenc Rakoczi II. Transcarpathian Hungarian College of Higher Education) (http://kmf.uz.ua/hu/)
-### Partner intézmények:
+Partner intézmények:
 Egyetem neve: Budapest University of Technology and Economics(Műszaki és Gazdaságtudományi Egyetem)
 Célország: HU
 Hallgató-szám: SMS 1 SMP 2
@@ -5487,7 +5315,7 @@ Egyetem neve: University of Debrecen (Debreceni Egyetem)
 Célország: HU
 Hallgató-szám: 2
 Hónapok száma (összesen hallgató*hó): 10
-Szakterület: 032 - Jounalism and information
+Szakterület: 032 - Journalism and information
 képzési szint: alapképzés, mesteri
 Egyetem neve: University of Debrecen (Debreceni Egyetem)
 Célország: HU
@@ -5511,7 +5339,7 @@ Egyetem neve: University of Debrecen (Debreceni Egyetem)
 Célország: HU
 Hallgató-szám: 2
 Hónapok száma (összesen hallgató*hó): 10
-Szakterület: 061 - Information and communication techologies (Computer science)
+Szakterület: 061 - Information and communication technologies (Computer science)
 képzési szint: alapképzés, mesteri
 Egyetem neve: University of Debrecen (Debreceni Egyetem)
 Célország: HU
@@ -5524,7 +5352,7 @@ Célország: HU
 Hallgató-szám: 2
 Hónapok száma (összesen hallgató*hó): 10
 Szakterület: 061 - Informatics, Computer Science
-képzési szint: alapképzés, mesateri
+képzési szint: alapképzés, mesteri
 Egyetem neve: Eötvös Loránd University (Eötvös Loránd Tudományegyetem)
 Célország: HU
 Hallgató-szám: 1
@@ -5535,13 +5363,13 @@ Egyetem neve: Eötvös Loránd University (Eötvös Loránd Tudományegyetem)
 Célország: HU
 Hallgató-szám: 1
 Hónapok száma (összesen hallgató*hó): 5
-Szakterület: 032 - Jurnalism and Information, 0321 - Jurnalism and reporting
+Szakterület: 032 - Journalism and Information, 0321 - Journalism and reporting
 képzési szint: alapképzés
 Egyetem neve: Eszterházy Károly University(Eszterházy Károly Főiskola)
 Célország: HU
 Hallgató-szám: 1
 Hónapok száma (összesen hallgató*hó): 5
-Szakterület: 032 - Jurnalism and Information
+Szakterület: 032 - Journalism and Information
 képzési szint: alapképzés, mesteri
 Egyetem neve: Institut National des Sciences Appliquées de Lyon
 Célország: F
@@ -5553,7 +5381,7 @@ Egyetem neve: Károli Gáspár University of The Refomed Church In Hungary (Kár
 Célország: HU
 Hallgató-szám: 1
 Hónapok száma (összesen hallgató*hó): 5
-Szakterület: 313 - Psychology
+Szakterület: 0313 - Psychology
 képzési szint: alapképzés
 Egyetem neve: University of Miskolc (Miskolci Egyetem)
 Célország: HU
@@ -5589,7 +5417,7 @@ Egyetem neve: University of Pannonia (Pannon Egyetem)
 Célország: HU
 Hallgató-szám: SMS 4 SMP 2
 Hónapok száma (összesen hallgató*hó): 20 4
-Szakterület: 710 - Engineering Technology
+Szakterület: 0710 - Engineering Technology
 képzési szint: alapképzés, mesteri
 Egyetem neve: University of Pannonia (Pannon Egyetem)
 Célország: HU
@@ -5601,7 +5429,7 @@ Egyetem neve: University of Pécs (Pécsi Tudományegyetem)
 Célország: HU
 Hallgató-szám: 1
 Hónapok száma (összesen hallgató*hó): 5
-Szakterület: 32 - Journalism and information, 321 - Journalism and reporting
+Szakterület: 032 - Journalism and information, 0321 - Journalism and reporting
 képzési szint: alapképzés, mesteri, doktori
 Egyetem neve: Semmelweis University (Semmelweis Egyetem)
 Célország: HU
@@ -5613,7 +5441,7 @@ Egyetem neve: Szegedi Tudományegyetem
 Célország: HU
 Hallgató-szám: 2
 Hónapok száma (összesen hallgató*hó): 12
-Szakterület: 061 - Information and communication techologies (szerződésben: Computer science)
+Szakterület: 061 - Information and communication technologies (szerződésben: Computer science)
 képzési szint: alapképzés, mesteri
 Egyetem neve: Szent István Egyetem, Gödöllő
 Célország: HU
@@ -5655,7 +5483,7 @@ Egyetem neve: Üsküdar University Istambul
 Célország: TR
 Hallgató-szám: 2
 Hónapok száma (összesen hallgató*hó): 12
-Szakterület: 061 - Information and communication techologies (szerződésben: Computer science)
+Szakterület: 061 - Information and communication technologies (szerződésben: Computer science)
 képzési szint: alapképzés
 Egyetem neve: Ruhr-Universität Bochum Germany
 Célország: D
@@ -5663,58 +5491,10 @@ Hallgató-szám: 2
 Hónapok száma (összesen hallgató*hó): 20
 Szakterület: 0715-Mechanics and metal trades
 képzési szint: alapképzés, mesteri
-SMS – Tanulmányi mobilitás SMP- Szakmai mobilitás
+SMS – Tanulmányi mobilitás.
+SMP - Szakmai mobilitás.
 # Erasmus+ Projektek
-“A Befogadó tanulási környezetek támogatása – stratégiák a gyermeket nevelő, családos hallgatók támogatására a felsőoktatásban” projekt (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-projektek/a-befogado-tanulasi-kornyezetek-tamogatasa-strategiak-a-gyermeket-nevelo-csalados-hallgatok-tamogatasara-a-felsooktatasban-projekt)
-## Dokumentumok, szabályzatok
-Erasmus+ Charta, Erasmus+ stratégia, dokumentumok, szabályzatok
-***NEW ERASMUS+***
-ERASMUS CHARTER FOR HIGHER EDUCATION 2021-2027 (ECHE 2021-2027) (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/dokumentumok/ECHE_Sapientia_ENG_2021_2027.pdf)
-ERASMUS FELSŐOKTATÁSI CHARTA 2021-2027 (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/dokumentumok/ECHE_Sapientia_HU_2021_2027.pdf)
-Sapientia Erasmus Policy Statement 2021-2027 (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/dokumentumok/Sapientia_EPS_2021_2027_home.pdf)
-Erasmus+ hallgatói mobilitási szabályzat, 2021-2027 projektek, módosított (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/5%20melleklet%20-%20Erasmus%20hallgatoi%20szabalyzat_2022_mod.pdf)
-Felsőoktatási munkatársak Erasmus+ mobilitási szabályzata a 2021–2027-es projektekre vonatkozóan, módosított (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/9%20melleklet%20-%20Erasmus_ST_szabalyzat_2021_2027_modositas.pdf)
-A Sapientia EMTE Erasmus+ Vegyes intenzív programok szabályzata (Blended intensive programmes, BIP, 2021-2027-es projektek), módosított (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/6%20melleklet%20-%20%20Erasmus%20BIP%20szabalyzat_2022_mod.pdf)
-Egyetemi Erasmus Bizottság 2025.03.06-tól (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/honlapra_EEB_20250306.pdf)
-Pontozási rendszer az Erasmus+ oktatási és képzési célú mobilitási pályázatok értékelésére vonatkozóan (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/VT_Erasmus_pontozas_EEB_2022_2023_jovahagyva.pdf)
-Erasmus Student Charter 2022 (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/Erasmus%20Student%20Charter%202022.pdf)
-Erasmus+ vis maior esetek kezelésének eljárása (2020) (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/dokumentumok/5%20melleklet%20-%20Erasmus%20vis%20maior%20eljaras.pdf)
-Beszámoló a 2022/2023-as tanév Erasmus+ mobilitási tevékenységéről (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/6%20melleklet%20--%20Erasmus_beszamolo%202022_2023_1.pdf)
-Beszámoló a 2023/2024-es tanév Erasmus+ mobilitási tevékenységéről (https://sapientia.ro/content/Erasmus%202021-2027/szenatusi%20beszamolok/7%20melleklet%20-%20Erasmus_beszamolo%202023_2024.pdf)
-***ERASMUS+***
-ERASMUS CHARTER FOR HIGHER EDUCATION 2014-2020 (ECHE 2014-2020) (https://sapientia.ro/content/2011-2021/international-relations/erasmus/ECHE%20-Sapientia%20EMTE.pdf)
-Sapientia Erasmus Policy Statement 2014-2020 (https://sapientia.ro/content/2011-2021/international-relations/erasmus/Policy%20Statement%20Sapientia%20EMTE.pdf)
-Erasmus+ Hallgatói Charta (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/dokumentumok/2019_erasmus-student-charter_ro.pdf)
-Erasmus+ hallgatói mobilitási szabályzat 2016-2020, módosított (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/dokumentumok/4%20melleklet%20-%20Erasmus%20hallgatoi%20szabalyzat_2020marc.pdf)
-Felsőoktatási munkatársak Erasmus+ mobilitási szabályzata 2016-2020, módosított (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/Erasmus_kiutazo_oktatok_es_szemelyzet/munkatarsak%20szabalyzat/5%20melleklet%20-%20Erasmus_ST_szabalyzat_modositott_2019.pdf)
-Beszámoló a 2021/2022-es tanév Erasmus+ mobilitási tevékenységéről (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/7.%20melleklet%20-%20Erasmus_beszamolo%202021_2022.pdf)
-Beszámoló a 2020/2021-es tanév Erasmus+ mobilitási tevékenységéről (http://www.sapientia.ro/data/nemzetkozi-kapcsolatok/erasmus/dokumentumok/5%20melleklet%20-%20Erasmus_beszamolo%202020_2021.pdf)
-Beszámoló a 2019/2020-as tanév Erasmus+ mobilitási tevékenységéről (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/dokumentumok/jo_4%20melleklet%20-%20Erasmus_beszamolo%202019_2020.pdf)
-Beszámoló a 2018/2019-es tanév Erasmus+ mobilitási tevékenységéről (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/dokumentumok/2.%20melleklet%20-%20Erasmus%2B%20beszamolo%202018%202019.pdf)
-Beszámoló a 2017/2018-as tanév Erasmus+ mobilitási tevékenységéről (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/dokumentumok/4%20melleklet-Erasmus%2B%20beszamolo%202017%202018.pdf)
-Jelentés a 2016/2017-es tanév Erasmus+ mobilitási tevékenységéről (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/dokumentumok/1.%20melleklet%20-%20Erasmus%2B%20beszamolo%202016%202017.pdf)
-Jelentés a 2015/2016 tanév Erasmus+ mobilitási tevékenységéről (https://sapientia.ro/content/2011-2021/erasmus/5.%20melleklet_Erasmus_beszamolo_2015_2016.pdf)
-Jelentés a 2014/2015 tanév Erasmus+ mobilitási tevékenységéről (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/5%20melleklet%20-%20Erasmus%20beszamolo%202015.doc)
-Erasmus+ Student Guidebook 2015-2016 (http://esn.org/studentguidebook?gclid=CM_43cKP6MsCFYcp0wodNacJ_A)
-Az Erasmus+ Iroda szervezési és működési szabályzata (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/Erasmus_kiutazo_diakok/2016%20marcius/4%20melleklet%20-%20Erasmus%2B%20Iroda%20szabalyzat%20HU.pdf)
-Strategia de internaţionalizare, modificat (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/dokumentumok/4.%20melleklet%20-%20strategia%20de%20internationalizare2019.pdf)
-***ERASMUS***
-Erasmus Extended University Charter 2013-2014 (https://sapientia.ro/content/2011-2021/hirek/erasmus-charter-sapientia.jpg)
-Sapientia Erasmus Policy Statement 2013-2014 (https://sapientia.ro/content/2011-2021/international-relations/erasmus/documents/policy-statement-2013.pdf)
-Erasmus hallgatói szabályzat 2013-2016 - régi (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/Erasmus_kiutazo_diakok/2016%20marcius/Erasmus-hallgatoi%20szabalyzat%202013_2016(1).pdf)
-Az oktatói és adminisztratív személyzet Erasmus mobilitási szabályzata 2013-2016 - régi (https://sapientia.ro/content/2011-2021/nemzetkozi-kapcsolatok/erasmus/Erasmus_kiutazo_diakok/2016%20marcius/5.%20melleklet%20-%20oktatoi%20adminisztrativ%20mobilitas%20szabalyzata.pdf)# Kapcsolat
-**Intézményi Erasmus+ koordinátor:**
-PÁLL Zita
-RO-400112 Cluj-Napoca
-Matei Corvin 4
-tel: +40 264 439 266 (int. 256)
-fax: +40 264 593 688
-e-mail: erasmus@sapientia.ro
-**Kari Erasmus+ koordinátorok:**
-* Csíkszeredai Kar: BORS Hortenzia (borshortenzia@uni.sapientia.ro)
-* Kolozsvári Kar: SIPOS Ottilia (kv.erasmus@kv.sapientia.ro)
-* Marosvásárhelyi Kar: BIBLIA Csilla (sapierasmus@ms.sapientia.ro)
-* Sepsiszentgyörgyi Kar: CSIBI Márta (sepsi.erasmus@uni.sapientia.ro)
+A Befogadó tanulási környezetek támogatása – stratégiák a gyermeket nevelő, családos hallgatók támogatására a felsőoktatásban projekt (https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/erasmus-projektek/a-befogado-tanulasi-kornyezetek-tamogatasa-strategiak-a-gyermeket-nevelo-csalados-hallgatok-tamogatasara-a-felsooktatasban-projekt)
 # Hasznos információk
 Kari Erasmus szabályzat (https://ms.sapientia.ro/data/Erasmus_kari_szabalyzat_mod_KT_2021okt12%20(2).pdf)
 Táblázat a jegyek átszámítására vonatkozóan (https://ms.sapientia.ro/data/dokumentumok/erasmus/Erdemjegy%20atszamitas.pdf)
@@ -5723,4 +5503,80 @@ Kari határozat (https://ms.sapientia.ro/data/dokumentumok/erasmus/Kari%20hataro
 Kari Erasmus Bizottság (https://ms.sapientia.ro/data/Kari%20Erasmus%20Bizottsag(1).pdf)
 Pontozási rendszer az Erasmus+ hallgatói mobilitási pályázatok értékelésére vonatkozóan (https://ms.sapientia.ro/content/docs/MS/Erasmus/biralati_szempontrendszer_uj2023.pdf)
 Pontozási rendszer az Erasmus+ oktatási és képzési célú mobilitási pályázatok értékelésére vonatkozóan (https://sapientia.ro/content/Erasmus%202021-2027/Mindenfelek/VT_Erasmus_pontozas_EEB_2022_2023_jovahagyva.pdf)
-Kari Erasmus Koordinátor: Biblia Csilla (sapierasmus@ms.sapientia.ro)
+Kari Erasmus Koordinátor: Biblia Csilla
+# Makovecz Program
+A Makovecz Hallgatói Ösztöndíjprogram teljes szemeszteres részképzéseket, valamint részképzős tanulmányutakat kínál a hallgatók számára más, határon túli magyar nyelvű felsőoktatási intézményekben.
+Az ösztöndíjból fedezhetők a megélhetési, a lakhatási, az egyszeri oda-vissza utazási és az utasbiztosítási költségek.
+Aktuális pályázati felhívás: 2024/25-ös tanév (https://sapientia.ro/hu/hirek/megjelent-a-makovecz-hallgatoi-osztondijprogram-202425-os-tanev-ii-felevere-szolo-felhivasa)
+Hallgatói beszámolók (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program/hallgatoi-beszamolok)
+Dokumentumok, formanyomtatványok (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program/dokumentumok-formanyomtatvanyok)
+Tárgylisták (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/targylistak)
+Partnerintézmények (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program/partnerintezmenyek)
+Korábbi felhívások (https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program/korabbi-felhivasok)
+# Partnerek
+### Külföldi felsőoktatási intézmények és kutatóintézetek
+Debreceni Egyetem (http://unideb.hu/)
+Budapesti Corvinus Egyetem (http://www.uni-corvinus.hu/index.php?id=474)
+Eszterházy Károly Egyetem (http://www.ektf.hu/)
+Pécsi Tudományegyetem (http://www.pte.hu/)
+Tokyio Institute of Technology (http://www.titech.ac.jp/)
+Eötvös Loránd Tudományegyetem (http://www.elte.hu/)
+Pázmány Péter Katolikus Egyetem (http://www.ppke.hu/)
+Neumann János Egyetem (http://www.kefo.hu/)
+Budapesti Műszaki és Gazdaságtudományi Egyetem (http://portal.bme.hu/default.aspx)
+Selye János Egyetem (http://www.selyeuni.sk/index.php?lang=hu)
+Nyíregyházi Egyetem (http://www.nyf.hu/)
+Old Dominion University (http://www.odu.edu/)
+Università degli Studi della Tuscia (http://www.unitus.it/)
+Simon Fraser University (http://www.sfu.ca/)
+Nyugat-magyarországi Egyetem (http://www.nyme.hu/)
+Miskolci Egyetem (http://www.uni-miskolc.hu/public/)
+Pannon Egyetem (http://www.uni-pannon.hu/)
+Budapesti Gazdasági Egyetem (http://www.bgf.hu/)
+Szent István Egyetem (http://www.szie.hu/)
+Kodolányi János Főiskola (http://www.kodolanyi.hu/)
+National Institute of Radiological Sciences (http://www.nirs.go.jp/ENG/)
+II. Rákóczi Ferenc Kárpátaljai Magyar Főiskola (http://www.kmf.uz.ua/)
+Nemzeti Közszolgálati Egyetem (http://uni-nke.hu/)
+Szegedi Tudományegyetem (http://www.u-szeged.hu/)
+Minzu Egyetem (http://www.muc.edu.cn/)
+Széchenyi István Egyetem (http://uni.sze.hu/kezdolap)
+Technische Universität Ilmenau (https://www.tu-ilmenau.de/)
+Universidad Técnica del Norte (http://www.utn.edu.ec/)
+Kaposvári Egyetem (http://www.ke.hu)
+Óbudai Egyetem (http://uni-obuda.hu/)
+Testnevelési Egyetem (https://tf.hu)
+### Hazai intézmények
+Erdélyi Múzeum-Egyesület (http://www.eme.ro/index.jsp)
+Brassói Transilvania Egyetem (http://unitbv.ro/)
+Bukaresti Műszaki Egyetem (http://www.pub.ro/index.html)
+A Román Akadémia Gazdasági Prognózis Intézete (http://www.ipe.ro/romain.html)
+Petru Maior Egyetem (http://www.upm.ro/)
+Nemzeti Villamosmérnöki Kutatás-fejlesztési Intézet (http://www.icpe-ca.ro/)
+Universitatea “Ovidius” (http://www.univ-ovidius.ro/)
+Universitatea de Arhitectură și Urbanism "Ion Mincu" (https://www.uauim.ro/)
+# Nemzetközi hallgatók
+A Sapientia EMTE nemzetközi hallgatói útmutatója (https://ms.sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/International-student-guide-Sapientia.pdf)
+Külföldi állampolgárok beiratkozása (https://www.sapientia.ro/hu/nemzetkozi-kapcsolatok/nemzetkozi-hallgatoknak)
+Karonkénti tárgylista (https://www.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek/targylistak)
+Erasmus+ vendégek (https://www.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/vendegek)
+A CEEPUS programokban részt vevő szakok tantervei:
+Automatika és alkalmazott informatika (https://ms.sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/curriculum-aut.pdf)
+Számítástechnika (https://ms.sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/curriculum-szamtech.pdf)
+Mechatronika (https://ms.sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/curriculum-mech.pdf)
+Informatika (https://ms.sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/curriculum-info.pdf)
+Környezetmérnöki (http://www.sapientia.ro/hu/erasmus/erasmus-vendegek/karonkenti-targylistak)
+# Kapcsolat
+Intézményi Erasmus koordinátor:
+PÁLL Zita
+RO-400112 Cluj-Napoca
+Matei Corvin 4
+tel: +40 264 439 266 (int. 256)
+fax: +40 264 593 688
+e-mail: erasmus@sapientia.ro
+Kari Erasmus koordinátor:
+Biblia Csilla
+Târgu-Mureş/Corunca (Marosvásárhely/Koronka), Calea Sighișoarei nr. 2.
+Tel: +40 265 206 210 (int. 7107)
+Fax: +40 265 206 211
+Az Oktatási és Szakképzési Közösségi Programok Országos Hivatalának (A.N.P.C.D.E.F.P) honlapja (http://www.anpcdefp.ro/anpcdefp.php?id=1&link=15)
