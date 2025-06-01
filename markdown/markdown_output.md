@@ -1609,10 +1609,10 @@ Felvételi tematika (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok/f
 ## Tudod-e, hogy…
 A budapesti Eötvös Loránd Tudományegyetem oktatóival közreműködve történik az oktatás?
 # Felvételi ütemezés
-Online iratkozás: 2025. július 1 - július 13
-Felvételi vizsga: 2025. július 15., kedd, 10 óra
-Online iratkozás: 2025. július 1 - július 15
-Felvételi vizsga: 2025. július 17., csütörtök
+Alapképzés: Online iratkozás: 2025. július 1 - július 13
+Alapképzés: Felvételi vizsga: 2025. július 15., kedd, 10 óra
+Mesterképzés: Online iratkozás: 2025. július 1 - július 15
+Mesterképzés: Felvételi vizsga: 2025. július 17., csütörtök
 # Felvételi tudnivalók
 Felvételi ütemezés (https://ms.sapientia.ro/hu/felveteli/felveteli-utemezes)
 Felvételi kritériumok és beiskolázási számok 2025 (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-kriteriumok-es-beiskolazasi-szamok-2025)
