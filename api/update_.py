@@ -14,14 +14,14 @@ def main():
     if not UPSTASH_VECTOR_REST_URL or not UPSTASH_VECTOR_REST_TOKEN:
         print("❌ Hiba: Az UPSTASH_URL vagy UPSTASH_TOKEN nincs beállítva környezeti változóként.")
         sys.exit(1)
-    vector_id = "chunk_238"
+    vector_id = "chunk_253"
 
 
     response = index.update(
-        id= vector_id, metadata={"text": "# Felvételi ütemezés\nAlapképzés: Online iratkozás: 2025. július 1 - július 13\nAlapképzés: Felvételi vizsga: 2025. július 15., kedd, 10 óra\nMesterképzés: Online iratkozás: 2025. július 1 - július 15\nMesterképzés: Felvételi vizsga: 2025. július 17., csütörtök",
-        "chunk_id": "chunk_72",
+        id= vector_id, metadata={"text": "# Lapozható tájékoztató füzet\nA Sapientia EMTE minden évben kiadja felvételi tájékoztató füzetét, mellyel a pályaválasztás előtt állókat szeretné segíteni.\nA kiadványban az egyetemi felvételire készülő diákok megtalálhatják a számukra leginkább tetsző szakot és sok fontos információt a felvételiről.\nLapozható tájékoztató füzet (https://issuu.com/sapientiaemte/docs/sap_felveteli-taj-2025_online)",
+        "chunk_id": "chunk_78",
         "chunk_order": 1,
-        "header": "# Felvételi ütemezés"
+        "header": " Lapozható tájékoztató füzet"
         }
     )
 

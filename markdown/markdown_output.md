@@ -1670,6 +1670,7 @@ A Sapientia EMTE Marosvásárhelyi Karának MESTERKÉPZÉSRE vonatkozó felvéte
 # Lapozható tájékoztató füzet
 A Sapientia EMTE minden évben kiadja felvételi tájékoztató füzetét, mellyel a pályaválasztás előtt állókat szeretné segíteni.
 A kiadványban az egyetemi felvételire készülő diákok megtalálhatják a számukra leginkább tetsző szakot és sok fontos információt a felvételiről.
+Lapozható tájékoztató füzet (https://issuu.com/sapientiaemte/docs/sap_felveteli-taj-2025_online)
 # Külföldi oklevéllel rendelkezők beiratkozása
 Külföldi oklevéllel rendelkezők beiratkozása (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/kulfoldi-oklevellel-rendelkezok-beiratkozasa)
 # Nyílt Napok
