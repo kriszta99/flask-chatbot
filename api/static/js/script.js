@@ -7,17 +7,9 @@ const chatbotCloseBtn = document.querySelector(".close-btn");
 let userMessage=null;
 const inputInitHeight = chatInput.scrollHeight;
 
-//generateLinkHTML-> ami a megadott linket az utolsó szó szerint hadja meg s az lesz kattinható link 
 const generateLinkHTML = (url) => {
-    try {
-        const slug = decodeURIComponent(url.split('/').filter(Boolean).pop());
-        const linkText = slug
-            .replace(/[-_]/g, ' ')
-            .replace(/\b\w/g, l => l.toUpperCase());
-        return `<a href="${url}" target="_blank" rel="noopener noreferrer">${linkText}</a>`;
-    } catch {
-        return `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>`;
-    }
+    return `<a href="${url}" target="_blank" rel="noopener">${"\nKattints ide"}</a>`;
+   
 };
 
 const createChatLi = (message, className) => {
@@ -26,17 +18,16 @@ const createChatLi = (message, className) => {
     const chatContent = className === "outgoing" ? `<p></p>` : `<span class="material-symbols-outlined">robot_2</span><p></p>`;
     chatLi.innerHTML = chatContent;
 
-    // Markdown linkek esetén a link formátuma
-    let formattedMessage = message.replace(
-        /\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,
-        (_, _text, url) => generateLinkHTML(url)
+   let formattedMessage = message.replace(
+    /[(\[\s]*https?:\/\/[^\s\[\]\(\),;]+[)\],;]*/g,
+    (match) => {
+        const cleanUrlMatch = match.match(/https?:\/\/[^\s\[\]\(\),;]+/);
+        if (!cleanUrlMatch) return match;
+        const cleanUrl = cleanUrlMatch[0];
+        return generateLinkHTML(cleanUrl);
+    }
     );
 
-    // sima URL-ek, amik nem részei már linknek esetén a link formátuma
-    formattedMessage = formattedMessage.replace(
-        /(?<!href=")(https?:\/\/[^\s<>"']+)/g,
-        url => generateLinkHTML(url)
-    );
     if (/^\d+\.\s/m.test(formattedMessage)) {
     // Számozott lista
     const lines = formattedMessage.split("\n");
@@ -49,8 +40,8 @@ const createChatLi = (message, className) => {
         // Csillagos vagy kötőjeles lista
         const lines = formattedMessage.split("\n");
         const listItems = lines.map(line => {
-            const match = line.match(/^[*-]\s(.*)/);
-            return match ? `<li>${match[1]}</li>` : line;
+        const match = line.match(/^[*-]\s{1,2}(.*)/);
+        return match ? `<li>${match[1]}</li>` : line;
         });
         formattedMessage = "<ul>" + listItems.join("") + "</ul>";
     } else {
@@ -112,8 +103,8 @@ chatInput.addEventListener("input", () => {
   });
 
   chatInput.addEventListener("keydown", (e) => {
-    //ha az Enter billentyűt a Shift nélkül van lenyomva, és az ablak szélessége nagyobb, mint 800px,
-    if(e.key === "Enter" && !e.shiftKey && window.innerWidth > 800){
+    //ha az Enter billentyűt a Shift nélkül van lenyomva
+    if(e.key === "Enter" && !e.shiftKey && window.innerWidth > 400){
         e.preventDefault();
         handleChat();
     }

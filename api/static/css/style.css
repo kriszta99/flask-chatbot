@@ -149,8 +149,7 @@ body.show-chatbot .chatbot{
   list-style-position: inside;
 }
 
-.chatbox .incoming li::marker {
-  font-weight: bold;
+.chatbox .incoming li {
   margin-left: 10px;
 }
 .chatbot .chat-input{
