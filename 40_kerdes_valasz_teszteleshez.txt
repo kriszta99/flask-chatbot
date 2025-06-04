@@ -1,0 +1,167 @@
+40 kérdés és válasz tesztelés
+
+1.kérdés: Hol találom az akreditácios felmérések dokumentumait?
+1.válasz: Akkreditációs felmérések dokumentumai (https://sapientia.ro/hu/az-egyetemrol/akkreditacio/akkreditacios-felmeresek-dokumentumai)
+
+2.kérdés: Milyen tantárgyai vannak az informatika szaknak?  
+2.válasz:Főbb tantárgyak:
+- algoritmusok és adatstruktúrák
+- programozási nyelvek
+- szoftvertechnológiák
+- mesterséges intelligencia
+- informatikai biztonság
+
+3.kérdés: Hány éves a Számítástechnika képzés?
+3.válasz: 4 év
+
+4.kérdés: Sorold fel a mesterképzés szakok neveit, és linkeit a Marosvásarhelyi Karon.
+4.válasz:
+Fejlett mechatronikai rendszerek szak (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/fejlett-mechatronikai-rendszerek-szak)
+Növényorvos szak (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/novenyorvos-szak)
+Számítógépes irányítási rendszerek szak (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szamitogepes-iranyitasi-rendszerek-szak)
+Szoftverfejlesztés szak (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szoftverfejlesztes-szak)
+
+5.kérdés: Hány tandijmentes hely van a szoftverfejlesztésen?
+5.válasz: 15
+
+6.kérdés: Mikor van az alapképzésnek a felvételi vizsga időpontja?
+6.válasz: Alapképzés: Felvételi vizsga: 2025. július 15., kedd, 10 óra
+
+7.kérdés: Mikor van a mesterképzés online beiratkozási időpontja?
+7.válasz: Mesterképzés: Online iratkozás: 2025. július 1 - július 15
+
+8.kérdés: Hol találom meg a felvételi szabályzatokat?
+8.válasz: Felvételi szabályzatok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok)
+
+9.kérdés: Melyik linken találom meg a felvételi mappához szükséges papirokat?
+9.válasz: Szükséges iratok (https://sapientia.ro/hu/felveteli/szukseges-iratok)
+
+10.kérdés: Add meg a matematika 2023-mas év felvételi tematikáját és javitókulcsát is.
+10.válasz: Matematika 2023 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Felveteli_Matek2023SZEPT-B-Varians_1.pdf) (javítókulcs) (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Felveteli_Matek2023SZEPT-B-VariansJAVITOKULCS_1.pdf)
+
+11.kérdés: Hol találom meg a lapozható tájékoztató füzet elérhető linkjét?
+11.válasz: Lapozható tájékoztató füzet (https://issuu.com/sapientiaemte/docs/sap_felveteli-taj-2025_online)
+
+12.kérdés: Hol kapok bővebb információt a gyakorlati órák potlásáról ?
+12.válasz: Gyakorlati órák pótlása (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/gyakorlati-orak-potlasa)
+
+13.kérdés: Mikor szavazták meg az Sapientia Erdélyi Magyar Tudományegyetem akkreditálásá?
+13.válasz: Románia parlamentjének képviselőháza 2012. február 28-i ülésén megszavazta a Sapientia Erdélyi Magyar Tudományegyetem akkreditálását.
+
+14.kérdés: Mi a fő célja a a többciklusú képzési rendszernak?
+14.válasz: Fő célja, hogy lehetővé tegye a munkaerőpiacon való elhelyezkedést biztosító diploma megszerzését, ezért az alapképzés során a gyakorlati képzés kap nagyobb hangsúlyt.
+
+15.kérdés: Ki a a Sapientia EMTE általános rektorhelyettese?
+15.válasz: Dr. Farkas Csaba, egyetemi tanár, a Sapientia EMTE általános rektorhelyettese
+
+16.kérdés: Ki az informatika szakkordinátora?
+16.válasz: - Informatika: dr. Jánosi-Rancz Tünde Katalin, adjunktus, tsuto@ms.sapientia.ro
+
+17.kérdés: Mit kell tejesiteni ahoz, hogy megkapjam a Ferber-ösztöndíjat?
+17.válasz: Az ösztöndíjat a hallgató egy összegben kapja meg a tanév elején az előző évi teljesítménye függvényében.
+
+18.kérdés: Mikor van a befizetési határidő a 500 euro tandíjnak az I. év számára?
+18.kérdés: Befizetési határidő: július 28.
+
+19.kérdés: Mennyi az összege a kiegészítő-vizsgadíjnak?
+19.kérdés: Jelenlegi összeg RON: 100 lej
+
+20.kérdés: Milyen bankszámlára kell utalni az adminisztratív díjakat?
+20.válasz: Adminisztratív díjak bankon keresztül utalhatóak a következő bankszámlára: RO48BTRLRONCRT0039221810 UNIVERSITATEA SAPIENTIA, CORUNCA, CF: RO14645945
+
+21.kérdés: Miből áll a tájépitészet mérnőki szaknak a felvételi jegye?
+21.válasz: A felvételi jegy összetétele: 100% érettségi átlag
+
+22.kérdés: Hogy hivják a kari erasmus Koordinátorát a Marosvásarhelyi Karon?
+22.válasz: Kari Erasmus Koordinátor: Biblia Csilla (sapierasmus@ms.sapientia.ro)
+
+23.kérdés: Sorold fel az összes magyarországi Partner intézményekek egyetem neveit!
+23.válasz: 
+Egyetem neve: Budapest University of Technology and Economics(Műszaki és Gazdaságtudományi Egyetem)
+Egyetem neve: Budapest University of Technology and Economics(Műszaki és Gazdaságtudományi Egyetem)
+Egyetem neve: University of Debrecen (Debreceni Egyetem)
+Egyetem neve: Eötvös Loránd University (Eötvös Loránd Tudományegyetem)
+Egyetem neve: Eszterházy Károly University(Eszterházy Károly Főiskola)
+Egyetem neve: Károli Gáspár University of The Refomed Church In Hungary (Károli Gáspár Református Egyetem)
+Egyetem neve: College of Nyíregyháza (Nyíregyházi Egyetem)
+Egyetem neve: University of Pannonia (Pannon Egyetem)
+Egyetem neve: University of Pécs (Pécsi Tudományegyetem)
+Egyetem neve: Semmelweis University (Semmelweis Egyetem)
+Egyetem neve: Szegedi Tudományegyetem
+Egyetem neve: Szent István Egyetem, Gödöllő
+Egyetem neve: Széchenyi István Egyetem, Győr
+
+24.kérdés: Hol találom meg a nemzetközi hallgatói útmutatót?
+24.válasz: A Sapientia EMTE nemzetközi hallgatói útmutatója (https://ms.sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/International-student-guide-Sapientia.pdf)
+
+25.kérdés: Mit jelent az ECTS?
+25.válasz: Sapientia Erdélyi Magyar Tudományegyetem az oktatás megszervezésében az Európai Kreditátviteli Rendszert (ECTS) alkalmazza, amely által az egyetemi képzésben a végzettséget igazoló oklevél megszerzésének feltételéül előírt minden, tanulmányi munkaidő ráfordítással járó követelmény teljesítését kreditben méri.
+
+26.kérdés: Mit jelent a BIP?
+26.válasz: Vegyes intenzív programok (BIP)
+
+27.kérdés: Mit jelent a Sapientia szó?
+27.válasz: A Sapientia szó bölcsességet jelent, más szóval értő tanulmányozást és a tudásmegfontolt alkalmazását.
+
+28.kérdés: Havi hány eurot kapnak a a hosszú mobilitás esetén a hátrányos helyzetű hallgatok?
+28.válasz: A hátrányos helyzetű hallgatók hosszú mobilitás esetén havi 250 euró kiegészítő támogatást kapnak, úgy tanulmányi mobilitás, mind szakmai gyakorlat mobilitás esetén;
+
+29.kérdés: Hány napot tartalmaz a rövid vegyes mobilitás?
+29.válasz: A ***rövid vegyes mobilitás*** időtartama 5-30 nap, és ki kell egészülnie egy olyan **kötelező virtuális komponenssel**, amely lehetővé teszi az együttműködésen alapuló online tanulást és csapatmunkát – ösztöndíj azonban csak a fizikai mobilitási napokra jár.
+
+30.kérdés: Mikor alakult a Kiss Elemér Szakkollégium?
+30.válasz: A Kiss Elemér Szakkollégium 2010. novemberében alakult a Sapientia Erdélyi Magyar Tudományegyetem Marosvásárhelyi Karán a MITIS Egyesület keretében.
+
+31.kérdés: Kik nyújthatnak be pályázatot a Senior ösztöndíjra?
+31.válasz: **Senior ösztöndíj** elnyerésére pályázatot nyújthatnak be az Akadémiának az Alapszabály 12. § (3) bekezdése szerinti Kárpát-medencei külső tagjai, valamint az Alapszabály 23. § (1) bekezdése szerinti Kárpát-medencei köztestületi külső tagok.
+
+32.kérdés: Ki a PEDIMCo kutatócsoport vezetője?
+32.válasz: Dr. Kelemen András egyetemi adjunktus - a kutatócsoport vezetője
+
+33.kérdés: Mi a CIRG kutatási támái?
+33.válasz: Fontosabb kutatási témáink: klaszterező és részlegesen felügyelt klaszterező algoritmusok, evolúciós algoritmusok, digitális jel- és képfeldolgozás, beszédtechnológia: folyamatos beszédfelismerés, beszédszintézis, nyelvi erőforrások fejlesztése, alkalmazások nagy adatbázisokkal, élettani rendszerek modellezése és szimulációja, protein együtthatási hálózatainak tanulmányozása, virtualizációs technikák.
+
+34.kérdés: Kik a matinfo tanársegédei?
+34.válasz: 
+Bartha Zsolt, tanársegéd
+Vekov Géza Károly, tanársegéd
+Zsombori Gabriella, tanársegéd
+Garda-Mátyás Edit, tanársegéd
+
+35.kérdés: Hol találom a Távközlés tantárgyi adatlapját?
+35.válasz: Távközlés (https://ms.sapientia.ro/content/docs/MS/TST-20230616T072159Z-001.zip)
+
+36.kérdés: Add meg az oktatói versenyvizsgák linkjét!
+36.válasz: Oktatói versenyvizsgák (https://ms.sapientia.ro/hu/oktatas/oktatoi-versenyvizsgak)
+
+37.kérdés: Milyen iratok szükségesek a zárovizsga beiratkozásához?
+37.válasz:
+**Beiratkozáshoz szükséges iratok:**
+* **Beiratkozási kérvény** (alapképzés (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/cerere_alap_2025.docx) -, mesterképzés (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/cerere_mesteri_2025.docx) formanyomtatványa), amelyet a témavezető láttamoz;
+* Szakdolgozat/diplomaterv/disszertáció, elektronikusan PDF formátumban;
+* A témavezető/elővédési bizottság **referátuma**, amelynek tartalmaznia kell a dolgozat tartalmi értékelését és az ajánlott jegyet;
+* A *Turnitin*rendszerből generált **report**;
+* **2 db papír alapú**, útlevél típusú (3x4) **színes fénykép;**
+* A **szerző nyilatkozata** a dolgozat eredetiségéről;
+A dékáni hivatal az alábbi dokumentumokkal egészíti ki a végzettek beiratkozási iratcsomóját:
+* A **témavezető** **nyilatkozata** a vezetett dolgozat eredetiségére vonatkozóan;
+* A születési bizonyítvány **eredeti példánya** és a beiratkozás során **hitelesített másolata.**
+Az eredeti példányt a másolat helyszínen történő hitelesítése nyomán a jelentkező visszakapja.
+* **Érettségi oklevél eredetije**, valamint a **melléklet eredetije (törzskönyvi kivonat)** és a beiratkozás során hitelesített másolata, valamint esetenként a honosítási okirat;
+* **Egyetemi oklevél eredetije és a beiratkozás során hitelesített másolata** (mesteri szakok végzettjei esetében), valamint esetenként a **honosítási okirat**;
+* **Idegennyelvvizsga-bizonyítvány másolata.**
+Más nyelvvizsgaközpontok által kibocsátott bizonyítványok esetében a LinguaSap Központ általi elismerés is szükséges.
+
+38.kérdés: Hány részből áll a LinguaSap Nyelvvizsga?
+38.válasz: A nyelvvizsga két, egy írásbeli és egy szóbeli részből áll.
+
+39.kérdés: Mikor és melyik teremben van a szoftverfejlesztés záróvizsga időpontja?
+39.válasz: A záróvizsga időpontja: 2025. július 7., 129-es terem
+
+40.kérdés: Hány szobatípus van a bentlakásban?
+40.válasz: A bentlakásban 3 szobatípus van: apartman, garzon, tetőtéri szoba.
+
+
+
+
+

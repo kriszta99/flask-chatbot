@@ -8,8 +8,7 @@ let userMessage=null;
 const inputInitHeight = chatInput.scrollHeight;
 
 const generateLinkHTML = (url) => {
-    return `<a href="${url}" target="_blank" rel="noopener">${"\nKattints ide"}</a>`;
-   
+    return `<a href="${url}" target="_blank" rel="noopener">${"\nKattints ide\n"}</a>`;
 };
 
 const createChatLi = (message, className) => {
@@ -76,7 +75,7 @@ const handleChat = async () => {
     chatbox.appendChild(incomingChatLi);
     chatbox.scrollTo(0, chatbox.scrollHeight);
     try {
-        const response = await fetch('/', {  //ide küldjük a kérést
+        const response = await fetch('/chatbot', {  //ide küldjük a kérést
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ question: userMessage })
