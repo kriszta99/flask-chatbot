@@ -2792,7 +2792,7 @@ Automatika és alkalmazott informatika szak (https://ms.sapientia.ro/hu/hallgato
 Infokommunikációs hálózatok és rendszerek szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/infokommunikacios-halozatok-es-rendszerek-szak)
 Számítástechnika szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/villamosmernoki-tanszek__/szamitastechnika-szak)
 # Automatika és alkalmazott informatika szak
-Automatika és alkalmazott informatika szak (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/Keszitesi%20utmutato_2022/Szakdolgozat%20VMT%20Automatika%20_2022.doc)
+Automatika és alkalmazott informatika szak (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/Keszitesi%20utmutato_2022/Szakdolgozat%20VMT%20Automatika_2022.doc)
 # Infokommunikációs hálózatok és rendszerek szak
 Infokommunikációs hálózatok és rendszerek szak (https://ms.sapientia.ro/data/Szakdolgozat%20VMT%20Tavkoezles.doc)
 # Számítástechnika szak
