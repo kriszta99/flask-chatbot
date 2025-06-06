@@ -75,23 +75,30 @@ const handleChat = async () => {
     chatbox.appendChild(incomingChatLi);
     chatbox.scrollTo(0, chatbox.scrollHeight);
     try {
-        const response = await fetch('/chatbot', {  //ide küldjük a kérést
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ question: userMessage })
-        });
-    
+    const response = await fetch('/chatbot', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ question: userMessage })
+    });
+
         const data = await response.json();
-        console.log("Válasz:", data.answer);  //kiírjuk a választ a konzolra (debugging célból)
-    
-        //az érkező választ megjelenítem a chatboxban
         chatbox.removeChild(incomingChatLi);
-        chatbox.appendChild(createChatLi(data.answer, "incoming"));  //a válasz megjelenik itt
+
+        if (data.error) {
+            // Hiba esetén alert ablakot jelenítünk meg
+            alert(`⚠️ Hiba történt:\n${data.error}`);
+        } else {
+            chatbox.appendChild(createChatLi(data.answer, "incoming"));
+        }
+
         chatbox.scrollTo(0, chatbox.scrollHeight);
-    
+
     } catch (error) {
+        chatbox.removeChild(incomingChatLi);
+        alert("⚠️ Hálózati hiba vagy a szerver nem elérhető.");
         console.error("Hiba történt:", error);
     }
+
     
 
 }

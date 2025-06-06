@@ -1,3 +1,17 @@
+# Hallgatóknak
+Hallgatói tájékoztató (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato)
+Szakkoordinátorok (https://ms.sapientia.ro/hu/hallgatoknak/szakkoordinatorok)
+Vizsgaidőpontok (https://ms.sapientia.ro/hu/hallgatoknak/vizsgaidopontok)
+Hallgatói pénzügyek (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-penzugyek)
+Kari TDK (https://ms.sapientia.ro/hu/hallgatoknak/kari-tdk)
+Neptun ETR (https://www.sapientia.ro/hu/oktatas/hallgatoknak/neptun)
+Bentlakás (https://ms.sapientia.ro/hu/hallgatoknak/bentlakas_)
+Tanárképzés (https://sapientia.ro/hu/oktatas/tanarkepzes)
+Szabályzatok, dokumentumok (https://ms.sapientia.ro/hu/a-karrol/dokumentumok_)
+Záróvizsga (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga)
+Oklevelek átvétele (https://www.sapientia.ro/hu/oktatas/hallgatoknak/oklevelek-atvete)
+Orvosi rendelő (https://ms.sapientia.ro/hu/hallgatoknak/orvosi-rendelo)
+Lelkigondozás (https://ms.sapientia.ro/hu/hallgatoknak/lelkigondozas)
 # Hallgatói tájékoztató
 Általános információk az egyetemről (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/altalanos-informaciok-az-egyetemrol)
 Gólyafüzet 2021 (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/golyafuzet-2021)
@@ -190,7 +204,8 @@ Az alkalmi ösztöndíjak forrása a kari ösztöndíjkeret fennmaradó része, 
 # Érdemösztöndíj
 Az érdemösztöndíjat a hallgatók a második egyetemi félévtől kezdődően nyerhetik el.
 Az érdemösztöndíj megítéléséhez szükséges tanulmányi átlageredmény szakonkénti alsó küszöbét a Kari Ösztöndíjtanács javaslatára a Kari Tanács állapítja meg.
-Amennyiben több, ugyanazon tanulmányi átlagot elért hallgató van egy adott szakon és évfolyamon, aki teljesíti az érdemösztöndíjra előírt feltételeket, az előzőtanévben elért kreditindex szerint választják ki az érdemösztöndíjban részesülő hallgatót.# Tanulmányi ösztöndíj
+Amennyiben több, ugyanazon tanulmányi átlagot elért hallgató van egy adott szakon és évfolyamon, aki teljesíti az érdemösztöndíjra előírt feltételeket, az előzőtanévben elért kreditindex szerint választják ki az érdemösztöndíjban részesülő hallgatót.
+# Tanulmányi ösztöndíj
 A tanulmányi ösztöndíjat a hallgatók az első egyetemi félévtől kezdődően nyerhetik el.
 Elsőéves hallgatók esetében a tanulmányi ösztöndíj első félévre a felvételi vizsga eredménye alapján ítélhető meg, a második egyetemi félévtől kezdődően az előző félév tanulmányi átlageredménye alapján.
 A tanulmányi ösztöndíj megítéléséhez szükséges minimális tanulmányi átlageredményt szakonként a Kari Ösztöndíjtanács javaslatára a Kari Tanács állapítja meg.
@@ -289,7 +304,8 @@ A 2021/2022-es tanév adminisztratív díjai (https://ms.sapientia.ro/content/20
 A 2020/2021-es tanév adminisztratív díjai (https://ms.sapientia.ro/content/2011-2021/AzEgyetemrol/Dokumentumok/Szabalyzatok/2%20melleklet%20-%20adminisztrativ%20dijak%202020.pdf)
 A 2019/2020-as tanév adminisztratív díjai (https://ms.sapientia.ro/content/2011-2021/AzEgyetemrol/Dokumentumok/Szabalyzatok/2.%20melleklet%20-%20adminisztrativ%20dijak%202019.pdf)
 A 2018/2019-es tanév adminisztratív díjai (https://ms.sapientia.ro/content/2011-2021/hallgatok/Adminisztrativ%20dijak%202018.pdf)
-# Marosvásárhelyi Kari TDK
+# Kari TDK
+## Marosvásárhelyi Kari TDK
 A konferenciára azon hallgatók jelentkezhetnek, akik tanulmányaik mellett olyan tudományos tevékenységet folytatnak, amely a profiljukhoz illik, önképzési céllal valósul meg, azt színvonalas pályamunkaként elkészítik, majd a konferencián bemutatják.
 A kari TDK honlapja: A kari TDK honlapja (https://tdk.sapientia.ro/).
 A TDK a Tudományos Diákkör rövidítése.
@@ -926,13 +942,13 @@ Ajánlott: Tantárgy féléves/1-2 tematikus terve (planificare pe unități de 
 - Vezető tanárral egyeztetve
 - Terjedelem: kb. 15-20 oldal, 30000-40000 karakter (szóköz nélkül).
 Javasolt záródolgozat témák (II. szint) (https://ms.sapientia.ro/data/II.pdf)
-# Mesterképzés - Ütemezés 2024/2025 (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025)
+# Mesterképzés - Ütemezés 2024/2025
 Szoftverfejlesztés (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/szoftverfejlesztes)
 Számítógépes irányítási rendszerek (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/szamitogepes-iranyitasi-rendszerek)
 Növényorvos (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/novenyorvos)
 Fejlett mechatronikai rendszerek (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025/fejlett-mechatronikai-rendszerek)
 # Szoftverfejlesztés
-### A záróvizsga időpontja: 2025. július 3., 131-es terem
+### A záróvizsga időpontja: 2025. július 7., 129-es terem
 A disszertáció vizsga a mesteri disszertáció bizottság előtt történő bemutatásából és védéséből áll.
 A mesteri disszertáció védése nyilvános, a bizottság és a vizsgázó ugyanazon helyen való egyidejű jelenlétében történik.
 # Számítógépes irányítási rendszerek

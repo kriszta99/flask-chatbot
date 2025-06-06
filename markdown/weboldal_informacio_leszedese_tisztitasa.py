@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1IU_5NogghL_4kSrcnsNZa3xJmJcQLN47
 """
 
-#!pip install -q -U google-genai
+!pip install -q -U google-genai
 
-#!pip install requests beautifulsoup4 markdownify
+!pip install requests beautifulsoup4 markdownify
 
 import requests
 from bs4 import BeautifulSoup
@@ -18,11 +18,11 @@ from urllib.parse import urljoin, urlparse
 import re
 def url_to_markdown(url):
     try:
-        # letöltöm az oldal tartalmát
+        # 1. Letölti az oldal tartalmát
         response = requests.get(url, timeout=10)
         response.raise_for_status()
 
-        # kinyerem a HTML-tartalmat
+        # 2. Kinyeri a HTML-tartalmat
         html = response.text
         soup = BeautifulSoup(html, 'html.parser')
         for i_tag in soup.find_all('i', class_='fa fa-at'):
@@ -31,12 +31,12 @@ def url_to_markdown(url):
         if body is None:
             raise ValueError("❌ Az oldal nem tartalmaz <body> elemet.")
 
-        # a domain gyökerét visszaállitom (https://ms.sapientia.ro/)
+        # 3. A domain gyökere (https://ms.sapientia.ro/)
         parsed = urlparse(response.url)
         base_root = f"{parsed.scheme}://{parsed.netloc}/"
         print(f"ℹ️ Domain gyökere: {base_root}")
 
-        # megkeresem a <div id="nright"> és pageheader elemekben <a> és <img> tag eket hogy teljes URL-re hozzam őket
+        # 4. Keresés a <div id="nright"> és pageheader elemekben
 
         targets = [
           soup.find('div', {'id': 'nright'}),
@@ -45,20 +45,20 @@ def url_to_markdown(url):
 
         for container in targets:
             if container:
-                # az összes relatív <a> és <img> link teljes URL-re hozom 
+                # 5. Az összes relatív <a> és <img> link teljes URL-re hozása ezen a konténeren belül
                 for tag in container.find_all(['a', 'img']):
                     attr = 'href' if tag.name == 'a' else 'src'
                     if tag.has_attr(attr):
                         val = tag[attr]
-                        ## ha nem http/https link, akkor kiegészítem teljes URL-re
+                        ## Ha nem http/https link, akkor kiegészítjük teljes URL-re
                         if not val.startswith(('http://', 'https://')):
                             tag[attr] = urljoin(base_root, val)
-                        # az URL-t szóköz hozzáfűzésével mentem le valtózőba
+                        # Az URL-t szóköz hozzáfűzésével mentjük el
                         tag[attr] = f"{tag[attr]} "
 
 
 
-        # majd a teljes HTML átalakítom Markdown formátumba
+        # 6. A teljes HTML átalakítása Markdown formátumba
         markdown = md(str(body), heading_style="ATX")
 
         return markdown
@@ -73,7 +73,7 @@ def url_to_markdown(url):
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/dekani-hivatal_"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/gazdasagi-osztaly_"
-#url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_"
+#url = ""https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/adminisztracio_"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/munkatarsak/konyvtar__"
 #url = "https://ms.sapientia.ro/hu/a-karrol/rolunk/szervezeti-abra"
 #url = "https://ms.sapientia.ro/hu/a-karrol/a-kar-vezetese/kari-vezetok"
@@ -94,7 +94,7 @@ def url_to_markdown(url):
 url = "https://ms.sapientia.ro/hu/a-karrol/rolunk"
 markdown_szoveg = url_to_markdown(url)
 
-print(markdown_szoveg) 
+print(markdown_szoveg)  # Itt láthatod a Markdown-tartalmat
 
 karrol_urls = [ "https://ms.sapientia.ro/hu/a-karrol/",
                 "https://ms.sapientia.ro/hu/a-karrol/rolunk",
@@ -154,7 +154,8 @@ karrol_urls = [ "https://ms.sapientia.ro/hu/a-karrol/",
 
                 ]
 
-hallgatok_urls = ["https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato",
+hallgatok_urls = ["https://ms.sapientia.ro/hu/hallgatoknak",
+                  "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato",
                   "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/altalanos-informaciok-az-egyetemrol",
                   "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/gyakorlati-orak-potlasa",
                   "https://ms.sapientia.ro/hu/hallgatoknak/szakkoordinatorok",
@@ -285,7 +286,8 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           #file_path = '/content/markdown_felveteli.md'
           #file_path = '/content/markdown_oktatas.md'
           #file_path = '/content/markdown_kutatas.md'
-          file_path = '/content/markdown_nemzetkozi_kapcsolatok.md'
+          file_path = ''
+          #file_path = '/content/markdown_nemzetkozi_kapcsolatok.md'
 
           with open(file_path, 'a') as f:
             f.write(response.text)
@@ -421,7 +423,7 @@ nemzetkozi_kapcsolatok_urls=[
 web_scraping_markdown_to_clean(nemzetkozi_kapcsolatok_urls)
 
 from google.colab import files
-#ez a függvény beolvassa a fájlt, eltávolítja a nem kívánt markdown elemeket és az üres sorokat, majd visszaírja egy új fájlba
+#Beolvassa a fájlt, eltávolítja a nem kívánt markdown elemeket és az üres sorokat, majd visszaírja egy új fájlba.
 def clean_and_remove_empty_lines(file_path):
     # fájl beolvasása
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -464,15 +466,15 @@ clean_and_remove_empty_lines('markdown_nemzetkozi_kapcsolatok.md')
 
 def append_md_file(target_file: str, source_file: str):
     """
-    :param target_file: az a fájl, amelyhez hozzá szeretnénm fűzni
-    :param source_file: az a fájl, amelynek tartalmát hozzáfűzzöm
+    :param target_file: Az a fájl, amelyhez hozzá szeretnénk fűzni.
+    :param source_file: Az a fájl, amelynek tartalmát hozzáfűzzük.
     """
     try:
         with open(source_file, 'r', encoding='utf-8') as f:
             content = f.read()
 
         with open(target_file, 'a', encoding='utf-8') as f:
-            f.write("\n")  
+            f.write("\n")  # optional separator
             f.write(content)
 
         print(f"Sikeresen hozzáfűztük a(z) '{source_file}' tartalmát a '{target_file}' fájlhoz.")

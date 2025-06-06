@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, render_template, request, redirect
+from flask import Flask, jsonify, render_template, request, redirect, flash
 from upstash_vector import Index
 import numpy as np
 from collections import defaultdict
@@ -8,12 +8,10 @@ import time
 import openai
 from bert_score import score
 from google import genai
-import snowballstemmer
 from upstash_vector.types import SparseVector, QueryMode
 from concurrent.futures import ThreadPoolExecutor, wait
 import threading
 from dotenv import load_dotenv
-stemmer = snowballstemmer.stemmer('hungarian')
 
 # Környezeti változók betöltése
 load_dotenv()
@@ -30,7 +28,7 @@ loading_lock = threading.Lock()
 
 
 results_ = []
-#lekérem az összes vektort (parhuzamosan hogy gyorsitsam a lekeresi időt) egy globalis listaba az adatbazisból ösz:1158
+#lekérem az összes vektort (parhuzamosan hogy gyorsitsam a lekeresi időt) egy globalis listaba az adatbazisból ösz:1159
 def load_all_vectors_to_list():
     global results_, loading_done
     start_total_load = time.time()
@@ -40,19 +38,18 @@ def load_all_vectors_to_list():
     def fetch_range(cursor, limit):
         return vector_db.range(cursor=cursor, limit=limit, prefix="chunk_", include_metadata=True).vectors
 
-    with ThreadPoolExecutor(max_workers=3) as executor:
+    with ThreadPoolExecutor(max_workers=2) as executor:
         futures = [
-            executor.submit(fetch_range, "0", 386),
-            executor.submit(fetch_range, "386", 386),
-            executor.submit(fetch_range, "772", 386)
+            executor.submit(fetch_range, "0", 580),
+            executor.submit(fetch_range, "580", 579)
         ]
 
         for future in futures:
             results_.extend(future.result())
 
     end_total_load = time.time()
-
-    print(f"Betöltve {len(results_)} vektor, idő: {end_total_load - start_total_load:.2f} mp")
+    #print(results_)
+    print(f"Betöltve {len(results_)} vektor, össz idő: {end_total_load - start_total_load:.2f} s")
     loading_done = True
 
 
@@ -71,20 +68,22 @@ def get_embedding(text: str, model="text-embedding-ada-002") -> np.ndarray:
 
 def get_chunk_id_from_embedding(query_embedding):
     #legközelebbi vektorok lekérdezése
-    results = vector_db.query(vector=query_embedding, include_metadata=True,top_k=50,query_mode=QueryMode.DENSE)    
+    results = vector_db.query(vector=query_embedding, include_metadata=True,top_k=50)    
     chunk_ids = [result.metadata.get('chunk_id') for result in results]
     sorted_results = sorted(results, key=lambda r: r.score, reverse=True)
     chunk_ids = []
     for result in sorted_results:
-        if result.score >= 0.85:
+        if result.score >= 0.86:
             #print(f"chunk_id: {result.metadata.get('chunk_id')}\nText: {result.metadata.get('text')}\nScore: {result.score}\n\n")
             chunk_ids.append(result.metadata.get('chunk_id'))
 
     print(len(chunk_ids)) 
+    #print(chunk_ids)
     return chunk_ids
 
 
 def query_by_chunk_id(chunk_ids): 
+
     # Szűrés a chunk_id alapján
     filtered_results = [
         r for r in results_
@@ -132,21 +131,24 @@ def get_context_text(query_embedding):
 
 #az LLM model segitségével választ generalok a feltett kérdésre
 def get_llm_response(context, question):
+    
     client = genai.Client(api_key=api_key)
 
-    full_prompt = f"<context>{context}</context>Kérem, válaszoljon az alábbi kérdésre a fent megadott kontextus alapján:<user_query>{question}</user_query>\nVálasz:"
+    full_prompt = f"<context>{context}</context>Kérem, válaszoljon az alábbi kérdésre a fent megadott kontextus alapján, vedd ki a markdown formatumot:<user_query>{question}</user_query>\nVálasz:"
+    try:
+        response = client.models.generate_content(
+            #model="gemini-2.0-flash-thinking-exp-01-21",
+            #model = "gemini-2.0-flash",
+            #model="gemini-1.5-flash",
+            model="gemini-2.0-flash",
+            #model = "gemini-2.5-flash-preview-05-20",
 
 
-    response = client.models.generate_content(
-        #model="gemini-2.0-flash-thinking-exp-01-21",
-        #model = "gemini-2.0-flash",
-        #model="gemini-1.5-flash",
-        model="gemini-2.0-flash",
-
-
-        contents=[full_prompt]
-    )
-    return response.text
+            contents=[full_prompt]
+        )
+        return response.text
+    except Exception as e:
+        raise RuntimeError(f"LLM hiba: {str(e)}")
 
 def save_timings_to_excel(filepath, question, t_embed, t_ctx, t_llm, t_total,bertscore_f1):
     new_row = {
@@ -206,7 +208,7 @@ ground_truths_vector_by_search_20 = [
 ]
 
 ground_truths_vector_by_search_40 = [
-    "Akkreditációs felmérések dokumentumai (https://sapientia.ro/hu/az-egyetemrol/akkreditacio/akkreditacios-felmeresek-dokumentumai)",
+    "https://sapientia.ro/hu/az-egyetemrol/akkreditacio/akkreditacios-felmeresek-dokumentumai",
     """Főbb tantárgyak:
         - algoritmusok és adatstruktúrák
         - programozási nyelvek
@@ -214,25 +216,25 @@ ground_truths_vector_by_search_40 = [
         - mesterséges intelligencia
         - informatikai biztonság""",
     "4 év",
-    """Fejlett mechatronikai rendszerek szak (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/fejlett-mechatronikai-rendszerek-szak)
-        Növényorvos szak (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/novenyorvos-szak)
-        Számítógépes irányítási rendszerek szak (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szamitogepes-iranyitasi-rendszerek-szak)
-        Szoftverfejlesztés szak (https://ms.sapientia.ro/hu/felveteli/mesterkepzes/szoftverfejlesztes-szak)""",
+    """Fejlett mechatronikai rendszerek szak 
+        Növényorvos szak
+        Számítógépes irányítási rendszerek szak 
+        Szoftverfejlesztés szak""",
     "15",
-    "Alapképzés: Felvételi vizsga: 2025. július 15., kedd, 10 óra",
-    "Mesterképzés: Online iratkozás: 2025. július 1 - július 15",
-    "Felvételi szabályzatok (https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok)",
-    "Szükséges iratok (https://sapientia.ro/hu/felveteli/szukseges-iratok)",
-    "Matematika 2023 (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Felveteli_Matek2023SZEPT-B-Varians_1.pdf) (javítókulcs) (https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Felveteli_Matek2023SZEPT-B-VariansJAVITOKULCS_1.pdf)",
-    "Lapozható tájékoztató füzet (https://issuu.com/sapientiaemte/docs/sap_felveteli-taj-2025_online)",
-    "Gyakorlati órák pótlása (https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/gyakorlati-orak-potlasa)",
+    "2025. július 15., kedd, 10 óra",
+    "2025. július 1 - július 15",
+    "https://ms.sapientia.ro/hu/felveteli/felveteli-tudnivalok_/felveteli-szabalyzatok",
+    "https://sapientia.ro/hu/felveteli/szukseges-iratok",
+    "https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Felveteli_Matek2023SZEPT-B-Varians_1.pdf (javítókulcs) https://ms.sapientia.ro/content/docs/MS/Felveteli/2023/Felveteli_Matek2023SZEPT-B-VariansJAVITOKULCS_1.pdf",
+    "https://issuu.com/sapientiaemte/docs/sap_felveteli-taj-2025_online",
+    "https://ms.sapientia.ro/hu/hallgatoknak/hallgatoi-tajekoztato/gyakorlati-orak-potlasa",
     "Románia parlamentjének képviselőháza 2012. február 28-i ülésén megszavazta a Sapientia Erdélyi Magyar Tudományegyetem akkreditálását.",
     "Fő célja, hogy lehetővé tegye a munkaerőpiacon való elhelyezkedést biztosító diploma megszerzését, ezért az alapképzés során a gyakorlati képzés kap nagyobb hangsúlyt.",
     "Dr. Farkas Csaba, egyetemi tanár, a Sapientia EMTE általános rektorhelyettese",
     "- Informatika: dr. Jánosi-Rancz Tünde Katalin, adjunktus, tsuto@ms.sapientia.ro",
     "Az ösztöndíjat a hallgató egy összegben kapja meg a tanév elején az előző évi teljesítménye függvényében.",
     "Befizetési határidő: július 28.",
-    "Jelenlegi összeg RON: 100 lej",
+    "100 lej",
     "Adminisztratív díjak bankon keresztül utalhatóak a következő bankszámlára: RO48BTRLRONCRT0039221810 UNIVERSITATEA SAPIENTIA, CORUNCA, CF: RO14645945",
     "A felvételi jegy összetétele: 100% érettségi átlag",
     "Kari Erasmus Koordinátor: Biblia Csilla (sapierasmus@ms.sapientia.ro)",
@@ -249,7 +251,7 @@ ground_truths_vector_by_search_40 = [
        Egyetem neve: Szegedi Tudományegyetem
        Egyetem neve: Szent István Egyetem, Gödöllő
        Egyetem neve: Széchenyi István Egyetem, Győr""",
-    "A Sapientia EMTE nemzetközi hallgatói útmutatója (https://ms.sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/International-student-guide-Sapientia.pdf)",
+    "https://ms.sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/International-student-guide-Sapientia.pdf",
     "Sapientia Erdélyi Magyar Tudományegyetem az oktatás megszervezésében az Európai Kreditátviteli Rendszert (ECTS) alkalmazza, amely által az egyetemi képzésben a végzettséget igazoló oklevél megszerzésének feltételéül előírt minden, tanulmányi munkaidő ráfordítással járó követelmény teljesítését kreditben méri.",
     "Vegyes intenzív programok (BIP)",
     "A Sapientia szó bölcsességet jelent, más szóval értő tanulmányozást és a tudásmegfontolt alkalmazását.",
@@ -263,8 +265,8 @@ ground_truths_vector_by_search_40 = [
        Vekov Géza Károly, tanársegéd
        Zsombori Gabriella, tanársegéd
        Garda-Mátyás Edit, tanársegéd""",
-    "Távközlés (https://ms.sapientia.ro/content/docs/MS/TST-20230616T072159Z-001.zip)",
-    "Oktatói versenyvizsgák (https://ms.sapientia.ro/hu/oktatas/oktatoi-versenyvizsgak)",
+    "https://ms.sapientia.ro/content/docs/MS/TST-20230616T072159Z-001.zip",
+    "https://ms.sapientia.ro/hu/oktatas/oktatoi-versenyvizsgak",
     """**Beiratkozáshoz szükséges iratok:**
     * **Beiratkozási kérvény** (alapképzés (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/cerere_alap_2025.docx) -, mesterképzés (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/cerere_mesteri_2025.docx) formanyomtatványa), amelyet a témavezető láttamoz;
     * Szakdolgozat/diplomaterv/disszertáció, elektronikusan PDF formátumban;
@@ -292,7 +294,14 @@ def init_load():
             loading_started = True
             # Futtasd háttérszálban, hogy ne blokkolja a válaszadást
             threading.Thread(target=load_all_vectors_to_list).start()
-
+        if not loading_done:
+                return """
+                <script>
+                    alert("Kérlek várj, betöltés folyamatban...");
+                    setTimeout(() => location.reload(), 2000);  // 2másodperc múlva újratölt
+                </script>
+                """
+    
     return redirect("/chatbot")
 
 # index, melyik ground truth-t hasonlítjuk össze az adott kérdésnél
@@ -300,14 +309,6 @@ current_gt_index = 0
 
 @app.route('/chatbot', methods=['GET', 'POST'])
 def index():
-    if not loading_done:
-        return """
-        <script>
-            alert("Kérlek várj, betöltés folyamatban...");
-            setTimeout(() => location.reload(), 3000);  // 3 másodperc múlva újratölt
-        </script>
-        """
-    
     if request.method == 'POST':
         
         start_total = time.time()
@@ -327,8 +328,18 @@ def index():
         context = get_context_text(embedding)
         end_ctx = time.time()
         start_llm = time.time()
-        resp = get_llm_response(context,user_question)
-        end_llm = time.time()
+        try:
+            resp = get_llm_response(context, user_question)
+            end_llm = time.time()
+        except RuntimeError as e:
+            end_llm = time.time() 
+            end_total = time.time()
+            return jsonify({"error": str(e)}), 503
+        except Exception as e:
+            end_llm = time.time()
+            end_total = time.time()
+            return jsonify({"error": "Ismeretlen hiba: " + str(e)}), 500
+
         end_total = time.time()
 
         if current_gt_index >= len(ground_truths_vector_by_search_40):
