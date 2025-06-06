@@ -2749,8 +2749,7 @@ Tanárképző Intézet (https://sapientia.ro/hu/oktatas/tanarkepzes/a-zarovizsga
 # Alkalmazott Nyelvészeti Tanszék
 Fordító és tolmács szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-nyelveszeti-tanszek__/fordito-es-tolmacs-szak)
 # Fordító és tolmács szak
-Alkalmazott Nyelvészeti Tanszék útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025
-03%20Szakdolgozat-keszitesi%20utmutato%202025.pdf)
+Alkalmazott Nyelvészeti Tanszék útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/03%20Szakdolgozat-keszitesi%20utmutato%202025.pdf)
 # Alkalmazott Társadalomtudományi Tanszék
 Kommunikáció és közkapcsolatok szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-tarsadalomtudomanyi-tanszek_/kommunikacio-es-kozkapcsolatok-szak)
 Közegészségügyi szolgáltatások és politikák szak (https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/zarovizsga-keszitesi-utmutatok/alkalmazott-tarsadalomtudomanyi-tanszek_/kozegeszsegugyi-szolgaltatasok-es-politikak-szak)

@@ -14,14 +14,14 @@ def main():
     if not UPSTASH_VECTOR_REST_URL or not UPSTASH_VECTOR_REST_TOKEN:
         print("❌ Hiba: Az UPSTASH_URL vagy UPSTASH_TOKEN nincs beállítva környezeti változóként.")
         sys.exit(1)
-    vector_id = "chunk_492"
+    vector_id = "chunk_477"
 
 
     response = index.update(
-        id= vector_id, metadata={"text": "# Automatika és alkalmazott informatika szak\nAutomatika és alkalmazott informatika szak (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/Keszitesi%20utmutato_2022/Szakdolgozat%20VMT%20Automatika_2022.doc)",
-        "chunk_id": "chunk_155",
+        id= vector_id, metadata={"text": "# Fordító és tolmács szak\nAlkalmazott Nyelvészeti Tanszék útmutatója (https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/03%20Szakdolgozat-keszitesi%20utmutato%202025.pdf)",
+        "chunk_id": "chunk_140",
         "chunk_order": 1,
-        "header": "# Automatika és alkalmazott informatika szak"
+        "header": "# Fordító és tolmács szak"
         }
     )
 
