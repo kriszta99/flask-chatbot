@@ -1,0 +1,274 @@
+1.kérdés: Add meg a 2025-ös tanév Erasmus+ hallgató pályázati felhivásának linkjét!
+1.válasz: https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/erasmus-hallgatoi-palyazati-felhivas-szakmai-gyakorlat-mobilitas-2025-nyara-es-tanulmanyi-mobilitas-202526-os-tanev
+
+2.kérdés: Hol találom meg az Erasmus+ hasznos informacioit?
+2.válasz: Hasznos információk https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok
+
+3.kérdés: Mi az a makovecz program?
+3.válasz: Makovecz Hallgatói Ösztöndíjprogram teljes szemeszteres részképzéseket, valamint részképzős tanulmányutakat kínál a hallgatók számára más, határon túli magyar nyelvű felsőoktatási intézményekben.
+
+4.kérdés: Hol kapom meg a Makovecz ösztöndíjprogramhoz szükséges dokumentukomokat?
+4.válasz: Dokumentumok, formanyomtatványok https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program/dokumentumok-formanyomtatvanyok
+
+5.kérdés: Hol kaphatom meg a CEEPUS program tantervét a Mechatronika szaknak?
+5.válasz: Mechatronika https://ms.sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/curriculum-mech.pdf
+
+6.kérdés: Mi a neve az intézmenyi Erasmus+ kordinátorának?
+6.válasz: Páll Zita
+
+7.kédés: Mi az domus?
+7.válasz: Az MTA Domus ösztöndíjprogramja senior és junior ösztöndíjakkal kívánja támogatni a külföldi kutatók szakmai munkásságát, magyarországi tevékenységét, segítve bekapcsolódásukat a magyarországi tudományos életbe, akadémiai és egyetemi kutatásokba, magyarországi szakmai partnerek, témavezetők közreműködésével.
+
+8.kérdés: Sorold fel a PRRG tagjait?
+8.válasz: dr. Kenéz Lajos- a kutatócsoport vezetője
+	  dr.ing. Kutasi Dénes Nimród
+
+9.kédés: Mliyen szakterületei vannak a PEDIMCo kutatócsoportnak?
+9.válasz: Szakterületek:
+-teljesítményelektronika, rezonáns áramirányítók, indukciós hevítés
+-magnetronos porlasztás
+-elektronsugaras hegesztés
+-villamos hajtások vektoriális szabályozása
+-rendszerek modellezése és optimális szabályozása
+
+10.kérdés: Sorold fel narc partnerintéznényeit?
+10.válasz: 
+Faculty of Information Technology, Pannon University, Veszprém, Magyarország
+SZTAKI - INSTITUTE FOR COMPUTER SCIENCE AND CONTROL, Budapest, Magyarország
+
+11.kérdés: Add meg a gepészmérnöki szak fő tantárgyait!
+11.válasz: 
+Főbb tantárgyak:
+- anyagtudományok
+- számítógépes tervezés
+- ipari elektronika
+- gép-, szerszám- és készüléktervezés
+- ipari robotok
+- műanyagtechnológiák és fröccsentő szerszámok.
+- CNC-programozás és gyártás
+- gyártáselmélet
+
+12.kérdés: PPGroup melyik tanszékhez tartozik?
+12.válasz: Kertészmérnöki Tanszékhez
+
+13.kérdés: Mi annak a kutaócsoportnak neve ami a gépészmérnöki tanszékhez tartozik?
+13.válasz: Alkalmazott Fizika és Gépészeti Tudományok Kutatóközpont
+
+14.kérdés: Az új média kuatócsoport melyik szakhoz kapcsolodik?
+14.válasz: Kommunikáció és közkapcsolatok szak
+
+15.kérdés: Sorold fel a DAMERG kutatócsoport Kolozsvári tagjait?
+15.válasz:
+Dr. Benő Attila
+Dr. Zsemlyei Borbála
+
+16.kérdés: Melyik linken talalálom a acfa kutatási tervét?
+16.válasz: Kutatási terv https://ms.sapientia.ro/content/docs/MS/Kutatokozpontok/ACFA/ACFA_Plan_de_cercetare.pdf
+
+17.kérdés: Sorold fel a matinfo docenseit!
+17.válasz:
+Dr. Szász Róbert, docens
+Dr. Kátai Zoltán, docens
+Dr. Pál László, docens
+Dr. Kupán Pál, docens
+Dr. Antal Margit, docens
+
+18.kérdés: Add meg a tantárgyi leirások linkjét!
+18.válasz: https://ms.sapientia.ro/hu/oktatas/tantargyi-leirasok
+
+19.kérdés: Add meg a mechatronika 2025-ös I. éves tantervét!
+19.válasz: https://ms.sapientia.ro/content/docs/MS/Tantervek/MBMech_2024_Magyar.pdf
+
+20.kérdés: Hol találom a növényorvos szak II.éves tantervét?
+20.válasz: https://ms.sapientia.ro/content/docs/MS/Tantervek/MMNOV_2023_SZL%20m%C3%A1rc.27.pdf
+
+21.kérdés: Hol érhetem el a távközlés tantárgyi adatlapját!
+21.válasz: https://ms.sapientia.ro/content/docs/MS/TST-20230616T072159Z-001.zip
+
+22.kérdés: Add meg az órarendet!
+22.válasz: https://ms.sapientia.ro/hu/oktatas/orarend
+
+23.kérdés: Hogy hivják a jezsuita szerzetest?
+23.válasz: András Csaba
+
+24.kérdés: Hogy hivják a családorvosokat?
+24.válasz:
+dr. Juhász Imre
+dr. Nagy Bernadett
+dr. Kis Anna-Bernadett
+
+25.kérdés: Mi a telefonszáma dr. Finna Juditnak?
+25.válasz: 0744-339-765
+
+26.kérdés: Mi az orvosi rendelő időpontjai?
+26.válasz: Rendelési időpontok:
+hétfő, szerda: 9-14 óra
+kedd, csütörtök: 14-18 óra
+péntek: 9-13 óra
+
+27.kérdés: Az oklevél átvételéhez mi szükséges?
+27.válasz: 
+Az oklevél átvételéhez szükséges:
+1. előzetes emailes időpont foglalás (a diploma@sapientia.ro e-mail-címen)
+2. személyazonossági igazolvány
+3. születési bizonyítvány eredetije és egyszerű másolata (ha hiányzik a dossziéból – erről az időpont egyeztetéskor értesítjük a végzettet)
+4. névváltoztatás esetén az ezt igazoló dokumentum (házasságlevél vagy egyéb okirat) eredetije és egyszerű másolata
+5. 2 db. aktuális, színes, 3x4 cm-es fénykép (ha hiányzik a dossziéból, vagy nem megfelelő – erről az időpont egyeztetéskor értesítjük a végzettet)
+6. Alumni kérdőív kitöltve (a kérdőív végén kapott kódot küldjék el az időpont egyeztetéskor e-mailben; posztgraduális tanárképző esetén: Alumni kérdőív - Tanárképző)
+
+28.kérdés: Miből áll a portfólió nyilvános védése?
+28.válasz: 
+1. a portfólió bemutatása;
+2. kérdések az értékelők és a bizottság részéről.
+
+29.kérdés: Miből áll a tanárképzés záróvizsga menete?
+29.válasz: A záróvizsga menete:
+1. a portfólió leadása;
+2. a benyújtott portfólió nyilvános védése.
+
+30.kérdés: Hol találom a számítástechnika szak záróvizsga útmutatóját?
+30.válasz: https://ms.sapientia.ro/data/Szakdolgozat%20VMT%20Szamitastechnika.doc
+
+31.kérdés: Hol talalálom a matematika-informatika tanszék útmutatójaát?
+31.válasz: https://ms.sapientia.ro/content/2011-2021/Szakdolgozat%20MIT%20Informatika.pdf
+
+32.kérdés: Hol találom a tájépitészeti szak tervlapját?
+32.válasz: https://drive.google.com/file/d/1NHt8QHPZ2-5U44-RYeKB76ylNOkq3zr0/view?usp=sharing
+
+33.kédés: Melyik linken találom az alkalmazott nyelvészeti tanszék útmutatóját?
+33.válasz: https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/03%20Szakdolgozat-keszitesi%20utmutato%202025.pdf
+
+34.kérdés: Hogy tevődik össze a nyelvizsga irásbeli része és hány pontot érnek?
+34.válasz:
+ÍRÁSBELI (24 pont)
+Hallott szövegértés (6 pont)
+Olvasott szövegértés (6 pont)
+Nyelvtan és nyelvhelyességi gyakorlat (6 pont)
+Fogalmazás (6 pont)
+
+35.kérdés: Hol kell iratkozni a nyelvizsga harmadik részére?
+35.válasz: A tanszékeken kell iratkozni.
+
+36.kédés: Mikor van a záróvizsga időpontja a Fejlett mechatronikai rendszereknak?
+36.válasz:  2025. július 8.
+
+37.kérdés: Hányas teremben van a záróvizsga a növényorvos szaknak?
+37.válasz: 231-es terem
+
+38.kérdés: Mi az a disszertáció?
+38.válasz: A disszertáció vizsga a mesteri disszertáció bizottság előtt történő bemutatásából és védéséből áll.
+A mesteri disszertáció védése nyilvános, a bizottság és a vizsgázó ugyanazon helyen való egyidejű jelenlétében történik.
+
+39.kérdés: Hol található a mesterképzés ütemezés?
+39.válasz: https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025
+
+40.kérdés: Miből áll a pedagogiai portfolió középiskolai szakasz? 
+40.válasz:
+Középiskolai szakasz:
+1.1. Óralátogatási lap
+1.2. Lecketerv a megtartott órákról
+Ajánlott: Tantárgy féléves/1-2 tematikus terve (planificare pe unități de învățare); lecketerv a hospitált órákról
+1.3. Jegyzőkönyv a vizsgatanításról (tanár végzi)
+1.4. Pszichopedagógiai jellemzés: középiskolás-korú diákról
+
+41.kérdés: Hány darab kérdésből áll a tájépitészet záróvizsga irásbeli része?
+41.válasz: 50
+
+42.kérdés: Hányas teremben lesz a számítástechnika záróvizsga?
+42.válasz: 230-as terem
+
+43.kédés: Hányas termekben lesz a mechatronika szak záróvizsga?
+43.válasz: 213, 217, 230-as termek
+
+44.kédés: Hol érhető el a közegészségügyi szolgáltatások és politikák szak záróvizsga tematikája?
+44.válasz: https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/K%C3%B6zeg%C3%A9szs%C3%A9g%C3%BCgy_%C3%81llamvizsga_tematika_2023_2024.pdf
+
+45.kérdés: Hogy számolják ki az informatika szak záróvizsga végső jegyét?
+45.válasz: A záróvizsga végső jegye: az írásbeli vizsgán szerzett jegy és a szakdolgozat védésére kapott jegy számtani középarányosa.
+
+46.kérdés: Mik az I. szintű pedagógiai modul kötelező tantárgyai, hány órából áll és hány kredtiből?
+46.válasz:
+Kötelező tantárgyak:
+1. Neveléspszichológia (4 óra, 5 kredit)
+2. Pedagógia I.: A pedagógia alapjai + Tantervelmélet (4 óra, 5 kredit)
+3. Pedagógia II.: Oktatáselmélet + Értékeléselmélet (4 óra, 5 kredit)
+4. Szakmódszertan (4 óra, 5 kredit); (dupla szakosok esetében 2x5 kredit)
+5. Számítógéppel támogatott oktatás (2 óra, 2 kredit)
+6. Osztályvezetés (2 óra, 3 kredit)
+7. Pedagógiai gyakorlat I, II (5 kredit)
+
+47.kérdés: Hogy mondják románul a Tanárképző Intézetet? 
+47.válasz: Departamentul de Specialitate cu Profil Psihopedagogic – DSPP
+
+48.kérdés: Mennyit kell fizetni egy főnek az Apartmann (3 + 3 ágy)-ra?
+48.válasz: 200 lej/fő
+
+49.kédés: Milyen papirok kellenek a bentlakás jelentkezéséshez?
+49.válasz: 
+Szükséges iratok:
+1. a szülők részéről az adóhivatal által kibocsátott igazolás arra vonatkozóan, hogy van-e vagy nincs megadózandó jövedelmük (Adeverință de venit).
+2. a szülők részéről a Polgármesteri Hivatal által kiadott bizonyítvány a tulajdonban lévő földterületről vagy ennek hiányáról.
+Elvált szülők esetén a bírósági végzés másolata, illetve annak a szülőnek az 1., 2. pontban megjelölt iratai, akinek a gyermeket nevelésre odaítélték.
+3. testvérekkel (ha vannak) kapcsolatos iratok: a 18 éven aluli testvérek esetén óvodai vagy iskolai igazolvány, illetve születési bizonyítvány másolata, ha nem óvodás, és nem iskolás.
+A 18 éven felüli testvérek esetén főiskolai vagy egyetemi igazolvány, illetve ha igazoltan munkaképtelen, rokkantsági nyugdíj igazolása.
+4. betegség esetén a törvényben előírt, családorvos/szakorvos által kiállított, 3 hónaposnál nem régebbi bizonyítvány
+5. félárvák esetében az elhunyt szülő halotti bizonyítványának másolata
+6. árvák esetében a szülők halotti bizonyítványának másolata
+7. gyermekotthonban nevelkedők esetében azon intézet által kiállított bizonyítvány, ahol utoljára tartózkodott
+9. személyi igazolvány másolata
+10. születési bizonyítvány másolata
+11. orvosi igazolás a háziorvostól, ami tartalmazza, hogy lakhat bentlakásban (hiánya kizáró jellegű)
+12. erkölcsi bizonyítvány („priusz”, románul „cazier”, hiánya kizáró jellegű)
+13. Felvételi díj befizetése 200 lej,
+Beiratkozási díj a bentlakásba 200 lej.
+
+50.kédés: Add meg a kari tdk honlapját!
+50.válasz: https://tdk.sapientia.ro/
+
+51.kérdés: Mi az újra felvett tantárgynak a befizetési dátuma?
+51.válasz: tanévkezdés - 1 hét
+
+52.kérdés: Mi a 4500 RON I.félévi tandij mulasztása?
+52.válasz: napi 0,5% késedelmi kamat, ösztöndíjletiltás
+
+53.kédés: Hol találom a szoftverfejlesztés felvételi tematikáját?
+53.válasz: https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/SZF_Tematika_2022_2023_HU.pdf / RO https://ms.sapientia.ro/content/docs/MS/Tematica_2022_2023_RO.pdf
+
+54.kédés: Milyen elhelyeszkedő lehetőségek vannak a szoftverfejlesztés szakon?
+54.válasz:
+ Elhelyezkedési lehetőségek:
+	programtervező
+	szoftver-projektmenedzser
+	információtechnológiai szakértő, tanácsadó
+	informatikatanár
+	kutató
+
+55.kérdés: Mennyi ideg tart az informatika képzés?
+55.válasz: 3 év
+
+56.kérdés: Hány tanszék van a marosvasarhelyi karon?
+56.válasz: 6
+
+57.kérdés: Mi a dékán neve a marosvasarhelyi karon?
+57.válasz: Dr. Domokos József
+
+58.kédés: Ki a kari erasmus bizottság elnöke?
+58.válasz: dr. Antal Margit
+
+59.kédés: Milyen linken találom az internship ajánlatokat?
+59.válasz: https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/internship-ajanlatok
+
+60.kérdés: Sorold fel a HÖK rendezvényeit!
+60.válasz: 
+Időszakos rendezvényeink:
+Karácsonyi ajándékozás
+Sapi Slam
+Film maraton
+Klasszikus és néptánc oktatás
+Nyílt napok
+Quiz Night
+Egészségnap
+
+
+
+

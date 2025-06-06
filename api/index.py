@@ -68,7 +68,7 @@ def get_embedding(text: str, model="text-embedding-ada-002") -> np.ndarray:
 
 def get_chunk_id_from_embedding(query_embedding):
     #legközelebbi vektorok lekérdezése
-    results = vector_db.query(vector=query_embedding, include_metadata=True,top_k=50)    
+    results = vector_db.query(vector=query_embedding, include_metadata=True,top_k=50,query_mode=QueryMode.DENSE)    
     chunk_ids = [result.metadata.get('chunk_id') for result in results]
     sorted_results = sorted(results, key=lambda r: r.score, reverse=True)
     chunk_ids = []
@@ -134,7 +134,7 @@ def get_llm_response(context, question):
     
     client = genai.Client(api_key=api_key)
 
-    full_prompt = f"<context>{context}</context>Kérem, válaszoljon az alábbi kérdésre a fent megadott kontextus alapján, vedd ki a markdown formatumot:<user_query>{question}</user_query>\nVálasz:"
+    full_prompt = f"<context>{context}</context>Kérem, válaszoljon az alábbi kérdésre a fent megadott kontextus alapján, vedd ki a markdown formátumot:<user_query>{question}</user_query>\nVálasz:"
     try:
         response = client.models.generate_content(
             #model="gemini-2.0-flash-thinking-exp-01-21",
@@ -148,7 +148,12 @@ def get_llm_response(context, question):
         )
         return response.text
     except Exception as e:
-        raise RuntimeError(f"LLM hiba: {str(e)}")
+        if "503" in str(e):
+            raise RuntimeError(f"Az LLM modell túlterhelt. Próbáld meg később újra.")
+        else:
+            raise RuntimeError(f"LLM error:{str(e)}")
+
+            
 
 def save_timings_to_excel(filepath, question, t_embed, t_ctx, t_llm, t_total,bertscore_f1):
     new_row = {
@@ -286,7 +291,150 @@ ground_truths_vector_by_search_40 = [
     "A záróvizsga időpontja: 2025. július 7., 129-es terem",
     "A bentlakásban 3 szobatípus van: apartman, garzon, tetőtéri szoba."
 ]
-@app.route("/init")
+
+ground_truths_vector_by_search_60 =[
+    "https://sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hallgatok/erasmus-hallgatoi-palyazati-felhivas-szakmai-gyakorlat-mobilitas-2025-nyara-es-tanulmanyi-mobilitas-202526-os-tanev",
+    "Hasznos információk https://ms.sapientia.ro/hu/nemzetkozi-kapcsolatok/erasmus/hasznos-informaciok",
+    "Makovecz Hallgatói Ösztöndíjprogram teljes szemeszteres részképzéseket, valamint részképzős tanulmányutakat kínál a hallgatók számára más, határon túli magyar nyelvű felsőoktatási intézményekben.",
+    "Dokumentumok, formanyomtatványok https://sapientia.ro/hu/nemzetkozi-kapcsolatok/makovecz-program/dokumentumok-formanyomtatvanyok",
+    "Mechatronika https://ms.sapientia.ro/content/2011-2021/nemzetkozi-hallgatok/curriculum-mech.pdf",
+    "Páll Zita",
+    "Az MTA Domus ösztöndíjprogramja senior és junior ösztöndíjakkal kívánja támogatni a külföldi kutatók szakmai munkásságát, magyarországi tevékenységét, segítve bekapcsolódásukat a magyarországi tudományos életbe, akadémiai és egyetemi kutatásokba, magyarországi szakmai partnerek, témavezetők közreműködésével.",
+    """dr. Kenéz Lajos- a kutatócsoport vezetője
+	  dr.ing. Kutasi Dénes Nimród""",
+    """Szakterületek:
+        -teljesítményelektronika, rezonáns áramirányítók, indukciós hevítés
+        -magnetronos porlasztás
+        -elektronsugaras hegesztés
+        -villamos hajtások vektoriális szabályozása
+        -rendszerek modellezése és optimális szabályozása""",
+    """Faculty of Information Technology, Pannon University, Veszprém, Magyarország
+       SZTAKI - INSTITUTE FOR COMPUTER SCIENCE AND CONTROL, Budapest, Magyarország""",
+    """Főbb tantárgyak:
+        - anyagtudományok
+        - számítógépes tervezés
+        - ipari elektronika
+        - gép-, szerszám- és készüléktervezés
+        - ipari robotok
+        - műanyagtechnológiák és fröccsentő szerszámok.
+        - CNC-programozás és gyártás
+        - gyártáselmélet""",
+    "Kertészmérnöki Tanszékhez",
+    "Alkalmazott Fizika és Gépészeti Tudományok Kutatóközpont",
+    "Kommunikáció és közkapcsolatok szak",
+    """Dr. Benő Attila
+       Dr. Zsemlyei Borbála""",
+    "Kutatási terv https://ms.sapientia.ro/content/docs/MS/Kutatokozpontok/ACFA/ACFA_Plan_de_cercetare.pdf",
+    """Dr. Szász Róbert, docens
+        Dr. Kátai Zoltán, docens
+        Dr. Pál László, docens
+        Dr. Kupán Pál, docens
+        Dr. Antal Margit, docens""",
+    "https://ms.sapientia.ro/hu/oktatas/tantargyi-leirasok",
+    "https://ms.sapientia.ro/content/docs/MS/Tantervek/MBMech_2024_Magyar.pdf",
+    "https://ms.sapientia.ro/content/docs/MS/Tantervek/MMNOV_2023_SZL%20m%C3%A1rc.27.pdf",
+    "https://ms.sapientia.ro/content/docs/MS/TST-20230616T072159Z-001.zip",
+    "https://ms.sapientia.ro/hu/oktatas/orarend",
+    "András Csaba",
+    """dr. Juhász Imre
+       dr. Nagy Bernadett
+       dr. Kis Anna-Bernadett""",
+    "0744-339-765",
+    """Rendelési időpontok:
+        hétfő, szerda: 9-14 óra
+        kedd, csütörtök: 14-18 óra
+        péntek: 9-13 óra""",
+    """Az oklevél átvételéhez szükséges:
+        1. előzetes emailes időpont foglalás (a diploma@sapientia.ro e-mail-címen)
+        2. személyazonossági igazolvány
+        3. születési bizonyítvány eredetije és egyszerű másolata (ha hiányzik a dossziéból – erről az időpont egyeztetéskor értesítjük a végzettet)
+        4. névváltoztatás esetén az ezt igazoló dokumentum (házasságlevél vagy egyéb okirat) eredetije és egyszerű másolata
+        5. 2 db. aktuális, színes, 3x4 cm-es fénykép (ha hiányzik a dossziéból, vagy nem megfelelő – erről az időpont egyeztetéskor értesítjük a végzettet)
+        6. Alumni kérdőív kitöltve (a kérdőív végén kapott kódot küldjék el az időpont egyeztetéskor e-mailben; posztgraduális tanárképző esetén: Alumni kérdőív - Tanárképző)""",
+    """1. a portfólió bemutatása;
+       2. kérdések az értékelők és a bizottság részéről.""",
+    """A záróvizsga menete:
+        1. a portfólió leadása;
+        2. a benyújtott portfólió nyilvános védése.""",
+    "https://ms.sapientia.ro/data/Szakdolgozat%20VMT%20Szamitastechnika.doc",
+    "https://ms.sapientia.ro/content/2011-2021/Szakdolgozat%20MIT%20Informatika.pdf",
+    "https://drive.google.com/file/d/1NHt8QHPZ2-5U44-RYeKB76ylNOkq3zr0/view?usp=sharing",
+    "https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2025/03%20Szakdolgozat-keszitesi%20utmutato%202025.pdf",
+    """ÍRÁSBELI (24 pont)
+        Hallott szövegértés (6 pont)
+        Olvasott szövegértés (6 pont)
+        Nyelvtan és nyelvhelyességi gyakorlat (6 pont)
+        Fogalmazás (6 pont)""",
+    "A tanszékeken kell iratkozni.",
+    "2025. július 8.",
+    "231-es terem",
+    """A disszertáció vizsga a mesteri disszertáció bizottság előtt történő bemutatásából és védéséből áll.
+        A mesteri disszertáció védése nyilvános, a bizottság és a vizsgázó ugyanazon helyen való egyidejű jelenlétében történik.""",
+    "https://ms.sapientia.ro/hu/hallgatoknak/zarovizsga/mesterkepzes-utemezes-20242025",
+    """Középiskolai szakasz:
+        1.1. Óralátogatási lap
+        1.2. Lecketerv a megtartott órákról
+        Ajánlott: Tantárgy féléves/1-2 tematikus terve (planificare pe unități de învățare); lecketerv a hospitált órákról
+        1.3. Jegyzőkönyv a vizsgatanításról (tanár végzi)
+        1.4. Pszichopedagógiai jellemzés: középiskolás-korú diákról""",
+    "50",
+    "230-as terem",
+    "213, 217, 230-as termek",
+    "https://ms.sapientia.ro/content/docs/MS/Zarovizsga/2024/K%C3%B6zeg%C3%A9szs%C3%A9g%C3%BCgy_%C3%81llamvizsga_tematika_2023_2024.pdf",
+    "A záróvizsga végső jegye: az írásbeli vizsgán szerzett jegy és a szakdolgozat védésére kapott jegy számtani középarányosa.",
+    """Kötelező tantárgyak:
+        1. Neveléspszichológia (4 óra, 5 kredit)
+        2. Pedagógia I.: A pedagógia alapjai + Tantervelmélet (4 óra, 5 kredit)
+        3. Pedagógia II.: Oktatáselmélet + Értékeléselmélet (4 óra, 5 kredit)
+        4. Szakmódszertan (4 óra, 5 kredit); (dupla szakosok esetében 2x5 kredit)
+        5. Számítógéppel támogatott oktatás (2 óra, 2 kredit)
+        6. Osztályvezetés (2 óra, 3 kredit)
+        7. Pedagógiai gyakorlat I, II (5 kredit)""",
+    "Departamentul de Specialitate cu Profil Psihopedagogic – DSPP",
+    "200 lej/fő",
+    """Szükséges iratok:
+    1. a szülők részéről az adóhivatal által kibocsátott igazolás arra vonatkozóan, hogy van-e vagy nincs megadózandó jövedelmük (Adeverință de venit).
+    2. a szülők részéről a Polgármesteri Hivatal által kiadott bizonyítvány a tulajdonban lévő földterületről vagy ennek hiányáról.
+    Elvált szülők esetén a bírósági végzés másolata, illetve annak a szülőnek az 1., 2. pontban megjelölt iratai, akinek a gyermeket nevelésre odaítélték.
+    3. testvérekkel (ha vannak) kapcsolatos iratok: a 18 éven aluli testvérek esetén óvodai vagy iskolai igazolvány, illetve születési bizonyítvány másolata, ha nem óvodás, és nem iskolás.
+    A 18 éven felüli testvérek esetén főiskolai vagy egyetemi igazolvány, illetve ha igazoltan munkaképtelen, rokkantsági nyugdíj igazolása.
+    4. betegség esetén a törvényben előírt, családorvos/szakorvos által kiállított, 3 hónaposnál nem régebbi bizonyítvány
+    5. félárvák esetében az elhunyt szülő halotti bizonyítványának másolata
+    6. árvák esetében a szülők halotti bizonyítványának másolata
+    7. gyermekotthonban nevelkedők esetében azon intézet által kiállított bizonyítvány, ahol utoljára tartózkodott
+    9. személyi igazolvány másolata
+    10. születési bizonyítvány másolata
+    11. orvosi igazolás a háziorvostól, ami tartalmazza, hogy lakhat bentlakásban (hiánya kizáró jellegű)
+    12. erkölcsi bizonyítvány („priusz”, románul „cazier”, hiánya kizáró jellegű)
+    13. Felvételi díj befizetése 200 lej,
+    Beiratkozási díj a bentlakásba 200 lej.""",
+    "https://tdk.sapientia.ro/",
+    "tanévkezdés - 1 hét",
+    "napi 0,5% késedelmi kamat, ösztöndíjletiltás",
+    "https://ms.sapientia.ro/content/docs/MS/Felveteli/2022/SZF_Tematika_2022_2023_HU.pdf / RO https://ms.sapientia.ro/content/docs/MS/Tematica_2022_2023_RO.pdf",
+    """Elhelyezkedési lehetőségek:
+            programtervező
+            szoftver-projektmenedzser
+            információtechnológiai szakértő, tanácsadó
+            informatikatanár
+            kutató""",
+    "3 év",
+    "6",
+    "Dr. Domokos József",
+    "dr. Antal Margit",
+    "https://ms.sapientia.ro/hu/a-karrol/karrieriroda/allasajanlatok-es-szakmai-gyakorlat/internship-ajanlatok",
+    """Időszakos rendezvényeink:
+        Karácsonyi ajándékozás
+        Sapi Slam
+        Film maraton
+        Klasszikus és néptánc oktatás
+        Nyílt napok
+        Quiz Night
+        Egészségnap"""
+
+
+    ]
+@app.route("/")
 def init_load():
     global loading_started
     with loading_lock:
@@ -342,9 +490,9 @@ def index():
 
         end_total = time.time()
 
-        if current_gt_index >= len(ground_truths_vector_by_search_40):
+        if current_gt_index >= len(ground_truths_vector_by_search_60):
             return jsonify({"error": "Nincs több ground truth válasz teszteléshez."}), 400
-        ground_truth = ground_truths_vector_by_search_40[current_gt_index]
+        ground_truth = ground_truths_vector_by_search_60[current_gt_index]
 
         # pontosságot mérek BERTScore-dal
         P, R, F1 = score([resp], [ground_truth], lang="hu")
@@ -364,7 +512,8 @@ def index():
         print(f"TELJES kérés feldolgozás: {t_total:.3f}s")
         print(f"Szemantikus hasonlóság méréke (bertscore_f1):{bertscore_f1}")
         #proba_valasz,p_context  = curent_context_from_context(embedding,user_question)
-        #save_timings_to_excel("../vectorSearchTesting/timings_40_question_.xlsx", user_question, t_embed, t_ctx, t_llm, t_total,bertscore_f1)
+        #save_timings_to_excel("../vectorSearchTesting/timings_60_questionScore0_90.xlsx", user_question, t_embed, t_ctx, t_llm, t_total,bertscore_f1)
+        #save_timings_to_excel("../vectorSearchTesting/timings_60_question_score0_86.xlsx", user_question, t_embed, t_ctx, t_llm, t_total,bertscore_f1)
 
         return jsonify({"answer": resp})
     
