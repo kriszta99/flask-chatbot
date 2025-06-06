@@ -85,7 +85,7 @@ const handleChat = async () => {
         chatbox.removeChild(incomingChatLi);
 
         if (data.error) {
-            // Hiba esetén alert ablakot jelenítünk meg
+            // hiba esetén alert ablakot jelenitek meg
             alert(`⚠️ Hiba történt:\n${data.error}`);
         } else {
             chatbox.appendChild(createChatLi(data.answer, "incoming"));
