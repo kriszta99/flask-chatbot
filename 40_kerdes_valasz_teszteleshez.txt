@@ -100,7 +100,7 @@ Egyetem neve: Széchenyi István Egyetem, Győr
 26.kérdés: Mit jelent a BIP?
 26.válasz: Vegyes intenzív programok (BIP)
 
-27.kérdés: Mit a Sapientia jelentése?
+27.kérdés: Mi a Sapientia jelentése?
 27.válasz: A Sapientia szó bölcsességet jelent, más szóval értő tanulmányozást és a tudásmegfontolt alkalmazását.
 
 28.kérdés: Havi hány eurot kapnak a a hosszú mobilitás esetén a hátrányos helyzetű hallgatok?
