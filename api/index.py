@@ -10,7 +10,6 @@ from bert_score import score
 from google import genai
 from upstash_vector.types import SparseVector, FusionAlgorithm, QueryMode
 from FlagEmbedding import BGEM3FlagModel # sparse vector embbeding model
-
 from concurrent.futures import ThreadPoolExecutor, wait
 import threading
 from dotenv import load_dotenv
@@ -61,10 +60,17 @@ def load_all_vectors_to_list():
     return response.data[0].embedding"""
     
 def get_embedding(text: str, model="text-embedding-ada-002") -> np.ndarray:
-    response = openai.embeddings.create(input=text, model=model)
-    # Az új API-ban a válasz egy objektum, nem közvetlenül szótár
-    embedding = response.data[0].embedding
-    return np.array(embedding)
+    try:
+        response = openai.embeddings.create(input=text, model=model)
+        # Az új API-ban a válasz egy objektum, nem közvetlenül szótár
+        embedding = response.data[0].embedding
+        return np.array(embedding)
+    except Exception as e:
+        if "503" in str(e) or "Rate limit" in str(e):
+            raise RuntimeError(f"A text-embedding-ada-002 modell limitje elfogyott.")
+        else:
+            raise RuntimeError(f"Embedding model error:{str(e)}")
+
 
 #BGE-M3 sparse embedding modell segitségével atalakitom a felhasznaló kérdését Sparse vectorrá s visszatéritem 
 def get_sparse_vector_from_query(user_query: str) -> SparseVector:
@@ -101,7 +107,7 @@ def get_chunk_id_from_embedding(query_embedding, query_sparse_vector):
     results = vector_db.query(
         vector=query_embedding,
         sparse_vector=query_sparse_vector,
-        fusion_algorithm=FusionAlgorithm.DBSF,  # vagy FusionAlgorithm.DBSF
+        fusion_algorithm=FusionAlgorithm.RRF,  # vagy FusionAlgorithm.DBSF
         include_metadata=True,
         top_k=50,
         query_mode=QueryMode.HYBRID
@@ -489,26 +495,17 @@ def init_load():
             # Futtasd háttérszálban, hogy ne blokkolja a válaszadást
             threading.Thread(target=load_all_vectors_to_list).start()
         if not loading_done:
-                return """
-                    <script>
-                        if (!navigator.onLine) {
-                            alert("Nincs internetkapcsolat. Kérlek, probálkozz később ha lesz internet.");
-                        } else {
-                            alert("Kérlek várj, betöltés folyamatban...");
-                            setTimeout(() => location.reload(), 2000);
-                        }
-                    </script>
-                    """
-
+                return render_template('loading.html')
     return redirect("/chatbot")
-
+@app.route("/status")
+def status():
+    return jsonify({"done": loading_done})
 # index, melyik ground truth-t hasonlítjuk össze az adott kérdésnél
 current_gt_index = 0
 
 @app.route('/chatbot', methods=['GET', 'POST'])
 def index():
     if request.method == 'POST':
-        
         start_total = time.time()
         global current_gt_index
 
@@ -519,8 +516,17 @@ def index():
         if not user_question:
             return jsonify({"error": "Nincs megadva kérdés"}), 400
         start_embed = time.time()
-        embedding = get_embedding(user_question) #OpenAI API-val átalakítja a szöveget embedding-gé (vektorrá)
-        end_embed = time.time()
+        try:
+            embedding = get_embedding(user_question) #OpenAI API-val átalakítja a szöveget embedding-gé (vektorrá)
+            end_embed = time.time()
+        except RuntimeError as e:
+            end_embed = time.time()
+            end_total = time.time()
+            return jsonify({"error": str(e)}), 503
+        except Exception as e:
+            end_embed = time.time()
+            end_total = time.time()
+            return jsonify({"error": "Ismeretlen hiba: " + str(e)}), 500
         start_sparse_embed = time.time()
         query_sparse_vector = get_sparse_vector_from_query(user_question)
         end_sparse_embed = time.time()
@@ -572,7 +578,7 @@ def index():
         #save_timings_to_excel("../vectorSearchTesting/timings_60_questionScore0_90.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
         #save_timings_to_excel("../vectorSearchTesting/timings_60_question_score0_86.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
         #save_timings_to_excel("../hybrid_searchTesting/timings_40_question_RRF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
-        save_timings_to_excel("../hybrid_searchTesting/timings_60_question_DBSF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
+        #save_timings_to_excel("../hybrid_searchTesting/timings_60_question_DBSF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
         
         
         return jsonify({"answer": resp})
