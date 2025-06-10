@@ -232,7 +232,7 @@ document.addEventListener("DOMContentLoaded", () => {
         Swal.fire({
             icon: 'info',
             title: 'TIPP',
-            text: 'A pontosabb válaszhoz irj helyesen hasznalj (ékezeteket, kis-nagybetűt fogalmakra)!',
+            text: 'A pontosabb válaszhoz hasznalj ékezeteket és kis-nagybetűt a fogalmakhoz!',
             timer: 2000,
             showConfirmButton: false
         });
