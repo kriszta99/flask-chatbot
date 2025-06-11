@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, render_template, request, redirect, flash
+from flask import Flask, jsonify, render_template, redirect, request
 from upstash_vector import Index
 import numpy as np
 from collections import defaultdict
@@ -9,9 +9,9 @@ import openai
 from bert_score import score
 from google import genai
 from upstash_vector.types import SparseVector, FusionAlgorithm, QueryMode
-from FlagEmbedding import BGEM3FlagModel # sparse vector embbeding model
 from concurrent.futures import ThreadPoolExecutor, wait
 import threading
+import requests
 from dotenv import load_dotenv
 
 # Környezeti változók betöltése
@@ -20,9 +20,9 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 UPSTASH_VECTOR_REST_URL = os.getenv("UPSTASH_VECTOR_REST_URL")
 UPSTASH_VECTOR_REST_TOKEN = os.getenv("UPSTASH_VECTOR_REST_TOKEN")
 api_key = os.getenv("GEMINI_API_KEY")
-sparse_model = BGEM3FlagModel('BAAI/bge-m3', use_fp16=True)
 
 app = Flask(__name__)
+
 vector_db = Index(url=UPSTASH_VECTOR_REST_URL, token=UPSTASH_VECTOR_REST_TOKEN)
 loading_done = False
 loading_started = False
@@ -30,7 +30,7 @@ loading_lock = threading.Lock()
 
 
 results_ = []
-#lekérem az összes vektort (parhuzamosan hogy gyorsitsam a lekeresi időt) egy globalis listaba az adatbazisból ösz:1159
+#lekérem az összes vektort (parhuzamosan hogy gyorsitsam a lekeresi időt) egy globalis listaba az adatbazisból ösz:1158
 def load_all_vectors_to_list():
     global results_, loading_done
     start_total_load = time.time()
@@ -42,8 +42,8 @@ def load_all_vectors_to_list():
 
     with ThreadPoolExecutor(max_workers=2) as executor:
         futures = [
-            executor.submit(fetch_range, "0", 580),
-            executor.submit(fetch_range, "580", 579)
+            executor.submit(fetch_range, "0", 579),
+            executor.submit(fetch_range, "579", 579)
         ]
 
         for future in futures:
@@ -54,11 +54,7 @@ def load_all_vectors_to_list():
     print(f"Betöltve {len(results_)} vektor, össz idő: {end_total_load - start_total_load:.2f} s")
     loading_done = True
 
-# OpenAI embedding-é alakitom a felhasználó kérdését
-"""def get_embedding(text: str, model="text-embedding-ada-002") -> list:
-    response = openai.embeddings.create(input=text, model=model)
-    return response.data[0].embedding"""
-    
+# OpenAI embedding-é alakitom a felhasználó kérdését    
 def get_embedding(text: str, model="text-embedding-ada-002") -> np.ndarray:
     try:
         response = openai.embeddings.create(input=text, model=model)
@@ -71,20 +67,50 @@ def get_embedding(text: str, model="text-embedding-ada-002") -> np.ndarray:
         else:
             raise RuntimeError(f"Embedding model error:{str(e)}")
 
+print("Warming up embedding model...")
+get_embedding("warmup request", model="text-embedding-ada-002")
+print("Embedding model ready.")
 
 #BGE-M3 sparse embedding modell segitségével atalakitom a felhasznaló kérdését Sparse vectorrá s visszatéritem 
 def get_sparse_vector_from_query(user_query: str) -> SparseVector:
-    sparse_vectorResp = sparse_model.encode(
-        user_query,
-        return_dense=False,
-        return_sparse=True,
-        return_colbert_vecs=False
-    )
-    
-    return SparseVector(
-        indices=[int(k) for k in sparse_vectorResp['lexical_weights'].keys()],
-        values=[float(v) for v in sparse_vectorResp['lexical_weights'].values()]
-    )
+    url = "https://api.deepinfra.com/v1/inference/BAAI/bge-m3-multi"
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer GPdqwIzw3NsvoJiynSDGrO9C0HjQ1X2t"
+    }
+    data = {
+        "inputs": [user_query],
+        "dense": False,
+        "sparse": True,
+        "colbert": False
+    }
+
+    try:
+        response = requests.post(url, headers=headers, json=data, timeout=10)
+
+        if response.status_code == 200:
+            json_resp = response.json()
+            sparse_vec_full = json_resp['sparse'][0]
+
+            arr = np.array(sparse_vec_full)
+            nonzero_indices = np.nonzero(arr)[0]
+            nonzero_values = arr[nonzero_indices].astype(float)
+
+            indices = nonzero_indices.tolist()
+            values = nonzero_values.tolist()
+
+            return SparseVector(indices=indices, values=values)
+
+        elif response.status_code == 503:
+            raise RuntimeError("A bge-m3 modell túlterhelt. Próbáld meg később újra.")
+        else:
+            raise Exception(f"API hiba: {response.status_code} - {response.text}")
+
+    except requests.exceptions.RequestException as e:
+        # hálózati hiba vagy timeout
+        raise RuntimeError(f"Hálózati vagy kapcsolat hiba: {str(e)}")    
+
+  
 """
 #dense vector lekerdezese
 def get_chunk_id_from_embedding(query_embedding):
@@ -200,8 +226,6 @@ def get_llm_response(context, question):
             raise RuntimeError(f"Az LLM modell túlterhelt. Próbáld meg később újra.")
         else:
             raise RuntimeError(f"LLM error:{str(e)}")
-
-            
 
 def save_timings_to_excel(filepath, question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size):
     new_row = {
@@ -528,7 +552,17 @@ def index():
             end_total = time.time()
             return jsonify({"error": "Ismeretlen hiba: " + str(e)}), 500
         start_sparse_embed = time.time()
-        query_sparse_vector = get_sparse_vector_from_query(user_question)
+        try:
+            query_sparse_vector = get_sparse_vector_from_query(user_question)
+            end_sparse_embed = time.time()
+        except RuntimeError as e:
+            end_sparse_embed = time.time()
+            end_total = time.time()
+            return jsonify({"error": str(e)}), 503
+        except Exception as e:
+            end_sparse_embed = time.time()
+            end_total = time.time()
+            return jsonify({"error": "Ismeretlen hiba: " + str(e)}), 500
         end_sparse_embed = time.time()
         start_ctx = time.time()
         # kontextus összeállítása a lekérdezett embedding alapján
@@ -549,9 +583,9 @@ def index():
 
         end_total = time.time()
 
-        if current_gt_index >= len(ground_truths_vector_by_search_60):
+        if current_gt_index >= len(ground_truths_vector_by_search_20):
             return jsonify({"error": "Nincs több ground truth válasz teszteléshez."}), 400
-        ground_truth = ground_truths_vector_by_search_60[current_gt_index]
+        ground_truth = ground_truths_vector_by_search_20[current_gt_index]
 
         # pontosságot mérek BERTScore-dal
         P, R, F1 = score([resp], [ground_truth], lang="hu")
@@ -577,7 +611,7 @@ def index():
         #proba_valasz,p_context  = curent_context_from_context(embedding,user_question)
         #save_timings_to_excel("../vectorSearchTesting/timings_60_questionScore0_90.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
         #save_timings_to_excel("../vectorSearchTesting/timings_60_question_score0_86.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
-        #save_timings_to_excel("../hybrid_searchTesting/timings_40_question_RRF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
+        save_timings_to_excel("../hybrid_searchTesting/timings_20_question_RRF_deepinfra.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
         #save_timings_to_excel("../hybrid_searchTesting/timings_60_question_DBSF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
         
         
@@ -589,4 +623,5 @@ def index():
 if __name__ == '__main__':
     #load_all_vectors_to_list()
     #app.run(debug=True)
+    #app.run(host="192.168.56.1")
     app.run()

@@ -4,13 +4,14 @@ import openai
 import re
 import json
 import os
+import requests
 import numpy as np
 from dotenv import load_dotenv
 from upstash_vector import Index
 import tiktoken
 from upstash_vector import Vector
 from upstash_vector.types import SparseVector
-from FlagEmbedding import BGEM3FlagModel
+#from FlagEmbedding import BGEM3FlagModel
 
 # Környezeti változók betöltése
 load_dotenv()
@@ -18,7 +19,8 @@ load_dotenv()
 UPSTASH_VECTOR_REST_URL = os.getenv("UPSTASH_VECTOR_REST_URL")
 UPSTASH_VECTOR_REST_TOKEN = os.getenv("UPSTASH_VECTOR_REST_TOKEN")
 openai.api_key = os.getenv("OPENAI_API_KEY")
-sparse_model = BGEM3FlagModel('BAAI/bge-m3',  use_fp16=True) 
+#sparse_model = BGEM3FlagModel('BAAI/bge-m3',  use_fp16=True) 
+
 # Inicializálom az Upstash Index-et
 index = Index(url=UPSTASH_VECTOR_REST_URL, token=UPSTASH_VECTOR_REST_TOKEN)
 #szöveg beágyazásának lekérése OpenAI modellel.
@@ -146,40 +148,64 @@ def chunk_text_by_line_with_headers_to_embedding(file_path, max_tokens=256, enco
         })
 
     return chunks
+# API hívás a sparse vektor lekéréséhez egy szöveg chunkhoz
+def get_sparse_vector_from_api(text_chunk):
+    url = "https://api.deepinfra.com/v1/inference/BAAI/bge-m3-multi"
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer GPdqwIzw3NsvoJiynSDGrO9C0HjQ1X2t"
+    }
+    data = {
+        "inputs": [text_chunk],
+        "dense": False,
+        "sparse": True,
+        "colbert": False
+    }
 
+    response = requests.post(url, headers=headers, json=data)
+    if response.status_code == 200:
+        json_resp = response.json()
+        sparse_vec_full = json_resp['sparse'][0]
+        # Csak a nem nulla elemeket vesszük, index és érték párban
+        indices = [int(i) for i, v in enumerate(sparse_vec_full) if v != 0]
+        values = [float(v) for v in sparse_vec_full if v != 0]
+        return {"indices": indices, "values": values}
+    else:
+        raise Exception(f"API hiba: {response.status_code} - {response.text}")
 
 def chunk_to_insert_to_vectorDB(file_path, max_tokens=256, encoding_name='cl100k_base'):
     chunks = chunk_text_by_line_with_headers_to_embedding(file_path, max_tokens, encoding_name)
 
     for i, chunk in enumerate(chunks):
-
-
-        # sparse vector 
-        sparse_vectorResp = sparse_model.encode(chunk['text'], return_dense=False, return_sparse=True, return_colbert_vecs=False)
-        #print(sparse_model.convert_id_to_token(sparse_vectorResp['lexical_weights']))
-
-        sparse_vector = SparseVector(
-            indices=[int(k) for k in sparse_vectorResp['lexical_weights'].keys()],
-            values=[float(v) for v in sparse_vectorResp['lexical_weights'].values()]
-        )
-        
-         # dense + sparse + metadata összevonása egy Vector objektumba
-        vector_data = Vector(
-            id=f"{chunk['chunk_index']}",  # ugyanaz az ID, így nem írja felül, csak bővíti
-            vector=chunk['embedding'],
-            sparse_vector=sparse_vector,
-            metadata={
-                "text": chunk['text'],
-                "chunk_id": chunk['chunk_id'],
-                "chunk_order": chunk['order'],
-                "header": chunk['header']
-            }
-        )
-
-        print(f"\nIndex: {chunk['chunk_index']}, Chunk_id: {chunk['chunk_id']},sparseVector: {sparse_vector}, chunk_order: {chunk['order']}, Header: {chunk['header']}")
-        print(f"Szöveg: {chunk['text'][:20]}...")  # csak rövid előnézet
+        try:
+        # Lekérjük az adott chunk sparse vektorát az API-ból
+            sparse_vector_resp = get_sparse_vector_from_api(chunk['text'])
+        except Exception as e:
+                print(f"❌ Hiba az API hívásnál: {e}")
+                break
 
         try:
+            sparse_vector = SparseVector(
+                indices=sparse_vector_resp['indices'],
+                values=sparse_vector_resp['values']
+            )
+            
+            # dense + sparse + metadata összevonása egy Vector objektumba
+            vector_data = Vector(
+                id=f"{chunk['chunk_index']}",  # ugyanaz az ID, így nem írja felül, csak bővíti
+                vector=chunk['embedding'],
+                sparse_vector=sparse_vector,
+                metadata={
+                    "text": chunk['text'],
+                    "chunk_id": chunk['chunk_id'],
+                    "chunk_order": chunk['order'],
+                    "header": chunk['header']
+                }
+            )
+
+            print(f"\nIndex: {chunk['chunk_index']}, Chunk_id: {chunk['chunk_id']},sparseVector: {sparse_vector}, chunk_order: {chunk['order']}, Header: {chunk['header']}")
+            print(f"Szöveg: {chunk['text'][:20]}...")  # csak rövid előnézet
+
             index.upsert([vector_data])
             print(f"✅ Feltöltés sikeres: {i}")
         except Exception as e:
