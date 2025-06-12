@@ -86,7 +86,7 @@ def get_sparse_vector_from_query(user_query: str) -> SparseVector:
     }
 
     try:
-        response = requests.post(url, headers=headers, json=data, timeout=10)
+        response = requests.post(url, headers=headers, json=data, timeout=30)
 
         if response.status_code == 200:
             json_resp = response.json()
@@ -110,7 +110,10 @@ def get_sparse_vector_from_query(user_query: str) -> SparseVector:
         # hálózati hiba vagy timeout
         raise RuntimeError(f"Hálózati vagy kapcsolat hiba: {str(e)}")    
 
-  
+print("Warming up sparse  model...")
+get_sparse_vector_from_query("warmup request")
+print("sparse model is ready.")  
+
 """
 #dense vector lekerdezese
 def get_chunk_id_from_embedding(query_embedding):
@@ -181,25 +184,41 @@ def query_by_chunk_id(chunk_ids):
     return grouped_by_chunk_id,len(chunk_ids)
 
 def get_context_text(query_embedding,query_sparse_vector):
-    #chunk_ids = get_chunk_id_from_embedding(query_embedding,user_question)
-    chunk_ids = get_chunk_id_from_embedding(query_embedding,query_sparse_vector)
-    if not chunk_ids:
-        return "Nem található chunk_id."
+    try:
+        #chunk_ids = get_chunk_id_from_embedding(query_embedding,user_question)
+        chunk_ids = get_chunk_id_from_embedding(query_embedding,query_sparse_vector)
+        if not chunk_ids:
+            # nincs releváns chunk — fallback szöveg
+            return (
+                "Figyelem: Nem áll rendelkezésre releváns kontextus. "
+                "Kérlek, válaszolj a saját tudásod alapján, ha tudsz, vagy jelezd, hogy nem tudsz válaszolni."
+            ), 0
 
-    grouped_results, top_k_size = query_by_chunk_id(chunk_ids)
-    if not grouped_results:
-        return f"Nincs találat a(z) {chunk_ids} chunk_id-re."
+        grouped_results, top_k_size = query_by_chunk_id(chunk_ids)
+        if not grouped_results:
+            # nincs találat — fallback szöveg
+            return (
+                "Figyelem: Nem áll rendelkezésre releváns kontextus. "
+                "Kérlek, válaszolj a saját tudásod alapján, ha tudsz, vagy jelezd, hogy nem tudsz válaszolni."
+            ), 0
 
-    # minden chunk_id-hoz tartozó szöveg összefűzése, chunk_order szerint
-    context_parts = []
-    for chunk_id in sorted(grouped_results.keys()):
-        texts = [r.metadata.get('text','') for r in grouped_results[chunk_id]]
-        text_joined = "\n".join(texts)
-        context_parts.append(f"{chunk_id}\n{text_joined}")
+        # minden chunk_id-hoz tartozó szöveg összefűzése, chunk_order szerint
+        context_parts = []
+        for chunk_id in sorted(grouped_results.keys()):
+            texts = [r.metadata.get('text','') for r in grouped_results[chunk_id]]
+            text_joined = "\n".join(texts)
+            context_parts.append(f"{chunk_id}\n{text_joined}")
 
-    # chunk_id csoportokat elválasztjuk dupla sortöréssel
-    context = "\n\n".join(context_parts)
-    return context, top_k_size
+        # chunk_id csoportokat elválasztjuk dupla sortöréssel
+        context = "\n\n".join(context_parts)
+        return context, top_k_size
+    except Exception as e:
+        print(f"Hiba a kontextus összeállítása során: {e}")
+        # hiba esetén is fallback szöveg, a rendszer ne essen szét 
+        return (
+            "Figyelem: Nem áll rendelkezésre releváns kontextus (hiba történt a kontextus generálásakor). "
+            "Kérlek, válaszolj a saját tudásod alapján, ha tudsz, vagy jelezd, hogy nem tudsz válaszolni."
+        ), 0
 
 
 
@@ -212,9 +231,9 @@ def get_llm_response(context, question):
     try:
         response = client.models.generate_content(
             #model="gemini-2.0-flash-thinking-exp-01-21",
-            #model = "gemini-2.0-flash",
+            model = "gemini-2.0-flash",
             #model="gemini-1.5-flash",
-            model="gemini-2.0-flash",
+            #model="gemini-2.0-flash",
             #model = "gemini-2.5-flash-preview-05-20",
 
 
@@ -539,55 +558,48 @@ def index():
 
         if not user_question:
             return jsonify({"error": "Nincs megadva kérdés"}), 400
-        start_embed = time.time()
         try:
+            start_embed = time.time()
             embedding = get_embedding(user_question) #OpenAI API-val átalakítja a szöveget embedding-gé (vektorrá)
             end_embed = time.time()
         except RuntimeError as e:
-            end_embed = time.time()
-            end_total = time.time()
             return jsonify({"error": str(e)}), 503
         except Exception as e:
-            end_embed = time.time()
-            end_total = time.time()
             return jsonify({"error": "Ismeretlen hiba: " + str(e)}), 500
-        start_sparse_embed = time.time()
         try:
+            start_sparse_embed = time.time()
             query_sparse_vector = get_sparse_vector_from_query(user_question)
             end_sparse_embed = time.time()
         except RuntimeError as e:
-            end_sparse_embed = time.time()
-            end_total = time.time()
             return jsonify({"error": str(e)}), 503
         except Exception as e:
-            end_sparse_embed = time.time()
-            end_total = time.time()
             return jsonify({"error": "Ismeretlen hiba: " + str(e)}), 500
-        end_sparse_embed = time.time()
-        start_ctx = time.time()
-        # kontextus összeállítása a lekérdezett embedding alapján
-        context, top_k_size = get_context_text(embedding,query_sparse_vector)
-        end_ctx = time.time()
-        start_llm = time.time()
         try:
+            start_ctx = time.time()
+            # kontextus összeállítása a lekérdezett embedding alapján
+            context, top_k_size = get_context_text(embedding,query_sparse_vector)
+            end_ctx = time.time()
+        except RuntimeError as e:
+            return jsonify({"error": str(e)}), 503
+        except Exception as e:
+            return jsonify({"error": "Ismeretlen hiba: " + str(e)}), 500
+        
+        try:
+            start_llm = time.time()
             resp = get_llm_response(context, user_question)
             end_llm = time.time()
         except RuntimeError as e:
-            end_llm = time.time() 
-            end_total = time.time()
             return jsonify({"error": str(e)}), 503
         except Exception as e:
-            end_llm = time.time()
-            end_total = time.time()
             return jsonify({"error": "Ismeretlen hiba: " + str(e)}), 500
 
         end_total = time.time()
 
-        if current_gt_index >= len(ground_truths_vector_by_search_20):
+        if current_gt_index >= len(ground_truths_vector_by_search_60):
             return jsonify({"error": "Nincs több ground truth válasz teszteléshez."}), 400
-        ground_truth = ground_truths_vector_by_search_20[current_gt_index]
+        ground_truth = ground_truths_vector_by_search_60[current_gt_index]
 
-        # pontosságot mérek BERTScore-dal
+        # szematikus hasonlosot mérek BERTScore-dal
         P, R, F1 = score([resp], [ground_truth], lang="hu")
         bertscore_f1 = F1.mean().item()
 
@@ -611,11 +623,11 @@ def index():
         #proba_valasz,p_context  = curent_context_from_context(embedding,user_question)
         #save_timings_to_excel("../vectorSearchTesting/timings_60_questionScore0_90.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
         #save_timings_to_excel("../vectorSearchTesting/timings_60_question_score0_86.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
-        save_timings_to_excel("../hybrid_searchTesting/timings_20_question_RRF_deepinfra.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
-        #save_timings_to_excel("../hybrid_searchTesting/timings_60_question_DBSF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
-        
+        save_timings_to_excel("../hybrid_searchTesting/timings_60_question_RRF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
+        #save_timings_to_excel("../hybrid_searchTesting/timings_20_question_DBSF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
         
         return jsonify({"answer": resp})
+        #return jsonify({"answer": resp, "LLM_time": t_llm, "beckend_time":t_total,"bertscore_f1":bertscore_f1})
     
 
     return render_template('index.html')
@@ -623,5 +635,4 @@ def index():
 if __name__ == '__main__':
     #load_all_vectors_to_list()
     #app.run(debug=True)
-    #app.run(host="192.168.56.1")
     app.run()
