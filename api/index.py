@@ -85,34 +85,34 @@ def get_sparse_vector_from_query(user_query: str) -> SparseVector:
         "colbert": False
     }
 
-    try:
-        response = requests.post(url, headers=headers, json=data, timeout=30)
+    
+    
+    response = requests.post(url, headers=headers, json=data, timeout=30)
 
-        if response.status_code == 200:
-            json_resp = response.json()
-            sparse_vec_full = json_resp['sparse'][0]
+    if response.status_code == 200:
+        json_resp = response.json()
+        sparse_vec_full = json_resp['sparse'][0]
 
-            arr = np.array(sparse_vec_full)
-            nonzero_indices = np.nonzero(arr)[0]
-            nonzero_values = arr[nonzero_indices].astype(float)
+        arr = np.array(sparse_vec_full)
+        nonzero_indices = np.nonzero(arr)[0]
+        nonzero_values = arr[nonzero_indices].astype(float)
 
-            indices = nonzero_indices.tolist()
-            values = nonzero_values.tolist()
+        indices = nonzero_indices.tolist()
+        values = nonzero_values.tolist()
 
-            return SparseVector(indices=indices, values=values)
+        return SparseVector(indices=indices, values=values)
 
-        elif response.status_code == 503:
-            raise RuntimeError("A bge-m3 modell túlterhelt. Próbáld meg később újra.")
-        else:
-            raise Exception(f"API hiba: {response.status_code} - {response.text}")
-
-    except requests.exceptions.RequestException as e:
-        # hálózati hiba vagy timeout
-        raise RuntimeError(f"Hálózati vagy kapcsolat hiba: {str(e)}")    
+    elif response.status_code == 503:
+        raise RuntimeError("A bge-m3 modell túlterhelt. Próbáld meg később újra.")
+    else:
+        raise Exception(f"API hiba: {response.status_code} - {response.text}")
+   
+   
 
 print("Warming up sparse  model...")
 get_sparse_vector_from_query("warmup request")
-print("sparse model is ready.")  
+print("sparse model is ready.")     
+
 
 """
 #dense vector lekerdezese
@@ -566,6 +566,7 @@ def index():
             return jsonify({"error": str(e)}), 503
         except Exception as e:
             return jsonify({"error": "Ismeretlen hiba: " + str(e)}), 500
+       
         try:
             start_sparse_embed = time.time()
             query_sparse_vector = get_sparse_vector_from_query(user_question)
@@ -574,6 +575,7 @@ def index():
             return jsonify({"error": str(e)}), 503
         except Exception as e:
             return jsonify({"error": "Ismeretlen hiba: " + str(e)}), 500
+        
         try:
             start_ctx = time.time()
             # kontextus összeállítása a lekérdezett embedding alapján
@@ -595,9 +597,9 @@ def index():
 
         end_total = time.time()
 
-        if current_gt_index >= len(ground_truths_vector_by_search_60):
+        if current_gt_index >= len(ground_truths_vector_by_search_20):
             return jsonify({"error": "Nincs több ground truth válasz teszteléshez."}), 400
-        ground_truth = ground_truths_vector_by_search_60[current_gt_index]
+        ground_truth = ground_truths_vector_by_search_20[current_gt_index]
 
         # szematikus hasonlosot mérek BERTScore-dal
         P, R, F1 = score([resp], [ground_truth], lang="hu")
@@ -623,7 +625,7 @@ def index():
         #proba_valasz,p_context  = curent_context_from_context(embedding,user_question)
         #save_timings_to_excel("../vectorSearchTesting/timings_60_questionScore0_90.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
         #save_timings_to_excel("../vectorSearchTesting/timings_60_question_score0_86.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
-        save_timings_to_excel("../hybrid_searchTesting/timings_60_question_RRF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
+        #save_timings_to_excel("../hybrid_searchTesting/timings_60_question_RRF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
         #save_timings_to_excel("../hybrid_searchTesting/timings_20_question_DBSF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
         
         return jsonify({"answer": resp})
