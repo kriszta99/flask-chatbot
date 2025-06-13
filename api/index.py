@@ -538,7 +538,7 @@ def init_load():
 def status():
     return jsonify({"done": loading_done})
 # index, melyik ground truth-t hasonlítjuk össze az adott kérdésnél
-current_gt_index = 38
+current_gt_index = 0
 
 @app.route('/chatbot', methods=['GET', 'POST'])
 def index():
@@ -620,7 +620,7 @@ def index():
         #save_timings_to_excel("../vectorSearchTesting/timings_60_questionScore0_90.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
         #save_timings_to_excel("../vectorSearchTesting/timings_60_question_score0_86.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
         #save_timings_to_excel("../hybrid_searchTesting/timings_60_question_RRF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
-        save_timings_to_excel("../hybrid_searchTesting/timings_60_question_DBSF_deepinfra.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
+        save_timings_to_excel("../hybrid_searchTesting/timings_60_question_DBSF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
         
         return jsonify({"answer": resp})
         #return jsonify({"answer": resp, "LLM_time": t_llm, "beckend_time":t_total,"bertscore_f1":bertscore_f1})
