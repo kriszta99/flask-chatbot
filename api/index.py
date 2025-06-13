@@ -71,7 +71,7 @@ print("Warming up embedding model...")
 get_embedding("warmup request", model="text-embedding-ada-002")
 print("Embedding model ready.")
 
-#BGE-M3 sparse embedding modell segitségével atalakitom a felhasznaló kérdését Sparse vectorrá s visszatéritem 
+#bge-m3-multi sparse embedding modell segitségével atalakitom a felhasznaló kérdését Sparse vectorrá s visszatéritem 
 def get_sparse_vector_from_query(user_query: str) -> SparseVector:
     url = "https://api.deepinfra.com/v1/inference/BAAI/bge-m3-multi"
     headers = {
@@ -103,16 +103,10 @@ def get_sparse_vector_from_query(user_query: str) -> SparseVector:
         return SparseVector(indices=indices, values=values)
 
     elif response.status_code == 503:
-        raise RuntimeError("A bge-m3 modell túlterhelt. Próbáld meg később újra.")
+        raise RuntimeError("A bge-m3-multi modell túlterhelt. Próbáld meg később újra.")
     else:
         raise Exception(f"API hiba: {response.status_code} - {response.text}")
-   
-   
-
-print("Warming up sparse  model...")
-get_sparse_vector_from_query("warmup request")
-print("sparse model is ready.")     
-
+       
 
 """
 #dense vector lekerdezese
@@ -136,7 +130,7 @@ def get_chunk_id_from_embedding(query_embedding, query_sparse_vector):
     results = vector_db.query(
         vector=query_embedding,
         sparse_vector=query_sparse_vector,
-        fusion_algorithm=FusionAlgorithm.RRF,  # vagy FusionAlgorithm.DBSF
+        fusion_algorithm=FusionAlgorithm.DBSF,  # vagy FusionAlgorithm.DBSF
         include_metadata=True,
         top_k=50,
         query_mode=QueryMode.HYBRID
@@ -544,7 +538,7 @@ def init_load():
 def status():
     return jsonify({"done": loading_done})
 # index, melyik ground truth-t hasonlítjuk össze az adott kérdésnél
-current_gt_index = 0
+current_gt_index = 38
 
 @app.route('/chatbot', methods=['GET', 'POST'])
 def index():
@@ -597,9 +591,9 @@ def index():
 
         end_total = time.time()
 
-        if current_gt_index >= len(ground_truths_vector_by_search_20):
+        if current_gt_index >= len(ground_truths_vector_by_search_60):
             return jsonify({"error": "Nincs több ground truth válasz teszteléshez."}), 400
-        ground_truth = ground_truths_vector_by_search_20[current_gt_index]
+        ground_truth = ground_truths_vector_by_search_60[current_gt_index]
 
         # szematikus hasonlosot mérek BERTScore-dal
         P, R, F1 = score([resp], [ground_truth], lang="hu")
@@ -626,7 +620,7 @@ def index():
         #save_timings_to_excel("../vectorSearchTesting/timings_60_questionScore0_90.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
         #save_timings_to_excel("../vectorSearchTesting/timings_60_question_score0_86.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
         #save_timings_to_excel("../hybrid_searchTesting/timings_60_question_RRF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
-        #save_timings_to_excel("../hybrid_searchTesting/timings_20_question_DBSF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
+        save_timings_to_excel("../hybrid_searchTesting/timings_60_question_DBSF_deepinfra.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
         
         return jsonify({"answer": resp})
         #return jsonify({"answer": resp, "LLM_time": t_llm, "beckend_time":t_total,"bertscore_f1":bertscore_f1})
