@@ -68,6 +68,8 @@ const chatbotCloseBtn = document.querySelector(".close-btn");
 
    
 let userMessage=null;
+let curent_index = 0;
+
 const inputInitHeight = chatInput.scrollHeight;
 
 const generateLinkHTML = (url) => {
@@ -115,7 +117,6 @@ const createChatLi = (message, className) => {
     return chatLi;
 };
 
-
 const handleChat = async () => {
     //a felhasználó által beírt üzenet, és távolítom el a felesleges szóközöket
     userMessage = chatInput.value.trim();
@@ -131,7 +132,20 @@ const handleChat = async () => {
     const incomingChatLi = createChatLi("Gondolkodom...", "incoming");
     chatbox.appendChild(incomingChatLi);
     chatbox.scrollTo(0, chatbox.scrollHeight);
+
+    if (curent_index >= 20) {
+    Swal.fire({
+      icon: 'error',
+      title: 'Hiba',
+      text: `Nincs több tesztelési kérdés!`,
+      showConfirmButton: false
+    });
+    return;
+  }
+
+
     try {
+    const start = performance.now();
     const response = await fetch('/chatbot', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -140,8 +154,13 @@ const handleChat = async () => {
 
         const data = await response.json();
         chatbox.removeChild(incomingChatLi);
-
+        const end = performance.now();
+        const elapsed = (end - start) / 1000;
+        const roundedElapsed = parseFloat(elapsed.toFixed(2));
+        console.log(roundedElapsed);
+        
         if (data.error) {
+        
             // hiba esetén alert ablakot jelenitek meg
             //alert(`Hiba történt:\n${data.error}`);
              Swal.fire({
@@ -152,9 +171,36 @@ const handleChat = async () => {
             });
         } else {
             chatbox.appendChild(createChatLi(data.answer, "incoming"));
+            
+            console.log(roundedElapsed)
+
+
+            curent_index +=1
+            const saveResponse = await fetch('/save-timing', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    LLM_name: data.LLM_model_name,
+                    user_question: userMessage,
+                    LLM_answer: data.answer,
+                    LLM_time: data.LLM_time,
+                    backend_time: data.backend_time,
+                    frontend_time: (roundedElapsed-data.backend_time),   // vagy más frontend idő
+                    user_grand_time: roundedElapsed,
+                    bertscore_f1: data.bertscore_f1
+                })
+                });
+
+                const saveData = await saveResponse.json();
+                if (saveData.status !== 'ok') {
+                console.error("Mentés sikertelen");
+                }
+
+
         }
 
         chatbox.scrollTo(0, chatbox.scrollHeight);
+        
 
     } catch (error) {
         chatbox.removeChild(incomingChatLi);
@@ -172,14 +218,13 @@ const handleChat = async () => {
 
 }
 
-
 chatInput.addEventListener("input", () => {
     // itt igazitom az input szövegmező magasságát a tartalmához
     chatInput.style.height = `${inputInitHeight}px`;
     chatInput.style.height = `${chatInput.scrollHeight}px`;
   });
 
-  chatInput.addEventListener("keydown", (e) => {
+chatInput.addEventListener("keydown", (e) => {
     //ha az Enter billentyűt a Shift nélkül van lenyomva
     if(e.key === "Enter" && !e.shiftKey && window.innerWidth > 800){
         e.preventDefault();
@@ -188,11 +233,11 @@ chatInput.addEventListener("input", () => {
 
    
   });
-  chatInput.addEventListener("focus", () => {
+chatInput.addEventListener("focus", () => {
     // Timeout azért kell, mert a billentyűzet felugrása után kell görgetni
     setTimeout(() => {
         chatInput.scrollIntoView({ behavior: "smooth", block: "center" });
-    }, 300); // kisebb delay kellhet, hogy a billentyűzet tényleg feljöjjön előtte
+    }, 100); // kisebb delay kellhet, hogy a billentyűzet tényleg feljöjjön előtte
 });
 sendChatBtn.addEventListener("click",handleChat);
 chatbotToggler.addEventListener("click", ()=> document.body.classList.toggle("show-chatbot"));
@@ -232,7 +277,7 @@ document.addEventListener("DOMContentLoaded", () => {
         Swal.fire({
             icon: 'info',
             title: 'TIPP',
-            text: 'A pontosabb válaszhoz hasznalj ékezeteket és kis-nagybetűt a fogalmakhoz!',
+            text: 'A pontosabb válaszhoz használj ékezeteket és kis-nagybetűt a fogalmakhoz!',
             timer: 2000,
             showConfirmButton: false
         });
