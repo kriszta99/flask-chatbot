@@ -5,6 +5,7 @@ from collections import defaultdict
 import os
 import pandas as pd
 import time
+from openai import OpenAI
 import openai
 from bert_score import score
 from google import genai
@@ -12,17 +13,21 @@ from upstash_vector.types import SparseVector, FusionAlgorithm, QueryMode
 from concurrent.futures import ThreadPoolExecutor, wait
 import threading
 import requests
+import json
 from dotenv import load_dotenv
 
 # Környezeti változók betöltése
 load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 UPSTASH_VECTOR_REST_URL = os.getenv("UPSTASH_VECTOR_REST_URL")
 UPSTASH_VECTOR_REST_TOKEN = os.getenv("UPSTASH_VECTOR_REST_TOKEN")
 api_key = os.getenv("GEMINI_API_KEY")
+openRouter = os.getenv("OPEN_ROUTER_API_KEY")
+api_key_pro = os.getenv("GEMINI_API_KEY_PRO")
 
 app = Flask(__name__)
 
+EXCEL_PATH = '../LLMTypeTesting/timings_20_question_gemini-1.5-pro.xlsx'
 vector_db = Index(url=UPSTASH_VECTOR_REST_URL, token=UPSTASH_VECTOR_REST_TOKEN)
 loading_done = False
 loading_started = False
@@ -57,7 +62,7 @@ def load_all_vectors_to_list():
 # OpenAI embedding-é alakitom a felhasználó kérdését    
 def get_embedding(text: str, model="text-embedding-ada-002") -> np.ndarray:
     try:
-        response = openai.embeddings.create(input=text, model=model)
+        response = client.embeddings.create(input=text, model=model)
         # Az új API-ban a válasz egy objektum, nem közvetlenül szótár
         embedding = response.data[0].embedding
         return np.array(embedding)
@@ -85,9 +90,7 @@ def get_sparse_vector_from_query(user_query: str) -> SparseVector:
         "colbert": False
     }
 
-    
-    
-    response = requests.post(url, headers=headers, json=data, timeout=30)
+    response = requests.post(url, headers=headers, json=data, timeout=(30))
 
     if response.status_code == 200:
         json_resp = response.json()
@@ -106,7 +109,7 @@ def get_sparse_vector_from_query(user_query: str) -> SparseVector:
         raise RuntimeError("A bge-m3-multi modell túlterhelt. Próbáld meg később újra.")
     else:
         raise Exception(f"API hiba: {response.status_code} - {response.text}")
-       
+      
 
 """
 #dense vector lekerdezese
@@ -130,12 +133,16 @@ def get_chunk_id_from_embedding(query_embedding, query_sparse_vector):
     results = vector_db.query(
         vector=query_embedding,
         sparse_vector=query_sparse_vector,
-        fusion_algorithm=FusionAlgorithm.DBSF,  # vagy FusionAlgorithm.DBSF
+        fusion_algorithm=FusionAlgorithm.RRF,  # vagy FusionAlgorithm.DBSF
         include_metadata=True,
         top_k=50,
         query_mode=QueryMode.HYBRID
     )
-
+    
+    # chunk_id-k kiszűrése, duplikációk eltávolítása
+    chunk_ids = list(dict.fromkeys(
+        result.metadata.get('chunk_id') for result in results
+    ))
     # Szűrés pontszám alapján
     #sorted_results = sorted(results, key=lambda r: r.score, reverse=True)
 
@@ -145,12 +152,9 @@ def get_chunk_id_from_embedding(query_embedding, query_sparse_vector):
         for result in sorted_results
         if result.score >= 0.86
     ]"""
-    # chunk_id-k kiszűrése, duplikációk eltávolítása
-    chunk_ids = list(dict.fromkeys(
-        result.metadata.get('chunk_id') for result in results
-    ))
+  
     #print(chunk_ids)
-    print(len(chunk_ids))
+    #print(len(chunk_ids))
     return chunk_ids
 
 def query_by_chunk_id(chunk_ids): 
@@ -219,16 +223,18 @@ def get_context_text(query_embedding,query_sparse_vector):
 #az LLM model segitségével választ generalok a feltett kérdésre
 def get_llm_response(context, question):
     
-    client = genai.Client(api_key=api_key)
+    #client = genai.Client(api_key=api_key)
+    client = genai.Client(api_key=api_key_pro)
 
     full_prompt = f"<context>{context}</context>Kérem, válaszoljon az alábbi kérdésre a fent megadott kontextus alapján, vedd ki a markdown formátumot:<user_query>{question}</user_query>\nVálasz:"
     try:
         response = client.models.generate_content(
-            #model="gemini-2.0-flash-thinking-exp-01-21",
-            model = "gemini-2.0-flash",
-            #model="gemini-1.5-flash",
-            #model="gemini-2.0-flash",
             #model = "gemini-2.5-flash-preview-05-20",
+            #model="gemini-2.0-flash-thinking-exp-01-21",
+            #model = "gemini-2.0-flash",
+            #model = "gemini-1.5-flash",
+            model = "gemini-1.5-pro",
+            
 
 
             contents=[full_prompt]
@@ -239,6 +245,56 @@ def get_llm_response(context, question):
             raise RuntimeError(f"Az LLM modell túlterhelt. Próbáld meg később újra.")
         else:
             raise RuntimeError(f"LLM error:{str(e)}")
+
+def get_llm_response_openai(context: str, question: str) -> str:
+    messages = [
+        {"role": "developer", "content": f"<context>{context}</context>"},
+        {"role": "user", "content": f"Kérem, válaszoljon az alábbi kérdésre a fent megadott kontextus alapján, vedd ki a markdown formátumot:<user_query>{question}</user_query>"}
+    ]
+    try:
+       
+        response= client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=messages
+        )
+        return response.choices[0].message.content
+    except Exception as e:
+        return f"Hiba történt a válasz generálásakor: {str(e)}"
+
+def get_llm_response_openrouter(context: str, question: str) -> str:
+    url = "https://openrouter.ai/api/v1/chat/completions"
+
+    payload = {
+        "model": "meta-llama/mistral-8b",
+        "messages": [
+            {
+                "role": "system",
+                "content": f"<context>{context}</context>"
+
+            },
+            {
+                "role": "user",
+                "content": f"Kérem, válaszoljon az alábbi kérdésre a fent megadott kontextus alapján, vedd ki a markdown formátumot:<user_query>{question}</user_query>"
+            }
+        ]
+    }
+
+    headers = {
+        "Authorization": f"Bearer {openRouter}",
+        "Content-Type": "application/json"
+        
+    }
+
+    response = requests.post(url, json=payload, headers=headers)
+
+    if response.status_code == 200:
+        try:
+            return response.json()["choices"][0]["message"]["content"].strip()
+        except Exception as e:
+            raise RuntimeError(f"LLM error:{str(e)}")
+    else:
+        raise RuntimeError(f"[HTTP {response.status_code}] {response.text}")
+    
 
 def save_timings_to_excel(filepath, question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size):
     new_row = {
@@ -534,6 +590,7 @@ def init_load():
         if not loading_done:
                 return render_template('loading.html')
     return redirect("/chatbot")
+
 @app.route("/status")
 def status():
     return jsonify({"done": loading_done})
@@ -543,11 +600,11 @@ current_gt_index = 0
 @app.route('/chatbot', methods=['GET', 'POST'])
 def index():
     if request.method == 'POST':
-        start_total = time.time()
         global current_gt_index
 
         data = request.get_json()
-       
+        start_total = time.time()
+
         user_question = data.get("question", "").strip()
 
         if not user_question:
@@ -556,6 +613,8 @@ def index():
             start_embed = time.time()
             embedding = get_embedding(user_question) #OpenAI API-val átalakítja a szöveget embedding-gé (vektorrá)
             end_embed = time.time()
+            t_embed = end_embed - start_embed
+
         except RuntimeError as e:
             return jsonify({"error": str(e)}), 503
         except Exception as e:
@@ -565,6 +624,8 @@ def index():
             start_sparse_embed = time.time()
             query_sparse_vector = get_sparse_vector_from_query(user_question)
             end_sparse_embed = time.time()
+            t_sparse_embed = end_sparse_embed - start_sparse_embed
+
         except RuntimeError as e:
             return jsonify({"error": str(e)}), 503
         except Exception as e:
@@ -575,6 +636,7 @@ def index():
             # kontextus összeállítása a lekérdezett embedding alapján
             context, top_k_size = get_context_text(embedding,query_sparse_vector)
             end_ctx = time.time()
+            t_ctx = end_ctx - start_ctx
         except RuntimeError as e:
             return jsonify({"error": str(e)}), 503
         except Exception as e:
@@ -583,17 +645,21 @@ def index():
         try:
             start_llm = time.time()
             resp = get_llm_response(context, user_question)
+            #resp = get_llm_response_openrouter(context, user_question)
+            #resp = get_llm_response_openai(context, user_question)
             end_llm = time.time()
+            t_llm = end_llm - start_llm
         except RuntimeError as e:
             return jsonify({"error": str(e)}), 503
         except Exception as e:
             return jsonify({"error": "Ismeretlen hiba: " + str(e)}), 500
 
         end_total = time.time()
+        t_total = end_total - start_total
 
-        if current_gt_index >= len(ground_truths_vector_by_search_60):
+        if current_gt_index >= len(ground_truths_vector_by_search_20):
             return jsonify({"error": "Nincs több ground truth válasz teszteléshez."}), 400
-        ground_truth = ground_truths_vector_by_search_60[current_gt_index]
+        ground_truth = ground_truths_vector_by_search_20[current_gt_index]
 
         # szematikus hasonlosot mérek BERTScore-dal
         P, R, F1 = score([resp], [ground_truth], lang="hu")
@@ -603,31 +669,51 @@ def index():
         current_gt_index += 1
 
         print(f"\n--- Időmérések (másodpercben) ---")
-        t_embed = end_embed - start_embed
         print(f"Embedding generálás:     {t_embed:.3f}s")
-        t_sparse_embed = end_sparse_embed - start_sparse_embed
         print(f"Sparse Embedding generálás: {t_sparse_embed:3f}s")
-        t_ctx = end_ctx - start_ctx
         print(f"Kontextus összeállítás:  {t_ctx:.3f}s")
-        t_llm = end_llm - start_llm
-        print(f"Gemini válasz:           {t_llm:.3f}s")
-        t_total = end_total - start_total
+        print(f"LLM válasz: {t_llm:.3f}s")
         print(f"TELJES kérés feldolgozás: {t_total:.3f}s")
         print(f"Szemantikus hasonlóság méréke (bertscore_f1):{bertscore_f1}")
         print(f"top_k száma: {top_k_size}")
-
+        
+        
+        return jsonify({"answer": resp,"user_question":user_question, "LLM_time": round(t_llm,2), "backend_time":round(t_total,2),"bertscore_f1":round(bertscore_f1,2),"LLM_model_name":'gemini-1.5-pro'})
+        
         #proba_valasz,p_context  = curent_context_from_context(embedding,user_question)
         #save_timings_to_excel("../vectorSearchTesting/timings_60_questionScore0_90.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
         #save_timings_to_excel("../vectorSearchTesting/timings_60_question_score0_86.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
         #save_timings_to_excel("../hybrid_searchTesting/timings_60_question_RRF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
-        save_timings_to_excel("../hybrid_searchTesting/timings_60_question_DBSF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
+        #save_timings_to_excel("../hybrid_searchTesting/timings_60_question_DBSF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
         
-        return jsonify({"answer": resp})
-        #return jsonify({"answer": resp, "LLM_time": t_llm, "beckend_time":t_total,"bertscore_f1":bertscore_f1})
+        #return jsonify({"answer": resp})
     
 
     return render_template('index.html')
+@app.route('/save-timing', methods=['POST'])
+def save_timing():
+    data = request.get_json()
 
+    new_row = {
+        "LLM modell neve": data.get("LLM_name"),
+        "Felhasználó kérdése": data.get("user_question"),
+        "LLM modell válasz": data.get("LLM_answer"),
+        "LLM feldolgozási idő (Backend)": data.get("LLM_time"),
+        "Rendszer feldolgozási idő (Backend)": data.get("backend_time"),
+        "Kliensoldal eldolgozási Idő (Frontend)": data.get("frontend_time"),
+        "Teljes felhasználói válaszidő (Backend+Frontend)": data.get("user_grand_time"),
+        "Szemantikus hasonlóság méréke (bertscore_f1)": data.get("bertscore_f1")
+    }
+
+    if os.path.exists(EXCEL_PATH):
+        df = pd.read_excel(EXCEL_PATH)
+        df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
+    else:
+        df = pd.DataFrame([new_row])
+
+    df.to_excel(EXCEL_PATH, index=False)
+
+    return jsonify(status='ok')
 if __name__ == '__main__':
     #load_all_vectors_to_list()
     #app.run(debug=True)
