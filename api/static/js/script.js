@@ -132,7 +132,7 @@ const handleChat = async () => {
     const incomingChatLi = createChatLi("Gondolkodom...", "incoming");
     chatbox.appendChild(incomingChatLi);
     chatbox.scrollTo(0, chatbox.scrollHeight);
-
+    
     if (curent_index >= 20) {
     Swal.fire({
       icon: 'error',
@@ -141,7 +141,9 @@ const handleChat = async () => {
       showConfirmButton: false
     });
     return;
+    
   }
+    
 
 
     try {
@@ -172,9 +174,9 @@ const handleChat = async () => {
         } else {
             chatbox.appendChild(createChatLi(data.answer, "incoming"));
             
-            console.log(roundedElapsed)
+            //console.log(roundedElapsed)
 
-
+            
             curent_index +=1
             const saveResponse = await fetch('/save-timing', {
                 method: 'POST',
@@ -195,6 +197,7 @@ const handleChat = async () => {
                 if (saveData.status !== 'ok') {
                 console.error("Mentés sikertelen");
                 }
+                
 
 
         }

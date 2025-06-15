@@ -27,7 +27,7 @@ api_key_pro = os.getenv("GEMINI_API_KEY_PRO")
 
 app = Flask(__name__)
 
-EXCEL_PATH = '../LLMTypeTesting/timings_20_question_gemini-1.5-pro.xlsx'
+EXCEL_PATH = '../LLMTypeTesting/timings_20_question_gemini-2.5-flash-preview-04-17.xlsx'
 vector_db = Index(url=UPSTASH_VECTOR_REST_URL, token=UPSTASH_VECTOR_REST_TOKEN)
 loading_done = False
 loading_started = False
@@ -223,18 +223,19 @@ def get_context_text(query_embedding,query_sparse_vector):
 #az LLM model segitségével választ generalok a feltett kérdésre
 def get_llm_response(context, question):
     
-    #client = genai.Client(api_key=api_key)
     client = genai.Client(api_key=api_key_pro)
 
     full_prompt = f"<context>{context}</context>Kérem, válaszoljon az alábbi kérdésre a fent megadott kontextus alapján, vedd ki a markdown formátumot:<user_query>{question}</user_query>\nVálasz:"
     try:
         response = client.models.generate_content(
+            #model = "gemini-2.5-pro-preview-05-06",
             #model = "gemini-2.5-flash-preview-05-20",
             #model="gemini-2.0-flash-thinking-exp-01-21",
-            #model = "gemini-2.0-flash",
+            #model = "gemini-2.5-flash"
+            model = "gemini-2.5-flash-preview-04-17",
             #model = "gemini-1.5-flash",
-            model = "gemini-1.5-pro",
-            
+            #model = "gemini-2.5-pro-preview-05-06",     
+                 
 
 
             contents=[full_prompt]
@@ -245,6 +246,7 @@ def get_llm_response(context, question):
             raise RuntimeError(f"Az LLM modell túlterhelt. Próbáld meg később újra.")
         else:
             raise RuntimeError(f"LLM error:{str(e)}")
+            
 
 def get_llm_response_openai(context: str, question: str) -> str:
     messages = [
@@ -321,7 +323,7 @@ def save_timings_to_excel(filepath, question, t_embed,t_sparse_embed, t_ctx, t_l
     df.to_excel(filepath, index=False)
     
 ground_truths_vector_by_search_20 = [
-    "2018-ban egy újabb szárny nyílt meg a Campuson, a C épület, amelyben két amfiteátrum, számos terem és laboratórium is létesült.",
+    "2018-ban egy újabb szárny nyílt meg a Campuson, a C épület, amelyben két amfiteátrum, számos terem és laboratórium is létesült. ",
     "dr. Horobeț Emil, egyetemi docens",
     """Vakációban (a nyári szünet alatt is):
     *   hétfő – péntek: 8:00 – 15:00
@@ -668,28 +670,29 @@ def index():
         # növelem a ground truth indexet a következő kérdéshez
         current_gt_index += 1
 
-        print(f"\n--- Időmérések (másodpercben) ---")
+        #print(f"\n--- Időmérések (másodpercben) ---")
         print(f"Embedding generálás:     {t_embed:.3f}s")
         print(f"Sparse Embedding generálás: {t_sparse_embed:3f}s")
         print(f"Kontextus összeállítás:  {t_ctx:.3f}s")
         print(f"LLM válasz: {t_llm:.3f}s")
         print(f"TELJES kérés feldolgozás: {t_total:.3f}s")
         print(f"Szemantikus hasonlóság méréke (bertscore_f1):{bertscore_f1}")
-        print(f"top_k száma: {top_k_size}")
+        #print(f"top_k száma: {top_k_size}")
         
         
-        return jsonify({"answer": resp,"user_question":user_question, "LLM_time": round(t_llm,2), "backend_time":round(t_total,2),"bertscore_f1":round(bertscore_f1,2),"LLM_model_name":'gemini-1.5-pro'})
-        
+
+        return jsonify({"answer": resp,"user_question":user_question, "LLM_time": round(t_llm,2), "backend_time":round(t_total,2),"bertscore_f1":round(bertscore_f1,2),"LLM_model_name":'gemini-2.5-flash-preview-04-17'})
+        #return jsonify({"answer": resp})
         #proba_valasz,p_context  = curent_context_from_context(embedding,user_question)
         #save_timings_to_excel("../vectorSearchTesting/timings_60_questionScore0_90.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
         #save_timings_to_excel("../vectorSearchTesting/timings_60_question_score0_86.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
         #save_timings_to_excel("../hybrid_searchTesting/timings_60_question_RRF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
         #save_timings_to_excel("../hybrid_searchTesting/timings_60_question_DBSF.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1,top_k_size)
         
-        #return jsonify({"answer": resp})
     
 
     return render_template('index.html')
+
 @app.route('/save-timing', methods=['POST'])
 def save_timing():
     data = request.get_json()
@@ -714,7 +717,6 @@ def save_timing():
     df.to_excel(EXCEL_PATH, index=False)
 
     return jsonify(status='ok')
+
 if __name__ == '__main__':
-    #load_all_vectors_to_list()
-    #app.run(debug=True)
     app.run()

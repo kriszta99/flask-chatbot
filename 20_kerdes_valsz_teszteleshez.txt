@@ -46,7 +46,7 @@
 14.válasz: Hány hektáros területen gyakorlatoznak a kertészmérnöki szakos diákok?
 14.válasz: A kar főépületét körülvevő 27 hektáros területen a kertészmérnöki szakos diákok gyakorlatoznak, akik parkosítják a terület egy részét.
 
-15.kérdés: Ki az  Informatika bizottság előke?
+15.kérdés: Ki az  Informatika bizottság elnöke?
 15.válasz: **Elnök:**\n* dr. Szabó László-Zsolt, egyetemi adjunktus
 
 16.kérdés: Hogyan és mivel tudok Kölcsönözni könyvet?
