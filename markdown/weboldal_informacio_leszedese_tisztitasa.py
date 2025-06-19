@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1IU_5NogghL_4kSrcnsNZa3xJmJcQLN47
 """
 
-!pip install -q -U google-genai
+#!pip install -q -U google-genai
 
-!pip install requests beautifulsoup4 markdownify
+#!pip install requests beautifulsoup4 markdownify
 
 import requests
 from bs4 import BeautifulSoup
@@ -18,11 +18,11 @@ from urllib.parse import urljoin, urlparse
 import re
 def url_to_markdown(url):
     try:
-        # 1. Letölti az oldal tartalmát
+        # Letöltöm az oldal tartalmát
         response = requests.get(url, timeout=10)
         response.raise_for_status()
 
-        # 2. Kinyeri a HTML-tartalmat
+        # Kinyerem a HTML tartalmat
         html = response.text
         soup = BeautifulSoup(html, 'html.parser')
         for i_tag in soup.find_all('i', class_='fa fa-at'):
@@ -31,12 +31,12 @@ def url_to_markdown(url):
         if body is None:
             raise ValueError("❌ Az oldal nem tartalmaz <body> elemet.")
 
-        # 3. A domain gyökere (https://ms.sapientia.ro/)
+        # A domain gyökere (https://ms.sapientia.ro/)
         parsed = urlparse(response.url)
         base_root = f"{parsed.scheme}://{parsed.netloc}/"
         print(f"ℹ️ Domain gyökere: {base_root}")
 
-        # 4. Keresés a <div id="nright"> és pageheader elemekben
+        # Keresem a <div id="nright"> és pageheader elemekben
 
         targets = [
           soup.find('div', {'id': 'nright'}),
@@ -45,7 +45,7 @@ def url_to_markdown(url):
 
         for container in targets:
             if container:
-                # 5. Az összes relatív <a> és <img> link teljes URL-re hozása ezen a konténeren belül
+                # Az összes relatív <a> és <img> link teljes URL-re hozáadása 
                 for tag in container.find_all(['a', 'img']):
                     attr = 'href' if tag.name == 'a' else 'src'
                     if tag.has_attr(attr):
@@ -58,7 +58,7 @@ def url_to_markdown(url):
 
 
 
-        # 6. A teljes HTML átalakítása Markdown formátumba
+        # A teljes HTML-t átalakítom Markdown formátumba
         markdown = md(str(body), heading_style="ATX")
 
         return markdown
@@ -94,7 +94,7 @@ def url_to_markdown(url):
 url = "https://ms.sapientia.ro/hu/a-karrol/rolunk"
 markdown_szoveg = url_to_markdown(url)
 
-print(markdown_szoveg)  # Itt láthatod a Markdown-tartalmat
+print(markdown_szoveg)  
 
 karrol_urls = [ "https://ms.sapientia.ro/hu/a-karrol/",
                 "https://ms.sapientia.ro/hu/a-karrol/rolunk",
@@ -423,7 +423,7 @@ nemzetkozi_kapcsolatok_urls=[
 web_scraping_markdown_to_clean(nemzetkozi_kapcsolatok_urls)
 
 from google.colab import files
-#Beolvassa a fájlt, eltávolítja a nem kívánt markdown elemeket és az üres sorokat, majd visszaírja egy új fájlba.
+# clean_and_remove_empty_lines függvény beolvassa a fájlt, eltávolítja a nem kívánt markdown elemeket és az üres sorokat, majd visszaírja egy új fájlba.
 def clean_and_remove_empty_lines(file_path):
     # fájl beolvasása
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -474,7 +474,7 @@ def append_md_file(target_file: str, source_file: str):
             content = f.read()
 
         with open(target_file, 'a', encoding='utf-8') as f:
-            f.write("\n")  # optional separator
+            f.write("\n")  # 
             f.write(content)
 
         print(f"Sikeresen hozzáfűztük a(z) '{source_file}' tartalmát a '{target_file}' fájlhoz.")
