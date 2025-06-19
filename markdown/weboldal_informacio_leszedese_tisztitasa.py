@@ -29,12 +29,12 @@ def url_to_markdown(url):
           i_tag.replace_with('@')
         body = soup.body
         if body is None:
-            raise ValueError("❌ Az oldal nem tartalmaz <body> elemet.")
+            raise ValueError("Az oldal nem tartalmaz <body> elemet.")
 
         # A domain gyökere (https://ms.sapientia.ro/)
         parsed = urlparse(response.url)
         base_root = f"{parsed.scheme}://{parsed.netloc}/"
-        print(f"ℹ️ Domain gyökere: {base_root}")
+        print(f"Domain gyökere: {base_root}")
 
         # Keresem a <div id="nright"> és pageheader elemekben
 
