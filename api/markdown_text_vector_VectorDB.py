@@ -1,7 +1,5 @@
-import json
 import os
 import openai
-import re
 import json
 import os
 import requests
@@ -11,17 +9,15 @@ from upstash_vector import Index
 import tiktoken
 from upstash_vector import Vector
 from upstash_vector.types import SparseVector
-#from FlagEmbedding import BGEM3FlagModel
 
-# Környezeti változók betöltése
+# betölttöm a környezeti változókat
 load_dotenv()
 
 UPSTASH_VECTOR_REST_URL = os.getenv("UPSTASH_VECTOR_REST_URL")
 UPSTASH_VECTOR_REST_TOKEN = os.getenv("UPSTASH_VECTOR_REST_TOKEN")
 openai.api_key = os.getenv("OPENAI_API_KEY")
-#sparse_model = BGEM3FlagModel('BAAI/bge-m3',  use_fp16=True) 
 
-# Inicializálom az Upstash Index-et
+# inicializálom az Upstash Index-et
 index = Index(url=UPSTASH_VECTOR_REST_URL, token=UPSTASH_VECTOR_REST_TOKEN)
 #szöveg beágyazásának lekérése OpenAI modellel.
 def get_embedding(text: str, model="text-embedding-ada-002") -> np.ndarray:
@@ -31,20 +27,20 @@ def get_embedding(text: str, model="text-embedding-ada-002") -> np.ndarray:
     embedding = response.data[0].embedding
     return np.array(embedding)
 
-# Tokenek számolása
+# tokeneket kiszámolom
 def count_tokens(text, encoder):
     return len(encoder.encode(text))
 
-# Markdown fájl beolvasása
+# Markdown fájlt beolvasom ezzel a fügvénnyel
 def read_markdown_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
-# Sorok feldolgozása
+# a sorokat feldolgozom
 def split_lines(text):
     return text.split('\n')
 
-# Chunkolás és JSON mentés
+# a chunkolási allgoritmus
 def chunk_text_by_line_with_headers_to_embedding(file_path, max_tokens=256, encoding_name='cl100k_base', start_chunk_id=0):
     encoder = tiktoken.get_encoding(encoding_name)
     text = read_markdown_file(file_path)
@@ -53,10 +49,10 @@ def chunk_text_by_line_with_headers_to_embedding(file_path, max_tokens=256, enco
     chunks, current_chunk, current_token_count = [], [], 0
     current_header = None
     chunk_index = 1
-    header_chunk_id_counter = start_chunk_id  # csak fejléc váltáskor nő
+    header_chunk_id_counter = start_chunk_id  
 
     current_chunk_id = f"chunk_{header_chunk_id_counter}"
-    order_counter = 1  # a chunk_id-n belüli sorszámozáshoz
+    order_counter = 1  # a chunk_id-n belüli sorszámozás
 
     for line in lines:
         line = line.strip()
@@ -148,7 +144,7 @@ def chunk_text_by_line_with_headers_to_embedding(file_path, max_tokens=256, enco
         })
 
     return chunks
-# API hívás a sparse vektor lekéréséhez egy szöveg chunkhoz
+# API hívás a sparse vektor lekéréséhez egy darabolt szöveghez
 def get_sparse_vector_from_api(text_chunk):
     url = "https://api.deepinfra.com/v1/inference/BAAI/bge-m3-multi"
     headers = {
@@ -166,7 +162,7 @@ def get_sparse_vector_from_api(text_chunk):
     if response.status_code == 200:
         json_resp = response.json()
         sparse_vec_full = json_resp['sparse'][0]
-        # Csak a nem nulla elemeket vesszük, index és érték párban
+        # csak a nem nulla elemeket vesszük, index és érték párban
         indices = [int(i) for i, v in enumerate(sparse_vec_full) if v != 0]
         values = [float(v) for v in sparse_vec_full if v != 0]
         return {"indices": indices, "values": values}
@@ -178,7 +174,7 @@ def chunk_to_insert_to_vectorDB(file_path, max_tokens=256, encoding_name='cl100k
 
     for i, chunk in enumerate(chunks):
         try:
-        # Lekérjük az adott chunk sparse vektorát az API-ból
+        # lekérem az adott chunk sparse vektorát az API-ból
             sparse_vector_resp = get_sparse_vector_from_api(chunk['text'])
         except Exception as e:
                 print(f"❌ Hiba az API hívásnál: {e}")
@@ -190,9 +186,9 @@ def chunk_to_insert_to_vectorDB(file_path, max_tokens=256, encoding_name='cl100k
                 values=sparse_vector_resp['values']
             )
             
-            # dense + sparse + metadata összevonása egy Vector objektumba
+            # dense + sparse + metadata összevonása egy Vektor objektumba
             vector_data = Vector(
-                id=f"{chunk['chunk_index']}",  # ugyanaz az ID, így nem írja felül, csak bővíti
+                id=f"{chunk['chunk_index']}",  
                 vector=chunk['embedding'],
                 sparse_vector=sparse_vector,
                 metadata={
@@ -204,7 +200,7 @@ def chunk_to_insert_to_vectorDB(file_path, max_tokens=256, encoding_name='cl100k
             )
 
             print(f"\nIndex: {chunk['chunk_index']}, Chunk_id: {chunk['chunk_id']},sparseVector: {sparse_vector}, chunk_order: {chunk['order']}, Header: {chunk['header']}")
-            print(f"Szöveg: {chunk['text'][:20]}...")  # csak rövid előnézet
+            print(f"Szöveg: {chunk['text'][:20]}...")  # csak rövid előnézetre
 
             index.upsert([vector_data])
             print(f"✅ Feltöltés sikeres: {i}")
