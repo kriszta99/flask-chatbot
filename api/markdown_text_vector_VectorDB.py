@@ -170,23 +170,26 @@ def get_sparse_vector_from_api(text_chunk):
         raise Exception(f"API hiba: {response.status_code} - {response.text}")
 
 def chunk_to_insert_to_vectorDB(file_path, max_tokens=256, encoding_name='cl100k_base'):
+    # meghivom a darabolási függvényemet ami egy listát ad vissza
     chunks = chunk_text_by_line_with_headers_to_embedding(file_path, max_tokens, encoding_name)
 
+    # inditok egy for ciklust, végigmegyek minden feldarabolton
     for i, chunk in enumerate(chunks):
         try:
         # lekérem az adott chunk sparse vektorát az API-ból
             sparse_vector_resp = get_sparse_vector_from_api(chunk['text'])
         except Exception as e:
-                print(f"❌ Hiba az API hívásnál: {e}")
+                print(f"Hiba az API hívásnál: {e}")
                 break
 
         try:
+            # SparseVector obijektumba rakom az Uptash adatázis szintaxia miadt
             sparse_vector = SparseVector(
                 indices=sparse_vector_resp['indices'],
                 values=sparse_vector_resp['values']
             )
             
-            # dense + sparse + metadata összevonása egy Vektor objektumba
+            # dense + sparse + metadata összevonása egy Vektor objektumba amit feltöltöm a vektoradatbázisba
             vector_data = Vector(
                 id=f"{chunk['chunk_index']}",  
                 vector=chunk['embedding'],
@@ -200,13 +203,12 @@ def chunk_to_insert_to_vectorDB(file_path, max_tokens=256, encoding_name='cl100k
             )
 
             print(f"\nIndex: {chunk['chunk_index']}, Chunk_id: {chunk['chunk_id']},sparseVector: {sparse_vector}, chunk_order: {chunk['order']}, Header: {chunk['header']}")
-            print(f"Szöveg: {chunk['text'][:20]}...")  # csak rövid előnézetre
-
+            print(f"Szöveg: {chunk['text'][:20]}...")  # csak rövid előnézetre kell
+            # adatbázisba való feltöltés
             index.upsert([vector_data])
-            print(f"✅ Feltöltés sikeres: {i}")
+            print(f"Sikeres feltöltés: {i}")
         except Exception as e:
-            print(f"❌ Hiba a feltöltésnél: {i}, {str(e)}")
+            print(f"Hiba a feltöltésnél: {i}, {str(e)}")
 
-
-
+# meghivom az adatbázisba való feltöltési metodusomat, 2 paraméter: útvonal, maximális chunkolási értek  
 chunk_to_insert_to_vectorDB('../markdown/markdown_output.md',max_tokens=256)

@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1DB9g7xLSgVXEWzK6m_h5MheH7fj6GUAA
 """
 
-!pip install --upgrade openai --quiet
+#!pip install --upgrade openai --quiet
 
 import openai
 print(openai.__version__)
@@ -25,7 +25,7 @@ text_m = read_markdown_file('markdown_karrol_.md')
 
 text_m
 
-!pip install tiktoken
+#!pip install tiktoken
 
 import tiktoken
 print(tiktoken.get_encoding("cl100k_base"))
