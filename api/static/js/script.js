@@ -120,7 +120,16 @@ const createChatLi = (message, className) => {
 const handleChat = async () => {
     //a felhasználó által beírt üzenet, és távolítom el a felesleges szóközöket
     userMessage = chatInput.value.trim();
-    if(!userMessage) return;
+    //if(!userMessage) return;
+    if (!userMessage) {
+        Swal.fire({
+            icon: 'warning',
+            title: 'Nincs megadva kérdés',
+            text: 'Kérlek, írj be egy kérdést!',
+            confirmButtonText: 'OK'
+        });
+        return;
+    }
     //megtisztítom az input szövegmezőt, és  visszaállitom az alapértelmezett magasságot
     chatInput.value = "";
     chatInput.style.height = `${inputInitHeight}px`;
@@ -167,8 +176,8 @@ const handleChat = async () => {
             //alert(`Hiba történt:\n${data.error}`);
              Swal.fire({
                 icon: 'error',
-                title: 'Hiba',
-                text: `Hiba történt: ${data.error}`,
+                title: 'ERROR',
+                text: `Error: ${data.error}`,
                 confirmButtonText: 'OK'
             });
         } else {
@@ -227,6 +236,13 @@ chatInput.addEventListener("input", () => {
     chatInput.style.height = `${chatInput.scrollHeight}px`;
   });
 
+chatInput.addEventListener("focus", () => {
+    // Timeout azért kell, mert a billentyűzet felugrása után kell görgetni
+    setTimeout(() => {
+        chatInput.scrollIntoView({ behavior: "smooth", block: "center" });
+    }, 100); // kisebb delay kellhet, hogy a billentyűzet tényleg feljöjjön előtte
+});
+
 chatInput.addEventListener("keydown", (e) => {
     //ha az Enter billentyűt a Shift nélkül van lenyomva
     if(e.key === "Enter" && !e.shiftKey && window.innerWidth > 800){
@@ -236,12 +252,7 @@ chatInput.addEventListener("keydown", (e) => {
 
    
   });
-chatInput.addEventListener("focus", () => {
-    // Timeout azért kell, mert a billentyűzet felugrása után kell görgetni
-    setTimeout(() => {
-        chatInput.scrollIntoView({ behavior: "smooth", block: "center" });
-    }, 100); // kisebb delay kellhet, hogy a billentyűzet tényleg feljöjjön előtte
-});
+
 sendChatBtn.addEventListener("click",handleChat);
 chatbotToggler.addEventListener("click", ()=> document.body.classList.toggle("show-chatbot"));
 chatbotCloseBtn.addEventListener("click", () => document.body.classList.remove("show-chatbot"));
