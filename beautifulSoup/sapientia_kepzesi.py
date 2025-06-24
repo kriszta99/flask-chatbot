@@ -54,7 +54,7 @@ if not os.path.exists(file_name):
     for url in url_list:
         kepzesek = alap_mester_kepzes_informaciok(url)
         osszes_kepzes.extend(kepzesek)  # Listák összefűzése
-        processed_items += len(kepzesek)  # Feldolgozott elemek számának növelése
+        processed_items += 1  # Feldolgozott elemek számának növelése
     # Feldolgozás vége
     end_time = time.time()
     processing_time = end_time - start_time

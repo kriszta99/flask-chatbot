@@ -38,7 +38,8 @@ class SapientiaKepzeseiSpider(scrapy.Spider):
         for url in self.start_urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
-    def parse(self, response):     
+    def parse(self, response):  
+        self.processed_items += 1  # Növeljük a feldolgozott elemek számát
         # Oldal címének kinyerése
         page_title = response.css('div#pagetitle::text').get()
         if page_title:
@@ -61,7 +62,6 @@ class SapientiaKepzeseiSpider(scrapy.Spider):
                     'Kép': response.urljoin(img_url) if img_url else None,  # Képlink validálás
                     'Képzés': page_title,
                 }
-                self.processed_items += 1  # Növeljük a feldolgozott elemek számát
 
             except Exception as e:
                 logging.error(f"Error processing {response.url}: {e}")

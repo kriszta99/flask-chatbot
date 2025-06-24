@@ -187,7 +187,7 @@ for url in url_lista:
     try:
         adat = kepzes_adatai_egyben(url)
         osszes_adat.append(adat)
-        processed_items += len(adat)
+        processed_items += 1
         #print(f"Sikeresen feldolgozva: {url}")
     except Exception as e:
         print(f"Hiba történt a(z) {url} feldolgozásakor: {e}")
