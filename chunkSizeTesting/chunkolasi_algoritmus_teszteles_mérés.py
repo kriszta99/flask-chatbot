@@ -32,7 +32,7 @@ print(tiktoken.get_encoding("cl100k_base"))
 
 import openai
 import numpy as np
-openai.api_key = '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'
+openai.api_key = ''
 
 import numpy as np
 def get_embedding(text: str, model="text-embedding-3-large") -> np.ndarray:
@@ -303,7 +303,7 @@ from google.colab import files
 
 
 # OpenAI API kulcs beállítása
-openai.api_key = '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'
+openai.api_key = ''
 # Szöveg beágyazásának lekérése OpenAI modellel
 def get_embedding(text: str, model="text-embedding-ada-002") -> np.ndarray:
 #def get_embedding(text: str, model="text-embedding-3-large") -> np.ndarray:
