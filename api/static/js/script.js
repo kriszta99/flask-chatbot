@@ -142,7 +142,7 @@ const handleChat = async () => {
     chatbox.appendChild(incomingChatLi);
     chatbox.scrollTo(0, chatbox.scrollHeight);
     
-    if (curent_index >= 20) {
+    if (curent_index >= 60) {
     Swal.fire({
       icon: 'error',
       title: 'Hiba',
@@ -194,6 +194,7 @@ const handleChat = async () => {
                     LLM_name: data.LLM_model_name,
                     user_question: userMessage,
                     LLM_answer: data.answer,
+                    ground_truth: data.ground_truth,
                     LLM_time: data.LLM_time,
                     backend_time: data.backend_time,
                     frontend_time: (roundedElapsed-data.backend_time),   // vagy más frontend idő

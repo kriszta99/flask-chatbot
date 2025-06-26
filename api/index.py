@@ -26,7 +26,8 @@ api_key_pro = os.getenv("GEMINI_API_KEY_PRO")
 
 app = Flask(__name__)
 
-EXCEL_PATH = '../LLMTypeTesting/timings_20_question_gemini-2.5-flash-preview-04-17.xlsx'
+#EXCEL_PATH = '../LLMTypeTesting/timings_20_question_gemini-2.5-flash-preview-04-17.xlsx'
+EXCEL_PATH = '../kvalitativ/timings_60_question_gemini-2.0-flash-kvalitativ.xlsx'
 vector_db = Index(url=UPSTASH_VECTOR_REST_URL, token=UPSTASH_VECTOR_REST_TOKEN)
 loading_done = False
 loading_started = False
@@ -217,7 +218,7 @@ def get_llm_response(context, question):
     #client = genai.Client(api_key=api_key_pro)
     client = genai.Client(api_key=api_key)
 
-    full_prompt = f"<context>{context}</context>Kérem, válaszoljon az alábbi kérdésre a fent megadott kontextus alapján (Ha nincs megadva konkrét kérdés, add meg ezt az üzenetet: Adj meg egy kérdést!), vedd ki a markdown formátumot:<user_query>{question}</user_query>\nVálasz:"
+    full_prompt = f"<context>{context}</context>Kérem, válaszoljon az alábbi kérdésre a fent megadott kontextus alapján, vedd ki a markdown formátumot:<user_query>{question}</user_query>\nVálasz:"
     try:
         response = client.models.generate_content(
             #model = "gemini-2.5-pro-preview-05-06",
@@ -651,9 +652,9 @@ def index():
         end_total = time.time()
         t_total = end_total - start_total
 
-        if current_gt_index >= len(ground_truths_vector_by_search_20):
+        if current_gt_index >= len(ground_truths_vector_by_search_60):
             return jsonify({"error": "Nincs több ground truth válasz teszteléshez."}), 400
-        ground_truth = ground_truths_vector_by_search_20[current_gt_index]
+        ground_truth = ground_truths_vector_by_search_60[current_gt_index]
 
         # szematikus hasonlosot mérek BERTScore-dal
         P, R, F1 = score([resp], [ground_truth], lang="hu")
@@ -673,7 +674,7 @@ def index():
         
         
 
-        return jsonify({"answer": resp,"user_question":user_question, "LLM_time": round(t_llm,2), "backend_time":round(t_total,2),"bertscore_f1":round(bertscore_f1,2),"LLM_model_name":'gemini-2.5-flash-preview-04-17'})
+        return jsonify({"answer": resp,"user_question":user_question, "LLM_time": round(t_llm,2), "backend_time":round(t_total,2),"bertscore_f1":round(bertscore_f1,2),"LLM_model_name":'gemini-2.0-flash',"ground_truth":ground_truth})
         #return jsonify({"answer": resp})
         #proba_valasz,p_context  = curent_context_from_context(embedding,user_question)
         #save_timings_to_excel("../vectorSearchTesting/timings_60_questionScore0_90.xlsx", user_question, t_embed,t_sparse_embed, t_ctx, t_llm, t_total,bertscore_f1)
@@ -690,9 +691,10 @@ def save_timing():
     data = request.get_json()
 
     new_row = {
-        "LLM modell neve": data.get("LLM_name"),
+        "LLM modell": data.get("LLM_name"),
         "Felhasználó kérdése": data.get("user_question"),
         "LLM modell válasz": data.get("LLM_answer"),
+        "Erdeti helyes válasz": data.get("ground_truth"),
         "LLM feldolgozási idő (Backend)": data.get("LLM_time"),
         "Rendszer feldolgozási idő (Backend)": data.get("backend_time"),
         "Kliensoldal eldolgozási Idő (Frontend)": data.get("frontend_time"),
