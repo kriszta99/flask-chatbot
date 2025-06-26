@@ -177,7 +177,7 @@ const handleChat = async () => {
              Swal.fire({
                 icon: 'error',
                 title: 'ERROR',
-                text: `Error: ${data.error}`,
+                text: `${data.error}`,
                 confirmButtonText: 'OK'
             });
         } else {
@@ -292,7 +292,7 @@ document.addEventListener("DOMContentLoaded", () => {
             icon: 'info',
             title: 'TIPP',
             text: 'A pontosabb válaszhoz használj ékezeteket és kis-nagybetűt a fogalmakhoz!',
-            timer: 2000,
+            timer: 3000,
             showConfirmButton: false
         });
     }
