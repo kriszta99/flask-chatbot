@@ -25,7 +25,6 @@ openRouter = os.getenv("OPEN_ROUTER_API_KEY")
 api_key_pro = os.getenv("GEMINI_API_KEY_PRO")
 deep_infra_api_key = os.getenv("DEEPINFRA_API_KEY")
 
-
 app = Flask(__name__)
 
 #EXCEL_PATH = '../LLMTypeTesting/timings_20_question_gemini-2.5-flash-preview-04-17.xlsx'
@@ -217,8 +216,8 @@ def get_context_text(query_embedding,query_sparse_vector):
 #az LLM model segitségével választ generalok a feltett kérdésre
 def get_llm_response(context, question):
     
-    #client = genai.Client(api_key=api_key_pro)
-    client = genai.Client(api_key=api_key)
+    client = genai.Client(api_key=api_key_pro)
+    #client = genai.Client(api_key=api_key)
 
     full_prompt = f"<context>{context}</context>Kérem, válaszoljon az alábbi kérdésre a fent megadott kontextus alapján, vedd ki a markdown formátumot:<user_query>{question}</user_query>\nVálasz:"
     try:
