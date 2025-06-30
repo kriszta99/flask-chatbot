@@ -286,8 +286,7 @@ def web_scraping_markdown_to_clean(hallgatok_urls):
           #file_path = '/content/markdown_felveteli.md'
           #file_path = '/content/markdown_oktatas.md'
           #file_path = '/content/markdown_kutatas.md'
-          file_path = ''
-          #file_path = '/content/markdown_nemzetkozi_kapcsolatok.md'
+          file_path = '/content/markdown_nemzetkozi_kapcsolatok.md'
 
           with open(file_path, 'a') as f:
             f.write(response.text)
